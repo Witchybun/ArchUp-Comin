@@ -1,0 +1,416 @@
+# Q. What is this file?
+# A. This file contains options which allow you to configure your multiworld experience while allowing
+#    others to play how they want as well.
+#
+# Q. How do I use it?
+# A. The options in this file are weighted. This means the higher number you assign to a value, the
+#    more chances you have for that option to be chosen. For example, an option like this:
+#
+#    map_shuffle:
+#      on: 5
+#      off: 15
+#
+#    Means you have 5 chances for map shuffle to occur, and 15 chances for map shuffle to be turned
+#    off.
+#
+# Q. I've never seen a file like this before. What characters am I allowed to use?
+# A. This is a .yaml file. You are allowed to use most characters.
+#    To test if your yaml is valid or not, you can use this website:
+#        http://www.yamllint.com/
+#    You can also verify your Archipelago settings are valid at this site:
+#        https://archipelago.gg/check
+
+# Your name in-game. Spaces will be replaced with underscores and there is a 16-character limit.
+#     {player} will be replaced with the player's slot number.
+#     {PLAYER} will be replaced with the player's slot number, if that slot number is greater than 1.
+#     {number} will be replaced with the counter value of the name.
+#     {NUMBER} will be replaced with the counter value of the name, if the counter value is greater than 1.
+name: Player{number}
+
+# Used to describe your yaml. Useful if you have multiple files.
+description: Default Timespinner Template
+
+game: Timespinner
+requires:
+  version: 0.3.9 # Version of Archipelago required for this yaml to work as expected.
+
+Timespinner:
+  progression_balancing:
+    # A system that can move progression earlier, to try and prevent the player from getting stuck and bored early.
+    # A lower setting means more getting stuck. A higher setting means less getting stuck.
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 0
+    # Maximum value is 99
+    random: 0
+    random-low: 0
+    random-high: 0
+    disabled: 0 # equivalent to 0
+    normal: 50 # equivalent to 50
+    extreme: 0 # equivalent to 99
+
+  accessibility:
+    # Set rules for reachability of your items/locations.
+    # Locations: ensure everything can be reached and acquired.
+    # Items: ensure all logically relevant items can be acquired.
+    # Minimal: ensure what is needed to reach your goal can be acquired.
+    locations: 0
+    items: 50
+    minimal: 0
+
+  local_items:
+    # Forces these items to be in their native world.
+    []
+
+  non_local_items:
+    # Forces these items to be outside their native world.
+    []
+
+  start_inventory:
+    # Start with these items.
+    {}
+
+  start_hints:
+    # Start with these item's locations prefilled into the !hint command.
+    []
+
+  start_location_hints:
+    # Start with these locations and their item prefilled into the !hint command
+    []
+
+  exclude_locations:
+    # Prevent these locations from having an important item
+    []
+
+  priority_locations:
+    # Prevent these locations from having an unimportant item
+    []
+
+  item_links:
+    # Share part of your item pool with other players.
+    []
+
+  StartWithJewelryBox:
+    # Start with Jewelry Box unlocked
+    false: 50
+    true: 0
+
+  DownloadableItems:
+    # With the tablet you will be able to download items at terminals
+    false: 0
+    true: 50
+
+  EyeSpy:
+    # Requires Oculus Ring in inventory to be able to break hidden walls.
+    false: 50
+    true: 0
+
+  StartWithMeyef:
+    # Start with Meyef, ideal for when you want to play multiplayer.
+    false: 50
+    true: 0
+
+  QuickSeed:
+    # Start with Talaria Attachment, Nyoom!
+    false: 50
+    true: 0
+
+  SpecificKeycards:
+    # Keycards can only open corresponding doors
+    false: 50
+    true: 0
+
+  Inverted:
+    # Start in the past
+    false: 50
+    true: 0
+
+  GyreArchives:
+    # Gyre locations are in logic. New warps are gated by Merchant Crow and Kobo
+    false: 50
+    true: 0
+
+  Cantoran:
+    # Cantoran's fight and check are available upon revisiting his room
+    false: 50
+    true: 0
+
+  LoreChecks:
+    # Memories and journal entries contain items.
+    false: 50
+    true: 0
+
+  BossRando:
+    # Shuffles the positions of all bosses.
+    false: 50
+    true: 0
+
+  BossScaling:
+    # When Boss Rando is enabled, scales the bosses' HP, XP, and ATK to the stats of the location they replace (Reccomended)
+    false: 0
+    true: 50
+
+  DamageRando:
+    # Randomly nerfs and buffs some orbs and their associated spells as well as some associated rings.
+    off: 50
+    allnerfs: 0
+    mostlynerfs: 0
+    balanced: 0
+    mostlybuffs: 0
+    allbuffs: 0
+    manual: 0
+
+  DamageRandoOverrides:
+    # Manual +/-/normal odds for an orb. Put 0 if you don't want a certain nerf or buff to be a possibility. Orbs that
+    # you don't specify will roll with 1/1/1 as odds
+    Blade:
+      MinusOdds: 1
+      NormalOdds: 1
+      PlusOdds: 1
+    Blood:
+      MinusOdds: 1
+      NormalOdds: 1
+      PlusOdds: 1
+    Blue:
+      MinusOdds: 1
+      NormalOdds: 1
+      PlusOdds: 1
+    Empire:
+      MinusOdds: 1
+      NormalOdds: 1
+      PlusOdds: 1
+    Eye:
+      MinusOdds: 1
+      NormalOdds: 1
+      PlusOdds: 1
+    Fire:
+      MinusOdds: 1
+      NormalOdds: 1
+      PlusOdds: 1
+    ForbiddenTome:
+      MinusOdds: 1
+      NormalOdds: 1
+      PlusOdds: 1
+    Gun:
+      MinusOdds: 1
+      NormalOdds: 1
+      PlusOdds: 1
+    Ice:
+      MinusOdds: 1
+      NormalOdds: 1
+      PlusOdds: 1
+    Iron:
+      MinusOdds: 1
+      NormalOdds: 1
+      PlusOdds: 1
+    Nether:
+      MinusOdds: 1
+      NormalOdds: 1
+      PlusOdds: 1
+    Plasma:
+      MinusOdds: 1
+      NormalOdds: 1
+      PlusOdds: 1
+    Radiant:
+      MinusOdds: 1
+      NormalOdds: 1
+      PlusOdds: 1
+    Shattered:
+      MinusOdds: 1
+      NormalOdds: 1
+      PlusOdds: 1
+    Umbra:
+      MinusOdds: 1
+      NormalOdds: 1
+      PlusOdds: 1
+    Wind:
+      MinusOdds: 1
+      NormalOdds: 1
+      PlusOdds: 1
+
+  HpCap:
+    # Sets the number that Lunais's HP maxes out at.
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 1
+    # Maximum value is 999
+    999: 50
+    random: 0
+    random-low: 0
+    random-high: 0
+
+  LevelCap:
+    # Sets the max level Lunais can achieve.
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 1
+    # Maximum value is 99
+    99: 50
+    random: 0
+    random-low: 0
+    random-high: 0
+
+  ExtraEarringsXP:
+    # Adds additional XP granted by Galaxy Earrings.
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 0
+    # Maximum value is 24
+    0: 50
+    random: 0
+    random-low: 0
+    random-high: 0
+
+  BossHealing:
+    # Enables/disables healing after boss fights. NOTE: Currently only applicable when Boss Rando is enabled.
+    false: 0
+    true: 50
+
+  ShopFill:
+    # Sets the items for sale in Merchant Crow's shops.
+    # Default: No sunglasses or trendy jacket, but sand vials for sale.
+    # Randomized: Up to 4 random items in each shop.
+    # Vanilla: Keep shops the same as the base game.
+    # Empty: Sell no items at the shop.
+    default: 50
+    randomized: 0
+    vanilla: 0
+    empty: 0
+
+  ShopWarpShards:
+    # Shops always sell warp shards (when keys possessed), ignoring inventory setting.
+    false: 0
+    true: 50
+
+  ShopMultiplier:
+    # Multiplier for the cost of items in the shop. Set to 0 for free shops.
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 0
+    # Maximum value is 10
+    1: 50
+    random: 0
+    random-low: 0
+    random-high: 0
+
+  LootPool:
+    # Sets the items that drop from enemies (does not apply to boss reward checks)
+    # Vanilla: Drops are the same as the base game
+    # Randomized: Each slot of every enemy's drop table is given a random use item or piece of equipment.
+    # Empty: Enemies drop nothing.
+    vanilla: 50
+    randomized: 0
+    empty: 0
+
+  DropRateCategory:
+    # Sets the drop rate when 'Loot Pool' is set to 'Random'
+    # Tiered: Based on item rarity/value
+    # Vanilla: Based on bestiary slot the item is placed into
+    # Random: Assigned a random tier/drop rate
+    # Fixed: Set by the 'Fixed Drop Rate' setting
+    tiered: 50
+    vanilla: 0
+    randomized: 0
+    fixed: 0
+
+  FixedDropRate:
+    # Base drop rate percentage when 'Drop Rate Category' is set to 'Fixed'
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 0
+    # Maximum value is 100
+    5: 50
+    random: 0
+    random-low: 0
+    random-high: 0
+
+  LootTierDistro:
+    # Sets how often items of each rarity tier are placed when 'Loot Pool' is set to 'Random'
+    # Default Weight: Rarer items will be assigned to enemy drop slots less frequently than common items
+    # Full Random: Any item has an equal chance of being placed in an enemy's drop slot
+    # Inverted Weight: Rarest items show up the most frequently, while common items are the rarest
+    default_weight: 50
+    full_random: 0
+    inverted_weight: 0
+
+  ShowBestiary:
+    # All entries in the bestiary are visible, without needing to kill one of a given enemy first
+    false: 50
+    true: 0
+
+  ShowDrops:
+    # All item drops in the bestiary are visible, without needing an enemy to drop one of a given item first
+    false: 50
+    true: 0
+
+  EnterSandman:
+    # The Ancient Pyramid is unlocked by the Twin Pyramid Keys, but the final boss door opens if you have all 5 Timespinner pieces
+    false: 50
+    true: 0
+
+  DadPercent:
+    # The win condition is beating the boss of Emperor's Tower
+    false: 50
+    true: 0
+
+  RisingTides:
+    # Random area's are flooded or drained, can be further specified with RisingTidesOverrides
+    false: 50
+    true: 0
+
+  RisingTidesOverrides:
+    # Manual odds for specific area's to be flooded or drained, only has effect when RisingTides is on.
+    # Areas that you don't specify will roll with the default 33% change of getting flooded or drained
+    AncientPyramidShaft:
+      Dry: 67
+      Flooded: 33
+    CastleBasement:
+      Dry: 66
+      Flooded: 17
+      FloodedWithSavePointAvailable: 17
+    CastleCourtyard:
+      Dry: 67
+      Flooded: 33
+    CastleMoat:
+      Dry: 67
+      Flooded: 33
+    LakeDesolation:
+      Dry: 67
+      Flooded: 33
+    LakeSerene:
+      Dry: 67
+      Flooded: 33
+    Maw:
+      Dry: 67
+      Flooded: 33
+    Sandman:
+      Dry: 67
+      Flooded: 33
+    Xarion:
+      Dry: 67
+      Flooded: 33
+
+  UnchainedKeys:
+    # Start with Twin Pyramid Key, which does not give free warp; warp items for Past, Present, (and ??? with Enter Sandman) can be found.
+    false: 50
+    true: 0
+
+  TrapChance:
+    # Chance for traps in the item pool, traps will only replace filler items such as potions,vials and sntidotes
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 0
+    # Maximum value is 100
+    10: 50
+    random: 0
+    random-low: 0
+    random-high: 0
+
+  Traps:
+    # List of traps that will be in the item pool to find
+    ['Meteor Sparrow Trap', 'Poison Trap', 'Chaos Trap', 'Neurotoxin Trap', 'Bee Trap']
+
+  DeathLink:
+    # When you die, everyone dies. Of course the reverse is true too.
+    false: 50
+    true: 0

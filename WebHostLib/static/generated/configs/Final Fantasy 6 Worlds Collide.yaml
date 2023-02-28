@@ -1,0 +1,347 @@
+# Q. What is this file?
+# A. This file contains options which allow you to configure your multiworld experience while allowing
+#    others to play how they want as well.
+#
+# Q. How do I use it?
+# A. The options in this file are weighted. This means the higher number you assign to a value, the
+#    more chances you have for that option to be chosen. For example, an option like this:
+#
+#    map_shuffle:
+#      on: 5
+#      off: 15
+#
+#    Means you have 5 chances for map shuffle to occur, and 15 chances for map shuffle to be turned
+#    off.
+#
+# Q. I've never seen a file like this before. What characters am I allowed to use?
+# A. This is a .yaml file. You are allowed to use most characters.
+#    To test if your yaml is valid or not, you can use this website:
+#        http://www.yamllint.com/
+#    You can also verify your Archipelago settings are valid at this site:
+#        https://archipelago.gg/check
+
+# Your name in-game. Spaces will be replaced with underscores and there is a 16-character limit.
+#     {player} will be replaced with the player's slot number.
+#     {PLAYER} will be replaced with the player's slot number, if that slot number is greater than 1.
+#     {number} will be replaced with the counter value of the name.
+#     {NUMBER} will be replaced with the counter value of the name, if the counter value is greater than 1.
+name: Player{number}
+
+# Used to describe your yaml. Useful if you have multiple files.
+description: Default Final Fantasy 6 Worlds Collide Template
+
+game: Final Fantasy 6 Worlds Collide
+requires:
+  version: 0.3.9 # Version of Archipelago required for this yaml to work as expected.
+
+Final Fantasy 6 Worlds Collide:
+  progression_balancing:
+    # A system that can move progression earlier, to try and prevent the player from getting stuck and bored early.
+    # A lower setting means more getting stuck. A higher setting means less getting stuck.
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 0
+    # Maximum value is 99
+    random: 0
+    random-low: 0
+    random-high: 0
+    disabled: 0 # equivalent to 0
+    normal: 50 # equivalent to 50
+    extreme: 0 # equivalent to 99
+
+  accessibility:
+    # Set rules for reachability of your items/locations.
+    # Locations: ensure everything can be reached and acquired.
+    # Items: ensure all logically relevant items can be acquired.
+    # Minimal: ensure what is needed to reach your goal can be acquired.
+    locations: 0
+    items: 50
+    minimal: 0
+
+  local_items:
+    # Forces these items to be in their native world.
+    []
+
+  non_local_items:
+    # Forces these items to be outside their native world.
+    []
+
+  start_inventory:
+    # Start with these items.
+    {}
+
+  start_hints:
+    # Start with these item's locations prefilled into the !hint command.
+    []
+
+  start_location_hints:
+    # Start with these locations and their item prefilled into the !hint command
+    []
+
+  exclude_locations:
+    # Prevent these locations from having an important item
+    []
+
+  priority_locations:
+    # Prevent these locations from having an unimportant item
+    []
+
+  item_links:
+    # Share part of your item pool with other players.
+    []
+
+  CharacterCount:
+    # Sets the number of characters needed to access the final battle
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 0
+    # Maximum value is 14
+    8: 50
+    random: 0
+    random-low: 0
+    random-high: 0
+
+  EsperCount:
+    # Sets the number of Espers needed to access the final battle
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 0
+    # Maximum value is 27
+    12: 50
+    random: 0
+    random-low: 0
+    random-high: 0
+
+  DragonCount:
+    # Sets the number of dragons needed to access the final battle
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 0
+    # Maximum value is 8
+    2: 50
+    random: 0
+    random-low: 0
+    random-high: 0
+
+  BossCount:
+    # Sets the number of bosses required to access the final battle
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 0
+    # Maximum value is 40
+    0: 50
+    random: 0
+    random-low: 0
+    random-high: 0
+
+  StartingCharacterCount:
+    # Sets the number of starting characters
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 1
+    # Maximum value is 4
+    2: 50
+    random: 0
+    random-low: 0
+    random-high: 0
+
+  StartingCharacter1:
+    # Starting Character 1
+    terra: 0
+    locke: 0
+    edgar: 0
+    sabin: 0
+    celes: 0
+    shadow: 0
+    cyan: 0
+    gau: 0
+    setzer: 0
+    mog: 0
+    strago: 0
+    relm: 0
+    gogo: 0
+    umaro: 0
+    random_with_no_gogo_or_umaro: 50
+
+  StartingCharacter2:
+    # Starting Character 2. Only used if Starting Character Count is 2+
+    terra: 0
+    locke: 0
+    edgar: 0
+    sabin: 0
+    celes: 0
+    shadow: 0
+    cyan: 0
+    gau: 0
+    setzer: 0
+    mog: 0
+    strago: 0
+    relm: 0
+    gogo: 0
+    umaro: 0
+    none: 0
+    random_with_no_gogo_or_umaro: 50
+
+  StartingCharacter3:
+    # Starting Character 3. Only used if Starting Character Count is 3+
+    terra: 0
+    locke: 0
+    edgar: 0
+    sabin: 0
+    celes: 0
+    shadow: 0
+    cyan: 0
+    gau: 0
+    setzer: 0
+    mog: 0
+    strago: 0
+    relm: 0
+    gogo: 0
+    umaro: 0
+    none: 50
+    random_with_no_gogo_or_umaro: 0
+
+  StartingCharacter4:
+    # Starting Character 4. Only used if Starting Character Count is 4
+    terra: 0
+    locke: 0
+    edgar: 0
+    sabin: 0
+    celes: 0
+    shadow: 0
+    cyan: 0
+    gau: 0
+    setzer: 0
+    mog: 0
+    strago: 0
+    relm: 0
+    gogo: 0
+    umaro: 0
+    none: 50
+    random_with_no_gogo_or_umaro: 0
+
+  RandomizedStats:
+    # Modify character base stats, as a range of percentages applied to their vanilla stats.
+    # Options include vanilla (100%), Light (85-125%), Moderate (50-150%), Boosted (100-1750%) and Wild (0-200%)
+    vanilla: 0
+    light: 50
+    moderate: 0
+    boosted: 0
+    wild: 0
+
+  RandomizedCommands:
+    # Randomize everyone's unique commands. Random Vanilla will pull only from the base list of commands.
+    # Random Most will include Relic-modified commands, and Random All includes temporary character commands
+    # like Shock
+    vanilla: 0
+    random_vanilla: 0
+    random_most: 50
+    random_all: 0
+
+  BattleRewardMultiplier:
+    # Multiplies the rewards (EXP, MP, GP) from enemies.
+    vanilla: 0
+    double: 0
+    triple: 50
+    quadruple: 0
+    quintuple: 0
+
+  RandomizedBosses:
+    # Modifies boss encounters. Shuffled mixes up the vanilla bosses (so you'll still have one of each). Random
+    # will roll each slot independently, making it likely a boss will show up multiple times or not at all.
+    vanilla: 0
+    shuffled: 50
+    randomized: 0
+
+  RandomEncounters:
+    # Modifies random encounters. The Wild setting mixes bosses into the pool of encounters
+    vanilla: 0
+    randomized: 50
+    wild: 0
+
+  EsperSpells:
+    # Modifies the spells taught by Espers. Shuffle mixes around the vanilla learnsets, while
+    # Random rolls new options for every Esper. Random Tiered weights powerful spells to be less common.
+    vanilla: 0
+    shuffled: 50
+    randomized: 0
+    random_tiered: 0
+
+  EsperBonuses:
+    # Modifies level up bonuses from Espers. Shuffle mixes around the vanilla bonuses, while Random
+    # rolls new options for every Esper
+    vanilla: 0
+    shuffled: 50
+    randomized: 0
+
+  EsperEquipability:
+    # Modifies who can equip each esper. Random rolls a set of characters for each Esper, while Balanced
+    # Random attempts to give every character the same number of Espers to equip
+    vanilla: 50
+    randomized: 0
+    balanced_random: 0
+
+  NaturalMagic:
+    # Modifies which two characters learn Magic via level up, and what they learn
+    vanilla: 0
+    random_characters: 0
+    random_spells: 0
+    both: 50
+
+  StartingGP:
+    # Starting supply of GP
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 0
+    # Maximum value is 50000
+    30000: 50
+    random: 0
+    random-low: 0
+    random-high: 0
+
+  RandomizedShops:
+    # Modifies shop inventories. Random can result in anything, while Random Tiered weights more powerful items
+    # to be less common
+    vanilla: 0
+    randomized: 0
+    random_tiered: 50
+
+  SpellcastingItems:
+    # Controls if Rods, Super Balls, and elemental Shields are allowed in shops. Limited removes Shields and
+    # makes rods and Super Balls very expensive
+    vanilla: 0
+    limited: 50
+    none: 0
+
+  Equipment:
+    # Modifies who can use what equipment. Shuffled mixes each character's equipability with another's,
+    # while Balanced Random ensures every item is usable by seven characters.
+    vanilla: 0
+    shuffled: 50
+    randomized: 0
+    balanced_random: 0
+
+  AllowStrongestItems:
+    # Controls if EXP Eggs, Illuminas, and Paladin Shields can appear in the game.
+    false: 0
+    true: 50
+
+  RandomizeZozoClock:
+    # Randomize the clock puzzle in Zozo.
+    false: 0
+    true: 50
+
+  Treasuresanity:
+    # Mixes all treasure chests and the like into the location pool. Not recommended for beginners.
+    # Additional Gating prevents having to double dip dungeons where you don't have the character needed to clear
+    off: 50
+    on: 0
+    on_with_additional_gating: 0
+
+  EnableFlagstring:
+    # Enables the Flagstring option. Set this to "true" to use a custom Worlds Collide flagstring
+    false: 50
+
+  Flagstring:
+    # Custom flagstring. For advanced users only: will override most other options
+    flagstring_here: 50

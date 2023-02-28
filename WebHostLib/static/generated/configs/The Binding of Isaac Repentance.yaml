@@ -1,0 +1,254 @@
+# Q. What is this file?
+# A. This file contains options which allow you to configure your multiworld experience while allowing
+#    others to play how they want as well.
+#
+# Q. How do I use it?
+# A. The options in this file are weighted. This means the higher number you assign to a value, the
+#    more chances you have for that option to be chosen. For example, an option like this:
+#
+#    map_shuffle:
+#      on: 5
+#      off: 15
+#
+#    Means you have 5 chances for map shuffle to occur, and 15 chances for map shuffle to be turned
+#    off.
+#
+# Q. I've never seen a file like this before. What characters am I allowed to use?
+# A. This is a .yaml file. You are allowed to use most characters.
+#    To test if your yaml is valid or not, you can use this website:
+#        http://www.yamllint.com/
+#    You can also verify your Archipelago settings are valid at this site:
+#        https://archipelago.gg/check
+
+# Your name in-game. Spaces will be replaced with underscores and there is a 16-character limit.
+#     {player} will be replaced with the player's slot number.
+#     {PLAYER} will be replaced with the player's slot number, if that slot number is greater than 1.
+#     {number} will be replaced with the counter value of the name.
+#     {NUMBER} will be replaced with the counter value of the name, if the counter value is greater than 1.
+name: Player{number}
+
+# Used to describe your yaml. Useful if you have multiple files.
+description: Default The Binding of Isaac Repentance Template
+
+game: The Binding of Isaac Repentance
+requires:
+  version: 0.3.9 # Version of Archipelago required for this yaml to work as expected.
+
+The Binding of Isaac Repentance:
+  progression_balancing:
+    # A system that can move progression earlier, to try and prevent the player from getting stuck and bored early.
+    # A lower setting means more getting stuck. A higher setting means less getting stuck.
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 0
+    # Maximum value is 99
+    random: 0
+    random-low: 0
+    random-high: 0
+    disabled: 0 # equivalent to 0
+    normal: 50 # equivalent to 50
+    extreme: 0 # equivalent to 99
+
+  accessibility:
+    # Set rules for reachability of your items/locations.
+    # Locations: ensure everything can be reached and acquired.
+    # Items: ensure all logically relevant items can be acquired.
+    # Minimal: ensure what is needed to reach your goal can be acquired.
+    locations: 0
+    items: 50
+    minimal: 0
+
+  local_items:
+    # Forces these items to be in their native world.
+    []
+
+  non_local_items:
+    # Forces these items to be outside their native world.
+    []
+
+  start_inventory:
+    # Start with these items.
+    {}
+
+  start_hints:
+    # Start with these item's locations prefilled into the !hint command.
+    []
+
+  start_location_hints:
+    # Start with these locations and their item prefilled into the !hint command
+    []
+
+  exclude_locations:
+    # Prevent these locations from having an important item
+    []
+
+  priority_locations:
+    # Prevent these locations from having an unimportant item
+    []
+
+  item_links:
+    # Share part of your item pool with other players.
+    []
+
+  total_locations:
+    # Number of location checks which are added.
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 10
+    # Maximum value is 500
+    150: 50
+    random: 0
+    random-low: 0
+    random-high: 0
+
+  required_locations:
+    # Number of location checks required to beat the game.
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 1
+    # Maximum value is 500
+    50: 50
+    random: 0
+    random-low: 0
+    random-high: 0
+
+  item_pickup_step:
+    # Number of items to pick up before an AP Check is completed.
+    # Setting to 1 means every pickup,
+    # Setting to 2 means every other pickup,
+    # Setting to 3 means every third pickup and so on...
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 1
+    # Maximum value is 5
+    1: 50
+    random: 0
+    random-low: 0
+    random-high: 0
+
+  goal:
+    # Goal to finish the run
+    mom: 50
+    moms_heart: 0
+    isaac_satan: 0
+    isaac: 0
+    satan: 0
+    blue_baby_lamb: 0
+    blue_baby: 0
+    lamb: 0
+    mega_satan: 0
+    boss_rush: 0
+    hush: 0
+    dogma: 0
+    beast: 0
+    mother: 0
+    delirium: 0
+    required_locations: 0
+    full_notes: 0
+
+  full_note_amount:
+    # Number of full notes needed to beat the game (if goal is full notes).
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 1
+    # Maximum value is 34
+    1: 50
+    random: 0
+    random-low: 0
+    random-high: 0
+
+  note_marks_require_hard_mode:
+    # If set on Note Marks are only considered complete if the run was on hard mode
+    false: 50
+    true: 0
+
+  item_weights:
+    # Preset choices for determining the weights of the item pool.
+    default: 50
+    custom: 0
+
+  custom_item_weights:
+    # Put your custom item weights here. Format is item_name: weighting. Leave empty for default weighting. These
+    # weights are only for progression items. For junk and trap items use Custom Junk Item Weights and Trap Item
+    # Weights.
+    Angle Deal Item: 5
+    Boss Item: 8
+    Curse Room Item: 4
+    Devil Deal Item: 5
+    Golden Chest Item: 6
+    Library Item: 4
+    Planetarium Item: 1
+    Red Chest Item: 6
+    Secret Room Item: 6
+    Shop Item: 10
+    Treasure Room Item: 10
+
+  junk_percentage:
+    # Percentage of junk items (Non-Collectable Pickups like Coins, Bombs etc.)
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 0
+    # Maximum value is 100
+    0: 50
+    random: 0
+    random-low: 0
+    random-high: 0
+
+  custom_junk_item_weights:
+    # Put your custom junk item weights here. Format is item_name: weighting. Leave empty for default weighting. These
+    # weights are only for junk items. For progression and trap items use Custom Item Weights and Trap Item
+    # Weights.
+    Random Bomb: 5
+    Random Card: 3
+    Random Chest: 2
+    Random Coin: 6
+    Random Heart: 5
+    Random Key: 5
+    Random Pickup: 0
+    Random Pill: 3
+    Random Trinket: 1
+
+  trap_percentage:
+    # Replaces a percentage of junk items with traps
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 0
+    # Maximum value is 100
+    0: 50
+    random: 0
+    random-low: 0
+    random-high: 0
+
+  trap_item_weights:
+    # Put your custom trap item weights here. Format is item_name: weighting. Leave empty for default weighting. These
+    # weights are only for trap items. For progression and junk items use Custom Item Weights and Custom Junk Item
+    # Weights.
+    Curse Trap: 20
+    Paralysis Trap: 20
+    Retro Vision Trap: 20
+    Teleport Trap: 20
+    Troll Bomb Trap: 20
+    Wavy Cap Trap: 20
+
+  teleport_trap_can_error:
+    # Can a Teleport Trap teleport to an Error Room?
+    false: 0
+    true: 50
+
+  additional_boss_rewards:
+    # If enabled all goal bosses will reward additional checks.
+    # The amount of checks if determined on how deep the boss in the run:
+    # Mom = 1
+    # Mom's Heart/Boss Rush = 2
+    # Isaac/Satan/Hush = 3
+    # Blue Baby/The Lamb = 4
+    # Mega Satan/Mother/Beast/Delirium = 5
+    # exception:
+    # Dogma = 0
+    false: 0
+    true: 50
+
+  death_link:
+    # When you die, everyone dies. Of course the reverse is true too.
+    false: 50
+    true: 0

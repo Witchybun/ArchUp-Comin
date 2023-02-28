@@ -1,0 +1,5096 @@
+client:
+  last_server_address: archipelago.gg:53380
+  uuid: 256763541744698
+datapackage:
+  games:
+    Kingdom Hearts 2:
+      item_name_to_id:
+        AP Boost: 1245432
+        Abas Chain: 1245338
+        Ability Ring: 1245279
+        Accessory Slot Up: 1245355
+        Acrisius: 1245340
+        Acrisius+: 1245341
+        Aegis Chain: 1245339
+        Aerial Dive: 1245407
+        Aerial Dodge: 1245235
+        Aerial Finish: 1245409
+        Aerial Recovery: 1245358
+        Aerial Spiral: 1245408
+        Aerial Sweep: 1245406
+        Air Combo Boost: 1245363
+        Air Combo Plus: 1245361
+        Akashic Record: 1245270
+        Aquamarine Ring: 1245290
+        Armor Slot Up: 1245354
+        Auto Final: 1245416
+        Auto Limit: 1245414
+        Auto Master: 1245415
+        Auto Summon: 1245417
+        Auto Valor: 1245412
+        Auto Wisdom: 1245413
+        Battlefields of War: 1245203
+        Beast's Claw: 1245205
+        Berserk Charge: 1245367
+        Blizzaga Armlet: 1245325
+        Blizzagun Armlet: 1245326
+        Blizzara Armlet: 1245324
+        Blizzard Armlet: 1245323
+        Blizzard Boost: 1245378
+        Blizzard Element: 1245223
+        Bond of Flame: 1245256
+        Bone Fist: 1245206
+        Bounty: 1245480
+        Buster Band: 1245317
+        Centurion+: 1245261
+        Champion Belt: 1245337
+        Chaos Anklet: 1245336
+        Chicken Little: 1245231
+        Circle of Life: 1245244
+        Combination Boost: 1245391
+        Combo Boost: 1245362
+        Combo Master: 1245359
+        Combo Plus: 1245360
+        Cosmic Arts: 1245305
+        Cosmic Belt: 1245318
+        Cosmic Chain: 1245342
+        Cosmic Ring: 1245286
+        Counterguard: 1245411
+        Cure Element: 1245225
+        Damage Control: 1245386
+        Damage Drive: 1245368
+        Dark Anklet: 1245334
+        Decisive Pumpkin: 1245250
+        Defender: 1245385
+        Defense Boost: 1245431
+        Diamond Ring: 1245292
+        Disney Castle Key: 1245202
+        Divine Bandana: 1245313
+        Dodge Roll: 1245234
+        Dodge Slash: 1245400
+        Donald Auto Healing: 1245450
+        Donald Auto Limit: 1245448
+        Donald Blizzard: 1245434
+        Donald Blizzard Boost: 1245443
+        Donald Cure: 1245436
+        Donald Damage Control: 1245452
+        Donald Draw: 1245453
+        Donald Fantasia: 1245437
+        Donald Fire: 1245433
+        Donald Fire Boost: 1245442
+        Donald Flare Force: 1245438
+        Donald Hyper Healing: 1245449
+        Donald Item Boost: 1245451
+        Donald Jackpot: 1245440
+        Donald Lucky Lucky: 1245441
+        Donald MP Haste: 1245445
+        Donald MP Hastega: 1245447
+        Donald MP Hastera: 1245446
+        Donald MP Rage: 1245439
+        Donald Thunder: 1245435
+        Donald Thunder Boost: 1245444
+        Draw: 1245373
+        Draw Ring: 1245310
+        Drive Boost: 1245369
+        Drive Converter: 1245376
+        Drive Gauge Up: 1245353
+        Drive Recovery: 1245427
+        Elixir: 1245422
+        Elven Bandana: 1245312
+        Engineer's Ring: 1245280
+        Ether: 1245421
+        Executive's Ring: 1245287
+        Experience Boost: 1245372
+        Expert's Ring: 1245284
+        Explosion: 1245405
+        Fatal Crest: 1245255
+        Fencer Earring: 1245299
+        Fenrir: 1245257
+        Final Form: 1245221
+        Finishing Leap: 1245397
+        Finishing Plus: 1245365
+        Fira Bangle: 1245320
+        Firaga Bangle: 1245321
+        Firagun Bangle: 1245322
+        Fire Bangle: 1245319
+        Fire Boost: 1245377
+        Fire Element: 1245222
+        Flash Step: 1245401
+        Follow the Wind: 1245243
+        Form Boost: 1245370
+        Frozen Pride+: 1245271
+        Full Bloom: 1245308
+        Full Bloom+: 1245309
+        Gaia Belt: 1245315
+        Garnet Ring: 1245291
+        Genie: 1245228
+        Genji Shield: 1245272
+        Glide: 1245236
+        Gold Ring: 1245294
+        Goofy Auto Change: 1245469
+        Goofy Auto Healing: 1245471
+        Goofy Auto Limit: 1245466
+        Goofy Bash: 1245456
+        Goofy Damage Control: 1245465
+        Goofy Defender: 1245464
+        Goofy Draw: 1245459
+        Goofy Hyper Healing: 1245470
+        Goofy Item Boost: 1245462
+        Goofy Jackpot: 1245460
+        Goofy Lucky Lucky: 1245461
+        Goofy MP Haste: 1245472
+        Goofy MP Hastega: 1245474
+        Goofy MP Hastera: 1245473
+        Goofy MP Rage: 1245463
+        Goofy Once More: 1245468
+        Goofy Protect: 1245475
+        Goofy Protega: 1245477
+        Goofy Protera: 1245476
+        Goofy Second Chance: 1245467
+        Goofy Tornado: 1245454
+        Goofy Turbo: 1245455
+        Grand Ribbon: 1245345
+        Guard: 1245394
+        Guard Break: 1245404
+        Guardian Soul: 1245248
+        Gull Wing: 1245246
+        Hades Cup Trophy: 1245348
+        Hero's Crest: 1245241
+        Hi-Potion: 1245420
+        Hidden Dragon: 1245240
+        High Drive Recovery: 1245428
+        High Jump: 1245232
+        Horizontal Slash: 1245396
+        Ice Cream: 1245211
+        Identity Disk: 1245214
+        Item Boost: 1245380
+        Item Slot Up: 1245356
+        Jackpot: 1245374
+        Leaf Bracer: 1245390
+        Light & Darkness: 1245388
+        Limit Form: 1245219
+        Lucky Emblem: 1245478
+        Lucky Lucky: 1245375
+        Lucky Ring: 1245311
+        MP Haste: 1245382
+        MP Hastega: 1245384
+        MP Hastera: 1245383
+        MP Rage: 1245381
+        Mage Earring: 1245300
+        Magic Boost: 1245430
+        Magic Lock-On: 1245389
+        Magnet Burst: 1245410
+        Magnet Element: 1245226
+        Majestic Mushroom: 1245273
+        Majestic Mushroom+: 1245274
+        Master Form: 1245220
+        Master's Ring: 1245285
+        Max HP Up: 1245351
+        Max MP Up: 1245352
+        Medal: 1245302
+        Mega-Ether: 1245424
+        Mega-Potion: 1245423
+        Megalixir: 1245425
+        Membership Card: 1245210
+        Meteor Staff: 1245262
+        Mickey Munny Pouch: 1245346
+        Midnight Anklet: 1245335
+        Monochrome: 1245242
+        Moon Amulet: 1245303
+        Mysterious Abyss: 1245253
+        Mythril Ring: 1245296
+        Namine Sketches: 1245201
+        Negative Combo: 1245366
+        No Experience: 1245387
+        Nobody Guard: 1245275
+        Nobody Lance: 1245263
+        Oathkeeper: 1245237
+        Oblivion: 1245238
+        Ogre Shield: 1245276
+        Olette Munny Pouch: 1245347
+        Olympus Stone: 1245350
+        Once More: 1245392
+        Orichalcum Ring: 1245297
+        Peter Pan: 1245229
+        Petite Ribbon: 1245343
+        Photon Debugger: 1245245
+        Picture: 1245212
+        Platinum Ring: 1245295
+        Poster: 1245215
+        Potion: 1245419
+        Power Band: 1245316
+        Power Boost: 1245429
+        Precious Mushroom: 1245264
+        Precious Mushroom+: 1245265
+        Premium Mushroom: 1245266
+        Promise Charm: 1245200
+        Proof of Connection: 1245197
+        Proof of Nonexistence: 1245198
+        Proof of Peace: 1245199
+        Protect Belt: 1245314
+        Proud Fang: 1245207
+        Pureblood: 1245260
+        Quick Run: 1245233
+        Reaction Boost: 1245364
+        Reflect Element: 1245227
+        Retaliating Slash: 1245398
+        Ribbon: 1245344
+        Rising Dragon: 1245267
+        Rumbling Rose: 1245247
+        Sardonyx Ring: 1245288
+        Save The King+: 1245277
+        Save The Queen+: 1245268
+        Scan: 1245357
+        Scimitar: 1245209
+        Second Chance: 1245393
+        Secret Ansem's Report 1: 1245184
+        Secret Ansem's Report 10: 1245193
+        Secret Ansem's Report 11: 1245194
+        Secret Ansem's Report 12: 1245195
+        Secret Ansem's Report 13: 1245196
+        Secret Ansem's Report 2: 1245185
+        Secret Ansem's Report 3: 1245186
+        Secret Ansem's Report 4: 1245187
+        Secret Ansem's Report 5: 1245188
+        Secret Ansem's Report 6: 1245189
+        Secret Ansem's Report 7: 1245190
+        Secret Ansem's Report 8: 1245191
+        Secret Ansem's Report 9: 1245192
+        Shadow Anklet: 1245333
+        Shadow Archive: 1245306
+        Shadow Archive+: 1245307
+        Shaman's Relic: 1245269
+        Shock Charm: 1245331
+        Shock Charm+: 1245332
+        Silver Ring: 1245293
+        Skill Ring: 1245282
+        Skill and Crossbones: 1245208
+        Skillful Ring: 1245283
+        Slapshot: 1245399
+        Slayer Earring: 1245301
+        Sleeping Lion: 1245251
+        Slide Dash: 1245402
+        Soldier Earring: 1245298
+        Star Charm: 1245304
+        Star Seeker: 1245239
+        Stitch: 1245230
+        Summon Boost: 1245371
+        Sweet Memories: 1245252
+        Sword of the Ancestor: 1245204
+        Teamwork: 1245458
+        Technician's Ring: 1245281
+        Tent: 1245426
+        Thundaga Trinket: 1245329
+        Thundagun Trinket: 1245330
+        Thundara Trinket: 1245328
+        Thunder Boost: 1245379
+        Thunder Element: 1245224
+        Thunder Trinket: 1245327
+        Torn Page: 1245216
+        Tornado Fusion: 1245457
+        Tourmaline Ring: 1245289
+        Trinity Limit: 1245418
+        Two Become One: 1245254
+        Ultima Weapon: 1245258
+        Ultimate Mushroom: 1245278
+        Unknown Disk: 1245349
+        Upper Slash: 1245395
+        Valor Form: 1245217
+        Vicinity Break: 1245403
+        Victory: 1245479
+        Way to the Dawn: 1245213
+        Winner's Proof: 1245259
+        Wisdom Form: 1245218
+        Wishing Lamp: 1245249
+      location_name_to_id:
+        (100Acre) Kanga's House AP Boost: 1245290
+        (100Acre) Kanga's House Magic Boost: 1245289
+        (100Acre) Kanga's House Orichalcum: 1245291
+        (100Acre) Piglet's House AP Boost: 1245284
+        (100Acre) Piglet's House Defense Boost: 1245283
+        (100Acre) Piglet's House Mythril Gem: 1245285
+        (100Acre) Pooh's House 100 Acre Wood Map: 1245280
+        (100Acre) Pooh's House AP Boost: 1245281
+        (100Acre) Pooh's House Mythril Stone: 1245282
+        (100Acre) Rabbit's House AP Boost: 1245288
+        (100Acre) Rabbit's House Draw Ring: 1245286
+        (100Acre) Rabbit's House Mythril Crystal: 1245287
+        (100Acre) Spooky Cave AP Boost: 1245293
+        (100Acre) Spooky Cave AP Boost 2: 1245297
+        (100Acre) Spooky Cave Guard Recipe: 1245295
+        (100Acre) Spooky Cave Map: 1245299
+        (100Acre) Spooky Cave Mythril Crystal: 1245296
+        (100Acre) Spooky Cave Mythril Gem: 1245292
+        (100Acre) Spooky Cave Orichalcum: 1245294
+        (100Acre) Starry Hill Cosmic Ring: 1245300
+        (100Acre) Starry Hill Cure Element: 1245302
+        (100Acre) Starry Hill Orichalcum+: 1245303
+        (100Acre) Starry Hill Style Recipe: 1245301
+        (100Acre) Sweet Memories: 1245298
+        '(AG) Abu Escort Bonus: Donald Slot 1': 1245879
+        '(AG) Abu Escort Bonus: Sora Slot 1': 1245235
+        (AG) Agrabah AP Boost: 1245218
+        (AG) Agrabah Dark Shard: 1245215
+        (AG) Agrabah Hi-Potion: 1245217
+        (AG) Agrabah Map: 1245214
+        (AG) Agrabah Mythril Shard: 1245216
+        (AG) Agrabah Mythril Shard 2: 1245220
+        (AG) Agrabah Mythril Stone: 1245219
+        (AG) Agrabah Serenity Shard: 1245221
+        (AG) Bazaar AP Boost: 1245225
+        (AG) Bazaar Hi-Potion: 1245224
+        (AG) Bazaar Mythril Gem: 1245222
+        (AG) Bazaar Mythril Shard: 1245226
+        (AG) Bazaar Power Shard: 1245223
+        (AG) Cave Entrance Mythril Shard: 1245230
+        (AG) Cave Entrance Power Stone: 1245229
+        (AG) Chasm of Challenges AP Boost: 1245237
+        (AG) Chasm of Challenges Cave of Wonders Map: 1245236
+        '(AG) Elemental Lords Bonus: Sora Slot 1': 1245241
+        (AG) Lamp Charm: 1245242
+        (AG) Palace Walls Mythril Stone: 1245228
+        (AG) Palace Walls Skill Ring: 1245227
+        (AG) Treasure Room: 1245238
+        (AG) Treasure Room AP Boost: 1245239
+        '(AG) Treasure Room Heartless Bonus: Goofy Slot 1': 1245896
+        (AG) Treasure Room Serenity Gem: 1245240
+        (AG) Valley of Stone AP Boost: 1245232
+        (AG) Valley of Stone Hi-Potion: 1245234
+        (AG) Valley of Stone Mythril Shard: 1245233
+        (AG) Valley of Stone Mythril Stone: 1245231
+        (AG2) Genie Jafar: 1245245
+        (AG2) Ruined Chamber Ruins Map: 1245244
+        (AG2) Ruined Chamber Torn Pages: 1245243
+        (AG2) Wishing Lamp: 1245246
+        '(BC) Beast Bonus: Goofy Slot 1': 1245894
+        '(BC) Beast Bonus: Sora Slot 1': 1245371
+        (BC) Belle's Room Castle Map: 1245353
+        (BC) Belle's Room Mega-Recipe: 1245354
+        (BC) Courtyard AP Boost: 1245350
+        (BC) Courtyard Hi-Potion: 1245351
+        (BC) Courtyard Mythril Shard: 1245352
+        '(BC) Dark Thorn Bonus: Sora Slot 1': 1245373
+        '(BC) Dark Thorn Bonus: Sora Slot 2': 1245374
+        (BC) Dark Thorn Cure Element: 1245375
+        (BC) Dungeon AP Boost: 1245364
+        (BC) Dungeon Basement Map: 1245363
+        (BC) Secret Passage Hi-Potion: 1245366
+        (BC) Secret Passage Lucid Shard: 1245367
+        (BC) Secret Passage Mythril Shard: 1245365
+        (BC) The Beast's Room Blazing Shard: 1245372
+        (BC) The East Wing Mythril Shard: 1245355
+        (BC) The East Wing Tent: 1245356
+        (BC) The West Hall AP Boost Post Dungeon: 1245359
+        (BC) The West Hall Bright Stone: 1245360
+        (BC) The West Hall Hi-Potion: 1245357
+        (BC) The West Hall Mythril Shard: 1245361
+        (BC) The West Hall Mythril Shard 2: 1245368
+        (BC) The West Hall Power Shard: 1245358
+        (BC) The West Wing Mythril Shard: 1245369
+        (BC) The West Wing Tent: 1245370
+        '(BC) Thresholder Bonus: Donald Slot 1': 1245861
+        '(BC) Thresholder Bonus: Sora Slot 1': 1245362
+        (BC2) Castle Walls Map: 1245377
+        (BC2) Rumbling Rose: 1245376
+        (BC2) Secret Ansem Report 4 (Xaldin): 1245380
+        '(BC2) Xaldin Bonus: Donald Slot 1': 1245862
+        '(BC2) Xaldin Bonus: Sora Slot 1': 1245378
+        '(BC2) Xaldin Bonus: Sora Slot 2': 1245379
+        (CoR) Depths AP Boost: 1245506
+        (CoR) Depths AP Boost 2: 1245510
+        (CoR) Depths Frost Crystal: 1245508
+        (CoR) Depths Manifest Illusion: 1245509
+        (CoR) Depths Power Crystal: 1245507
+        (CoR) Depths Upper Level Remembrance Gem: 1245513
+        (CoR) Engine Chamber AP Boost: 1245523
+        (CoR) Engine Chamber Manifest Illusion: 1245524
+        (CoR) Engine Chamber Remembrance Crystal: 1245522
+        (CoR) Engine Chamber Serenity Crystal: 1245521
+        (CoR) Mineshaft Lower Level AP Boost: 1245512
+        (CoR) Mineshaft Lower Level Depths of Remembrance Map: 1245511
+        (CoR) Mineshaft Mid Level Power Boost: 1245520
+        (CoR) Mineshaft Upper Level AP Boost: 1245526
+        (CoR) Mineshaft Upper Level Magic Boost: 1245525
+        (CoR) Mining Area AP Boost: 1245515
+        (CoR) Mining Area Dark Remembrance Map: 1245519
+        (CoR) Mining Area Manifest Illusion: 1245517
+        (CoR) Mining Area Serenity Crystal: 1245516
+        (CoR) Mining Area Serenity Gem: 1245514
+        (CoR) Mining Area Serenity Gem 2: 1245518
+        (DC) Courtyard AP Boost: 1245252
+        (DC) Courtyard Blazing Shard: 1245255
+        (DC) Courtyard Blazing Stone: 1245254
+        (DC) Courtyard Mythril Shard: 1245250
+        (DC) Courtyard Mythril Shard 2: 1245256
+        (DC) Courtyard Mythril Stone: 1245253
+        (DC) Courtyard Star Recipe: 1245251
+        (DC) Disney Castle Map: 1245258
+        (DC) Library Torn Pages: 1245257
+        '(DC) Minnie Escort Bonus: Sora Slot 1': 1245259
+        '(DC) Minnie Escort Bonus: Sora Slot 2': 1245260
+        '(HB) Bailey Bonus: Sora Slot 1': 1245472
+        (HB) Bailey Secret Ansem Report 7: 1245473
+        (HB) Baseball Charm: 1245474
+        (HB) Borough AP Boost: 1245466
+        (HB) Borough Dark Shard: 1245469
+        (HB) Borough Drive Recovery: 1245465
+        (HB) Borough Hi-Potion: 1245467
+        (HB) Borough Mythril Shard: 1245468
+        '(HB) Demyx Bonus: Donald Slot 1': 1245851
+        (HB) Marketplace Map: 1245464
+        (HB) Merlin's House Blizzard Element: 1245471
+        (HB) Merlin's House Membership Card: 1245470
+        (HB2) 1000 Heartless: 1245495
+        (HB2) 1000 Heartless Ice Cream: 1245497
+        (HB2) 1000 Heartless Picture: 1245498
+        (HB2) 1000 Heartless Secret Ansem Report 1: 1245496
+        (HB2) Ansem's Study Master Form: 1245482
+        (HB2) Ansem's Study Skill Recipe: 1245484
+        (HB2) Ansem's Study Sleeping Lion: 1245483
+        (HB2) Ansem's Study Ukulele Charm: 1245485
+        (HB2) Corridors AP Boost: 1245481
+        (HB2) Corridors Dark Crystal: 1245480
+        (HB2) Corridors Mythril Crystal: 1245479
+        (HB2) Corridors Mythril Stone: 1245478
+        (HB2) Crystal Fissure AP Boost: 1245494
+        (HB2) Crystal Fissure Energy Crystal: 1245493
+        (HB2) Crystal Fissure The Great Maw Map: 1245492
+        (HB2) Crystal Fissure Torn Pages: 1245491
+        '(HB2) Demyx Bonus: Sora Slot 1': 1245488
+        '(HB2) Demyx Bonus: Sora Slot 2': 1245489
+        (HB2) FF Fights Cure Element: 1245490
+        (HB2) Heartless Manufactory Cosmic Chain: 1245500
+        (HB2) Postern AP Boost: 1245477
+        (HB2) Postern Castle Perimeter Map: 1245475
+        (HB2) Postern Gull Wing: 1245499
+        (HB2) Postern Mythril Gem: 1245476
+        (HB2) Proof of Peace: 1245504
+        (HB2) Restoration Site AP Boost: 1245487
+        (HB2) Restoration Site Moon Recipe: 1245486
+        (HB2) Winner's Proof: 1245503
+        (HT) Candy Cane Lane Lightning Stone: 1245416
+        (HT) Candy Cane Lane Mega-Potion: 1245414
+        (HT) Candy Cane Lane Mythril Gem: 1245415
+        (HT) Candy Cane Lane Mythril Stone: 1245417
+        (HT) Finklestein's Lab Halloween Town Map: 1245408
+        (HT) Graveyard Mythril Shard: 1245406
+        (HT) Graveyard Serenity Gem: 1245407
+        (HT) Hinterlands AP Boost: 1245413
+        (HT) Hinterlands Lightning Shard: 1245411
+        (HT) Hinterlands Mythril Stone: 1245412
+        '(HT) Oogie Boogie Bonus: Goofy Slot 1': 1245889
+        '(HT) Oogie Boogie Bonus: Sora Slot 1': 1245421
+        (HT) Oogie Boogie Magnet Element: 1245422
+        '(HT) Prison Keeper Bonus: Donald Slot 1': 1245855
+        '(HT) Prison Keeper Bonus: Sora Slot 1': 1245420
+        (HT) Santa's House AP Boost: 1245419
+        (HT) Santa's House Christmas Town Map: 1245418
+        (HT) Town Square Energy Shard: 1245410
+        (HT) Town Square Mythril Stone: 1245409
+        (HT2) Decisive Pumpkin: 1245427
+        (HT2) Decoy Presents: 1245425
+        '(HT2) Experiment Bonus: Donald Slot 1': 1245858
+        '(HT2) Experiment Bonus: Sora Slot 1': 1245426
+        '(HT2) Lock, Shock and Barrel Bonus: Goofy Slot 1': 1245888
+        '(HT2) Lock, Shock and Barrel Bonus: Sora Slot 1': 1245423
+        (HT2) Present: 1245424
+        (LoD) Bamboo Grove Dark Shard: 1245184
+        (LoD) Bamboo Grove Encampment Area Map: 1245187
+        (LoD) Bamboo Grove Ether: 1245185
+        (LoD) Bamboo Grove Mythril Shard: 1245186
+        (LoD) Checkpoint Hi-Potion: 1245189
+        (LoD) Checkpoint Mythril Shard: 1245190
+        (LoD) Hidden Dragon: 1245203
+        (LoD) Mission 3: 1245188
+        (LoD) Mountain Trail Ether: 1245193
+        (LoD) Mountain Trail Lightning Shard: 1245191
+        (LoD) Mountain Trail Mythril Shard: 1245194
+        (LoD) Mountain Trail Recovery Recipe: 1245192
+        (LoD) Ridge AP Boost: 1245200
+        (LoD) Ridge Frost Shard: 1245199
+        '(LoD) Shan-Yu Bonus: Goofy Slot 1': 1245892
+        '(LoD) Shan-Yu Bonus: Sora Slot 1': 1245201
+        '(LoD) Shan-Yu Bonus: Sora Slot 2': 1245202
+        (LoD) Village Cave AP Boost: 1245197
+        (LoD) Village Cave Area Map: 1245195
+        '(LoD) Village Cave Bonus: Sora Slot 1': 1245198
+        (LoD) Village Cave Dark Shard: 1245196
+        '(LoD2) Storm Rider Bonus: Goofy Slot 1': 1245893
+        '(LoD2) Storm Rider Bonus: Sora Slot 1': 1245212
+        (LoD2) Throne Room AP Boost: 1245206
+        (LoD2) Throne Room AP Boost 2: 1245208
+        (LoD2) Throne Room Mythril Crystal: 1245210
+        (LoD2) Throne Room Ogre Shield: 1245209
+        (LoD2) Throne Room Orichalcum: 1245211
+        (LoD2) Throne Room Palace Map: 1245205
+        (LoD2) Throne Room Queen Recipe: 1245207
+        (LoD2) Throne Room Torn Pages: 1245204
+        (OC) Atrium AP Boost: 1245323
+        (OC) Atrium Lucid Stone: 1245322
+        (OC) Caverns Entrance AP Boost: 1245316
+        (OC) Caverns Entrance Lucid Shard: 1245315
+        (OC) Caverns Entrance Mythril Shard: 1245317
+        '(OC) Cerberus Bonus: Sora Slot 1': 1245311
+        (OC) Coliseum Map: 1245312
+        '(OC) Demyx Bonus: Donald Slot 1': 1245852
+        '(OC) Demyx Bonus: Sora Slot 1': 1245324
+        (OC) Hero's Crest: 1245333
+        '(OC) Hydra Bonus: Sora Slot 1': 1245331
+        '(OC) Hydra Bonus: Sora Slot 2': 1245332
+        (OC) Inner Chamber Mythril Shard: 1245310
+        (OC) Inner Chamber Underworld Map: 1245309
+        (OC) Olympus Stone: 1245326
+        (OC) Passage AP Boost: 1245307
+        (OC) Passage Ether: 1245306
+        (OC) Passage Hi-Potion: 1245308
+        (OC) Passage Mythril Shard: 1245304
+        (OC) Passage Mythril Stone: 1245305
+        '(OC) Pete Bonus: Goofy Slot 1': 1245890
+        '(OC) Pete OC Bonus: Sora Slot 1': 1245330
+        (OC) Secret Ansem Report 5 (Demyx): 1245325
+        (OC) The Lock AP Boost: 1245329
+        (OC) The Lock Caverns Map: 1245327
+        (OC) The Lock Mythril Shard: 1245328
+        (OC) The Lost Road Bright Shard: 1245318
+        (OC) The Lost Road Ether: 1245319
+        (OC) The Lost Road Mythril Shard: 1245320
+        (OC) The Lost Road Mythril Stone: 1245321
+        (OC) Underworld Entrance Power Boost: 1245314
+        '(OC) Urns Bonus: Sora Slot 1': 1245313
+        (OC2) Auron's Statue: 1245334
+        (OC2) Guardian Soul: 1245337
+        '(OC2) Hades Bonus: Sora Slot 1': 1245335
+        '(OC2) Hades Bonus: Sora Slot 2': 1245336
+        (PL) Circle of Life: 1245553
+        (PL) Elephant Graveyard AP Boost: 1245534
+        (PL) Elephant Graveyard Bright Stone: 1245533
+        (PL) Elephant Graveyard Frost Gem: 1245531
+        (PL) Elephant Graveyard Mythril Shard: 1245535
+        (PL) Elephant Graveyard Mythril Stone: 1245532
+        (PL) Gorge Dark Gem: 1245529
+        (PL) Gorge Mythril Stone: 1245530
+        (PL) Gorge Savannah Map: 1245528
+        '(PL) Hyenas 1 Bonus: Goofy Slot 1': 1245886
+        '(PL) Hyenas 1 Bonus: Sora Slot 1': 1245554
+        (PL) Jungle Mythril Stone: 1245548
+        (PL) Jungle Serenity Crystal: 1245549
+        (PL) Jungle Serenity Gem: 1245547
+        (PL) Oasis AP Boost: 1245552
+        (PL) Oasis Map: 1245550
+        (PL) Oasis Torn Pages: 1245551
+        (PL) Pride Rock Map: 1245536
+        (PL) Pride Rock Mythril Stone: 1245537
+        (PL) Pride Rock Serenity Crystal: 1245538
+        '(PL) Scar Bonus: Donald Slot 1': 1245856
+        '(PL) Scar Bonus: Sora Slot 1': 1245555
+        (PL) Scar Fire Element: 1245556
+        (PL) Wastelands Mythril Shard: 1245544
+        (PL) Wastelands Mythril Stone: 1245546
+        (PL) Wastelands Serenity Gem: 1245545
+        (PL) Wildebeest Valley AP Boost: 1245540
+        (PL) Wildebeest Valley Energy Stone: 1245539
+        (PL) Wildebeest Valley Lucid Gem: 1245543
+        (PL) Wildebeest Valley Mythril Gem: 1245541
+        (PL) Wildebeest Valley Mythril Stone: 1245542
+        '(PL2) Groundshaker Bonus: Sora Slot 1': 1245558
+        '(PL2) Groundshaker Bonus: Sora Slot 2': 1245559
+        '(PL2) Hyenas 2 Bonus: Goofy Slot 1': 1245887
+        '(PL2) Hyenas 2 Bonus: Sora Slot 1': 1245557
+        '(PR) Barbossa Bonus: Goofy Slot 1': 1245882
+        '(PR) Barbossa Bonus: Goofy Slot 2': 1245883
+        '(PR) Barbossa Bonus: Sora Slot 1': 1245448
+        '(PR) Barbossa Bonus: Sora Slot 2': 1245449
+        '(PR) Boat Fight Bonus: Donald Slot 1': 1245859
+        '(PR) Boat Fight Bonus: Sora Slot 1': 1245441
+        (PR) Cave Mouth Bright Shard: 1245438
+        (PR) Cave Mouth Mythril Shard: 1245439
+        (PR) Follow the Wind: 1245450
+        '(PR) Interceptor Barrels Bonus: Goofy Slot 1': 1245895
+        '(PR) Interceptor Barrels Bonus: Sora Slot 1': 1245442
+        (PR) Isla de Muerta Map: 1245440
+        (PR) Moonlight Nook Mythril Shard: 1245445
+        (PR) Moonlight Nook Power Stone: 1245447
+        (PR) Moonlight Nook Serenity Gem: 1245446
+        (PR) Powder Store AP Boost 1: 1245443
+        (PR) Powder Store AP Boost 2: 1245444
+        (PR) Rampart Dark Shard: 1245433
+        (PR) Rampart Mythril Stone: 1245432
+        (PR) Rampart Naval Map: 1245431
+        (PR) Town AP Boost: 1245435
+        (PR) Town Dark Stone: 1245434
+        (PR) Town Mythril Gem: 1245437
+        (PR) Town Mythril Shard: 1245436
+        '(PR2) Grim Reaper 1 Bonus: Goofy Slot 1': 1245884
+        '(PR2) Grim Reaper 1 Bonus: Sora Slot 1': 1245451
+        '(PR2) Grim Reaper 2 Bonus: Donald Slot 1': 1245863
+        '(PR2) Grim Reaper 2 Bonus: Sora Slot 1': 1245461
+        (PR2) Interceptor's Hold Feather Charm: 1245452
+        (PR2) Seadrift Keep AP Boost: 1245453
+        (PR2) Seadrift Keep Meteor Staff: 1245455
+        (PR2) Seadrift Keep Orichalcum: 1245454
+        (PR2) Seadrift Row Cursed Medallion: 1245459
+        (PR2) Seadrift Row King Recipe: 1245457
+        (PR2) Seadrift Row Mythril Crystal: 1245458
+        (PR2) Seadrift Row Serenity Gem: 1245456
+        (PR2) Seadrift Row Ship Graveyard Map: 1245460
+        (PR2) Secret Ansem Report 6 (Grim Reaper 2): 1245462
+        (SP) Canyon Dark Crystal: 1245384
+        (SP) Canyon Frost Crystal: 1245387
+        (SP) Canyon Mythril Gem: 1245386
+        (SP) Canyon Mythril Stone: 1245385
+        (SP) Communications Room Gaia Belt: 1245392
+        (SP) Communications Room I/O Tower Map: 1245391
+        (SP) Hallway AP Boost: 1245390
+        (SP) Hallway Power Crystal: 1245389
+        '(SP) Hostile Program Bonus: Goofy Slot 1': 1245885
+        '(SP) Hostile Program Bonus: Sora Slot 1': 1245393
+        '(SP) Hostile Program Bonus: Sora Slot 2': 1245394
+        (SP) Photon Debugger: 1245395
+        (SP) Pit Cell Area Map: 1245382
+        (SP) Pit Cell Mythril Crystal: 1245383
+        '(SP) Screens Bonus: Donald Slot 1': 1245850
+        '(SP) Screens Bonus: Sora Slot 1': 1245388
+        (SP2) Central Computer Core AP Boost: 1245397
+        (SP2) Central Computer Core Cosmic Arts: 1245399
+        (SP2) Central Computer Core Map: 1245400
+        (SP2) Central Computer Core Orichalcum+: 1245398
+        '(SP2) MCP Bonus: Sora Slot 1': 1245401
+        '(SP2) MCP Bonus: Sora Slot 2': 1245402
+        (SP2) Solar Sailer: 1245396
+        '(SP2) Solar Sailer Bonus: Donald Slot 1': 1245857
+        (STT) Axel 1: 1245567
+        (STT) Axel 2: 1245586
+        (STT) Central Station Hi-Potion: 1245572
+        (STT) Central Station Potion 1: 1245571
+        (STT) Central Station Potion 2: 1245573
+        (STT) Junk Champion Belt: 1245568
+        (STT) Junk Medal: 1245569
+        (STT) Mansion Basement Corridor Hi-Potion: 1245587
+        (STT) Mansion Dining Room Elven Bandanna: 1245581
+        (STT) Mansion Dining Room Potion: 1245582
+        (STT) Mansion Foyer Hi-Potion: 1245578
+        (STT) Mansion Foyer Potion 1: 1245579
+        (STT) Mansion Foyer Potion 2: 1245580
+        (STT) Mansion Library Hi-Potion: 1245585
+        (STT) Mansion Map: 1245584
+        (STT) Munny Pouch Olette: 1245562
+        (STT) Namine's Sketches: 1245583
+        (STT) Station Dusks: 1245563
+        (STT) Station of Calling Potion: 1245565
+        (STT) Station of Serenity Potion: 1245564
+        (STT) Sunset Terrace Ability Ring: 1245574
+        (STT) Sunset Terrace Hi-Potion: 1245575
+        (STT) Sunset Terrace Potion 1: 1245576
+        (STT) Sunset Terrace Potion 2: 1245577
+        (STT) The Struggle Trophy: 1245570
+        (STT) Twilight Thorn: 1245566
+        (STT) Twilight Town Map: 1245561
+        '(TR) Boat Pete Bonus: Donald Slot 1': 1245853
+        '(TR) Boat Pete Bonus: Donald Slot 2': 1245854
+        '(TR) Boat Pete Bonus: Sora Slot 1': 1245269
+        (TR) Cornerstone Hill Frost Shard: 1245262
+        (TR) Cornerstone Hill Map: 1245261
+        '(TR) Future Pete Bonus: Goofy Slot 1': 1245891
+        '(TR) Future Pete Bonus: Sora Slot 1': 1245270
+        '(TR) Future Pete Bonus: Sora Slot 2': 1245271
+        (TR) Monochrome: 1245272
+        (TR) Pier Hi-Potion: 1245264
+        (TR) Pier Mythril Shard: 1245263
+        (TR) Waterway AP Boost: 1245266
+        (TR) Waterway Frost Stone: 1245267
+        (TR) Waterway Mythril Stone: 1245265
+        (TR) Window of Time Map: 1245268
+        (TR) Wisdom Form: 1245273
+        (TT) Central Station Hi-Potion: 1245605
+        (TT) Central Station Mythril Shard: 1245606
+        (TT) Central Station Tent: 1245604
+        (TT) Crystal Orb: 1245603
+        (TT) Munny Pouch Mickey: 1245602
+        (TT) Old Mansion Mythril Shard: 1245590
+        (TT) Old Mansion Potion: 1245589
+        (TT) Sorcerer's Loft Tower Map: 1245612
+        (TT) Star Seeker: 1245614
+        (TT) Station Plaza Secret Ansem Report 2: 1245601
+        (TT) The Tower Ether: 1245609
+        (TT) The Tower Hi-Potion: 1245608
+        (TT) The Tower Potion: 1245607
+        (TT) The Woods Hi-Potion: 1245593
+        (TT) The Woods Mythril Shard: 1245592
+        (TT) The Woods Potion: 1245591
+        (TT) Tower Entryway Ether: 1245610
+        (TT) Tower Entryway Mythril Shard: 1245611
+        (TT) Tower Wardrobe Mythril Stone: 1245613
+        (TT) Tram Common AP Boost: 1245595
+        (TT) Tram Common Hi-Potion: 1245594
+        (TT) Tram Common Mythril Shard 1: 1245597
+        (TT) Tram Common Mythril Shard 2: 1245599
+        (TT) Tram Common Potion 1: 1245598
+        (TT) Tram Common Potion 2: 1245600
+        (TT) Tram Common Tent: 1245596
+        (TT) Valor Form: 1245615
+        (TT2) Limit Form: 1245618
+        (TT2) Oathkeeper: 1245617
+        (TT2) Seifer's Trophy: 1245616
+        (TT3) Beam Secret Ansem Report 10: 1245636
+        (TT3) Betwixt and Between: 1245638
+        (TT3) Betwixt and Between Bond of Flame: 1245639
+        (TT3) Mansion Basement Corridor Ultimate Recipe: 1245637
+        (TT3) Mansion Dining Room Mythril Crystal: 1245633
+        (TT3) Mansion Dining Room Mythril Stone: 1245634
+        (TT3) Mansion Foyer Mythril Crystal: 1245630
+        (TT3) Mansion Foyer Mythril Stone: 1245631
+        (TT3) Mansion Foyer Serenity Crystal: 1245632
+        (TT3) Mansion Library Orichalcum: 1245635
+        '(TT3) Mansion Nobodies Bonus: Donald Slot 1': 1245860
+        '(TT3) Mansion Nobodies Bonus: Sora Slot 1': 1245629
+        (TT3) Sunset Terrace AP Boost: 1245628
+        (TT3) Sunset Terrace Mythril Crystal: 1245627
+        (TT3) Sunset Terrace Mythril Shard: 1245626
+        (TT3) Sunset Terrace Orichalcum+: 1245625
+        (TT3) Tunnelway Mythril Crystal: 1245624
+        (TT3) Tunnelway Orichalcum: 1245623
+        (TT3) Underground Concourse AP Boost: 1245620
+        (TT3) Underground Concourse Mythril Crystal: 1245622
+        (TT3) Underground Concourse Mythril Gem: 1245619
+        (TT3) Underground Concourse Orichalcum: 1245621
+        (TWTNW) Castle That Never Was Map: 1245663
+        (TWTNW) Fragment Crossing AP Boost: 1245643
+        (TWTNW) Fragment Crossing Mythril Crystal: 1245642
+        (TWTNW) Fragment Crossing Mythril Stone: 1245641
+        (TWTNW) Fragment Crossing Orichalcum: 1245644
+        (TWTNW) Luxord: 1245664
+        '(TWTNW) Luxord Bonus: Sora Slot 1': 1245665
+        (TWTNW) Luxord Secret Ansem Report 9: 1245666
+        (TWTNW) Memory's Skyscaper AP Boost: 1245650
+        (TWTNW) Memory's Skyscaper Mythril Crystal: 1245649
+        (TWTNW) Memory's Skyscaper Mythril Stone: 1245651
+        (TWTNW) Naught's Skyway Mythril Crystal: 1245661
+        (TWTNW) Naught's Skyway Mythril Gem: 1245659
+        (TWTNW) Naught's Skyway Orichalcum: 1245660
+        (TWTNW) Nothing's Call Mythril Gem: 1245654
+        (TWTNW) Nothing's Call Orichalcum: 1245655
+        (TWTNW) Oblivion: 1245662
+        '(TWTNW) Roxas Bonus: Sora Slot 1': 1245645
+        '(TWTNW) Roxas Bonus: Sora Slot 2': 1245646
+        (TWTNW) Roxas Secret Ansem Report 8: 1245647
+        (TWTNW) Ruin and Creation's Passage AP Boost: 1245671
+        (TWTNW) Ruin and Creation's Passage Mythril Crystal: 1245672
+        (TWTNW) Ruin and Creation's Passage Mythril Stone: 1245670
+        (TWTNW) Ruin and Creation's Passage Orichalcum: 1245673
+        '(TWTNW) Saix Bonus: Sora Slot 1': 1245667
+        (TWTNW) Saix Secret Ansem Report 12: 1245668
+        (TWTNW) Secret Ansem Report 11 (Pre-Xemnas 1): 1245669
+        (TWTNW) The Brink of Despair Dark City Map: 1245652
+        (TWTNW) The Brink of Despair Orichalcum+: 1245653
+        (TWTNW) Twilight's View Cosmic Belt: 1245656
+        (TWTNW) Two Become One: 1245648
+        '(TWTNW) Xemnas 1 Bonus: Sora Slot 1': 1245674
+        '(TWTNW) Xemnas 1 Bonus: Sora Slot 2': 1245675
+        (TWTNW) Xemnas 1 Secret Ansem Report 13: 1245676
+        '(TWTNW) Xigbar Bonus: Sora Slot 1': 1245657
+        (TWTNW) Xigbar Secret Ansem Report 3: 1245658
+        AS Larxene: 1245404
+        AS Lexaeus: 1245248
+        AS Marluxia: 1245275
+        AS Vexen: 1245429
+        AS Zexion: 1245339
+        Adamant Shield Slot: 1245898
+        Akashic Record Slot: 1245899
+        Bond of Flame Slot: 1245837
+        Centurion+ Slot: 1245878
+        Chain Gear Slot: 1245900
+        Circle of Life Slot: 1245827
+        Comet Staff Slot: 1245864
+        Critical Starting Ability 1: 1245843
+        Critical Starting Ability 2: 1245844
+        Critical Starting Ability 3: 1245845
+        Critical Starting Ability 4: 1245846
+        Critical Starting Ability 5: 1245847
+        Critical Starting Ability 6: 1245848
+        Critical Starting Ability 7: 1245849
+        Data Axel: 1245640
+        Data Demyx: 1245505
+        Data Larxene: 1245405
+        Data Lexaeus: 1245249
+        Data Luxord: 1245463
+        Data Marluxia: 1245276
+        Data Roxas: 1245588
+        Data Saix: 1245560
+        Data Vexen: 1245430
+        Data Xaldin: 1245381
+        Data Xemnas: 1245678
+        Data Xigbar: 1245213
+        Data Zexion: 1245340
+        Decisive Pumpkin Slot: 1245833
+        Detection Saber Slot: 1245817
+        Donald Starting Item 1: 1245880
+        Donald Starting Item 2: 1245881
+        Dream Cloud Slot: 1245901
+        Edge of Ultima Slot: 1245818
+        FAKE Slot: 1245816
+        Falling Star Slot: 1245902
+        Fatal Crest Goddess of Fate Cup: 1245347
+        Fatal Crest Slot: 1245839
+        Fenrir Slot: 1245840
+        Final Xemnas: 1245677
+        Final level 2: 1245807
+        Final level 3: 1245808
+        Final level 4: 1245809
+        Final level 5: 1245810
+        Final level 6: 1245811
+        Final level 7: 1245812
+        Follow the Wind Slot: 1245826
+        Frozen Pride+ Slot: 1245903
+        Garden of Assemblage Map: 1245813
+        Genji Shield Slot: 1245904
+        Genji Shield Titan Cup: 1245345
+        GoA Lost Illusion: 1245814
+        Goofy Starting Item 1: 1245913
+        Goofy Starting Item 2: 1245914
+        Guardian Soul Slot: 1245831
+        Gull Wing Slot: 1245829
+        Hades Cup Trophy Paradox Cups: 1245349
+        Hammer Staff Slot: 1245865
+        Hero's Crest Slot: 1245824
+        Hidden Dragon Slot: 1245823
+        Kingdom Key Slot: 1245819
+        Knight Defender Slot: 1245905
+        Knight's Shield Slot: 1245906
+        'Larxene Bonus: Sora Slot 1': 1245403
+        Level 1: 1245679
+        Level 10: 1245688
+        Level 11: 1245689
+        Level 12: 1245690
+        Level 13: 1245691
+        Level 14: 1245692
+        Level 15: 1245693
+        Level 16: 1245694
+        Level 17: 1245695
+        Level 18: 1245696
+        Level 19: 1245697
+        Level 2: 1245680
+        Level 20: 1245698
+        Level 21: 1245699
+        Level 22: 1245700
+        Level 23: 1245701
+        Level 24: 1245702
+        Level 25: 1245703
+        Level 26: 1245704
+        Level 27: 1245705
+        Level 28: 1245706
+        Level 29: 1245707
+        Level 3: 1245681
+        Level 30: 1245708
+        Level 31: 1245709
+        Level 32: 1245710
+        Level 33: 1245711
+        Level 34: 1245712
+        Level 35: 1245713
+        Level 36: 1245714
+        Level 37: 1245715
+        Level 38: 1245716
+        Level 39: 1245717
+        Level 4: 1245682
+        Level 40: 1245718
+        Level 41: 1245719
+        Level 42: 1245720
+        Level 43: 1245721
+        Level 44: 1245722
+        Level 45: 1245723
+        Level 46: 1245724
+        Level 47: 1245725
+        Level 48: 1245726
+        Level 49: 1245727
+        Level 5: 1245683
+        Level 50: 1245728
+        Level 51: 1245729
+        Level 52: 1245730
+        Level 53: 1245731
+        Level 54: 1245732
+        Level 55: 1245733
+        Level 56: 1245734
+        Level 57: 1245735
+        Level 58: 1245736
+        Level 59: 1245737
+        Level 6: 1245684
+        Level 60: 1245738
+        Level 61: 1245739
+        Level 62: 1245740
+        Level 63: 1245741
+        Level 64: 1245742
+        Level 65: 1245743
+        Level 66: 1245744
+        Level 67: 1245745
+        Level 68: 1245746
+        Level 69: 1245747
+        Level 7: 1245685
+        Level 70: 1245748
+        Level 71: 1245749
+        Level 72: 1245750
+        Level 73: 1245751
+        Level 74: 1245752
+        Level 75: 1245753
+        Level 76: 1245754
+        Level 77: 1245755
+        Level 78: 1245756
+        Level 79: 1245757
+        Level 8: 1245686
+        Level 80: 1245758
+        Level 81: 1245759
+        Level 82: 1245760
+        Level 83: 1245761
+        Level 84: 1245762
+        Level 85: 1245763
+        Level 86: 1245764
+        Level 87: 1245765
+        Level 88: 1245766
+        Level 89: 1245767
+        Level 9: 1245687
+        Level 90: 1245768
+        Level 91: 1245769
+        Level 92: 1245770
+        Level 93: 1245771
+        Level 94: 1245772
+        Level 95: 1245773
+        Level 96: 1245774
+        Level 97: 1245775
+        Level 98: 1245776
+        Level 99: 1245777
+        'Lexaeus Bonus: Sora Slot 1': 1245247
+        Limit level 2: 1245793
+        Limit level 3: 1245794
+        Limit level 4: 1245795
+        Limit level 5: 1245796
+        Limit level 6: 1245797
+        Limit level 7: 1245798
+        'Lingering Will Bonus: Sora Slot 1': 1245277
+        Lingering Will Manifest Illusion: 1245279
+        Lingering Will Proof of Connection: 1245278
+        Lord's Broom Slot: 1245866
+        Mages Staff Slot: 1245867
+        Majestic Mushroom Slot: 1245907
+        Majestic Mushroom+ Slot: 1245908
+        'Marluxia Bonus: Sora Slot 1': 1245274
+        Master level 2: 1245800
+        Master level 3: 1245801
+        Master level 4: 1245802
+        Master level 5: 1245803
+        Master level 6: 1245804
+        Master level 7: 1245805
+        Meteor Staff Slot: 1245868
+        Monochrome Slot: 1245825
+        Mysterious Abyss Slot: 1245835
+        Nobody Guard Slot: 1245909
+        Nobody Lance Slot: 1245869
+        Oathkeeper Slot: 1245820
+        Oblivion Slot: 1245821
+        Ogre Shield Slot: 1245910
+        Orichalcum+ Goddess of Fate Cup: 1245348
+        Photon Debugger Slot: 1245828
+        Precious Mushroom Slot: 1245870
+        Precious Mushroom+ Slot: 1245871
+        Premium Mushroom Slot: 1245872
+        Proof of Nonexistence Location: 1245815
+        Protect Belt Pain and Panic Cup: 1245341
+        Pureblood Slot: 1245915
+        Rising Dragon Cerberus Cup: 1245343
+        Rising Dragon Slot: 1245873
+        Rumbling Rose Slot: 1245830
+        Save The King+ Slot: 1245911
+        Save The Queen+ Slot: 1245874
+        'Sephiroth Bonus: Sora Slot 1': 1245501
+        Sephiroth Fenrir: 1245502
+        Serenity Crystal Cerberus Cup: 1245344
+        Serenity Gem Pain and Panic Cup: 1245342
+        Shaman's Relic Slot: 1245875
+        Skillful Ring Titan Cup: 1245346
+        Sleeping Lion Slot: 1245836
+        Star Seeker Slot: 1245822
+        Sweet Memories Slot: 1245834
+        Transport to Remembrance: 1245527
+        Two Become One Slot: 1245838
+        Ultima Weapon Slot: 1245841
+        Ultimate Mushroom Slot: 1245912
+        Valor level 2: 1245779
+        Valor level 3: 1245780
+        Valor level 4: 1245781
+        Valor level 5: 1245782
+        Valor level 6: 1245783
+        Valor level 7: 1245784
+        'Vexen Bonus: Sora Slot 1': 1245428
+        Victory Bell Slot: 1245876
+        Winner's Proof Slot: 1245842
+        Wisdom Wand Slot: 1245877
+        Wisdom level 2: 1245786
+        Wisdom level 3: 1245787
+        Wisdom level 4: 1245788
+        Wisdom level 5: 1245789
+        Wisdom level 6: 1245790
+        Wisdom level 7: 1245791
+        Wishing Lamp Slot: 1245832
+        'Zexion Bonus: Goofy Slot 1': 1245897
+        'Zexion Bonus: Sora Slot 1': 1245338
+      version: 0
+    Links Awakening DX:
+      item_name_to_id:
+        10 Arrows: 10000130
+        100 Rupees: 10000029
+        20 Rupees: 10000028
+        200 Rupees: 10000030
+        50 Rupees: 10000027
+        500 Rupees: 10000031
+        Angler Key: 10000018
+        Ballad of the Wind Fish: 10000139
+        Bananas: 10000154
+        Bird Key: 10000020
+        Blue Tunic: 10000136
+        Bomb: 10000010
+        Boomerang: 10000014
+        Bow: 10000002
+        BowWow: 10000129
+        Broom: 10000160
+        Compass: 10000023
+        Compass (Angler's Tunnel): 10000056
+        Compass (Bottle Grotto): 10000054
+        Compass (Catfish's Maw): 10000057
+        Compass (Color Dungeon): 10000061
+        Compass (Eagle's Tower): 10000059
+        Compass (Face Shrine): 10000058
+        Compass (Key Cavern): 10000055
+        Compass (Tail Cave): 10000053
+        Compass (Turtle Rock): 10000060
+        Conch Horn: 10000143
+        Coral Triangle: 10000147
+        Dog Food: 10000153
+        Dungeon Map (Angler's Tunnel): 10000047
+        Dungeon Map (Bottle Grotto): 10000045
+        Dungeon Map (Catfish's Maw): 10000048
+        Dungeon Map (Color Dungeon): 10000052
+        Dungeon Map (Eagle's Tower): 10000050
+        Dungeon Map (Face Shrine): 10000049
+        Dungeon Map (Key Cavern): 10000046
+        Dungeon Map (Tail Cave): 10000044
+        Dungeon Map (Turtle Rock): 10000051
+        Face Key: 10000019
+        Feather: 10000007
+        Fishing Hook: 10000161
+        Flippers: 10000012
+        Frog's Song of Soul: 10000141
+        Full Moon Cello: 10000142
+        Gel: 10000034
+        Gold Leaf: 10000021
+        Heart Container: 10000137
+        Heart Piece: 10000128
+        Hibiscus: 10000158
+        Honeycomb: 10000156
+        Hookshot: 10000003
+        Key: 10000026
+        Letter: 10000159
+        Magic Powder: 10000009
+        Magic Rod: 10000004
+        Magnifying Glass: 10000164
+        Magnifying Lens: 10000013
+        Manbo's Mambo: 10000140
+        Map: 10000022
+        Master Stalfos' Message: 10000033
+        Max Arrows Upgrade: 10000134
+        Max Bombs Upgrade: 10000133
+        Max Powder Upgrade: 10000132
+        Medicine: 10000016
+        Necklace: 10000162
+        Nightmare Key: 10000025
+        Nightmare Key (Angler's Tunnel): 10000074
+        Nightmare Key (Bottle Grotto): 10000072
+        Nightmare Key (Catfish's Maw): 10000075
+        Nightmare Key (Color Dungeon): 10000079
+        Nightmare Key (Eagle's Tower): 10000077
+        Nightmare Key (Face Shrine): 10000076
+        Nightmare Key (Key Cavern): 10000073
+        Nightmare Key (Tail Cave): 10000071
+        Nightmare Key (Turtle Rock): 10000078
+        Ocarina: 10000006
+        Organ of Evening Calm: 10000148
+        Pegasus Boots: 10000005
+        Pineapple: 10000157
+        Progressive Power Bracelet: 10000000
+        Progressive Shield: 10000001
+        Progressive Sword: 10000011
+        Red Tunic: 10000135
+        Ribbon: 10000152
+        Rooster: 10000150
+        Scale: 10000163
+        Sea Lily's Bell: 10000144
+        Seashell: 10000032
+        Shovel: 10000008
+        Single Arrow: 10000131
+        Slime Key: 10000015
+        Small Key (Angler's Tunnel): 10000038
+        Small Key (Bottle Grotto): 10000036
+        Small Key (Catfish's Maw): 10000039
+        Small Key (Color Dungeon): 10000043
+        Small Key (Eagle's Tower): 10000041
+        Small Key (Face Shrine): 10000040
+        Small Key (Key Cavern): 10000037
+        Small Key (Tail Cave): 10000035
+        Small Key (Turtle Rock): 10000042
+        Stick: 10000155
+        Stone Beak: 10000024
+        Stone Beak (Angler's Tunnel): 10000065
+        Stone Beak (Bottle Grotto): 10000063
+        Stone Beak (Catfish's Maw): 10000066
+        Stone Beak (Color Dungeon): 10000070
+        Stone Beak (Eagle's Tower): 10000068
+        Stone Beak (Face Shrine): 10000067
+        Stone Beak (Key Cavern): 10000064
+        Stone Beak (Tail Cave): 10000062
+        Stone Beak (Turtle Rock): 10000069
+        Surf Harp: 10000145
+        Tail Key: 10000017
+        Thunder Drum: 10000149
+        Toadstool: 10000080
+        Wind Marimba: 10000146
+        Yoshi Doll: 10000151
+      location_name_to_id:
+        Access Tunnel Bombable Heart Piece (Tal Tal Mountains): 10000698
+        Access Tunnel Exterior (Tal Tal Mountains): 10000024
+        Access Tunnel Interior (Tal Tal Mountains): 10000699
+        After Hinox Owl (Bottle Grotto): 10001297
+        After Stairs Key (Key Cavern): 10000333
+        Angler Fish Heart Container (Angler's Tunnel): 10000358
+        Armos Knight (Southern Face Shrine): 10000639
+        Ball Owl (Eagle's Tower): 10001534
+        Ball and Chain Darknut Leaf (Kanalet Castle): 10000710
+        Ballad of the Wind Fish (Mabe Village): 10000146
+        Banana Sale (Toronbo Shores): 10001766
+        Beamos Blocked Chest (Turtle Rock): 10000576
+        Beamos Ledge Chest (Eagle's Tower): 10000516
+        Beamos Owl (Eagle's Tower): 10001516
+        Beamos Owl (Turtle Rock): 10001595
+        Bear Cook (Animal Village): 10001727
+        Before First Staircase Owl (Bottle Grotto): 10001303
+        Bird Key Cave (Tal Tal Mountains): 10000634
+        Blade Trap Owl (Face Shrine): 10001471
+        Blob Chest (Angler's Tunnel): 10000365
+        Bomb Arrow Cave (Yarna Desert): 10000742
+        Bombable Blocks Owl (Turtle Rock): 10001581
+        Bombable Darknut Leaf (Kanalet Castle): 10000709
+        Bombable Wall Seashell Chest (Tail Cave): 10000268
+        Bomberman Meets Whack-a-mole Leaf (Kanalet Castle): 10000090
+        Boo Buddies Room Chest (Bottle Grotto): 10000288
+        Boomerang Guy Item (Toronbo Shores): 10000501
+        Boots 'n' Bomb Cave Bombable Wall (Ukuku Prairie): 10000741
+        Boots 'n' Bomb Cave Chest (Ukuku Prairie): 10000756
+        Boots Chest (Key Cavern): 10000326
+        Boots Pit (Kanalet Castle): 10000509
+        Bridge Rock (Tal Tal Mountains): 10000012
+        Bullshit Room (Color Dungeon): 10000775
+        Bush Field (Mabe Village): 10000163
+        Button Spawn Chest (Bottle Grotto): 10000313
+        Cave Crystal Chest (Mysterious Woods): 10000701
+        Cave East of Mabe (Ukuku Prairie): 10000717
+        Cave Skull Heart Piece (Mysterious Woods): 10000683
+        Cave Under Lanmola (Yarna Desert): 10000488
+        Conch Horn (Bottle Grotto): 10000298
+        Conveyor Beamos Chest (Eagle's Tower): 10000544
+        Coral Triangle (Face Shrine): 10000437
+        Corridor Owl (Face Shrine): 10001443
+        Crow Rock Leaf (Kanalet Castle): 10000088
+        Crystal Chest (Angler's Tunnel): 10000379
+        Crystal Key (Catfish's Maw): 10000385
+        Crystal Owl (Catfish's Maw): 10001410
+        Damp Cave Heart Piece (Tal Tal Heights): 10000498
+        Darknut, Zol, Bubble Leaf (Kanalet Castle): 10000722
+        Desert Owl (Yarna Desert): 10001207
+        Dodongo Chest (Turtle Rock): 10000573
+        Dog House Dig (Mabe Village): 10000690
+        Donut Plains Ledge Dig (Donut Plains): 10000168
+        Donut Plains Ledge Owl (Donut Plains): 10001168
+        Dream Hut East (Mabe Village): 10000703
+        Dream Hut West (Mabe Village): 10000702
+        East (Rapids Ride): 10000093
+        East of Mabe Tree Bonk (Ukuku Prairie): 10000164
+        East of Seashell Mansion Bush (Ukuku Prairie): 10000139
+        Enemy Order Room Chest (Bottle Grotto): 10000295
+        Entrance Chest (Bottle Grotto): 10000310
+        Entrance Chest (Color Dungeon): 10000783
+        Entrance Hookshottable Chest (Catfish's Maw): 10000416
+        Entrance Key (Eagle's Tower): 10000528
+        Entrance Owl (Color Dungeon): 10001783
+        Evil Eagle Heart Container (Eagle's Tower): 10000547
+        Facade Heart Container (Face Shrine): 10000444
+        Feather Chest (Tail Cave): 10000285
+        First Switch Locked Chest (Bottle Grotto): 10000312
+        Fisher (Martha's Bay): 10001757
+        Fishing Game Heart Piece (Mabe Village): 10000689
+        Five Chest Game (Tal Tal Mountains): 10000754
+        Flipper Locked After Boots Pit Chest (Angler's Tunnel): 10000366
+        Flipper Locked Before Boots Pit Chest (Angler's Tunnel): 10000373
+        Flippers Chest (Angler's Tunnel): 10000352
+        Flying Bomb Chest East (Catfish's Maw): 10000399
+        Flying Bomb Chest South (Catfish's Maw): 10000411
+        Flying Bomb Owl (Key Cavern): 10001320
+        Flying Heart, Statue Chest (Face Shrine): 10000457
+        Four Ropes Pot Chest (Turtle Rock): 10000607
+        Four Wizzrobe Ledge Chest (Face Shrine): 10000465
+        Four Zol Chest (Key Cavern): 10000335
+        Four Zol Chest (Tail Cave): 10000277
+        Full Moon Cello (Tail Cave): 10000258
+        Genie Heart Container (Bottle Grotto): 10000299
+        Ghost Grave Dig (Koholint Prairie): 10000116
+        Ghost House Barrel (Martha's Bay): 10000483
+        Gibdos on Cracked Floor Key (Turtle Rock): 10000574
+        Goat (Animal Village): 10001729
+        Grandma (Animal Village): 10001205
+        Graveyard Connector (Koholint Prairie): 10000735
+        Hardhat Beetle Pit Chest (Bottle Grotto): 10000302
+        Hardhat Beetles Key (Tail Cave): 10000278
+        Heart Piece of Shame (Koholint Prairie): 10000068
+        Hinox Key (Eagle's Tower): 10000539
+        Honeycomb (Ukuku Prairie): 10001135
+        Hookshot Cave (Mysterious Woods): 10000691
+        Hookshot Note Chest (Catfish's Maw): 10000406
+        Horse Head, Bubble Chest (Eagle's Tower): 10000530
+        Hot Head Heart Container (Turtle Rock): 10000564
+        In the Moat Heart Piece (Kanalet Castle): 10000120
+        Island Bush of Destiny (Martha's Bay): 10000248
+        Kiki (Ukuku Prairie): 10001123
+        Kirby Ledge Chest (Eagle's Tower): 10000513
+        L2 Bracelet Chest (Face Shrine): 10000462
+        Lanmola (Yarna Desert): 10000206
+        Lava Arrow Statue Key (Turtle Rock): 10000577
+        Lava Arrow Statue Owl (Turtle Rock): 10001577
+        Lava Ledge Chest (Turtle Rock): 10000565
+        Left Vire Key (Turtle Rock): 10000588
+        Left of Hinox Zamboni Chest (Turtle Rock): 10000589
+        Lone Bush (Martha's Bay): 10000233
+        Lower Bomb Locked Watery Chest (Angler's Tunnel): 10000369
+        Lower Small Key (Color Dungeon): 10000788
+        Mad Batter (Martha's Bay): 10000480
+        Mad Batter (Mysterious Woods): 10000481
+        Mad Batter (Tal Tal Mountains): 10000482
+        Magic Rod Chest (Turtle Rock): 10000567
+        Mamu (Ukuku Prairie): 10000763
+        Manbo's Mambo (Tal Tal Heights): 10000765
+        Mask-Mimic Chest (Bottle Grotto): 10000311
+        Mask-Mimic Key (Bottle Grotto): 10000308
+        Master Stalfos Item (Catfish's Maw): 10000384
+        Mermaid (Martha's Bay): 10001201
+        Mermaid Statue (Martha's Bay): 10001663
+        Mini-Moldorm Spawn Chest (Tail Cave): 10000269
+        Mini-Moldorm, Spark Chest (Face Shrine): 10000463
+        Mirror Shield Chest (Eagle's Tower): 10000538
+        Moblin Cave (Tal Tal Heights): 10000738
+        Moblin Cave Owl (Tal Tal Heights): 10001053
+        Moldorm Heart Container (Tail Cave): 10000262
+        Movable Block Owl (Tail Cave): 10001260
+        MrWrite (Goponga Swamp): 10001680
+        NW of Boots Pit Ledge Chest (Angler's Tunnel): 10000362
+        Nightmare Door Key (Key Cavern): 10000347
+        Nightmare Key Chest (Color Dungeon): 10000770
+        Nightmare Key Chest (Tail Cave): 10000264
+        Nightmare Key Ledge Chest (Angler's Tunnel): 10000374
+        Nightmare Key/After Grim Creeper Chest (Eagle's Tower): 10000548
+        Nightmare Key/Big Zamboni Chest (Turtle Rock): 10000562
+        Nightmare Key/Torch Cross Chest (Catfish's Maw): 10000390
+        North Key Room Key (Key Cavern): 10000340
+        North Key Room Owl (Key Cavern): 10001340
+        North of Write Owl (Goponga Swamp): 10001017
+        Organ of Evening Calm (Eagle's Tower): 10000556
+        Outside Boo Buddies Room Chest (Bottle Grotto): 10000289
+        Outside D1 Tree Bonk (Toronbo Shores): 10000210
+        Outside D3 Island Bush (Ukuku Prairie): 10000166
+        Outside D3 Ledge Dig (Ukuku Prairie): 10000165
+        Outside D7 Owl (Tal Tal Mountains): 10001030
+        Outside Five Chest Game (Tal Tal Mountains): 10000029
+        Outside Heart Piece (Turtle Rock): 10000000
+        Outside Mad Batter (Tal Tal Mountains): 10000004
+        Outside Owl (Southern Face Shrine): 10001143
+        Owl (Rapids Ride): 10001093
+        Papahl (Tal Tal Heights): 10001025
+        Papahl's Wife (Mabe Village): 10001678
+        Paphl Cave (Tal Tal Mountains): 10000650
+        Peninsula Dig (Martha's Bay): 10000218
+        Peninsula Owl (Martha's Bay): 10001218
+        Pit Button Chest (Tail Cave): 10000275
+        Pit Key (Angler's Tunnel): 10000361
+        Pot Locked Chest (Face Shrine): 10000438
+        Pot Owl (Face Shrine): 10001438
+        Push Block Chest (Turtle Rock): 10000591
+        Puzzowl (Color Dungeon): 10001778
+        Raft Chest (Face Shrine): 10000108
+        Right Lava Chest (Turtle Rock): 10000601
+        Rock Seashell (Donut Plains): 10000185
+        Rock Seashell (Yarna Desert): 10000255
+        Rooster (Mabe Village): 10000484
+        Sea Lily's Bell (Key Cavern): 10000345
+        Seashell Mansion (Ukuku Prairie): 10000745
+        Second Switch Locked Chest (Bottle Grotto): 10000290
+        Shop 10 Item (Mabe Village): 10003673
+        Shop 200 Item (Mabe Village): 10001673
+        Shop 980 Item (Mabe Village): 10002673
+        Slime Eel Heart Container (Catfish's Maw): 10000389
+        Slime Eye Heart Container (Key Cavern): 10000346
+        Slime Key Dig (Pothole Field): 10000198
+        Slime Key Owl (Pothole Field): 10001198
+        South Key Room Key (Key Cavern): 10000344
+        Spark Chest (Angler's Tunnel): 10000360
+        Spark, Mini-Moldorm Chest (Tail Cave): 10000270
+        Spark, Pit Chest (Turtle Rock): 10000597
+        Spark, Two Iron Mask Chest (Catfish's Maw): 10000414
+        Spiked Beetle Owl (Angler's Tunnel): 10001367
+        Spiked Beetle Owl (Tail Cave): 10001259
+        Stairs Across Statues Chest (Face Shrine): 10000441
+        Star Owl (Catfish's Maw): 10001394
+        Surf Harp (Angler's Tunnel): 10000354
+        Swampy Chest (Goponga Swamp): 10000052
+        Switch Owl (Bottle Grotto): 10001307
+        Switch Wrapped Chest (Eagle's Tower): 10000521
+        Switch, Star Above Statues Chest (Face Shrine): 10000435
+        Sword Stalfos, Keese Switch Chest (Key Cavern): 10000336
+        Sword on the Beach (Toronbo Shores): 10000242
+        Swort Stalfos, Star, Bridge Chest (Catfish's Maw): 10000392
+        Tail Key Chest (Mysterious Woods): 10000065
+        Tarin's Gift (Mabe Village): 10000675
+        Three Bombite Key (Key Cavern): 10000321
+        Three Iron Mask Chest (Catfish's Maw): 10000407
+        Three Stalfos Chest (Catfish's Maw): 10000387
+        Three Wizzrobe, Switch Chest (Face Shrine): 10000448
+        Three Zol, Stalfos Chest (Key Cavern): 10000322
+        Three of a Kind Chest (Tail Cave): 10000266
+        Three of a Kind Owl (Tail Cave): 10001266
+        Three of a Kind, No Pit Chest (Eagle's Tower): 10000529
+        Three of a Kind, Pit Chest (Eagle's Tower): 10000540
+        Three of a Kind, Pit Owl (Eagle's Tower): 10001540
+        Thunder Drum (Turtle Rock): 10000560
+        Tile Arrow Ledge Chest (Key Cavern): 10000327
+        Tile Arrow Owl (Key Cavern): 10001327
+        Tile Room Key (Face Shrine): 10000451
+        Toadstool (Mysterious Woods): 10000080
+        Top Left Horse Heads Chest (Face Shrine): 10000432
+        Top Right Horse Heads Chest (Face Shrine): 10000433
+        Trendy Game (Mabe Village): 10001672
+        Tunic Fairy Item 1 (Color Dungeon): 10001769
+        Tunic Fairy Item 2 (Color Dungeon): 10002769
+        Two Bombite, Sword Stalfos, Zol Chest (Key Cavern): 10000337
+        Two Socket Chest (Color Dungeon): 10000785
+        Two Spiked Beetle, Zol Chest (Angler's Tunnel): 10000376
+        Two Stalfos Key (Bottle Grotto): 10000306
+        Two Stalfos, Star Pit Chest (Catfish's Maw): 10000398
+        Two Stalfos, Two Keese Chest (Tail Cave): 10000276
+        Two Stalfos, Zol Chest (Key Cavern): 10000334
+        Two Torches Room Chest (Turtle Rock): 10000582
+        Two Wizzrobe Key (Face Shrine): 10000436
+        Two Zol, Moblin Chest (Mysterious Woods): 10000113
+        Two Zol, Stalfos Ledge Chest (Key Cavern): 10000324
+        Two Zol, Two Pairodd Key (Key Cavern): 10000328
+        Under Armos Cave (Southern Face Shrine): 10000764
+        Under Richard's House (Pothole Field): 10000712
+        Upper Bomb Locked Watery Chest (Angler's Tunnel): 10000357
+        Upper Key Owl (Color Dungeon): 10001776
+        Upper Small Key (Color Dungeon): 10000776
+        Vacuum Mouth Chest (Bottle Grotto): 10000294
+        Vacuum Mouth Chest (Key Cavern): 10000339
+        Vacuum Mouth Chest (Turtle Rock): 10000604
+        Water Tektite Chest (Face Shrine): 10000446
+        Watery Statue Chest (Angler's Tunnel): 10000377
+        Well Heart Piece (Mabe Village): 10000676
+        West (Rapids Ride): 10000092
+        West Key Room Key (Key Cavern): 10000341
+        West of Boss Door Ledge Chest (Turtle Rock): 10000570
+        West of Ghost House Chest (Toronbo Shores): 10000229
+        Wind Marimba (Catfish's Maw): 10000386
+        Witch Item (Koholint Prairie): 10000674
+        Write Cave East (Goponga Swamp): 10000687
+        Write Cave West (Goponga Swamp): 10000686
+        YipYip (Mabe Village): 10001690
+        Zamboni, Two Zol Key (Turtle Rock): 10000602
+        Zol Chest (Color Dungeon): 10000774
+        Zol Switch Chest (Key Cavern): 10000332
+      version: 0
+    MegaMan Battle Network 3:
+      item_name_to_id:
+        1 BugFrag: 11735222
+        10 BugFrags: 11735221
+        10000z: 11735208
+        1000z: 11735200
+        1200z: 11735201
+        1400z: 11735202
+        1600z: 11735203
+        1800z: 11735204
+        2000z: 11735205
+        200z: 11735195
+        30 BugFrags: 11735211
+        30000z: 11735209
+        3000z: 11735206
+        50000z: 11735210
+        500z: 11735196
+        600z: 11735197
+        800z: 11735198
+        9000z: 11735207
+        900z: 11735199
+        AirShoes *: 11735070
+        AirShot3 *: 11735071
+        Airshoes: 11735172
+        "AlphaArm\u03A9 V": 11735171
+        AntiNavi M: 11735072
+        AntiRecv B: 11735073
+        AntiSword Y: 11735074
+        Aqua+30 *: 11735075
+        Attack+1 (Pink): 11735174
+        Attack+1 (White): 11735173
+        Aura F: 11735076
+        BambooSword N: 11735077
+        Barr100 E: 11735078
+        Barr200 E: 11735079
+        Barrier E: 11735080
+        Barrier L: 11735081
+        Bass+ X: 11735167
+        BeastMan B: 11735236
+        BeastMan V2 B: 11735237
+        BeastMan V3 B: 11735238
+        BlkBomb1 P: 11735082
+        BlkBomb2 S: 11735083
+        BowlMan B: 11735260
+        BowlMan V2 B: 11735261
+        BowlMan V3 B: 11735262
+        BrkChrg: 11735175
+        BubblMan B: 11735239
+        BubblMan V2 B: 11735240
+        BubblMan V3 B: 11735241
+        Bubbler C: 11735213
+        CACDCPas: 11735041
+        CBeacPas: 11735044
+        CSciPass: 11735042
+        CYokaPas: 11735043
+        Cannon C: 11735084
+        Charge+1 (Pink): 11735176
+        Charge+1 (White): 11735177
+        Collect: 11735178
+        CopyDmg *: 11735085
+        CustSwrd Z: 11735086
+        DarkAura A: 11735170
+        DeltaRay Z: 11735168
+        DesertMan D: 11735242
+        DesertMan V2 D: 11735243
+        DesertMan V3 D: 11735244
+        DrillMan D: 11735251
+        DrillMan V2 D: 11735252
+        DrillMan V3 D: 11735253
+        DynaWave V: 11735087
+        ElecSwrd P: 11735088
+        ExpMem: 11735048
+        Fire+30 *: 11735089
+        FireRat H: 11735090
+        FireSwrd P: 11735091
+        FlamMan F: 11735248
+        FlamMan V2 F: 11735249
+        FlamMan V3 F: 11735250
+        FlashMan F: 11735233
+        FlashMan V2 F: 11735234
+        FlashMan V3 F: 11735235
+        Fountain *: 11735159
+        FstGauge *: 11735092
+        FullEnrg: 11735068
+        GaiaBlde *: 11735093
+        Geddon1 *: 11735094
+        Geddon1 D: 11735095
+        Geddon3 U: 11735096
+        Geyser B: 11735097
+        GigFldr1: 11735179
+        GrabBack K: 11735098
+        GrabRvng A: 11735099
+        GrabRvng Y: 11735100
+        GtStrght S: 11735101
+        Guardian O: 11735102
+        GutImpact H: 11735103
+        GutImpct J: 11735104
+        GutPunch E: 11735105
+        GutStrgt Q: 11735107
+        GutsMan G: 11735227
+        GutsMan V2 G: 11735228
+        GutsMan V3 G: 11735229
+        GutsPunch B: 11735106
+        HP+100 (Pink): 11735180
+        HP+100 (Yellow): 11735181
+        HP+200 (Yellow): 11735182
+        HP+500 (Yellow): 11735183
+        HPMemory: 11735058
+        Hammer T: 11735108
+        HeatSide T: 11735109
+        HeroSwrd P: 11735110
+        HiCannon *: 11735111
+        Hole *: 11735112
+        HoleMetr H: 11735215
+        HubBatc: 11735184
+        IceStage *: 11735113
+        Invis *: 11735114
+        Jealousy J: 11735115
+        Jungle: 11735185
+        KingMan K: 11735257
+        KingMan V2 K: 11735258
+        KingMan V3 K: 11735259
+        Lance S: 11735116
+        LockEnmy: 11735066
+        LongSwrd E: 11735117
+        Magnum1 A: 11735118
+        MetalMan M: 11735254
+        MetalMan V2 M: 11735255
+        MetalMan V3 M: 11735256
+        MiniEnrg: 11735067
+        ModTools: 11735047
+        Mr Famous's Wristband: 11735062
+        Muramasa M: 11735119
+        Navi+40 *: 11735120
+        Needle: 11735218
+        OilBody: 11735186
+        OrderSys: 11735046
+        PETCase: 11735219
+        Panic C: 11735121
+        PanlOut3 *: 11735122
+        PlantMan P: 11735245
+        PlantMan V2 P: 11735246
+        PlantMan V3 P: 11735247
+        Poltergeist G: 11735123
+        Press: 11735194
+        Prism Q: 11735124
+        Progressive Undernet Rank: 11735040
+        ProtoMan B: 11735230
+        ProtoMan V2 B: 11735231
+        ProtoMan V3 B: 11735232
+        Punk P: 11735169
+        QuickGge: 11735187
+        Recov10 *: 11735125
+        Recov120 *: 11735126
+        Recov120 O: 11735127
+        Recov120 S: 11735128
+        Recov150 P: 11735129
+        Recov200 N: 11735130
+        Recov30 *: 11735131
+        Recov300 R: 11735132
+        Recov50 G: 11735133
+        RegUP1: 11735059
+        RegUP2: 11735060
+        RegUP3: 11735061
+        Repair *: 11735134
+        Repair A: 11735135
+        Rockcube *: 11735136
+        Roll R: 11735224
+        Roll V2 R: 11735225
+        Roll V3 R: 11735226
+        Rook F: 11735137
+        Salamndr *: 11735138
+        SandStage C: 11735139
+        SetSand: 11735188
+        Shadow J: 11735216
+        Shake1 S: 11735214
+        SideGun S: 11735140
+        Slasher B: 11735141
+        SloGuage *: 11735142
+        Snake D: 11735143
+        Snctuary C: 11735144
+        SneakRun: 11735189
+        SonicWav W: 11735212
+        Speed+1 (Yellow): 11735190
+        SpinBlue: 11735053
+        SpinDark: 11735057
+        SpinGrn: 11735054
+        SpinOrange: 11735055
+        SpinPink: 11735050
+        SpinPurple: 11735056
+        SpinRed: 11735052
+        SpinWht: 11735049
+        SpinYllw: 11735051
+        Spreader *: 11735145
+        Spreader N: 11735146
+        Spreader P: 11735147
+        StepCross Q: 11735148
+        StepCross R: 11735149
+        StepSwrd M: 11735150
+        StepSwrd N: 11735151
+        StepSwrd O: 11735152
+        StpCross S: 11735153
+        SubMem: 11735063
+        SubPET: 11735217
+        Sword E: 11735154
+        Team1 *: 11735155
+        Team2 *: 11735156
+        Thndrblt *: 11735157
+        Tornado L: 11735158
+        UnderSht: 11735223
+        Unlocker: 11735064
+        Untrap: 11735065
+        VarSword B: 11735160
+        VarSword F: 11735161
+        WWW ID: 11735045
+        WideSwrd C: 11735162
+        WideSwrd E: 11735163
+        WideSwrd L: 11735164
+        WpnLV +1 (White): 11735191
+        WpnLV+1 (Pink): 11735192
+        WpnLV+1 (Yellow): 11735193
+        Yo-Yo1 D: 11735165
+        ZeusHammer Z: 11735166
+      location_name_to_id:
+        ACDC 1 Northeast BMD: 11735041
+        ACDC 1 PMD: 11735172
+        ACDC 1 Southwest BMD: 11735040
+        ACDC 2 Center BMD: 11735042
+        ACDC 2 North BMD: 11735043
+        ACDC 3 Northeast BMD: 11735045
+        ACDC 3 Southwest BMD: 11735044
+        ACDC Bubbler C Trade: 11735186
+        ACDC Class 5B Bookshelf: 11735198
+        ACDC Dog House BMD: 11735127
+        ACDC Lan's Security Panel BMD: 11735128
+        ACDC NumberMan Display BMD: 11735130
+        ACDC Recov120 S Trade: 11735187
+        ACDC School Blackboard BMD: 11735135
+        ACDC School Server BMD 1: 11735133
+        ACDC School Server BMD 2: 11735134
+        ACDC SonicWav W Trade: 11735185
+        ACDC Tank BMD 1: 11735131
+        ACDC Tank BMD 2: 11735132
+        ACDC Yai's Phone BMD: 11735129
+        Beach 1 BMD: 11735054
+        Beach 1 PMD: 11735174
+        Beach 2 East BMD: 11735056
+        Beach 2 West BMD: 11735055
+        Beach Battle Console BMD: 11735149
+        Beach Broadcast Computer BMD: 11735151
+        Beach DNN Boxes: 11735209
+        Beach DNN HoleMetr H Trade: 11735192
+        Beach DNN Kiosk: 11735208
+        Beach DNN Main Console PMD: 11735180
+        Beach DNN Poster: 11735210
+        Beach DNN Security Panel PMD: 11735179
+        Beach DNN Shadow J Trade: 11735193
+        Beach DNN WideSwrd C Trade: 11735191
+        Beach Department Store: 11735202
+        Beach Hospital Bed BMD: 11735145
+        Beach Hospital Girl: 11735207
+        Beach Hospital Hidden Conversation: 11735206
+        Beach Hospital Pink Door: 11735204
+        Beach Hospital Plaque: 11735203
+        Beach Hospital Tree: 11735205
+        Beach News Van BMD: 11735148
+        Beach Security System BMD: 11735150
+        Beach TV BMD: 11735146
+        Beach Vending Machine BMD: 11735147
+        Chocolate Shop 01: 11735278
+        Chocolate Shop 02: 11735279
+        Chocolate Shop 03: 11735280
+        Chocolate Shop 04: 11735281
+        Chocolate Shop 05: 11735282
+        Chocolate Shop 06: 11735283
+        Chocolate Shop 07: 11735284
+        Chocolate Shop 08: 11735285
+        Chocolate Shop 09: 11735286
+        Chocolate Shop 10: 11735287
+        Chocolate Shop 11: 11735288
+        Chocolate Shop 12: 11735289
+        Chocolate Shop 13: 11735290
+        Chocolate Shop 14: 11735291
+        Chocolate Shop 15: 11735292
+        Chocolate Shop 16: 11735293
+        Chocolate Shop 17: 11735294
+        Chocolate Shop 18: 11735295
+        Chocolate Shop 19: 11735296
+        Chocolate Shop 20: 11735297
+        Chocolate Shop 21: 11735298
+        Chocolate Shop 22: 11735299
+        Chocolate Shop 23: 11735300
+        Chocolate Shop 24: 11735301
+        Chocolate Shop 25: 11735302
+        Chocolate Shop 26: 11735303
+        Chocolate Shop 27: 11735304
+        Chocolate Shop 28: 11735305
+        Chocolate Shop 29: 11735306
+        Chocolate Shop 30: 11735307
+        Chocolate Shop 31: 11735308
+        Chocolate Shop 32: 11735309
+        Comedian: 11735195
+        Dex's HP BMD 1: 11735157
+        Dex's HP BMD 2: 11735158
+        Hades Boat Dock: 11735211
+        Hades Gargoyle BMD: 11735152
+        Hades GrabBack K Trade: 11735194
+        Hades Quiz King: 11735184
+        Hades South BMD: 11735102
+        Hospital 1 Center BMD: 11735103
+        Hospital 1 North BMD: 11735105
+        Hospital 1 West BMD: 11735104
+        Hospital 2 Central BMD: 11735107
+        Hospital 2 Island BMD: 11735108
+        Hospital 2 Southwest BMD: 11735106
+        Hospital 3 Central BMD: 11735109
+        Hospital 3 Northwest BMD: 11735111
+        Hospital 3 West BMD: 11735110
+        Hospital 4 Central BMD: 11735112
+        Hospital 4 North BMD: 11735114
+        Hospital 4 Southeast BMD: 11735113
+        Hospital 5 Island BMD: 11735117
+        Hospital 5 Northeast BMD: 11735116
+        Hospital 5 Southwest BMD: 11735115
+        Hospital DynaWav V Trade: 11735190
+        Hospital Quiz Queen: 11735183
+        'Job: Be my boyfriend': 11735222
+        'Job: Catching gang members': 11735232
+        'Job: Chip Prices': 11735219
+        'Job: Finding the blue Navi': 11735241
+        'Job: Give your support': 11735242
+        'Job: Help me with my son!': 11735217
+        'Job: Help with a will': 11735244
+        'Job: Help with rehab': 11735230
+        'Job: Hide and seek! Completion': 11735240
+        'Job: Hide and seek! First Child': 11735236
+        'Job: Hide and seek! Fourth Child': 11735239
+        'Job: Hide and seek! Second Child': 11735237
+        'Job: Hide and seek! Third Child': 11735238
+        'Job: I''m broke?!': 11735220
+        'Job: Legendary Tomes': 11735234
+        'Job: Legendary Tomes - Treasure': 11735235
+        'Job: Looking for condor': 11735229
+        'Job: My Navi is sick': 11735216
+        'Job: Old Master': 11735231
+        'Job: Please adopt a virus!': 11735233
+        'Job: Please deliver this': 11735215
+        'Job: Rare chips for cheap!': 11735221
+        'Job: Somebody, please help!': 11735228
+        'Job: Stamp collecting': 11735243
+        'Job: Transmission error': 11735218
+        'Job: Will you deliver?': 11735223
+        Mayl's HP BMD: 11735154
+        Mayl's HP PMD: 11735176
+        Numberman Code 01: 11735245
+        Numberman Code 02: 11735246
+        Numberman Code 03: 11735247
+        Numberman Code 04: 11735248
+        Numberman Code 05: 11735249
+        Numberman Code 06: 11735250
+        Numberman Code 07: 11735251
+        Numberman Code 08: 11735252
+        Numberman Code 09: 11735253
+        Numberman Code 10: 11735254
+        Numberman Code 11: 11735255
+        Numberman Code 12: 11735256
+        Numberman Code 13: 11735257
+        Numberman Code 14: 11735258
+        Numberman Code 15: 11735259
+        Numberman Code 16: 11735260
+        Numberman Code 17: 11735261
+        Numberman Code 18: 11735262
+        Numberman Code 19: 11735263
+        Numberman Code 20: 11735264
+        Numberman Code 21: 11735265
+        Numberman Code 22: 11735266
+        Numberman Code 23: 11735267
+        Numberman Code 24: 11735268
+        Numberman Code 25: 11735269
+        Numberman Code 26: 11735270
+        Numberman Code 27: 11735271
+        Numberman Code 28: 11735272
+        Numberman Code 29: 11735273
+        Numberman Code 30: 11735274
+        Numberman Code 31: 11735275
+        School 1 Entrance BMD: 11735083
+        School 1 Far West BMD 2: 11735085
+        School 1 KeyDataA BMD: 11735161
+        School 1 KeyDataB BMD: 11735162
+        School 1 KeyDataC BMD: 11735163
+        School 1 North Central BMD: 11735084
+        School 2 CodeA BMD: 11735165
+        School 2 CodeB BMD: 11735166
+        School 2 CodeC BMD: 11735164
+        School 2 Entrance BMD: 11735086
+        School 2 Mainframe BMD: 11735088
+        School 2 South BMD: 11735087
+        SciLab 1 East BMD: 11735047
+        SciLab 1 WWW BMD: 11735046
+        SciLab 2 South BMD: 11735049
+        SciLab 2 West BMD: 11735048
+        SciLab Dad's Computer BMD: 11735138
+        SciLab Dad's Computer PMD: 11735177
+        SciLab Garbage Can: 11735199
+        SciLab Shake1 S Trade: 11735188
+        SciLab Vending Machine BMD: 11735136
+        SciLab Virus Lab Door BMD 1: 11735137
+        SciLab Virus Lab Door BMD 2: 11735277
+        Secret 1 Northeast BMD: 11735075
+        Secret 1 Northwest BMD: 11735076
+        Secret 1 South BMD: 11735074
+        Secret 2 Island BMD: 11735079
+        Secret 2 Lower BMD: 11735078
+        Secret 2 Upper BMD: 11735077
+        Secret 3 BugFrag BMD: 11735082
+        Secret 3 Island BMD: 11735081
+        Secret 3 South BMD: 11735080
+        Tamako's HP BMD: 11735159
+        Tamako's HP PMD: 11735181
+        Undernet 1 South BMD: 11735057
+        Undernet 1 WWW BMD: 11735058
+        Undernet 2 Lower BMD: 11735060
+        Undernet 2 Upper BMD: 11735059
+        Undernet 3 Central BMD: 11735062
+        Undernet 3 South BMD: 11735061
+        Undernet 4 Bottom West BMD: 11735063
+        Undernet 4 Pillar Prog: 11735214
+        Undernet 4 Top North BMD: 11735065
+        Undernet 4 Top Pillar BMD: 11735064
+        Undernet 5 Lower BMD: 11735067
+        Undernet 5 Upper BMD: 11735066
+        Undernet 6 Central BMD: 11735069
+        Undernet 6 East BMD: 11735068
+        Undernet 6 TV BMD: 11735070
+        Undernet 7 Northeast BMD: 11735073
+        Undernet 7 Northwest BMD: 11735072
+        Undernet 7 PMD: 11735175
+        Undernet 7 West BMD: 11735071
+        Villain: 11735196
+        WWW 1 Central BMD: 11735118
+        WWW 1 East BMD: 11735120
+        WWW 1 West BMD: 11735119
+        WWW 2 East BMD: 11735121
+        WWW 2 Northwest BMD: 11735122
+        WWW 3 East BMD: 11735123
+        WWW 3 North BMD: 11735124
+        WWW 4 Central BMD: 11735126
+        WWW 4 Northwest BMD: 11735125
+        WWW Control Room 1 Screen: 11735212
+        WWW Wall BMD: 11735153
+        WWW Wily's Desk: 11735213
+        Yai's HP BMD 1: 11735155
+        Yai's HP BMD 2: 11735156
+        Yoka 1 North BMD: 11735050
+        Yoka 1 PMD: 11735173
+        Yoka 1 WWW BMD: 11735051
+        Yoka 2 Lower BMD: 11735053
+        Yoka 2 Upper BMD: 11735052
+        Yoka Armor BMD: 11735139
+        Yoka FireSwrd P Trade: 11735189
+        Yoka Giraffe BMD: 11735143
+        Yoka Hot Spring BMD: 11735141
+        Yoka Inn Jars: 11735200
+        Yoka Mr Quiz: 11735276
+        Yoka Panda BMD: 11735144
+        Yoka Quiz Master: 11735182
+        Yoka TV BMD: 11735140
+        Yoka Ticket Machine BMD: 11735142
+        Yoka Zoo Garbage: 11735201
+        Zoo 1 Central BMD: 11735090
+        Zoo 1 East BMD: 11735089
+        Zoo 1 North BMD: 11735091
+        Zoo 2 Central BMD: 11735093
+        Zoo 2 East BMD: 11735092
+        Zoo 2 West BMD: 11735094
+        Zoo 3 Central BMD: 11735096
+        Zoo 3 North BMD: 11735095
+        Zoo 3 Northwest BMD: 11735098
+        Zoo 3 Path BMD: 11735097
+        Zoo 4 Northwest BMD: 11735100
+        Zoo 4 Southeast BMD: 11735101
+        Zoo 4 West BMD: 11735099
+        Zoo Panda PMD: 11735178
+      version: 0
+    Muse Dash:
+      item_name_to_id:
+        '#Psychedelic_Meguro_River': 290059
+        -+: 290469
+        7th Beat Games: 290195
+        8bit Adventurer: 290412
+        A Philosophical Wanderer: 290175
+        AKUMU /: 290070
+        ALiVE: 290245
+        ANGEL HALO: 290183
+        ARIGA THESIS: 290057
+        ARUYA HARERUYA: 290214
+        AXION: 290390
+        Adjudicatorz-DanZai-: 290471
+        Alice in Misanthrope: 290477
+        Altale: 290431
+        Amakakeru Soukyuu no Serenade: 290456
+        Amatsumikaboshi: 290056
+        Amenemhat: 290260
+        Amnesia: 290391
+        Aqua Stars: 290045
+        Arcaea: 290165
+        Autumn Moods: 290085
+        BATTLE NO.1: 290246
+        BLESS ME: 290217
+        Baby Pink: 290130
+        Bad Apple!! feat. Nomico: 290189
+        Bang!!: 290171
+        Bass Telekinesis: 290027
+        Believing and Being: 290064
+        Berry Go!!: 290433
+        Best One feat.tooko: 290013
+        Better Graphic Animation: 290311
+        Bit-alize: 290463
+        Black River Feat.Mes: 290385
+        Blackest Luxury Car: 290030
+        Blah!!: 290263
+        Blush: 290215
+        Boiling Blood: 290078
+        Bomb-Sniffing Pomeranian: 290197
+        Booouncing!!: 290236
+        Boys in Virtual Land: 290137
+        Brain Power: 290432
+        Brave My Heart: 290410
+        Brave My Soul: 290438
+        Breaker city: 290282
+        Breaking Dawn: 290004
+        Bright Dream: 290151
+        Brilliant & Shining!: 290097
+        Budget Is Burning Vol.1: 290444
+        'Budget Is Burning: Nano Core': 290342
+        Burn: 290243
+        CHAOS: 290256
+        CHAOS Glitch: 290264
+        Cage of Almeria: 290028
+        Can I friend you on Bassbook? lol: 290301
+        Can We Talk: 290162
+        Candy-coloured Love Theory: 290014
+        Catalyst: 290065
+        Chariot: 290180
+        Cheshire's Dance: 290405
+        Chrome VOX: 290255
+        Chronomia: 290426
+        Cirno's Perfect Math Class: 290191
+        Clock Room & Spiritual World: 290047
+        Colored Glass: 290224
+        Colorful Star, Colored Drawing, Travel Poem: 290383
+        Comet Coaster: 290249
+        Computer Music Girl: 290284
+        Confession: 290024
+        Confession Support Formula: 290330
+        Cotton Candy Wonderland: 290368
+        Creamy Sugary OVERDRIVE!!!: 290340
+        Crimson Nightingle: 290440
+        Cross Ray: 290277
+        Cthugha: 290247
+        Cute Is Everything Vol.1: 290479
+        Cute Is Everything Vol.2: 290395
+        Cute Is Everything Vol.3: 290381
+        Cute Is Everything Vol.4: 290360
+        Cute Is Everything Vol.5: 290328
+        Cute Is Everything Vol.6: 290279
+        Cute Is Everything Vol.7: 290223
+        Cutter: 290232
+        Cyaegha: 290169
+        D.I.Y.: 290136
+        DISCO NIGHT: 290018
+        DJMAX Reflect: 290149
+        DROPS: 290072
+        Daisuki Dayo feat.Wotoha: 290148
+        Dandelion's Daydream: 290427
+        DarakuDatenshi: 290135
+        Daruma-san Fell Over: 290483
+        DataErr0r: 290242
+        Dating Manifesto: 290399
+        Deep Blue and the Breaths of the Night: 290362
+        Default Music: 290000
+        Departure Road: 290026
+        Desastre: 290270
+        Destr0yer: 290417
+        Different: 290484
+        Diffraction: 290069
+        Disorder: 290341
+        Dohna Dohna no Uta: 290016
+        DokiDoki! Valentine!: 290145
+        Dolphin and Broadcast: 290011
+        Don't Die: 290159
+        Don't Make the Vocalist do Anything Insane: 290090
+        Doppelganger: 290144
+        Dossoles Holiday: 290084
+        Down Low: 290093
+        Dr.Techro: 290359
+        Dreaming Girl: 290482
+        Dysthymia: 290035
+        EMOMOMO: 290200
+        ENDLESS CIDER: 290118
+        ENERGY SYNERGY MATRIX: 290309
+        EXIST: 290344
+        Eeliaas: 290380
+        Elastic STAR: 290155
+        Elysion's Old Mans: 290389
+        Endless Error Loop: 290088
+        Enka Dance Music: 290454
+        Etude -Storm-: 290377
+        Etude -Sunset-: 290447
+        Evolution: 290010
+        FM 17314 SUGAR RADIO: 290218
+        FREEDOM DiVE: 290337
+        FUJIN Rumble: 290288
+        FULi AUTO SHOOTER: 290326
+        FUTUREPOP: 290332
+        Fancy Night: 290161
+        Fantasia Sonata Destiny: 290124
+        Final Step!: 290275
+        Find this Month's Featured Playlist: 290115
+        Fireflies: 290252
+        First Snow: 290400
+        Flashdance: 290348
+        Flowery Moonlit Night: 290193
+        Fly Again: 290421
+        Fly High: 290370
+        Focus Point: 290285
+        Forbidden Pizza!: 290089
+        Formation: 290040
+        Frightfully-insane Flan-chan's frightful song: 290073
+        From the New World: 290036
+        Frost Land: 290006
+        Funkotsu Saishin Casino: 290046
+        Future Dive: 290375
+        Future Stream: 290325
+        GASHATT: 290181
+        GIMME DA BLOOD: 290167
+        GOODBOUNCE: 290443
+        GOODFORTUNE: 290327
+        GOODMEN: 290478
+        GOODRAGE: 290429
+        GOODTEK: 290464
+        GOODWORLD: 290394
+        Gaikan Chrysalis: 290403
+        Galaxy Striker: 290025
+        Gaming*Everything: 290302
+        Gift box: 290457
+        Ginevra: 290295
+        Girly Cupid: 290280
+        Give Me 5: 290163
+        Give Up TREATMENT Vol.1: 290472
+        Give Up TREATMENT Vol.10: 290230
+        Give Up TREATMENT Vol.11: 290098
+        Give Up TREATMENT Vol.2: 290437
+        Give Up TREATMENT Vol.3: 290430
+        Give Up TREATMENT Vol.4: 290416
+        Give Up TREATMENT Vol.5: 290402
+        Give Up TREATMENT Vol.6: 290374
+        Give Up TREATMENT Vol.7: 290353
+        Give Up TREATMENT Vol.8: 290335
+        Give Up TREATMENT Vol.9: 290307
+        Gleam stone: 290393
+        Glimmer: 290343
+        Gloomy Flash: 290114
+        Good Life: 290298
+        Goodbye Boss: 290448
+        Goodbye Goodnight: 290117
+        Groove Prayer: 290287
+        Groovin Up: 290152
+        HARDCORE TANO*C: 290244
+        HEXENNACHTROCK-katashihaya-: 290262
+        HG Makaizou Polyvinyl Shounen: 290290
+        Halcyon: 290439
+        Happiness Breeze: 290254
+        Happy Otaku Pack SP: 290237
+        Happy Otaku Pack Vol.1: 290465
+        Happy Otaku Pack Vol.10: 290293
+        Happy Otaku Pack Vol.11: 290272
+        Happy Otaku Pack Vol.12: 290202
+        Happy Otaku Pack Vol.13: 290184
+        Happy Otaku Pack Vol.14: 290170
+        Happy Otaku Pack Vol.15: 290119
+        Happy Otaku Pack Vol.16: 290091
+        Happy Otaku Pack Vol.2: 290458
+        Happy Otaku Pack Vol.3: 290451
+        Happy Otaku Pack Vol.4: 290423
+        Happy Otaku Pack Vol.5: 290409
+        Happy Otaku Pack Vol.6: 290388
+        Happy Otaku Pack Vol.7: 290367
+        Happy Otaku Pack Vol.8: 290346
+        Happy Otaku Pack Vol.9: 290321
+        Haze of Autumn: 290166
+        Heart-Pounding Flight: 290007
+        Heisha Onsha: 290294
+        Heracles: 290201
+        Hibari: 290207
+        Hiiro Gekka Kyousai no Zetsu: 290192
+        Holy Sh*t Grass Snake: 290366
+        Hope for the flowers: 290226
+        Hoshi no otoshimono: 290122
+        Howlin' Pumpkin: 290187
+        Hydrangea: 290259
+        I LOVE LETTUCE FRIED RICE!!: 290334
+        I Want You: 290153
+        I am really good at Japanese style: 290240
+        I am sorry for my existence: 290386
+        I don't care about Christmas though: 290033
+        I'm Gonna Buy! Buy! Buy!: 290398
+        I'm Here: 290131
+        IKAROS: 290323
+        INFINITY: 290354
+        INFiNiTE ENERZY -Overdoze-: 290349
+        INTERNET OVERDOSE: 290048
+        Igallta: 290222
+        Imaginary World: 290034
+        Imprinting: 290460
+        In-kya Yo-kya Onmyoji: 290142
+        Inferno City: 290100
+        Instant Soluble Neon: 290396
+        Inu no outa: 290076
+        Invader: 290441
+        Ira: 290029
+        Iro wa Nioedo, Chirinuru wo: 290190
+        Irreplaceable: 290345
+        Isouten: 290176
+        Iyaiya: 290002
+        JUMP! HardCandy: 290206
+        Jealousy: 290157
+        Joy Connection: 290363
+        Just Disobedient: 290365
+        Just as Planned  Plus: 290054
+        KABOOOOOM!!!!: 290143
+        Kafig: 290468
+        Kakoinaki Yo wa Ichigo no Tsukikage: 290109
+        Kill My Fortune: 290204
+        Kimi to pool disco: 290320
+        Koi no Moonlight: 290019
+        Kuishinbo Hacker feat.Kuishinbo Akachan: 290075
+        Kyoukiranbu: 290419
+        LIN NE KRO NE feat. lasah: 290182
+        LOUDER MACHINE: 290094
+        La nuit de vif: 290462
+        Latitude: 290044
+        Leave It Alone: 290424
+        Legend of Eastern Rabbit -SKY DEFENDER-: 290308
+        Let' s GROOVE!: 290286
+        Let's Do Bad Things Together: 290265
+        Lian Ai Audio Navigation: 290020
+        Libertas: 290168
+        Light up my love!!: 290253
+        Lights of Muse: 290021
+        Lilith ambivalence lovers: 290436
+        Lorikeet ~Flat design~: 290428
+        Love-Avoidance Addiction: 290147
+        Lueur de la nuit: 290339
+        Luna Express 2032: 290475
+        Lyrith: 290442
+        Lys Tourbillon: 290450
+        MAGENTA POTION: 290276
+        MARENOL: 290239
+        MEGAREX THE FUTURE: 290112
+        MSR Anthology: 290077
+        MUSE RADIO FM101: 290314
+        MUSE RADIO FM102: 290209
+        MUSE RADIO FM103: 290126
+        MUSEDASH!!!!: 290459
+        Madara: 290268
+        Magic Knight Girl: 290379
+        Magic Spell: 290382
+        Magical Number: 290481
+        Magical Wonderland: 290001
+        Maharajah: 290466
+        'ManiFesto:': 290079
+        Marry me, Nightmare: 290289
+        Masquerade Diary: 290133
+        Maxi: 290356
+        Medicine of Sing: 290031
+        Medusa: 290274
+        Memory of Beach: 290158
+        Mezame Eurythmics: 290042
+        Midnight O'clock: 290061
+        MilK: 290051
+        Mischievous Sensation: 290111
+        Monosugoi Space Shuttle de Koishi ga Monosugoi uta: 290108
+        Moonlight Banquet: 290347
+        Mopemope: 290053
+        Mousou Chu!!: 290229
+        Mujinku-Vacuum: 290050
+        Music Sheet: 290486
+        My Life Is For You: 290446
+        NISEGAO: 290037
+        NO ONE YES MAN: 290220
+        Naked Summer: 290216
+        Nanahira Festival: 290300
+        Nanahira Paradise: 290086
+        Nekojarashi: 290174
+        Neonlights: 290225
+        Newbies, Geeks, Internets: 290305
+        Night Wander: 290015
+        Night of Nights: 290058
+        NightTheater: 290231
+        Nightmare: 290164
+        Nihao: 290023
+        Noel: 290418
+        Not Ornament: 290129
+        Notice: 290317
+        Nyan Cat: 290140
+        Nyanya Universe!: 290139
+        OBLIVION: 290154
+        OCCHOCO-REST-LESS: 290208
+        OKIMOCHI EXPRESSION: 290319
+        ONOMATO Pairing!!!: 290178
+        Omatsuri: 290331
+        On And On!!: 290120
+        One Way Street: 290350
+        One-Way Subway: 290005
+        Onegai!Kon kon Oinarisama: 290306
+        Onsen Dai Sakusen: 290392
+        Operation Blade: 290080
+        Oriens: 290473
+        Out of Sense: 290445
+        PUPA: 290474
+        Pancake is Love: 290008
+        Paracelestia: 290296
+        Paradigm Shift: 290101
+        Paradise 2: 290172
+        Party in the HOLLOWood: 290185
+        Patchouli's - Best Hit GSK: 290107
+        People People: 290087
+        PeroPero in the Universe: 290141
+        PeroPeroGames goes Bankrupt: 290238
+        Phi: 290338
+        Phigros: 290219
+        Pixel Galaxy: 290316
+        Plucky Race: 290123
+        Plumage: 290358
+        Power Attack: 290415
+        Pray a LOVE: 290146
+        Preparara: 290266
+        Prestige and Vestige: 290103
+        Psyched Fevereiro: 290099
+        Psychedelic Kizakura Doumei: 290110
+        Punai Punai Genso: 290310
+        Punai Punai Senso: 290355
+        Punai Punai Taiso: 290369
+        Queen Aluett: 290071
+        RUBY:LINTe: 290408
+        Radiant: 290081
+        Rave_Tech: 290096
+        Re:End of a Dream: 290376
+        Reminiscence: 290134
+        Renegade: 290082
+        Renji de haochi: 290303
+        Retrospective Peom on the Planet: 290397
+        Rin: 290062
+        Rollerdisco Rumble: 290198
+        Rose Garden: 290199
+        Run through: 290125
+        Rush B: 290241
+        Rush-More: 290203
+        SKY HIGH: 290228
+        SWEETSWEETSWEET: 290361
+        Saika: 290257
+        Sakura Fubuki: 290411
+        Sand Maze: 290068
+        Santouka: 290261
+        Satell Knight: 290384
+        Say! Fanfare!: 290038
+        Seaside Cycling on May 30: 290227
+        See-Saw Day: 290210
+        Seikimatsu no Natsu: 290212
+        Seizya no Ibuki: 290291
+        Self Willed Girl Ver.B: 290364
+        Shenri Kuaira -repeat-: 290043
+        Shiguang Tuya: 290009
+        Shinsou Masui: 290041
+        Shoot for the Moon: 290271
+        Skrik: 290406
+        Skyward: 290461
+        Smile-mileS: 290063
+        Snapdragon: 290102
+        Snowfall, Merry Christmas: 290221
+        Soda Pop Canva5!: 290407
+        Sorewa mo Lovechu: 290095
+        Speed of Light: 290083
+        Spring Carnival: 290017
+        Square Lake: 290278
+        Standby for Action: 290258
+        Star Driver: 290039
+        Stargazer: 290449
+        Sterelogue: 290404
+        Strawberry Godzilla: 290318
+        Suffering of screw: 290413
+        Sunday Night: 290116
+        Sunshine and Rainbow after August Rain: 290480
+        Super Battleworn Insomniac: 290196
+        Sweet* Witch* Girl*: 290434
+        Symbol: 290173
+        TWINKLE*MAGIC: 290248
+        Tenri Kaku Jou: 290470
+        The 89's Momentum: 290372
+        The 90's Decision: 290273
+        The Breeze: 290333
+        The Dessert After Rain: 290329
+        The Future of the Phantom: 290485
+        The Happycore Idol: 290055
+        The Last Page: 290322
+        The NightScape: 290336
+        Thirty Million Persona: 290452
+        This Club is Not 4 U: 290351
+        Tiny Fate: 290104
+        Tokimeki*Meteostrike: 290092
+        Touhou Mugakudan -1-: 290188
+        Touhou Mugakudan -2-: 290105
+        Trip!: 290121
+        Tsubasa no Oreta Tenshitachi no Requiem: 290425
+        Tsuki ni Murakumo Hana ni Kaze: 290106
+        Tsukuyomi: 290324
+        Tu Hua: 290049
+        Two Phace: 290420
+        U.A.D: 290156
+        ULTRA MEGA HAPPY PARTY!!!: 290352
+        Ueta Tori Tachi: 290387
+        Ukiyoe Yokochou: 290476
+        Ultra Happy Miracle Bazoooooka!!: 290313
+        Unconscious Requiem: 290194
+        Unlimited Katharsis: 290378
+        Variant Cross: 290312
+        Virtual Idol Production: 290132
+        WACCA Horizon: 290177
+        Whatcha;Whatcha Doin': 290267
+        White Canvas: 290113
+        Wonderful Pain: 290003
+        XING: 290455
+        XODUS: 290250
+        Xin Shang Huahai: 290401
+        Y CE Ver.: 290160
+        YInMn Blue: 290357
+        Ying Ying da Zuozhan: 290186
+        Yosari Tsukibotaru Suminoborite: 290205
+        You Make My Life 1UP: 290304
+        Yuki no Shizuku Ame no Oto: 290012
+        bamboo: 290233
+        c.s.q.n.: 290235
+        can you feel it: 290060
+        conflict: 290453
+        cyTus: 290251
+        daydream girl: 290128
+        don't!stop!eroero!: 290066
+        enchanted love: 290234
+        energy night: 290373
+        glory day: 290150
+        happy hour: 290211
+        heterodoxy: 290283
+        irregulyze: 290032
+        keep on running: 290467
+        kui: 290138
+        marooned night: 290127
+        midstream jam: 290022
+        nini-nini-: 290299
+        ouroVoros: 290422
+        ouroboros -twin stroke of the end-: 290292
+        pICARESq: 290269
+        pa pi pu pi pu pi pa: 290067
+        prejudice: 290371
+        sheep in the light: 290281
+        snooze: 290074
+        tape/stop/night: 290315
+        tiny lady: 290414
+        trippers feeling!: 290435
+        twinkle night: 290213
+        umpopoff: 290052
+        un secret: 290297
+        with U: 290179
+      location_name_to_id:
+        '#Psychedelic_Meguro_River-0': 290234
+        '#Psychedelic_Meguro_River-1': 290235
+        -+-0: 290942
+        -+-1: 290943
+        7th Beat Games-0: 290038
+        7th Beat Games-1: 290039
+        8bit Adventurer-0: 290844
+        8bit Adventurer-1: 290845
+        A Philosophical Wanderer-0: 290438
+        A Philosophical Wanderer-1: 290439
+        AKUMU /-0: 290256
+        AKUMU /-1: 290257
+        ALiVE-0: 290556
+        ALiVE-1: 290557
+        ANGEL HALO-0: 290452
+        ANGEL HALO-1: 290453
+        ARIGA THESIS-0: 290230
+        ARIGA THESIS-1: 290231
+        ARUYA HARERUYA-0: 290504
+        ARUYA HARERUYA-1: 290505
+        AXION-0: 290806
+        AXION-1: 290807
+        Adjudicatorz-DanZai--0: 290946
+        Adjudicatorz-DanZai--1: 290947
+        Alice in Misanthrope-0: 290956
+        Alice in Misanthrope-1: 290957
+        Altale-0: 290876
+        Altale-1: 290877
+        Amakakeru Soukyuu no Serenade-0: 290920
+        Amakakeru Soukyuu no Serenade-1: 290921
+        Amatsumikaboshi-0: 290228
+        Amatsumikaboshi-1: 290229
+        Amenemhat-0: 290584
+        Amenemhat-1: 290585
+        Amnesia-0: 290808
+        Amnesia-1: 290809
+        Aqua Stars-0: 290208
+        Aqua Stars-1: 290209
+        Arcaea-0: 290028
+        Arcaea-1: 290029
+        Autumn Moods-0: 290284
+        Autumn Moods-1: 290285
+        BATTLE NO.1-0: 290558
+        BATTLE NO.1-1: 290559
+        BLESS ME-0: 290510
+        BLESS ME-1: 290511
+        Baby Pink-0: 290360
+        Baby Pink-1: 290361
+        Bad Apple!! feat. Nomico-0: 290460
+        Bad Apple!! feat. Nomico-1: 290461
+        Bang!!-0: 290430
+        Bang!!-1: 290431
+        Bass Telekinesis-0: 290172
+        Bass Telekinesis-1: 290173
+        Believing and Being-0: 290244
+        Believing and Being-1: 290245
+        Berry Go!!-0: 290880
+        Berry Go!!-1: 290881
+        Best One feat.tooko-0: 290144
+        Best One feat.tooko-1: 290145
+        Better Graphic Animation-0: 290672
+        Better Graphic Animation-1: 290673
+        Bit-alize-0: 290932
+        Bit-alize-1: 290933
+        Black River Feat.Mes-0: 290798
+        Black River Feat.Mes-1: 290799
+        Blackest Luxury Car-0: 290178
+        Blackest Luxury Car-1: 290179
+        Blah!!-0: 290590
+        Blah!!-1: 290591
+        Blush-0: 290506
+        Blush-1: 290507
+        Boiling Blood-0: 290270
+        Boiling Blood-1: 290271
+        Bomb-Sniffing Pomeranian-0: 290474
+        Bomb-Sniffing Pomeranian-1: 290475
+        Booouncing!!-0: 290542
+        Booouncing!!-1: 290543
+        Boys in Virtual Land-0: 290372
+        Boys in Virtual Land-1: 290373
+        Brain Power-0: 290878
+        Brain Power-1: 290879
+        Brave My Heart-0: 290840
+        Brave My Heart-1: 290841
+        Brave My Soul-0: 290888
+        Brave My Soul-1: 290889
+        Breaker city-0: 290622
+        Breaker city-1: 290623
+        Breaking Dawn-0: 290126
+        Breaking Dawn-1: 290127
+        Bright Dream-0: 290394
+        Bright Dream-1: 290395
+        Brilliant & Shining!-0: 290304
+        Brilliant & Shining!-1: 290305
+        Budget Is Burning Vol.1-0: 290108
+        Budget Is Burning Vol.1-1: 290109
+        'Budget Is Burning: Nano Core-0': 290078
+        'Budget Is Burning: Nano Core-1': 290079
+        Burn-0: 290554
+        Burn-1: 290555
+        CHAOS Glitch-0: 290592
+        CHAOS Glitch-1: 290593
+        CHAOS-0: 290576
+        CHAOS-1: 290577
+        Cage of Almeria-0: 290174
+        Cage of Almeria-1: 290175
+        Can I friend you on Bassbook? lol-0: 290654
+        Can I friend you on Bassbook? lol-1: 290655
+        Can We Talk-0: 290416
+        Can We Talk-1: 290417
+        Candy-coloured Love Theory-0: 290146
+        Candy-coloured Love Theory-1: 290147
+        Catalyst-0: 290246
+        Catalyst-1: 290247
+        Chariot-0: 290446
+        Chariot-1: 290447
+        Cheshire's Dance-0: 290832
+        Cheshire's Dance-1: 290833
+        Chrome VOX-0: 290574
+        Chrome VOX-1: 290575
+        Chronomia-0: 290868
+        Chronomia-1: 290869
+        Cirno's Perfect Math Class-0: 290464
+        Cirno's Perfect Math Class-1: 290465
+        Clock Room & Spiritual World-0: 290212
+        Clock Room & Spiritual World-1: 290213
+        Colored Glass-0: 290520
+        Colored Glass-1: 290521
+        Colorful Star, Colored Drawing, Travel Poem-0: 290794
+        Colorful Star, Colored Drawing, Travel Poem-1: 290795
+        Comet Coaster-0: 290564
+        Comet Coaster-1: 290565
+        Computer Music Girl-0: 290626
+        Computer Music Girl-1: 290627
+        Confession Support Formula-0: 290704
+        Confession Support Formula-1: 290705
+        Confession-0: 290166
+        Confession-1: 290167
+        Cotton Candy Wonderland-0: 290768
+        Cotton Candy Wonderland-1: 290769
+        Creamy Sugary OVERDRIVE!!!-0: 290722
+        Creamy Sugary OVERDRIVE!!!-1: 290723
+        Crimson Nightingle-0: 290892
+        Crimson Nightingle-1: 290893
+        Cross Ray-0: 290614
+        Cross Ray-1: 290615
+        Cthugha-0: 290560
+        Cthugha-1: 290561
+        Cute Is Everything Vol.1-0: 290118
+        Cute Is Everything Vol.1-1: 290119
+        Cute Is Everything Vol.2-0: 290094
+        Cute Is Everything Vol.2-1: 290095
+        Cute Is Everything Vol.3-0: 290090
+        Cute Is Everything Vol.3-1: 290091
+        Cute Is Everything Vol.4-0: 290084
+        Cute Is Everything Vol.4-1: 290085
+        Cute Is Everything Vol.5-0: 290074
+        Cute Is Everything Vol.5-1: 290075
+        Cute Is Everything Vol.6-0: 290060
+        Cute Is Everything Vol.6-1: 290061
+        Cute Is Everything Vol.7-0: 290046
+        Cute Is Everything Vol.7-1: 290047
+        Cutter-0: 290534
+        Cutter-1: 290535
+        Cyaegha-0: 290428
+        Cyaegha-1: 290429
+        D.I.Y.-0: 290370
+        D.I.Y.-1: 290371
+        DISCO NIGHT-0: 290154
+        DISCO NIGHT-1: 290155
+        DJMAX Reflect-0: 290026
+        DJMAX Reflect-1: 290027
+        DROPS-0: 290260
+        DROPS-1: 290261
+        Daisuki Dayo feat.Wotoha-0: 290390
+        Daisuki Dayo feat.Wotoha-1: 290391
+        Dandelion's Daydream-0: 290870
+        Dandelion's Daydream-1: 290871
+        DarakuDatenshi-0: 290368
+        DarakuDatenshi-1: 290369
+        Daruma-san Fell Over-0: 290966
+        Daruma-san Fell Over-1: 290967
+        DataErr0r-0: 290552
+        DataErr0r-1: 290553
+        Dating Manifesto-0: 290822
+        Dating Manifesto-1: 290823
+        Deep Blue and the Breaths of the Night-0: 290758
+        Deep Blue and the Breaths of the Night-1: 290759
+        Default Music-0: 290000
+        Default Music-1: 290001
+        Departure Road-0: 290170
+        Departure Road-1: 290171
+        Desastre-0: 290602
+        Desastre-1: 290603
+        Destr0yer-0: 290852
+        Destr0yer-1: 290853
+        Different-0: 290968
+        Different-1: 290969
+        Diffraction-0: 290254
+        Diffraction-1: 290255
+        Disorder-0: 290724
+        Disorder-1: 290725
+        Dohna Dohna no Uta-0: 290150
+        Dohna Dohna no Uta-1: 290151
+        DokiDoki! Valentine!-0: 290024
+        DokiDoki! Valentine!-1: 290025
+        Dolphin and Broadcast-0: 290140
+        Dolphin and Broadcast-1: 290141
+        Don't Die-0: 290410
+        Don't Die-1: 290411
+        Don't Make the Vocalist do Anything Insane-0: 290292
+        Don't Make the Vocalist do Anything Insane-1: 290293
+        Doppelganger-0: 290384
+        Doppelganger-1: 290385
+        Dossoles Holiday-0: 290282
+        Dossoles Holiday-1: 290283
+        Down Low-0: 290296
+        Down Low-1: 290297
+        Dr.Techro-0: 290754
+        Dr.Techro-1: 290755
+        Dreaming Girl-0: 290964
+        Dreaming Girl-1: 290965
+        Dysthymia-0: 290188
+        Dysthymia-1: 290189
+        EMOMOMO-0: 290480
+        EMOMOMO-1: 290481
+        ENDLESS CIDER-0: 290340
+        ENDLESS CIDER-1: 290341
+        ENERGY SYNERGY MATRIX-0: 290668
+        ENERGY SYNERGY MATRIX-1: 290669
+        EXIST-0: 290728
+        EXIST-1: 290729
+        Eeliaas-0: 290790
+        Eeliaas-1: 290791
+        Elastic STAR-0: 290402
+        Elastic STAR-1: 290403
+        Elysion's Old Mans-0: 290804
+        Elysion's Old Mans-1: 290805
+        Endless Error Loop-0: 290288
+        Endless Error Loop-1: 290289
+        Enka Dance Music-0: 290916
+        Enka Dance Music-1: 290917
+        Etude -Storm--0: 290784
+        Etude -Storm--1: 290785
+        Etude -Sunset--0: 290904
+        Etude -Sunset--1: 290905
+        Evolution-0: 290138
+        Evolution-1: 290139
+        FM 17314 SUGAR RADIO-0: 290512
+        FM 17314 SUGAR RADIO-1: 290513
+        FREEDOM DiVE-0: 290716
+        FREEDOM DiVE-1: 290717
+        FUJIN Rumble-0: 290632
+        FUJIN Rumble-1: 290633
+        FULi AUTO SHOOTER-0: 290698
+        FULi AUTO SHOOTER-1: 290699
+        FUTUREPOP-0: 290708
+        FUTUREPOP-1: 290709
+        Fancy Night-0: 290414
+        Fancy Night-1: 290415
+        Fantasia Sonata Destiny-0: 290350
+        Fantasia Sonata Destiny-1: 290351
+        Final Step!-0: 290610
+        Final Step!-1: 290611
+        Find this Month's Featured Playlist-0: 290334
+        Find this Month's Featured Playlist-1: 290335
+        Fireflies-0: 290568
+        Fireflies-1: 290569
+        First Snow-0: 290824
+        First Snow-1: 290825
+        Flashdance-0: 290734
+        Flashdance-1: 290735
+        Flowery Moonlit Night-0: 290468
+        Flowery Moonlit Night-1: 290469
+        Fly Again-0: 290860
+        Fly Again-1: 290861
+        Fly High-0: 290772
+        Fly High-1: 290773
+        Focus Point-0: 290628
+        Focus Point-1: 290629
+        Forbidden Pizza!-0: 290290
+        Forbidden Pizza!-1: 290291
+        Formation-0: 290198
+        Formation-1: 290199
+        Frightfully-insane Flan-chan's frightful song-0: 290262
+        Frightfully-insane Flan-chan's frightful song-1: 290263
+        From the New World-0: 290190
+        From the New World-1: 290191
+        Frost Land-0: 290130
+        Frost Land-1: 290131
+        Funkotsu Saishin Casino-0: 290210
+        Funkotsu Saishin Casino-1: 290211
+        Future Dive-0: 290780
+        Future Dive-1: 290781
+        Future Stream-0: 290696
+        Future Stream-1: 290697
+        GASHATT-0: 290448
+        GASHATT-1: 290449
+        GIMME DA BLOOD-0: 290424
+        GIMME DA BLOOD-1: 290425
+        GOODBOUNCE-0: 290898
+        GOODBOUNCE-1: 290899
+        GOODFORTUNE-0: 290700
+        GOODFORTUNE-1: 290701
+        GOODMEN-0: 290958
+        GOODMEN-1: 290959
+        GOODRAGE-0: 290874
+        GOODRAGE-1: 290875
+        GOODTEK-0: 290934
+        GOODTEK-1: 290935
+        GOODWORLD-0: 290814
+        GOODWORLD-1: 290815
+        Gaikan Chrysalis-0: 290828
+        Gaikan Chrysalis-1: 290829
+        Galaxy Striker-0: 290168
+        Galaxy Striker-1: 290169
+        Gaming*Everything-0: 290656
+        Gaming*Everything-1: 290657
+        Gift box-0: 290922
+        Gift box-1: 290923
+        Ginevra-0: 290644
+        Ginevra-1: 290645
+        Girly Cupid-0: 290618
+        Girly Cupid-1: 290619
+        Give Me 5-0: 290418
+        Give Me 5-1: 290419
+        Give Up TREATMENT Vol.1-0: 290116
+        Give Up TREATMENT Vol.1-1: 290117
+        Give Up TREATMENT Vol.10-0: 290048
+        Give Up TREATMENT Vol.10-1: 290049
+        Give Up TREATMENT Vol.11-0: 290010
+        Give Up TREATMENT Vol.11-1: 290011
+        Give Up TREATMENT Vol.2-0: 290106
+        Give Up TREATMENT Vol.2-1: 290107
+        Give Up TREATMENT Vol.3-0: 290104
+        Give Up TREATMENT Vol.3-1: 290105
+        Give Up TREATMENT Vol.4-0: 290100
+        Give Up TREATMENT Vol.4-1: 290101
+        Give Up TREATMENT Vol.5-0: 290096
+        Give Up TREATMENT Vol.5-1: 290097
+        Give Up TREATMENT Vol.6-0: 290088
+        Give Up TREATMENT Vol.6-1: 290089
+        Give Up TREATMENT Vol.7-0: 290082
+        Give Up TREATMENT Vol.7-1: 290083
+        Give Up TREATMENT Vol.8-0: 290076
+        Give Up TREATMENT Vol.8-1: 290077
+        Give Up TREATMENT Vol.9-0: 290068
+        Give Up TREATMENT Vol.9-1: 290069
+        Gleam stone-0: 290812
+        Gleam stone-1: 290813
+        Glimmer-0: 290726
+        Glimmer-1: 290727
+        Gloomy Flash-0: 290332
+        Gloomy Flash-1: 290333
+        Good Life-0: 290650
+        Good Life-1: 290651
+        Goodbye Boss-0: 290906
+        Goodbye Boss-1: 290907
+        Goodbye Goodnight-0: 290338
+        Goodbye Goodnight-1: 290339
+        Groove Prayer-0: 290630
+        Groove Prayer-1: 290631
+        Groovin Up-0: 290396
+        Groovin Up-1: 290397
+        HARDCORE TANO*C-0: 290052
+        HARDCORE TANO*C-1: 290053
+        HEXENNACHTROCK-katashihaya--0: 290588
+        HEXENNACHTROCK-katashihaya--1: 290589
+        HG Makaizou Polyvinyl Shounen-0: 290636
+        HG Makaizou Polyvinyl Shounen-1: 290637
+        Halcyon-0: 290890
+        Halcyon-1: 290891
+        Happiness Breeze-0: 290572
+        Happiness Breeze-1: 290573
+        Happy Otaku Pack SP-0: 290050
+        Happy Otaku Pack SP-1: 290051
+        Happy Otaku Pack Vol.1-0: 290114
+        Happy Otaku Pack Vol.1-1: 290115
+        Happy Otaku Pack Vol.10-0: 290064
+        Happy Otaku Pack Vol.10-1: 290065
+        Happy Otaku Pack Vol.11-0: 290058
+        Happy Otaku Pack Vol.11-1: 290059
+        Happy Otaku Pack Vol.12-0: 290040
+        Happy Otaku Pack Vol.12-1: 290041
+        Happy Otaku Pack Vol.13-0: 290034
+        Happy Otaku Pack Vol.13-1: 290035
+        Happy Otaku Pack Vol.14-0: 290030
+        Happy Otaku Pack Vol.14-1: 290031
+        Happy Otaku Pack Vol.15-0: 290016
+        Happy Otaku Pack Vol.15-1: 290017
+        Happy Otaku Pack Vol.16-0: 290008
+        Happy Otaku Pack Vol.16-1: 290009
+        Happy Otaku Pack Vol.2-0: 290112
+        Happy Otaku Pack Vol.2-1: 290113
+        Happy Otaku Pack Vol.3-0: 290110
+        Happy Otaku Pack Vol.3-1: 290111
+        Happy Otaku Pack Vol.4-0: 290102
+        Happy Otaku Pack Vol.4-1: 290103
+        Happy Otaku Pack Vol.5-0: 290098
+        Happy Otaku Pack Vol.5-1: 290099
+        Happy Otaku Pack Vol.6-0: 290092
+        Happy Otaku Pack Vol.6-1: 290093
+        Happy Otaku Pack Vol.7-0: 290086
+        Happy Otaku Pack Vol.7-1: 290087
+        Happy Otaku Pack Vol.8-0: 290080
+        Happy Otaku Pack Vol.8-1: 290081
+        Happy Otaku Pack Vol.9-0: 290072
+        Happy Otaku Pack Vol.9-1: 290073
+        Haze of Autumn-0: 290422
+        Haze of Autumn-1: 290423
+        Heart-Pounding Flight-0: 290132
+        Heart-Pounding Flight-1: 290133
+        Heisha Onsha-0: 290642
+        Heisha Onsha-1: 290643
+        Heracles-0: 290482
+        Heracles-1: 290483
+        Hibari-0: 290492
+        Hibari-1: 290493
+        Hiiro Gekka Kyousai no Zetsu-0: 290466
+        Hiiro Gekka Kyousai no Zetsu-1: 290467
+        Holy Sh*t Grass Snake-0: 290766
+        Holy Sh*t Grass Snake-1: 290767
+        Hope for the flowers-0: 290524
+        Hope for the flowers-1: 290525
+        Hoshi no otoshimono-0: 290346
+        Hoshi no otoshimono-1: 290347
+        Howlin' Pumpkin-0: 290458
+        Howlin' Pumpkin-1: 290459
+        Hydrangea-0: 290582
+        Hydrangea-1: 290583
+        I LOVE LETTUCE FRIED RICE!!-0: 290712
+        I LOVE LETTUCE FRIED RICE!!-1: 290713
+        I Want You-0: 290398
+        I Want You-1: 290399
+        I am really good at Japanese style-0: 290548
+        I am really good at Japanese style-1: 290549
+        I am sorry for my existence-0: 290800
+        I am sorry for my existence-1: 290801
+        I don't care about Christmas though-0: 290184
+        I don't care about Christmas though-1: 290185
+        I'm Gonna Buy! Buy! Buy!-0: 290820
+        I'm Gonna Buy! Buy! Buy!-1: 290821
+        I'm Here-0: 290362
+        I'm Here-1: 290363
+        IKAROS-0: 290692
+        IKAROS-1: 290693
+        INFINITY-0: 290744
+        INFINITY-1: 290745
+        INFiNiTE ENERZY -Overdoze--0: 290736
+        INFiNiTE ENERZY -Overdoze--1: 290737
+        INTERNET OVERDOSE-0: 290214
+        INTERNET OVERDOSE-1: 290215
+        Igallta-0: 290518
+        Igallta-1: 290519
+        Imaginary World-0: 290186
+        Imaginary World-1: 290187
+        Imprinting-0: 290926
+        Imprinting-1: 290927
+        In-kya Yo-kya Onmyoji-0: 290380
+        In-kya Yo-kya Onmyoji-1: 290381
+        Inferno City-0: 290308
+        Inferno City-1: 290309
+        Instant Soluble Neon-0: 290816
+        Instant Soluble Neon-1: 290817
+        Inu no outa-0: 290268
+        Inu no outa-1: 290269
+        Invader-0: 290894
+        Invader-1: 290895
+        Ira-0: 290176
+        Ira-1: 290177
+        Iro wa Nioedo, Chirinuru wo-0: 290462
+        Iro wa Nioedo, Chirinuru wo-1: 290463
+        Irreplaceable-0: 290730
+        Irreplaceable-1: 290731
+        Isouten-0: 290440
+        Isouten-1: 290441
+        Iyaiya-0: 290122
+        Iyaiya-1: 290123
+        JUMP! HardCandy-0: 290490
+        JUMP! HardCandy-1: 290491
+        Jealousy-0: 290406
+        Jealousy-1: 290407
+        Joy Connection-0: 290760
+        Joy Connection-1: 290761
+        Just Disobedient-0: 290764
+        Just Disobedient-1: 290765
+        Just as Planned  Plus-0: 290002
+        Just as Planned  Plus-1: 290003
+        KABOOOOOM!!!!-0: 290382
+        KABOOOOOM!!!!-1: 290383
+        Kafig-0: 290940
+        Kafig-1: 290941
+        Kakoinaki Yo wa Ichigo no Tsukikage-0: 290324
+        Kakoinaki Yo wa Ichigo no Tsukikage-1: 290325
+        Kill My Fortune-0: 290486
+        Kill My Fortune-1: 290487
+        Kimi to pool disco-0: 290688
+        Kimi to pool disco-1: 290689
+        Koi no Moonlight-0: 290156
+        Koi no Moonlight-1: 290157
+        Kuishinbo Hacker feat.Kuishinbo Akachan-0: 290266
+        Kuishinbo Hacker feat.Kuishinbo Akachan-1: 290267
+        Kyoukiranbu-0: 290856
+        Kyoukiranbu-1: 290857
+        LIN NE KRO NE feat. lasah-0: 290450
+        LIN NE KRO NE feat. lasah-1: 290451
+        LOUDER MACHINE-0: 290298
+        LOUDER MACHINE-1: 290299
+        La nuit de vif-0: 290930
+        La nuit de vif-1: 290931
+        Latitude-0: 290206
+        Latitude-1: 290207
+        Leave It Alone-0: 290864
+        Leave It Alone-1: 290865
+        Legend of Eastern Rabbit -SKY DEFENDER--0: 290666
+        Legend of Eastern Rabbit -SKY DEFENDER--1: 290667
+        Let' s GROOVE!-0: 290062
+        Let' s GROOVE!-1: 290063
+        Let's Do Bad Things Together-0: 290056
+        Let's Do Bad Things Together-1: 290057
+        Lian Ai Audio Navigation-0: 290158
+        Lian Ai Audio Navigation-1: 290159
+        Libertas-0: 290426
+        Libertas-1: 290427
+        Light up my love!!-0: 290570
+        Light up my love!!-1: 290571
+        Lights of Muse-0: 290160
+        Lights of Muse-1: 290161
+        Lilith ambivalence lovers-0: 290886
+        Lilith ambivalence lovers-1: 290887
+        Lorikeet ~Flat design~-0: 290872
+        Lorikeet ~Flat design~-1: 290873
+        Love-Avoidance Addiction-0: 290388
+        Love-Avoidance Addiction-1: 290389
+        Lueur de la nuit-0: 290720
+        Lueur de la nuit-1: 290721
+        Luna Express 2032-0: 290952
+        Luna Express 2032-1: 290953
+        Lyrith-0: 290896
+        Lyrith-1: 290897
+        Lys Tourbillon-0: 290910
+        Lys Tourbillon-1: 290911
+        MAGENTA POTION-0: 290612
+        MAGENTA POTION-1: 290613
+        MARENOL-0: 290546
+        MARENOL-1: 290547
+        MEGAREX THE FUTURE-0: 290014
+        MEGAREX THE FUTURE-1: 290015
+        MSR Anthology-0: 290004
+        MSR Anthology-1: 290005
+        MUSE RADIO FM101-0: 290070
+        MUSE RADIO FM101-1: 290071
+        MUSE RADIO FM102-0: 290042
+        MUSE RADIO FM102-1: 290043
+        MUSE RADIO FM103-0: 290018
+        MUSE RADIO FM103-1: 290019
+        MUSEDASH!!!!-0: 290924
+        MUSEDASH!!!!-1: 290925
+        Madara-0: 290598
+        Madara-1: 290599
+        Magic Knight Girl-0: 290788
+        Magic Knight Girl-1: 290789
+        Magic Spell-0: 290792
+        Magic Spell-1: 290793
+        Magical Number-0: 290962
+        Magical Number-1: 290963
+        Magical Wonderland-0: 290120
+        Magical Wonderland-1: 290121
+        Maharajah-0: 290936
+        Maharajah-1: 290937
+        ManiFesto:-0: 290272
+        ManiFesto:-1: 290273
+        Marry me, Nightmare-0: 290634
+        Marry me, Nightmare-1: 290635
+        Masquerade Diary-0: 290364
+        Masquerade Diary-1: 290365
+        Maxi-0: 290748
+        Maxi-1: 290749
+        Medicine of Sing-0: 290180
+        Medicine of Sing-1: 290181
+        Medusa-0: 290608
+        Medusa-1: 290609
+        Memory of Beach-0: 290408
+        Memory of Beach-1: 290409
+        Mezame Eurythmics-0: 290202
+        Mezame Eurythmics-1: 290203
+        Midnight O'clock-0: 290238
+        Midnight O'clock-1: 290239
+        MilK-0: 290220
+        MilK-1: 290221
+        Mischievous Sensation-0: 290328
+        Mischievous Sensation-1: 290329
+        Monosugoi Space Shuttle de Koishi ga Monosugoi uta-0: 290322
+        Monosugoi Space Shuttle de Koishi ga Monosugoi uta-1: 290323
+        Moonlight Banquet-0: 290732
+        Moonlight Banquet-1: 290733
+        Mopemope-0: 290224
+        Mopemope-1: 290225
+        Mousou Chu!!-0: 290530
+        Mousou Chu!!-1: 290531
+        Mujinku-Vacuum-0: 290218
+        Mujinku-Vacuum-1: 290219
+        My Life Is For You-0: 290902
+        My Life Is For You-1: 290903
+        NISEGAO-0: 290192
+        NISEGAO-1: 290193
+        NO ONE YES MAN-0: 290514
+        NO ONE YES MAN-1: 290515
+        Naked Summer-0: 290508
+        Naked Summer-1: 290509
+        Nanahira Festival-0: 290066
+        Nanahira Festival-1: 290067
+        Nanahira Paradise-0: 290006
+        Nanahira Paradise-1: 290007
+        Nekojarashi-0: 290436
+        Nekojarashi-1: 290437
+        Neonlights-0: 290522
+        Neonlights-1: 290523
+        Newbies, Geeks, Internets-0: 290662
+        Newbies, Geeks, Internets-1: 290663
+        Night Wander-0: 290148
+        Night Wander-1: 290149
+        Night of Nights-0: 290232
+        Night of Nights-1: 290233
+        NightTheater-0: 290532
+        NightTheater-1: 290533
+        Nightmare-0: 290420
+        Nightmare-1: 290421
+        Nihao-0: 290164
+        Nihao-1: 290165
+        Noel-0: 290854
+        Noel-1: 290855
+        Not Ornament-0: 290358
+        Not Ornament-1: 290359
+        Notice-0: 290682
+        Notice-1: 290683
+        Nyan Cat-0: 290376
+        Nyan Cat-1: 290377
+        Nyanya Universe!-0: 290022
+        Nyanya Universe!-1: 290023
+        OBLIVION-0: 290400
+        OBLIVION-1: 290401
+        OCCHOCO-REST-LESS-0: 290494
+        OCCHOCO-REST-LESS-1: 290495
+        OKIMOCHI EXPRESSION-0: 290686
+        OKIMOCHI EXPRESSION-1: 290687
+        ONOMATO Pairing!!!-0: 290442
+        ONOMATO Pairing!!!-1: 290443
+        Omatsuri-0: 290706
+        Omatsuri-1: 290707
+        On And On!!-0: 290342
+        On And On!!-1: 290343
+        One Way Street-0: 290738
+        One Way Street-1: 290739
+        One-Way Subway-0: 290128
+        One-Way Subway-1: 290129
+        Onegai!Kon kon Oinarisama-0: 290664
+        Onegai!Kon kon Oinarisama-1: 290665
+        Onsen Dai Sakusen-0: 290810
+        Onsen Dai Sakusen-1: 290811
+        Operation Blade-0: 290274
+        Operation Blade-1: 290275
+        Oriens-0: 290948
+        Oriens-1: 290949
+        Out of Sense-0: 290900
+        Out of Sense-1: 290901
+        PUPA-0: 290950
+        PUPA-1: 290951
+        Pancake is Love-0: 290134
+        Pancake is Love-1: 290135
+        Paracelestia-0: 290646
+        Paracelestia-1: 290647
+        Paradigm Shift-0: 290310
+        Paradigm Shift-1: 290311
+        Paradise 2-0: 290432
+        Paradise 2-1: 290433
+        Party in the HOLLOWood-0: 290454
+        Party in the HOLLOWood-1: 290455
+        Patchouli's - Best Hit GSK-0: 290320
+        Patchouli's - Best Hit GSK-1: 290321
+        People People-0: 290286
+        People People-1: 290287
+        PeroPero in the Universe-0: 290378
+        PeroPero in the Universe-1: 290379
+        PeroPeroGames goes Bankrupt-0: 290544
+        PeroPeroGames goes Bankrupt-1: 290545
+        Phi-0: 290718
+        Phi-1: 290719
+        Phigros-0: 290044
+        Phigros-1: 290045
+        Pixel Galaxy-0: 290680
+        Pixel Galaxy-1: 290681
+        Plucky Race-0: 290348
+        Plucky Race-1: 290349
+        Plumage-0: 290752
+        Plumage-1: 290753
+        Power Attack-0: 290850
+        Power Attack-1: 290851
+        Pray a LOVE-0: 290386
+        Pray a LOVE-1: 290387
+        Preparara-0: 290594
+        Preparara-1: 290595
+        Prestige and Vestige-0: 290314
+        Prestige and Vestige-1: 290315
+        Psyched Fevereiro-0: 290306
+        Psyched Fevereiro-1: 290307
+        Psychedelic Kizakura Doumei-0: 290326
+        Psychedelic Kizakura Doumei-1: 290327
+        Punai Punai Genso-0: 290670
+        Punai Punai Genso-1: 290671
+        Punai Punai Senso-0: 290746
+        Punai Punai Senso-1: 290747
+        Punai Punai Taiso-0: 290770
+        Punai Punai Taiso-1: 290771
+        Queen Aluett-0: 290258
+        Queen Aluett-1: 290259
+        RUBY:LINTe-0: 290838
+        RUBY:LINTe-1: 290839
+        Radiant-0: 290276
+        Radiant-1: 290277
+        Rave_Tech-0: 290302
+        Rave_Tech-1: 290303
+        Re:End of a Dream-0: 290782
+        Re:End of a Dream-1: 290783
+        Reminiscence-0: 290366
+        Reminiscence-1: 290367
+        Renegade-0: 290278
+        Renegade-1: 290279
+        Renji de haochi-0: 290658
+        Renji de haochi-1: 290659
+        Retrospective Peom on the Planet-0: 290818
+        Retrospective Peom on the Planet-1: 290819
+        Rin-0: 290240
+        Rin-1: 290241
+        Rollerdisco Rumble-0: 290476
+        Rollerdisco Rumble-1: 290477
+        Rose Garden-0: 290478
+        Rose Garden-1: 290479
+        Run through-0: 290352
+        Run through-1: 290353
+        Rush B-0: 290550
+        Rush B-1: 290551
+        Rush-More-0: 290484
+        Rush-More-1: 290485
+        SKY HIGH-0: 290528
+        SKY HIGH-1: 290529
+        SWEETSWEETSWEET-0: 290756
+        SWEETSWEETSWEET-1: 290757
+        Saika-0: 290578
+        Saika-1: 290579
+        Sakura Fubuki-0: 290842
+        Sakura Fubuki-1: 290843
+        Sand Maze-0: 290252
+        Sand Maze-1: 290253
+        Santouka-0: 290586
+        Santouka-1: 290587
+        Satell Knight-0: 290796
+        Satell Knight-1: 290797
+        Say! Fanfare!-0: 290194
+        Say! Fanfare!-1: 290195
+        Seaside Cycling on May 30-0: 290526
+        Seaside Cycling on May 30-1: 290527
+        See-Saw Day-0: 290496
+        See-Saw Day-1: 290497
+        Seikimatsu no Natsu-0: 290500
+        Seikimatsu no Natsu-1: 290501
+        Seizya no Ibuki-0: 290638
+        Seizya no Ibuki-1: 290639
+        Self Willed Girl Ver.B-0: 290762
+        Self Willed Girl Ver.B-1: 290763
+        Shenri Kuaira -repeat--0: 290204
+        Shenri Kuaira -repeat--1: 290205
+        Shiguang Tuya-0: 290136
+        Shiguang Tuya-1: 290137
+        Shinsou Masui-0: 290200
+        Shinsou Masui-1: 290201
+        Shoot for the Moon-0: 290604
+        Shoot for the Moon-1: 290605
+        Skrik-0: 290834
+        Skrik-1: 290835
+        Skyward-0: 290928
+        Skyward-1: 290929
+        Smile-mileS-0: 290242
+        Smile-mileS-1: 290243
+        Snapdragon-0: 290312
+        Snapdragon-1: 290313
+        Snowfall, Merry Christmas-0: 290516
+        Snowfall, Merry Christmas-1: 290517
+        Soda Pop Canva5!-0: 290836
+        Soda Pop Canva5!-1: 290837
+        Sorewa mo Lovechu-0: 290300
+        Sorewa mo Lovechu-1: 290301
+        Speed of Light-0: 290280
+        Speed of Light-1: 290281
+        Spring Carnival-0: 290152
+        Spring Carnival-1: 290153
+        Square Lake-0: 290616
+        Square Lake-1: 290617
+        Standby for Action-0: 290580
+        Standby for Action-1: 290581
+        Star Driver-0: 290196
+        Star Driver-1: 290197
+        Stargazer-0: 290908
+        Stargazer-1: 290909
+        Sterelogue-0: 290830
+        Sterelogue-1: 290831
+        Strawberry Godzilla-0: 290684
+        Strawberry Godzilla-1: 290685
+        Suffering of screw-0: 290846
+        Suffering of screw-1: 290847
+        Sunday Night-0: 290336
+        Sunday Night-1: 290337
+        Sunshine and Rainbow after August Rain-0: 290960
+        Sunshine and Rainbow after August Rain-1: 290961
+        Super Battleworn Insomniac-0: 290472
+        Super Battleworn Insomniac-1: 290473
+        Sweet* Witch* Girl*-0: 290882
+        Sweet* Witch* Girl*-1: 290883
+        Symbol-0: 290434
+        Symbol-1: 290435
+        TWINKLE*MAGIC-0: 290562
+        TWINKLE*MAGIC-1: 290563
+        Tenri Kaku Jou-0: 290944
+        Tenri Kaku Jou-1: 290945
+        The 89's Momentum-0: 290776
+        The 89's Momentum-1: 290777
+        The 90's Decision-0: 290606
+        The 90's Decision-1: 290607
+        The Breeze-0: 290710
+        The Breeze-1: 290711
+        The Dessert After Rain-0: 290702
+        The Dessert After Rain-1: 290703
+        The Future of the Phantom-0: 290970
+        The Future of the Phantom-1: 290971
+        The Happycore Idol-0: 290226
+        The Happycore Idol-1: 290227
+        The Last Page-0: 290690
+        The Last Page-1: 290691
+        The NightScape-0: 290714
+        The NightScape-1: 290715
+        Thirty Million Persona-0: 290912
+        Thirty Million Persona-1: 290913
+        This Club is Not 4 U-0: 290740
+        This Club is Not 4 U-1: 290741
+        Tiny Fate-0: 290316
+        Tiny Fate-1: 290317
+        Tokimeki*Meteostrike-0: 290294
+        Tokimeki*Meteostrike-1: 290295
+        Touhou Mugakudan -1--0: 290036
+        Touhou Mugakudan -1--1: 290037
+        Touhou Mugakudan -2--0: 290012
+        Touhou Mugakudan -2--1: 290013
+        Trip!-0: 290344
+        Trip!-1: 290345
+        Tsubasa no Oreta Tenshitachi no Requiem-0: 290866
+        Tsubasa no Oreta Tenshitachi no Requiem-1: 290867
+        Tsuki ni Murakumo Hana ni Kaze-0: 290318
+        Tsuki ni Murakumo Hana ni Kaze-1: 290319
+        Tsukuyomi-0: 290694
+        Tsukuyomi-1: 290695
+        Tu Hua-0: 290216
+        Tu Hua-1: 290217
+        Two Phace-0: 290858
+        Two Phace-1: 290859
+        U.A.D-0: 290404
+        U.A.D-1: 290405
+        ULTRA MEGA HAPPY PARTY!!!-0: 290742
+        ULTRA MEGA HAPPY PARTY!!!-1: 290743
+        Ueta Tori Tachi-0: 290802
+        Ueta Tori Tachi-1: 290803
+        Ukiyoe Yokochou-0: 290954
+        Ukiyoe Yokochou-1: 290955
+        Ultra Happy Miracle Bazoooooka!!-0: 290676
+        Ultra Happy Miracle Bazoooooka!!-1: 290677
+        Unconscious Requiem-0: 290470
+        Unconscious Requiem-1: 290471
+        Unlimited Katharsis-0: 290786
+        Unlimited Katharsis-1: 290787
+        Variant Cross-0: 290674
+        Variant Cross-1: 290675
+        Virtual Idol Production-0: 290020
+        Virtual Idol Production-1: 290021
+        WACCA Horizon-0: 290032
+        WACCA Horizon-1: 290033
+        Whatcha;Whatcha Doin'-0: 290596
+        Whatcha;Whatcha Doin'-1: 290597
+        White Canvas-0: 290330
+        White Canvas-1: 290331
+        Wonderful Pain-0: 290124
+        Wonderful Pain-1: 290125
+        XING-0: 290918
+        XING-1: 290919
+        XODUS-0: 290566
+        XODUS-1: 290567
+        Xin Shang Huahai-0: 290826
+        Xin Shang Huahai-1: 290827
+        Y CE Ver.-0: 290412
+        Y CE Ver.-1: 290413
+        YInMn Blue-0: 290750
+        YInMn Blue-1: 290751
+        Ying Ying da Zuozhan-0: 290456
+        Ying Ying da Zuozhan-1: 290457
+        Yosari Tsukibotaru Suminoborite-0: 290488
+        Yosari Tsukibotaru Suminoborite-1: 290489
+        You Make My Life 1UP-0: 290660
+        You Make My Life 1UP-1: 290661
+        Yuki no Shizuku Ame no Oto-0: 290142
+        Yuki no Shizuku Ame no Oto-1: 290143
+        bamboo-0: 290536
+        bamboo-1: 290537
+        c.s.q.n.-0: 290540
+        c.s.q.n.-1: 290541
+        can you feel it-0: 290236
+        can you feel it-1: 290237
+        conflict-0: 290914
+        conflict-1: 290915
+        cyTus-0: 290054
+        cyTus-1: 290055
+        daydream girl-0: 290356
+        daydream girl-1: 290357
+        don't!stop!eroero!-0: 290248
+        don't!stop!eroero!-1: 290249
+        enchanted love-0: 290538
+        enchanted love-1: 290539
+        energy night-0: 290778
+        energy night-1: 290779
+        glory day-0: 290392
+        glory day-1: 290393
+        happy hour-0: 290498
+        happy hour-1: 290499
+        heterodoxy-0: 290624
+        heterodoxy-1: 290625
+        irregulyze-0: 290182
+        irregulyze-1: 290183
+        keep on running-0: 290938
+        keep on running-1: 290939
+        kui-0: 290374
+        kui-1: 290375
+        marooned night-0: 290354
+        marooned night-1: 290355
+        midstream jam-0: 290162
+        midstream jam-1: 290163
+        nini-nini--0: 290652
+        nini-nini--1: 290653
+        ouroVoros-0: 290862
+        ouroVoros-1: 290863
+        ouroboros -twin stroke of the end--0: 290640
+        ouroboros -twin stroke of the end--1: 290641
+        pICARESq-0: 290600
+        pICARESq-1: 290601
+        pa pi pu pi pu pi pa-0: 290250
+        pa pi pu pi pu pi pa-1: 290251
+        prejudice-0: 290774
+        prejudice-1: 290775
+        sheep in the light-0: 290620
+        sheep in the light-1: 290621
+        snooze-0: 290264
+        snooze-1: 290265
+        tape/stop/night-0: 290678
+        tape/stop/night-1: 290679
+        tiny lady-0: 290848
+        tiny lady-1: 290849
+        trippers feeling!-0: 290884
+        trippers feeling!-1: 290885
+        twinkle night-0: 290502
+        twinkle night-1: 290503
+        umpopoff-0: 290222
+        umpopoff-1: 290223
+        un secret-0: 290648
+        un secret-1: 290649
+        with U-0: 290444
+        with U-1: 290445
+      version: 0
+    Risk of Rain 2:
+      item_name_to_id:
+        Abandoned Aqueduct: 37717
+        Abyssal Depths: 37710
+        Aphelian Sanctuary: 37703
+        Boss Item: 37005
+        Commencement: 37732
+        Common Item: 37002
+        Dio's Best Friend: 37001
+        Distant Roost: 37707
+        Distant Roost (2): 37708
+        Equipment: 37007
+        'Hidden Realm: A Moment, Fractured': 37733
+        'Hidden Realm: A Moment, Whole': 37727
+        'Hidden Realm: Bazaar Between Time': 37706
+        'Hidden Realm: Bulwark''s Ambry': 37705
+        'Hidden Realm: Gilded Coast': 37714
+        Item Scrap, Green: 37009
+        Item Scrap, Red: 37010
+        Item Scrap, White: 37008
+        Item Scrap, Yellow: 37011
+        Legendary Item: 37004
+        Lunar Item: 37006
+        Rallypoint Delta: 37713
+        Scorched Acres: 37747
+        Siphoned Forest: 37739
+        Siren's Call: 37737
+        Sky Meadow: 37738
+        Sulfur Pools: 37741
+        Sundered Grove: 37735
+        The Planetarium: 37746
+        Titanic Plains: 37715
+        Titanic Plains (2): 37716
+        Uncommon Item: 37003
+        Void Fields: 37704
+        Void Item: 37012
+        Void Locus: 37745
+        Wetland Aspect: 37712
+      location_name_to_id:
+        'Abandoned Aqueduct: Chest 1': 38998
+        'Abandoned Aqueduct: Chest 10': 39007
+        'Abandoned Aqueduct: Chest 11': 39008
+        'Abandoned Aqueduct: Chest 12': 39009
+        'Abandoned Aqueduct: Chest 13': 39010
+        'Abandoned Aqueduct: Chest 14': 39011
+        'Abandoned Aqueduct: Chest 15': 39012
+        'Abandoned Aqueduct: Chest 16': 39013
+        'Abandoned Aqueduct: Chest 17': 39014
+        'Abandoned Aqueduct: Chest 18': 39015
+        'Abandoned Aqueduct: Chest 19': 39016
+        'Abandoned Aqueduct: Chest 2': 38999
+        'Abandoned Aqueduct: Chest 20': 39017
+        'Abandoned Aqueduct: Chest 3': 39000
+        'Abandoned Aqueduct: Chest 4': 39001
+        'Abandoned Aqueduct: Chest 5': 39002
+        'Abandoned Aqueduct: Chest 6': 39003
+        'Abandoned Aqueduct: Chest 7': 39004
+        'Abandoned Aqueduct: Chest 8': 39005
+        'Abandoned Aqueduct: Chest 9': 39006
+        'Abandoned Aqueduct: Newt Altar 1': 39040
+        'Abandoned Aqueduct: Newt Altar 2': 39041
+        'Abandoned Aqueduct: Radio Scanner 1': 39039
+        'Abandoned Aqueduct: Scavenger 1': 39038
+        'Abandoned Aqueduct: Shrine 1': 39018
+        'Abandoned Aqueduct: Shrine 10': 39027
+        'Abandoned Aqueduct: Shrine 11': 39028
+        'Abandoned Aqueduct: Shrine 12': 39029
+        'Abandoned Aqueduct: Shrine 13': 39030
+        'Abandoned Aqueduct: Shrine 14': 39031
+        'Abandoned Aqueduct: Shrine 15': 39032
+        'Abandoned Aqueduct: Shrine 16': 39033
+        'Abandoned Aqueduct: Shrine 17': 39034
+        'Abandoned Aqueduct: Shrine 18': 39035
+        'Abandoned Aqueduct: Shrine 19': 39036
+        'Abandoned Aqueduct: Shrine 2': 39019
+        'Abandoned Aqueduct: Shrine 20': 39037
+        'Abandoned Aqueduct: Shrine 3': 39020
+        'Abandoned Aqueduct: Shrine 4': 39021
+        'Abandoned Aqueduct: Shrine 5': 39022
+        'Abandoned Aqueduct: Shrine 6': 39023
+        'Abandoned Aqueduct: Shrine 7': 39024
+        'Abandoned Aqueduct: Shrine 8': 39025
+        'Abandoned Aqueduct: Shrine 9': 39026
+        'Abyssal Depths: Chest 1': 38690
+        'Abyssal Depths: Chest 10': 38699
+        'Abyssal Depths: Chest 11': 38700
+        'Abyssal Depths: Chest 12': 38701
+        'Abyssal Depths: Chest 13': 38702
+        'Abyssal Depths: Chest 14': 38703
+        'Abyssal Depths: Chest 15': 38704
+        'Abyssal Depths: Chest 16': 38705
+        'Abyssal Depths: Chest 17': 38706
+        'Abyssal Depths: Chest 18': 38707
+        'Abyssal Depths: Chest 19': 38708
+        'Abyssal Depths: Chest 2': 38691
+        'Abyssal Depths: Chest 20': 38709
+        'Abyssal Depths: Chest 3': 38692
+        'Abyssal Depths: Chest 4': 38693
+        'Abyssal Depths: Chest 5': 38694
+        'Abyssal Depths: Chest 6': 38695
+        'Abyssal Depths: Chest 7': 38696
+        'Abyssal Depths: Chest 8': 38697
+        'Abyssal Depths: Chest 9': 38698
+        'Abyssal Depths: Newt Altar 1': 38732
+        'Abyssal Depths: Newt Altar 2': 38733
+        'Abyssal Depths: Radio Scanner 1': 38731
+        'Abyssal Depths: Scavenger 1': 38730
+        'Abyssal Depths: Shrine 1': 38710
+        'Abyssal Depths: Shrine 10': 38719
+        'Abyssal Depths: Shrine 11': 38720
+        'Abyssal Depths: Shrine 12': 38721
+        'Abyssal Depths: Shrine 13': 38722
+        'Abyssal Depths: Shrine 14': 38723
+        'Abyssal Depths: Shrine 15': 38724
+        'Abyssal Depths: Shrine 16': 38725
+        'Abyssal Depths: Shrine 17': 38726
+        'Abyssal Depths: Shrine 18': 38727
+        'Abyssal Depths: Shrine 19': 38728
+        'Abyssal Depths: Shrine 2': 38711
+        'Abyssal Depths: Shrine 20': 38729
+        'Abyssal Depths: Shrine 3': 38712
+        'Abyssal Depths: Shrine 4': 38713
+        'Abyssal Depths: Shrine 5': 38714
+        'Abyssal Depths: Shrine 6': 38715
+        'Abyssal Depths: Shrine 7': 38716
+        'Abyssal Depths: Shrine 8': 38717
+        'Abyssal Depths: Shrine 9': 38718
+        'Aphelian Sanctuary: Chest 1': 38382
+        'Aphelian Sanctuary: Chest 10': 38391
+        'Aphelian Sanctuary: Chest 11': 38392
+        'Aphelian Sanctuary: Chest 12': 38393
+        'Aphelian Sanctuary: Chest 13': 38394
+        'Aphelian Sanctuary: Chest 14': 38395
+        'Aphelian Sanctuary: Chest 15': 38396
+        'Aphelian Sanctuary: Chest 16': 38397
+        'Aphelian Sanctuary: Chest 17': 38398
+        'Aphelian Sanctuary: Chest 18': 38399
+        'Aphelian Sanctuary: Chest 19': 38400
+        'Aphelian Sanctuary: Chest 2': 38383
+        'Aphelian Sanctuary: Chest 20': 38401
+        'Aphelian Sanctuary: Chest 3': 38384
+        'Aphelian Sanctuary: Chest 4': 38385
+        'Aphelian Sanctuary: Chest 5': 38386
+        'Aphelian Sanctuary: Chest 6': 38387
+        'Aphelian Sanctuary: Chest 7': 38388
+        'Aphelian Sanctuary: Chest 8': 38389
+        'Aphelian Sanctuary: Chest 9': 38390
+        'Aphelian Sanctuary: Newt Altar 1': 38424
+        'Aphelian Sanctuary: Newt Altar 2': 38425
+        'Aphelian Sanctuary: Radio Scanner 1': 38423
+        'Aphelian Sanctuary: Scavenger 1': 38422
+        'Aphelian Sanctuary: Shrine 1': 38402
+        'Aphelian Sanctuary: Shrine 10': 38411
+        'Aphelian Sanctuary: Shrine 11': 38412
+        'Aphelian Sanctuary: Shrine 12': 38413
+        'Aphelian Sanctuary: Shrine 13': 38414
+        'Aphelian Sanctuary: Shrine 14': 38415
+        'Aphelian Sanctuary: Shrine 15': 38416
+        'Aphelian Sanctuary: Shrine 16': 38417
+        'Aphelian Sanctuary: Shrine 17': 38418
+        'Aphelian Sanctuary: Shrine 18': 38419
+        'Aphelian Sanctuary: Shrine 19': 38420
+        'Aphelian Sanctuary: Shrine 2': 38403
+        'Aphelian Sanctuary: Shrine 20': 38421
+        'Aphelian Sanctuary: Shrine 3': 38404
+        'Aphelian Sanctuary: Shrine 4': 38405
+        'Aphelian Sanctuary: Shrine 5': 38406
+        'Aphelian Sanctuary: Shrine 6': 38407
+        'Aphelian Sanctuary: Shrine 7': 38408
+        'Aphelian Sanctuary: Shrine 8': 38409
+        'Aphelian Sanctuary: Shrine 9': 38410
+        'Distant Roost (2): Chest 1': 38602
+        'Distant Roost (2): Chest 10': 38611
+        'Distant Roost (2): Chest 11': 38612
+        'Distant Roost (2): Chest 12': 38613
+        'Distant Roost (2): Chest 13': 38614
+        'Distant Roost (2): Chest 14': 38615
+        'Distant Roost (2): Chest 15': 38616
+        'Distant Roost (2): Chest 16': 38617
+        'Distant Roost (2): Chest 17': 38618
+        'Distant Roost (2): Chest 18': 38619
+        'Distant Roost (2): Chest 19': 38620
+        'Distant Roost (2): Chest 2': 38603
+        'Distant Roost (2): Chest 20': 38621
+        'Distant Roost (2): Chest 3': 38604
+        'Distant Roost (2): Chest 4': 38605
+        'Distant Roost (2): Chest 5': 38606
+        'Distant Roost (2): Chest 6': 38607
+        'Distant Roost (2): Chest 7': 38608
+        'Distant Roost (2): Chest 8': 38609
+        'Distant Roost (2): Chest 9': 38610
+        'Distant Roost (2): Newt Altar 1': 38644
+        'Distant Roost (2): Newt Altar 2': 38645
+        'Distant Roost (2): Radio Scanner 1': 38643
+        'Distant Roost (2): Scavenger 1': 38642
+        'Distant Roost (2): Shrine 1': 38622
+        'Distant Roost (2): Shrine 10': 38631
+        'Distant Roost (2): Shrine 11': 38632
+        'Distant Roost (2): Shrine 12': 38633
+        'Distant Roost (2): Shrine 13': 38634
+        'Distant Roost (2): Shrine 14': 38635
+        'Distant Roost (2): Shrine 15': 38636
+        'Distant Roost (2): Shrine 16': 38637
+        'Distant Roost (2): Shrine 17': 38638
+        'Distant Roost (2): Shrine 18': 38639
+        'Distant Roost (2): Shrine 19': 38640
+        'Distant Roost (2): Shrine 2': 38623
+        'Distant Roost (2): Shrine 20': 38641
+        'Distant Roost (2): Shrine 3': 38624
+        'Distant Roost (2): Shrine 4': 38625
+        'Distant Roost (2): Shrine 5': 38626
+        'Distant Roost (2): Shrine 6': 38627
+        'Distant Roost (2): Shrine 7': 38628
+        'Distant Roost (2): Shrine 8': 38629
+        'Distant Roost (2): Shrine 9': 38630
+        'Distant Roost: Chest 1': 38558
+        'Distant Roost: Chest 10': 38567
+        'Distant Roost: Chest 11': 38568
+        'Distant Roost: Chest 12': 38569
+        'Distant Roost: Chest 13': 38570
+        'Distant Roost: Chest 14': 38571
+        'Distant Roost: Chest 15': 38572
+        'Distant Roost: Chest 16': 38573
+        'Distant Roost: Chest 17': 38574
+        'Distant Roost: Chest 18': 38575
+        'Distant Roost: Chest 19': 38576
+        'Distant Roost: Chest 2': 38559
+        'Distant Roost: Chest 20': 38577
+        'Distant Roost: Chest 3': 38560
+        'Distant Roost: Chest 4': 38561
+        'Distant Roost: Chest 5': 38562
+        'Distant Roost: Chest 6': 38563
+        'Distant Roost: Chest 7': 38564
+        'Distant Roost: Chest 8': 38565
+        'Distant Roost: Chest 9': 38566
+        'Distant Roost: Newt Altar 1': 38600
+        'Distant Roost: Newt Altar 2': 38601
+        'Distant Roost: Radio Scanner 1': 38599
+        'Distant Roost: Scavenger 1': 38598
+        'Distant Roost: Shrine 1': 38578
+        'Distant Roost: Shrine 10': 38587
+        'Distant Roost: Shrine 11': 38588
+        'Distant Roost: Shrine 12': 38589
+        'Distant Roost: Shrine 13': 38590
+        'Distant Roost: Shrine 14': 38591
+        'Distant Roost: Shrine 15': 38592
+        'Distant Roost: Shrine 16': 38593
+        'Distant Roost: Shrine 17': 38594
+        'Distant Roost: Shrine 18': 38595
+        'Distant Roost: Shrine 19': 38596
+        'Distant Roost: Shrine 2': 38579
+        'Distant Roost: Shrine 20': 38597
+        'Distant Roost: Shrine 3': 38580
+        'Distant Roost: Shrine 4': 38581
+        'Distant Roost: Shrine 5': 38582
+        'Distant Roost: Shrine 6': 38583
+        'Distant Roost: Shrine 7': 38584
+        'Distant Roost: Shrine 8': 38585
+        'Distant Roost: Shrine 9': 38586
+        ItemPickup1: 38000
+        ItemPickup10: 38009
+        ItemPickup100: 38099
+        ItemPickup101: 38100
+        ItemPickup102: 38101
+        ItemPickup103: 38102
+        ItemPickup104: 38103
+        ItemPickup105: 38104
+        ItemPickup106: 38105
+        ItemPickup107: 38106
+        ItemPickup108: 38107
+        ItemPickup109: 38108
+        ItemPickup11: 38010
+        ItemPickup110: 38109
+        ItemPickup111: 38110
+        ItemPickup112: 38111
+        ItemPickup113: 38112
+        ItemPickup114: 38113
+        ItemPickup115: 38114
+        ItemPickup116: 38115
+        ItemPickup117: 38116
+        ItemPickup118: 38117
+        ItemPickup119: 38118
+        ItemPickup12: 38011
+        ItemPickup120: 38119
+        ItemPickup121: 38120
+        ItemPickup122: 38121
+        ItemPickup123: 38122
+        ItemPickup124: 38123
+        ItemPickup125: 38124
+        ItemPickup126: 38125
+        ItemPickup127: 38126
+        ItemPickup128: 38127
+        ItemPickup129: 38128
+        ItemPickup13: 38012
+        ItemPickup130: 38129
+        ItemPickup131: 38130
+        ItemPickup132: 38131
+        ItemPickup133: 38132
+        ItemPickup134: 38133
+        ItemPickup135: 38134
+        ItemPickup136: 38135
+        ItemPickup137: 38136
+        ItemPickup138: 38137
+        ItemPickup139: 38138
+        ItemPickup14: 38013
+        ItemPickup140: 38139
+        ItemPickup141: 38140
+        ItemPickup142: 38141
+        ItemPickup143: 38142
+        ItemPickup144: 38143
+        ItemPickup145: 38144
+        ItemPickup146: 38145
+        ItemPickup147: 38146
+        ItemPickup148: 38147
+        ItemPickup149: 38148
+        ItemPickup15: 38014
+        ItemPickup150: 38149
+        ItemPickup151: 38150
+        ItemPickup152: 38151
+        ItemPickup153: 38152
+        ItemPickup154: 38153
+        ItemPickup155: 38154
+        ItemPickup156: 38155
+        ItemPickup157: 38156
+        ItemPickup158: 38157
+        ItemPickup159: 38158
+        ItemPickup16: 38015
+        ItemPickup160: 38159
+        ItemPickup161: 38160
+        ItemPickup162: 38161
+        ItemPickup163: 38162
+        ItemPickup164: 38163
+        ItemPickup165: 38164
+        ItemPickup166: 38165
+        ItemPickup167: 38166
+        ItemPickup168: 38167
+        ItemPickup169: 38168
+        ItemPickup17: 38016
+        ItemPickup170: 38169
+        ItemPickup171: 38170
+        ItemPickup172: 38171
+        ItemPickup173: 38172
+        ItemPickup174: 38173
+        ItemPickup175: 38174
+        ItemPickup176: 38175
+        ItemPickup177: 38176
+        ItemPickup178: 38177
+        ItemPickup179: 38178
+        ItemPickup18: 38017
+        ItemPickup180: 38179
+        ItemPickup181: 38180
+        ItemPickup182: 38181
+        ItemPickup183: 38182
+        ItemPickup184: 38183
+        ItemPickup185: 38184
+        ItemPickup186: 38185
+        ItemPickup187: 38186
+        ItemPickup188: 38187
+        ItemPickup189: 38188
+        ItemPickup19: 38018
+        ItemPickup190: 38189
+        ItemPickup191: 38190
+        ItemPickup192: 38191
+        ItemPickup193: 38192
+        ItemPickup194: 38193
+        ItemPickup195: 38194
+        ItemPickup196: 38195
+        ItemPickup197: 38196
+        ItemPickup198: 38197
+        ItemPickup199: 38198
+        ItemPickup2: 38001
+        ItemPickup20: 38019
+        ItemPickup200: 38199
+        ItemPickup201: 38200
+        ItemPickup202: 38201
+        ItemPickup203: 38202
+        ItemPickup204: 38203
+        ItemPickup205: 38204
+        ItemPickup206: 38205
+        ItemPickup207: 38206
+        ItemPickup208: 38207
+        ItemPickup209: 38208
+        ItemPickup21: 38020
+        ItemPickup210: 38209
+        ItemPickup211: 38210
+        ItemPickup212: 38211
+        ItemPickup213: 38212
+        ItemPickup214: 38213
+        ItemPickup215: 38214
+        ItemPickup216: 38215
+        ItemPickup217: 38216
+        ItemPickup218: 38217
+        ItemPickup219: 38218
+        ItemPickup22: 38021
+        ItemPickup220: 38219
+        ItemPickup221: 38220
+        ItemPickup222: 38221
+        ItemPickup223: 38222
+        ItemPickup224: 38223
+        ItemPickup225: 38224
+        ItemPickup226: 38225
+        ItemPickup227: 38226
+        ItemPickup228: 38227
+        ItemPickup229: 38228
+        ItemPickup23: 38022
+        ItemPickup230: 38229
+        ItemPickup231: 38230
+        ItemPickup232: 38231
+        ItemPickup233: 38232
+        ItemPickup234: 38233
+        ItemPickup235: 38234
+        ItemPickup236: 38235
+        ItemPickup237: 38236
+        ItemPickup238: 38237
+        ItemPickup239: 38238
+        ItemPickup24: 38023
+        ItemPickup240: 38239
+        ItemPickup241: 38240
+        ItemPickup242: 38241
+        ItemPickup243: 38242
+        ItemPickup244: 38243
+        ItemPickup245: 38244
+        ItemPickup246: 38245
+        ItemPickup247: 38246
+        ItemPickup248: 38247
+        ItemPickup249: 38248
+        ItemPickup25: 38024
+        ItemPickup250: 38249
+        ItemPickup26: 38025
+        ItemPickup27: 38026
+        ItemPickup28: 38027
+        ItemPickup29: 38028
+        ItemPickup3: 38002
+        ItemPickup30: 38029
+        ItemPickup31: 38030
+        ItemPickup32: 38031
+        ItemPickup33: 38032
+        ItemPickup34: 38033
+        ItemPickup35: 38034
+        ItemPickup36: 38035
+        ItemPickup37: 38036
+        ItemPickup38: 38037
+        ItemPickup39: 38038
+        ItemPickup4: 38003
+        ItemPickup40: 38039
+        ItemPickup41: 38040
+        ItemPickup42: 38041
+        ItemPickup43: 38042
+        ItemPickup44: 38043
+        ItemPickup45: 38044
+        ItemPickup46: 38045
+        ItemPickup47: 38046
+        ItemPickup48: 38047
+        ItemPickup49: 38048
+        ItemPickup5: 38004
+        ItemPickup50: 38049
+        ItemPickup51: 38050
+        ItemPickup52: 38051
+        ItemPickup53: 38052
+        ItemPickup54: 38053
+        ItemPickup55: 38054
+        ItemPickup56: 38055
+        ItemPickup57: 38056
+        ItemPickup58: 38057
+        ItemPickup59: 38058
+        ItemPickup6: 38005
+        ItemPickup60: 38059
+        ItemPickup61: 38060
+        ItemPickup62: 38061
+        ItemPickup63: 38062
+        ItemPickup64: 38063
+        ItemPickup65: 38064
+        ItemPickup66: 38065
+        ItemPickup67: 38066
+        ItemPickup68: 38067
+        ItemPickup69: 38068
+        ItemPickup7: 38006
+        ItemPickup70: 38069
+        ItemPickup71: 38070
+        ItemPickup72: 38071
+        ItemPickup73: 38072
+        ItemPickup74: 38073
+        ItemPickup75: 38074
+        ItemPickup76: 38075
+        ItemPickup77: 38076
+        ItemPickup78: 38077
+        ItemPickup79: 38078
+        ItemPickup8: 38007
+        ItemPickup80: 38079
+        ItemPickup81: 38080
+        ItemPickup82: 38081
+        ItemPickup83: 38082
+        ItemPickup84: 38083
+        ItemPickup85: 38084
+        ItemPickup86: 38085
+        ItemPickup87: 38086
+        ItemPickup88: 38087
+        ItemPickup89: 38088
+        ItemPickup9: 38008
+        ItemPickup90: 38089
+        ItemPickup91: 38090
+        ItemPickup92: 38091
+        ItemPickup93: 38092
+        ItemPickup94: 38093
+        ItemPickup95: 38094
+        ItemPickup96: 38095
+        ItemPickup97: 38096
+        ItemPickup98: 38097
+        ItemPickup99: 38098
+        'Rallypoint Delta: Chest 1': 38822
+        'Rallypoint Delta: Chest 10': 38831
+        'Rallypoint Delta: Chest 11': 38832
+        'Rallypoint Delta: Chest 12': 38833
+        'Rallypoint Delta: Chest 13': 38834
+        'Rallypoint Delta: Chest 14': 38835
+        'Rallypoint Delta: Chest 15': 38836
+        'Rallypoint Delta: Chest 16': 38837
+        'Rallypoint Delta: Chest 17': 38838
+        'Rallypoint Delta: Chest 18': 38839
+        'Rallypoint Delta: Chest 19': 38840
+        'Rallypoint Delta: Chest 2': 38823
+        'Rallypoint Delta: Chest 20': 38841
+        'Rallypoint Delta: Chest 3': 38824
+        'Rallypoint Delta: Chest 4': 38825
+        'Rallypoint Delta: Chest 5': 38826
+        'Rallypoint Delta: Chest 6': 38827
+        'Rallypoint Delta: Chest 7': 38828
+        'Rallypoint Delta: Chest 8': 38829
+        'Rallypoint Delta: Chest 9': 38830
+        'Rallypoint Delta: Newt Altar 1': 38864
+        'Rallypoint Delta: Newt Altar 2': 38865
+        'Rallypoint Delta: Radio Scanner 1': 38863
+        'Rallypoint Delta: Scavenger 1': 38862
+        'Rallypoint Delta: Shrine 1': 38842
+        'Rallypoint Delta: Shrine 10': 38851
+        'Rallypoint Delta: Shrine 11': 38852
+        'Rallypoint Delta: Shrine 12': 38853
+        'Rallypoint Delta: Shrine 13': 38854
+        'Rallypoint Delta: Shrine 14': 38855
+        'Rallypoint Delta: Shrine 15': 38856
+        'Rallypoint Delta: Shrine 16': 38857
+        'Rallypoint Delta: Shrine 17': 38858
+        'Rallypoint Delta: Shrine 18': 38859
+        'Rallypoint Delta: Shrine 19': 38860
+        'Rallypoint Delta: Shrine 2': 38843
+        'Rallypoint Delta: Shrine 20': 38861
+        'Rallypoint Delta: Shrine 3': 38844
+        'Rallypoint Delta: Shrine 4': 38845
+        'Rallypoint Delta: Shrine 5': 38846
+        'Rallypoint Delta: Shrine 6': 38847
+        'Rallypoint Delta: Shrine 7': 38848
+        'Rallypoint Delta: Shrine 8': 38849
+        'Rallypoint Delta: Shrine 9': 38850
+        'Scorched Acres: Chest 1': 40318
+        'Scorched Acres: Chest 10': 40327
+        'Scorched Acres: Chest 11': 40328
+        'Scorched Acres: Chest 12': 40329
+        'Scorched Acres: Chest 13': 40330
+        'Scorched Acres: Chest 14': 40331
+        'Scorched Acres: Chest 15': 40332
+        'Scorched Acres: Chest 16': 40333
+        'Scorched Acres: Chest 17': 40334
+        'Scorched Acres: Chest 18': 40335
+        'Scorched Acres: Chest 19': 40336
+        'Scorched Acres: Chest 2': 40319
+        'Scorched Acres: Chest 20': 40337
+        'Scorched Acres: Chest 3': 40320
+        'Scorched Acres: Chest 4': 40321
+        'Scorched Acres: Chest 5': 40322
+        'Scorched Acres: Chest 6': 40323
+        'Scorched Acres: Chest 7': 40324
+        'Scorched Acres: Chest 8': 40325
+        'Scorched Acres: Chest 9': 40326
+        'Scorched Acres: Newt Altar 1': 40360
+        'Scorched Acres: Newt Altar 2': 40361
+        'Scorched Acres: Radio Scanner 1': 40359
+        'Scorched Acres: Scavenger 1': 40358
+        'Scorched Acres: Shrine 1': 40338
+        'Scorched Acres: Shrine 10': 40347
+        'Scorched Acres: Shrine 11': 40348
+        'Scorched Acres: Shrine 12': 40349
+        'Scorched Acres: Shrine 13': 40350
+        'Scorched Acres: Shrine 14': 40351
+        'Scorched Acres: Shrine 15': 40352
+        'Scorched Acres: Shrine 16': 40353
+        'Scorched Acres: Shrine 17': 40354
+        'Scorched Acres: Shrine 18': 40355
+        'Scorched Acres: Shrine 19': 40356
+        'Scorched Acres: Shrine 2': 40339
+        'Scorched Acres: Shrine 20': 40357
+        'Scorched Acres: Shrine 3': 40340
+        'Scorched Acres: Shrine 4': 40341
+        'Scorched Acres: Shrine 5': 40342
+        'Scorched Acres: Shrine 6': 40343
+        'Scorched Acres: Shrine 7': 40344
+        'Scorched Acres: Shrine 8': 40345
+        'Scorched Acres: Shrine 9': 40346
+        'Siphoned Forest: Chest 1': 39966
+        'Siphoned Forest: Chest 10': 39975
+        'Siphoned Forest: Chest 11': 39976
+        'Siphoned Forest: Chest 12': 39977
+        'Siphoned Forest: Chest 13': 39978
+        'Siphoned Forest: Chest 14': 39979
+        'Siphoned Forest: Chest 15': 39980
+        'Siphoned Forest: Chest 16': 39981
+        'Siphoned Forest: Chest 17': 39982
+        'Siphoned Forest: Chest 18': 39983
+        'Siphoned Forest: Chest 19': 39984
+        'Siphoned Forest: Chest 2': 39967
+        'Siphoned Forest: Chest 20': 39985
+        'Siphoned Forest: Chest 3': 39968
+        'Siphoned Forest: Chest 4': 39969
+        'Siphoned Forest: Chest 5': 39970
+        'Siphoned Forest: Chest 6': 39971
+        'Siphoned Forest: Chest 7': 39972
+        'Siphoned Forest: Chest 8': 39973
+        'Siphoned Forest: Chest 9': 39974
+        'Siphoned Forest: Newt Altar 1': 40008
+        'Siphoned Forest: Newt Altar 2': 40009
+        'Siphoned Forest: Radio Scanner 1': 40007
+        'Siphoned Forest: Scavenger 1': 40006
+        'Siphoned Forest: Shrine 1': 39986
+        'Siphoned Forest: Shrine 10': 39995
+        'Siphoned Forest: Shrine 11': 39996
+        'Siphoned Forest: Shrine 12': 39997
+        'Siphoned Forest: Shrine 13': 39998
+        'Siphoned Forest: Shrine 14': 39999
+        'Siphoned Forest: Shrine 15': 40000
+        'Siphoned Forest: Shrine 16': 40001
+        'Siphoned Forest: Shrine 17': 40002
+        'Siphoned Forest: Shrine 18': 40003
+        'Siphoned Forest: Shrine 19': 40004
+        'Siphoned Forest: Shrine 2': 39987
+        'Siphoned Forest: Shrine 20': 40005
+        'Siphoned Forest: Shrine 3': 39988
+        'Siphoned Forest: Shrine 4': 39989
+        'Siphoned Forest: Shrine 5': 39990
+        'Siphoned Forest: Shrine 6': 39991
+        'Siphoned Forest: Shrine 7': 39992
+        'Siphoned Forest: Shrine 8': 39993
+        'Siphoned Forest: Shrine 9': 39994
+        'Siren''s Call: Chest 1': 39878
+        'Siren''s Call: Chest 10': 39887
+        'Siren''s Call: Chest 11': 39888
+        'Siren''s Call: Chest 12': 39889
+        'Siren''s Call: Chest 13': 39890
+        'Siren''s Call: Chest 14': 39891
+        'Siren''s Call: Chest 15': 39892
+        'Siren''s Call: Chest 16': 39893
+        'Siren''s Call: Chest 17': 39894
+        'Siren''s Call: Chest 18': 39895
+        'Siren''s Call: Chest 19': 39896
+        'Siren''s Call: Chest 2': 39879
+        'Siren''s Call: Chest 20': 39897
+        'Siren''s Call: Chest 3': 39880
+        'Siren''s Call: Chest 4': 39881
+        'Siren''s Call: Chest 5': 39882
+        'Siren''s Call: Chest 6': 39883
+        'Siren''s Call: Chest 7': 39884
+        'Siren''s Call: Chest 8': 39885
+        'Siren''s Call: Chest 9': 39886
+        'Siren''s Call: Newt Altar 1': 39920
+        'Siren''s Call: Newt Altar 2': 39921
+        'Siren''s Call: Radio Scanner 1': 39919
+        'Siren''s Call: Scavenger 1': 39918
+        'Siren''s Call: Shrine 1': 39898
+        'Siren''s Call: Shrine 10': 39907
+        'Siren''s Call: Shrine 11': 39908
+        'Siren''s Call: Shrine 12': 39909
+        'Siren''s Call: Shrine 13': 39910
+        'Siren''s Call: Shrine 14': 39911
+        'Siren''s Call: Shrine 15': 39912
+        'Siren''s Call: Shrine 16': 39913
+        'Siren''s Call: Shrine 17': 39914
+        'Siren''s Call: Shrine 18': 39915
+        'Siren''s Call: Shrine 19': 39916
+        'Siren''s Call: Shrine 2': 39899
+        'Siren''s Call: Shrine 20': 39917
+        'Siren''s Call: Shrine 3': 39900
+        'Siren''s Call: Shrine 4': 39901
+        'Siren''s Call: Shrine 5': 39902
+        'Siren''s Call: Shrine 6': 39903
+        'Siren''s Call: Shrine 7': 39904
+        'Siren''s Call: Shrine 8': 39905
+        'Siren''s Call: Shrine 9': 39906
+        'Sky Meadow: Chest 1': 39922
+        'Sky Meadow: Chest 10': 39931
+        'Sky Meadow: Chest 11': 39932
+        'Sky Meadow: Chest 12': 39933
+        'Sky Meadow: Chest 13': 39934
+        'Sky Meadow: Chest 14': 39935
+        'Sky Meadow: Chest 15': 39936
+        'Sky Meadow: Chest 16': 39937
+        'Sky Meadow: Chest 17': 39938
+        'Sky Meadow: Chest 18': 39939
+        'Sky Meadow: Chest 19': 39940
+        'Sky Meadow: Chest 2': 39923
+        'Sky Meadow: Chest 20': 39941
+        'Sky Meadow: Chest 3': 39924
+        'Sky Meadow: Chest 4': 39925
+        'Sky Meadow: Chest 5': 39926
+        'Sky Meadow: Chest 6': 39927
+        'Sky Meadow: Chest 7': 39928
+        'Sky Meadow: Chest 8': 39929
+        'Sky Meadow: Chest 9': 39930
+        'Sky Meadow: Newt Altar 1': 39964
+        'Sky Meadow: Newt Altar 2': 39965
+        'Sky Meadow: Radio Scanner 1': 39963
+        'Sky Meadow: Scavenger 1': 39962
+        'Sky Meadow: Shrine 1': 39942
+        'Sky Meadow: Shrine 10': 39951
+        'Sky Meadow: Shrine 11': 39952
+        'Sky Meadow: Shrine 12': 39953
+        'Sky Meadow: Shrine 13': 39954
+        'Sky Meadow: Shrine 14': 39955
+        'Sky Meadow: Shrine 15': 39956
+        'Sky Meadow: Shrine 16': 39957
+        'Sky Meadow: Shrine 17': 39958
+        'Sky Meadow: Shrine 18': 39959
+        'Sky Meadow: Shrine 19': 39960
+        'Sky Meadow: Shrine 2': 39943
+        'Sky Meadow: Shrine 20': 39961
+        'Sky Meadow: Shrine 3': 39944
+        'Sky Meadow: Shrine 4': 39945
+        'Sky Meadow: Shrine 5': 39946
+        'Sky Meadow: Shrine 6': 39947
+        'Sky Meadow: Shrine 7': 39948
+        'Sky Meadow: Shrine 8': 39949
+        'Sky Meadow: Shrine 9': 39950
+        'Sulfur Pools: Chest 1': 40054
+        'Sulfur Pools: Chest 10': 40063
+        'Sulfur Pools: Chest 11': 40064
+        'Sulfur Pools: Chest 12': 40065
+        'Sulfur Pools: Chest 13': 40066
+        'Sulfur Pools: Chest 14': 40067
+        'Sulfur Pools: Chest 15': 40068
+        'Sulfur Pools: Chest 16': 40069
+        'Sulfur Pools: Chest 17': 40070
+        'Sulfur Pools: Chest 18': 40071
+        'Sulfur Pools: Chest 19': 40072
+        'Sulfur Pools: Chest 2': 40055
+        'Sulfur Pools: Chest 20': 40073
+        'Sulfur Pools: Chest 3': 40056
+        'Sulfur Pools: Chest 4': 40057
+        'Sulfur Pools: Chest 5': 40058
+        'Sulfur Pools: Chest 6': 40059
+        'Sulfur Pools: Chest 7': 40060
+        'Sulfur Pools: Chest 8': 40061
+        'Sulfur Pools: Chest 9': 40062
+        'Sulfur Pools: Newt Altar 1': 40096
+        'Sulfur Pools: Newt Altar 2': 40097
+        'Sulfur Pools: Radio Scanner 1': 40095
+        'Sulfur Pools: Scavenger 1': 40094
+        'Sulfur Pools: Shrine 1': 40074
+        'Sulfur Pools: Shrine 10': 40083
+        'Sulfur Pools: Shrine 11': 40084
+        'Sulfur Pools: Shrine 12': 40085
+        'Sulfur Pools: Shrine 13': 40086
+        'Sulfur Pools: Shrine 14': 40087
+        'Sulfur Pools: Shrine 15': 40088
+        'Sulfur Pools: Shrine 16': 40089
+        'Sulfur Pools: Shrine 17': 40090
+        'Sulfur Pools: Shrine 18': 40091
+        'Sulfur Pools: Shrine 19': 40092
+        'Sulfur Pools: Shrine 2': 40075
+        'Sulfur Pools: Shrine 20': 40093
+        'Sulfur Pools: Shrine 3': 40076
+        'Sulfur Pools: Shrine 4': 40077
+        'Sulfur Pools: Shrine 5': 40078
+        'Sulfur Pools: Shrine 6': 40079
+        'Sulfur Pools: Shrine 7': 40080
+        'Sulfur Pools: Shrine 8': 40081
+        'Sulfur Pools: Shrine 9': 40082
+        'Sundered Grove: Chest 1': 39790
+        'Sundered Grove: Chest 10': 39799
+        'Sundered Grove: Chest 11': 39800
+        'Sundered Grove: Chest 12': 39801
+        'Sundered Grove: Chest 13': 39802
+        'Sundered Grove: Chest 14': 39803
+        'Sundered Grove: Chest 15': 39804
+        'Sundered Grove: Chest 16': 39805
+        'Sundered Grove: Chest 17': 39806
+        'Sundered Grove: Chest 18': 39807
+        'Sundered Grove: Chest 19': 39808
+        'Sundered Grove: Chest 2': 39791
+        'Sundered Grove: Chest 20': 39809
+        'Sundered Grove: Chest 3': 39792
+        'Sundered Grove: Chest 4': 39793
+        'Sundered Grove: Chest 5': 39794
+        'Sundered Grove: Chest 6': 39795
+        'Sundered Grove: Chest 7': 39796
+        'Sundered Grove: Chest 8': 39797
+        'Sundered Grove: Chest 9': 39798
+        'Sundered Grove: Newt Altar 1': 39832
+        'Sundered Grove: Newt Altar 2': 39833
+        'Sundered Grove: Radio Scanner 1': 39831
+        'Sundered Grove: Scavenger 1': 39830
+        'Sundered Grove: Shrine 1': 39810
+        'Sundered Grove: Shrine 10': 39819
+        'Sundered Grove: Shrine 11': 39820
+        'Sundered Grove: Shrine 12': 39821
+        'Sundered Grove: Shrine 13': 39822
+        'Sundered Grove: Shrine 14': 39823
+        'Sundered Grove: Shrine 15': 39824
+        'Sundered Grove: Shrine 16': 39825
+        'Sundered Grove: Shrine 17': 39826
+        'Sundered Grove: Shrine 18': 39827
+        'Sundered Grove: Shrine 19': 39828
+        'Sundered Grove: Shrine 2': 39811
+        'Sundered Grove: Shrine 20': 39829
+        'Sundered Grove: Shrine 3': 39812
+        'Sundered Grove: Shrine 4': 39813
+        'Sundered Grove: Shrine 5': 39814
+        'Sundered Grove: Shrine 6': 39815
+        'Sundered Grove: Shrine 7': 39816
+        'Sundered Grove: Shrine 8': 39817
+        'Sundered Grove: Shrine 9': 39818
+        'Titanic Plains (2): Chest 1': 38954
+        'Titanic Plains (2): Chest 10': 38963
+        'Titanic Plains (2): Chest 11': 38964
+        'Titanic Plains (2): Chest 12': 38965
+        'Titanic Plains (2): Chest 13': 38966
+        'Titanic Plains (2): Chest 14': 38967
+        'Titanic Plains (2): Chest 15': 38968
+        'Titanic Plains (2): Chest 16': 38969
+        'Titanic Plains (2): Chest 17': 38970
+        'Titanic Plains (2): Chest 18': 38971
+        'Titanic Plains (2): Chest 19': 38972
+        'Titanic Plains (2): Chest 2': 38955
+        'Titanic Plains (2): Chest 20': 38973
+        'Titanic Plains (2): Chest 3': 38956
+        'Titanic Plains (2): Chest 4': 38957
+        'Titanic Plains (2): Chest 5': 38958
+        'Titanic Plains (2): Chest 6': 38959
+        'Titanic Plains (2): Chest 7': 38960
+        'Titanic Plains (2): Chest 8': 38961
+        'Titanic Plains (2): Chest 9': 38962
+        'Titanic Plains (2): Newt Altar 1': 38996
+        'Titanic Plains (2): Newt Altar 2': 38997
+        'Titanic Plains (2): Radio Scanner 1': 38995
+        'Titanic Plains (2): Scavenger 1': 38994
+        'Titanic Plains (2): Shrine 1': 38974
+        'Titanic Plains (2): Shrine 10': 38983
+        'Titanic Plains (2): Shrine 11': 38984
+        'Titanic Plains (2): Shrine 12': 38985
+        'Titanic Plains (2): Shrine 13': 38986
+        'Titanic Plains (2): Shrine 14': 38987
+        'Titanic Plains (2): Shrine 15': 38988
+        'Titanic Plains (2): Shrine 16': 38989
+        'Titanic Plains (2): Shrine 17': 38990
+        'Titanic Plains (2): Shrine 18': 38991
+        'Titanic Plains (2): Shrine 19': 38992
+        'Titanic Plains (2): Shrine 2': 38975
+        'Titanic Plains (2): Shrine 20': 38993
+        'Titanic Plains (2): Shrine 3': 38976
+        'Titanic Plains (2): Shrine 4': 38977
+        'Titanic Plains (2): Shrine 5': 38978
+        'Titanic Plains (2): Shrine 6': 38979
+        'Titanic Plains (2): Shrine 7': 38980
+        'Titanic Plains (2): Shrine 8': 38981
+        'Titanic Plains (2): Shrine 9': 38982
+        'Titanic Plains: Chest 1': 38910
+        'Titanic Plains: Chest 10': 38919
+        'Titanic Plains: Chest 11': 38920
+        'Titanic Plains: Chest 12': 38921
+        'Titanic Plains: Chest 13': 38922
+        'Titanic Plains: Chest 14': 38923
+        'Titanic Plains: Chest 15': 38924
+        'Titanic Plains: Chest 16': 38925
+        'Titanic Plains: Chest 17': 38926
+        'Titanic Plains: Chest 18': 38927
+        'Titanic Plains: Chest 19': 38928
+        'Titanic Plains: Chest 2': 38911
+        'Titanic Plains: Chest 20': 38929
+        'Titanic Plains: Chest 3': 38912
+        'Titanic Plains: Chest 4': 38913
+        'Titanic Plains: Chest 5': 38914
+        'Titanic Plains: Chest 6': 38915
+        'Titanic Plains: Chest 7': 38916
+        'Titanic Plains: Chest 8': 38917
+        'Titanic Plains: Chest 9': 38918
+        'Titanic Plains: Newt Altar 1': 38952
+        'Titanic Plains: Newt Altar 2': 38953
+        'Titanic Plains: Radio Scanner 1': 38951
+        'Titanic Plains: Scavenger 1': 38950
+        'Titanic Plains: Shrine 1': 38930
+        'Titanic Plains: Shrine 10': 38939
+        'Titanic Plains: Shrine 11': 38940
+        'Titanic Plains: Shrine 12': 38941
+        'Titanic Plains: Shrine 13': 38942
+        'Titanic Plains: Shrine 14': 38943
+        'Titanic Plains: Shrine 15': 38944
+        'Titanic Plains: Shrine 16': 38945
+        'Titanic Plains: Shrine 17': 38946
+        'Titanic Plains: Shrine 18': 38947
+        'Titanic Plains: Shrine 19': 38948
+        'Titanic Plains: Shrine 2': 38931
+        'Titanic Plains: Shrine 20': 38949
+        'Titanic Plains: Shrine 3': 38932
+        'Titanic Plains: Shrine 4': 38933
+        'Titanic Plains: Shrine 5': 38934
+        'Titanic Plains: Shrine 6': 38935
+        'Titanic Plains: Shrine 7': 38936
+        'Titanic Plains: Shrine 8': 38937
+        'Titanic Plains: Shrine 9': 38938
+        'Wetland Aspect: Chest 1': 38778
+        'Wetland Aspect: Chest 10': 38787
+        'Wetland Aspect: Chest 11': 38788
+        'Wetland Aspect: Chest 12': 38789
+        'Wetland Aspect: Chest 13': 38790
+        'Wetland Aspect: Chest 14': 38791
+        'Wetland Aspect: Chest 15': 38792
+        'Wetland Aspect: Chest 16': 38793
+        'Wetland Aspect: Chest 17': 38794
+        'Wetland Aspect: Chest 18': 38795
+        'Wetland Aspect: Chest 19': 38796
+        'Wetland Aspect: Chest 2': 38779
+        'Wetland Aspect: Chest 20': 38797
+        'Wetland Aspect: Chest 3': 38780
+        'Wetland Aspect: Chest 4': 38781
+        'Wetland Aspect: Chest 5': 38782
+        'Wetland Aspect: Chest 6': 38783
+        'Wetland Aspect: Chest 7': 38784
+        'Wetland Aspect: Chest 8': 38785
+        'Wetland Aspect: Chest 9': 38786
+        'Wetland Aspect: Newt Altar 1': 38820
+        'Wetland Aspect: Newt Altar 2': 38821
+        'Wetland Aspect: Radio Scanner 1': 38819
+        'Wetland Aspect: Scavenger 1': 38818
+        'Wetland Aspect: Shrine 1': 38798
+        'Wetland Aspect: Shrine 10': 38807
+        'Wetland Aspect: Shrine 11': 38808
+        'Wetland Aspect: Shrine 12': 38809
+        'Wetland Aspect: Shrine 13': 38810
+        'Wetland Aspect: Shrine 14': 38811
+        'Wetland Aspect: Shrine 15': 38812
+        'Wetland Aspect: Shrine 16': 38813
+        'Wetland Aspect: Shrine 17': 38814
+        'Wetland Aspect: Shrine 18': 38815
+        'Wetland Aspect: Shrine 19': 38816
+        'Wetland Aspect: Shrine 2': 38799
+        'Wetland Aspect: Shrine 20': 38817
+        'Wetland Aspect: Shrine 3': 38800
+        'Wetland Aspect: Shrine 4': 38801
+        'Wetland Aspect: Shrine 5': 38802
+        'Wetland Aspect: Shrine 6': 38803
+        'Wetland Aspect: Shrine 7': 38804
+        'Wetland Aspect: Shrine 8': 38805
+        'Wetland Aspect: Shrine 9': 38806
+      version: 0
+    Stardew Valley:
+      item_name_to_id:
+        Adventurer's Guild: 717095
+        Beach Bridge: 717094
+        Bear's Knowledge: 717098
+        Bone Sword: 717058
+        Bridge Repair: 717017
+        Burglar's Shank: 717046
+        Bus Repair: 717021
+        Claymore: 717051
+        Club Card: 717096
+        Combat Boots: 717040
+        Combat Level: 717077
+        Crystal Dagger: 717043
+        Crystal Shoes: 717061
+        Cutlass: 717044
+        Dark Boots: 717050
+        Desert Obelisk: 717080
+        Dwarvish Translation Guide: 717016
+        Earth Obelisk: 717078
+        Elf Blade: 717034
+        Farming Level: 717073
+        Femur: 717031
+        Firewalker Boots: 717049
+        Fish Pond: 717090
+        Fishing Level: 717074
+        Foraging Level: 717075
+        Friendship Bonus (1 <3): 722198
+        Friendship Bonus (2 <3): 722199
+        Friendship Bonus (3 <3): 722200
+        Friendship Bonus (4 <3): 722201
+        Galaxy Dagger: 717107
+        Galaxy Hammer: 717108
+        Galaxy Sword: 717106
+        Glittering Boulder Removed: 717019
+        Glow Ring: 717035
+        Gold Clock: 717083
+        Golden Scythe: 717071
+        Greenhouse: 717018
+        Iridium Snake Milk: 717099
+        Iron Dirk: 717029
+        Iron Edge: 717045
+        Island Obelisk: 717081
+        Joja Cola: 717000
+        'JotPK: Extra Life': 717103
+        'JotPK: Increased Drop Rate': 717104
+        'JotPK: Progressive Ammo': 717102
+        'JotPK: Progressive Boots': 717100
+        'JotPK: Progressive Gun': 717101
+        Junimo Hut: 717082
+        'Junimo Kart: Extra Life': 717105
+        Kudgel: 717053
+        Lava Katana: 717111
+        Leather Boots: 717026
+        Luck Bonus: 717110
+        Magnet Ring: 717036
+        Magnifying Glass: 717097
+        Master Slingshot: 717048
+        Mill: 717088
+        Minecarts Repair: 717020
+        Mining Level: 717076
+        Movement Speed Bonus: 717109
+        Movie Theater: 717022
+        Obsidian Edge: 717055
+        Ossified Blade: 717059
+        Pirate's Sword: 717042
+        Progressive Axe: 717067
+        Progressive Backpack: 717024
+        Progressive Barn: 717085
+        Progressive Coop: 717084
+        Progressive Fishing Rod: 717070
+        Progressive Hoe: 717065
+        Progressive House: 717112
+        Progressive Mine Elevator: 717072
+        Progressive Pickaxe: 717066
+        Progressive Shed: 717089
+        Progressive Trash Can: 717069
+        Progressive Watering Can: 717068
+        'Resource Pack: 1 Crab Pot': 722192
+        'Resource Pack: 1 Mahogany Seed': 722180
+        'Resource Pack: 1 Warp Totem: Beach': 722028
+        'Resource Pack: 1 Warp Totem: Desert': 722034
+        'Resource Pack: 1 Warp Totem: Farm': 722040
+        'Resource Pack: 1 Warp Totem: Island': 722046
+        'Resource Pack: 1 Warp Totem: Mountains': 722052
+        'Resource Pack: 10 Bait': 722186
+        'Resource Pack: 10 Basic Fertilizer': 722096
+        'Resource Pack: 10 Basic Retaining Soil': 722102
+        'Resource Pack: 10 Clay': 722025
+        'Resource Pack: 10 Coal': 722021
+        'Resource Pack: 10 Deluxe Fertilizer': 722134
+        'Resource Pack: 10 Deluxe Retaining Soil': 722140
+        'Resource Pack: 10 Fall Seeds': 722168
+        'Resource Pack: 10 Hardwood': 722013
+        'Resource Pack: 10 Hyper Speed-Gro': 722146
+        'Resource Pack: 10 Iridium Ore': 722089
+        'Resource Pack: 10 Mahogany Seed': 722185
+        'Resource Pack: 10 Quartz': 722093
+        'Resource Pack: 10 Speed-Gro': 722108
+        'Resource Pack: 10 Spring Seeds': 722156
+        'Resource Pack: 10 Summer Seeds': 722162
+        'Resource Pack: 10 Tree Fertilizer': 722152
+        'Resource Pack: 10 Warp Totem: Beach': 722033
+        'Resource Pack: 10 Warp Totem: Desert': 722039
+        'Resource Pack: 10 Warp Totem: Farm': 722045
+        'Resource Pack: 10 Warp Totem: Island': 722051
+        'Resource Pack: 10 Warp Totem: Mountains': 722057
+        'Resource Pack: 10 Winter Seeds': 722174
+        'Resource Pack: 100 Copper Ore': 722077
+        'Resource Pack: 100 Iron Ore': 722083
+        'Resource Pack: 100 Stone': 722007
+        'Resource Pack: 100 Wood': 722011
+        'Resource Pack: 1000 Money': 722001
+        'Resource Pack: 12 Deluxe Speed-Gro': 722127
+        'Resource Pack: 12 Frozen Geode': 722064
+        'Resource Pack: 12 Geode': 722059
+        'Resource Pack: 12 Gold Ore': 722084
+        'Resource Pack: 12 Magma Geode': 722069
+        'Resource Pack: 12 Quality Fertilizer': 722115
+        'Resource Pack: 12 Quality Retaining Soil': 722121
+        'Resource Pack: 125 Copper Ore': 722078
+        'Resource Pack: 14 Deluxe Fertilizer': 722135
+        'Resource Pack: 14 Deluxe Retaining Soil': 722141
+        'Resource Pack: 14 Hyper Speed-Gro': 722147
+        'Resource Pack: 14 Tree Fertilizer': 722153
+        'Resource Pack: 15 Clay': 722026
+        'Resource Pack: 15 Coal': 722022
+        'Resource Pack: 15 Fiber': 722016
+        'Resource Pack: 15 Hardwood': 722014
+        'Resource Pack: 15 Iridium Ore': 722090
+        'Resource Pack: 15 Quartz': 722094
+        'Resource Pack: 150 Copper Ore': 722079
+        'Resource Pack: 1500 Money': 722002
+        'Resource Pack: 16 Frozen Geode': 722065
+        'Resource Pack: 18 Deluxe Fertilizer': 722136
+        'Resource Pack: 18 Deluxe Retaining Soil': 722142
+        'Resource Pack: 18 Geode': 722060
+        'Resource Pack: 18 Hyper Speed-Gro': 722148
+        'Resource Pack: 18 Tree Fertilizer': 722154
+        'Resource Pack: 2 Crab Pot': 722193
+        'Resource Pack: 2 Deluxe Fertilizer': 722132
+        'Resource Pack: 2 Deluxe Retaining Soil': 722138
+        'Resource Pack: 2 Hyper Speed-Gro': 722144
+        'Resource Pack: 2 Omni Geode': 722070
+        'Resource Pack: 2 Tree Fertilizer': 722150
+        'Resource Pack: 20 Bait': 722187
+        'Resource Pack: 20 Basic Fertilizer': 722097
+        'Resource Pack: 20 Basic Retaining Soil': 722103
+        'Resource Pack: 20 Clay': 722027
+        'Resource Pack: 20 Coal': 722023
+        'Resource Pack: 20 Deluxe Fertilizer': 722137
+        'Resource Pack: 20 Deluxe Retaining Soil': 722143
+        'Resource Pack: 20 Deluxe Speed-Gro': 722128
+        'Resource Pack: 20 Fall Seeds': 722169
+        'Resource Pack: 20 Hardwood': 722015
+        'Resource Pack: 20 Hyper Speed-Gro': 722149
+        'Resource Pack: 20 Iridium Ore': 722091
+        'Resource Pack: 20 Quality Fertilizer': 722116
+        'Resource Pack: 20 Quality Retaining Soil': 722122
+        'Resource Pack: 20 Quartz': 722095
+        'Resource Pack: 20 Speed-Gro': 722109
+        'Resource Pack: 20 Spring Seeds': 722157
+        'Resource Pack: 20 Summer Seeds': 722163
+        'Resource Pack: 20 Tree Fertilizer': 722155
+        'Resource Pack: 20 Winter Seeds': 722175
+        'Resource Pack: 2000 Money': 722003
+        'Resource Pack: 24 Geode': 722061
+        'Resource Pack: 25 Copper Ore': 722074
+        'Resource Pack: 25 Gold Ore': 722085
+        'Resource Pack: 25 Iron Ore': 722080
+        'Resource Pack: 25 Stone': 722004
+        'Resource Pack: 25 Wood': 722008
+        'Resource Pack: 28 Deluxe Speed-Gro': 722129
+        'Resource Pack: 28 Quality Fertilizer': 722117
+        'Resource Pack: 28 Quality Retaining Soil': 722123
+        'Resource Pack: 3 Crab Pot': 722194
+        'Resource Pack: 3 Magma Geode': 722066
+        'Resource Pack: 3 Mahogany Seed': 722181
+        'Resource Pack: 3 Warp Totem: Beach': 722029
+        'Resource Pack: 3 Warp Totem: Desert': 722035
+        'Resource Pack: 3 Warp Totem: Farm': 722041
+        'Resource Pack: 3 Warp Totem: Island': 722047
+        'Resource Pack: 3 Warp Totem: Mountains': 722053
+        'Resource Pack: 30 Bait': 722188
+        'Resource Pack: 30 Basic Fertilizer': 722098
+        'Resource Pack: 30 Basic Retaining Soil': 722104
+        'Resource Pack: 30 Fall Seeds': 722170
+        'Resource Pack: 30 Fiber': 722017
+        'Resource Pack: 30 Speed-Gro': 722110
+        'Resource Pack: 30 Spring Seeds': 722158
+        'Resource Pack: 30 Summer Seeds': 722164
+        'Resource Pack: 30 Winter Seeds': 722176
+        'Resource Pack: 36 Deluxe Speed-Gro': 722130
+        'Resource Pack: 36 Quality Fertilizer': 722118
+        'Resource Pack: 36 Quality Retaining Soil': 722124
+        'Resource Pack: 38 Gold Ore': 722086
+        'Resource Pack: 4 Crab Pot': 722195
+        'Resource Pack: 4 Deluxe Speed-Gro': 722126
+        'Resource Pack: 4 Frozen Geode': 722062
+        'Resource Pack: 4 Omni Geode': 722071
+        'Resource Pack: 4 Quality Fertilizer': 722114
+        'Resource Pack: 4 Quality Retaining Soil': 722120
+        'Resource Pack: 40 Bait': 722189
+        'Resource Pack: 40 Basic Fertilizer': 722099
+        'Resource Pack: 40 Basic Retaining Soil': 722105
+        'Resource Pack: 40 Deluxe Speed-Gro': 722131
+        'Resource Pack: 40 Fall Seeds': 722171
+        'Resource Pack: 40 Quality Fertilizer': 722119
+        'Resource Pack: 40 Quality Retaining Soil': 722125
+        'Resource Pack: 40 Speed-Gro': 722111
+        'Resource Pack: 40 Spring Seeds': 722159
+        'Resource Pack: 40 Summer Seeds': 722165
+        'Resource Pack: 40 Winter Seeds': 722177
+        'Resource Pack: 45 Fiber': 722018
+        'Resource Pack: 5 Clay': 722024
+        'Resource Pack: 5 Coal': 722020
+        'Resource Pack: 5 Crab Pot': 722196
+        'Resource Pack: 5 Hardwood': 722012
+        'Resource Pack: 5 Iridium Ore': 722088
+        'Resource Pack: 5 Mahogany Seed': 722182
+        'Resource Pack: 5 Quartz': 722092
+        'Resource Pack: 5 Warp Totem: Beach': 722030
+        'Resource Pack: 5 Warp Totem: Desert': 722036
+        'Resource Pack: 5 Warp Totem: Farm': 722042
+        'Resource Pack: 5 Warp Totem: Island': 722048
+        'Resource Pack: 5 Warp Totem: Mountains': 722054
+        'Resource Pack: 50 Bait': 722190
+        'Resource Pack: 50 Basic Fertilizer': 722100
+        'Resource Pack: 50 Basic Retaining Soil': 722106
+        'Resource Pack: 50 Copper Ore': 722075
+        'Resource Pack: 50 Fall Seeds': 722172
+        'Resource Pack: 50 Gold Ore': 722087
+        'Resource Pack: 50 Iron Ore': 722081
+        'Resource Pack: 50 Speed-Gro': 722112
+        'Resource Pack: 50 Spring Seeds': 722160
+        'Resource Pack: 50 Stone': 722005
+        'Resource Pack: 50 Summer Seeds': 722166
+        'Resource Pack: 50 Winter Seeds': 722178
+        'Resource Pack: 50 Wood': 722009
+        'Resource Pack: 500 Money': 722000
+        'Resource Pack: 6 Crab Pot': 722197
+        'Resource Pack: 6 Deluxe Fertilizer': 722133
+        'Resource Pack: 6 Deluxe Retaining Soil': 722139
+        'Resource Pack: 6 Geode': 722058
+        'Resource Pack: 6 Hyper Speed-Gro': 722145
+        'Resource Pack: 6 Magma Geode': 722067
+        'Resource Pack: 6 Omni Geode': 722072
+        'Resource Pack: 6 Tree Fertilizer': 722151
+        'Resource Pack: 60 Bait': 722191
+        'Resource Pack: 60 Basic Fertilizer': 722101
+        'Resource Pack: 60 Basic Retaining Soil': 722107
+        'Resource Pack: 60 Fall Seeds': 722173
+        'Resource Pack: 60 Fiber': 722019
+        'Resource Pack: 60 Speed-Gro': 722113
+        'Resource Pack: 60 Spring Seeds': 722161
+        'Resource Pack: 60 Summer Seeds': 722167
+        'Resource Pack: 60 Winter Seeds': 722179
+        'Resource Pack: 7 Mahogany Seed': 722183
+        'Resource Pack: 7 Warp Totem: Beach': 722031
+        'Resource Pack: 7 Warp Totem: Desert': 722037
+        'Resource Pack: 7 Warp Totem: Farm': 722043
+        'Resource Pack: 7 Warp Totem: Island': 722049
+        'Resource Pack: 7 Warp Totem: Mountains': 722055
+        'Resource Pack: 75 Copper Ore': 722076
+        'Resource Pack: 75 Iron Ore': 722082
+        'Resource Pack: 75 Stone': 722006
+        'Resource Pack: 75 Wood': 722010
+        'Resource Pack: 8 Frozen Geode': 722063
+        'Resource Pack: 8 Omni Geode': 722073
+        'Resource Pack: 9 Magma Geode': 722068
+        'Resource Pack: 9 Mahogany Seed': 722184
+        'Resource Pack: 9 Warp Totem: Beach': 722032
+        'Resource Pack: 9 Warp Totem: Desert': 722038
+        'Resource Pack: 9 Warp Totem: Farm': 722044
+        'Resource Pack: 9 Warp Totem: Island': 722050
+        'Resource Pack: 9 Warp Totem: Mountains': 722056
+        Return Scepter: 717122
+        Rusty Key: 717015
+        Rusty Sword: 717025
+        Shadow Dagger: 717054
+        Shipping Bin: 717093
+        Silo: 717087
+        Silver Saber: 717041
+        Skull Key: 717064
+        Slime Hutch: 717092
+        Slingshot: 717037
+        Space Boots: 717060
+        Stable: 717091
+        Stardrop: 717023
+        Steel Falchion: 717062
+        Steel Smallsword: 717032
+        Tempered Broadsword: 717056
+        Templar's Blade: 717052
+        The Slammer: 717063
+        Thermal Boots: 717039
+        Traveling Merchant Discount: 717121
+        Traveling Merchant Stock Size: 717120
+        'Traveling Merchant: Friday': 717118
+        'Traveling Merchant: Monday': 717114
+        'Traveling Merchant: Saturday': 717119
+        'Traveling Merchant: Sunday': 717113
+        'Traveling Merchant: Thursday': 717117
+        'Traveling Merchant: Tuesday': 717115
+        'Traveling Merchant: Wednesday': 717116
+        Tundra Boots: 717038
+        Water Obelisk: 717079
+        Well: 717086
+        Wicked Kris: 717057
+        Wind Spire: 717030
+        Wood Club: 717033
+        Wood Mallet: 717047
+        Wooden Blade: 717028
+        Work Boots: 717027
+      location_name_to_id:
+        10,000g Bundle: 717029
+        2,500g Bundle: 717027
+        25,000g Bundle: 717030
+        5,000g Bundle: 717028
+        A Dark Reagent: 717517
+        A Favor For Clint: 717540
+        A Soldier's Star: 717531
+        A Winter Mystery: 717526
+        Advancement: 717505
+        Adventurer's Bundle: 717021
+        Animal Bundle: 717011
+        Aquatic Research: 717530
+        Archaeology: 717506
+        Artisan Bundle: 717012
+        Bamboo Pole Cutscene: 717124
+        Barn Blueprint: 717404
+        Beach Bridge Repair: 717702
+        Big Barn Blueprint: 717405
+        Big Coop Blueprint: 717402
+        Big Shed Blueprint: 717411
+        Blackberry Basket: 717514
+        Blacksmith's Bundle: 717019
+        Carving Pumpkins: 717525
+        Catch A Squid: 717536
+        Catch a Lingcod: 717544
+        Cellar Blueprint: 717418
+        Chef's Bundle: 717022
+        Clint's Attempt: 717539
+        Complete Boiler Room: 717035
+        Complete Bulletin Board: 717036
+        Complete Crafts Room: 717032
+        Complete Fish Tank: 717034
+        Complete Pantry: 717033
+        Complete Vault: 717037
+        Construction Bundle: 717005
+        Coop Blueprint: 717401
+        Copper Axe Upgrade: 717111
+        Copper Hoe Upgrade: 717103
+        Copper Pickaxe Upgrade: 717107
+        Copper Trash Can Upgrade: 717119
+        Copper Watering Can Upgrade: 717115
+        Cow's Delight: 717518
+        Crab Pot Bundle: 717017
+        Crop Research: 717520
+        Cryptic Note: 717528
+        Deluxe Barn Blueprint: 717406
+        Deluxe Coop Blueprint: 717403
+        Deluxe Pack: 717102
+        Dye Bundle: 717023
+        Enchanter's Bundle: 717026
+        Exotic Foraging Bundle: 717006
+        Exotic Spirits: 717543
+        Fall Crops Bundle: 717009
+        Fall Foraging Bundle: 717003
+        Field Research Bundle: 717024
+        Fish Casserole: 717535
+        Fish Pond Blueprint: 717412
+        Fish Stew: 717537
+        'Fishsanity: Albacore': 718030
+        'Fishsanity: Anchovy': 718004
+        'Fishsanity: Angler': 718052
+        'Fishsanity: Blobfish': 718050
+        'Fishsanity: Blue Discus': 718029
+        'Fishsanity: Bream': 718009
+        'Fishsanity: Bullhead': 718015
+        'Fishsanity: Carp': 718001
+        'Fishsanity: Catfish': 718035
+        'Fishsanity: Chub': 718008
+        'Fishsanity: Clam': 718060
+        'Fishsanity: Cockle': 718062
+        'Fishsanity: Crab': 718061
+        'Fishsanity: Crayfish': 718056
+        'Fishsanity: Crimsonfish': 718051
+        'Fishsanity: Dorado': 718038
+        'Fishsanity: Eel': 718034
+        'Fishsanity: Flounder': 718021
+        'Fishsanity: Ghostfish': 718018
+        'Fishsanity: Glacierfish': 718054
+        'Fishsanity: Halibut': 718022
+        'Fishsanity: Herring': 718002
+        'Fishsanity: Ice Pip': 718043
+        'Fishsanity: Largemouth Bass': 718016
+        'Fishsanity: Lava Eel': 718046
+        'Fishsanity: Legend': 718053
+        'Fishsanity: Lingcod': 718044
+        'Fishsanity: Lionfish': 718023
+        'Fishsanity: Lobster': 718059
+        'Fishsanity: Midnight Carp': 718025
+        'Fishsanity: Midnight Squid': 718048
+        'Fishsanity: Mussel': 718063
+        'Fishsanity: Mutant Carp': 718055
+        'Fishsanity: Octopus': 718047
+        'Fishsanity: Oyster': 718065
+        'Fishsanity: Perch': 718007
+        'Fishsanity: Periwinkle': 718058
+        'Fishsanity: Pike': 718027
+        'Fishsanity: Pufferfish': 718039
+        'Fishsanity: Rainbow Trout': 718012
+        'Fishsanity: Red Mullet': 718026
+        'Fishsanity: Red Snapper': 718010
+        'Fishsanity: Salmon': 718017
+        'Fishsanity: Sandfish': 718031
+        'Fishsanity: Sardine': 718005
+        'Fishsanity: Scorpion Carp': 718045
+        'Fishsanity: Sea Cucumber': 718011
+        'Fishsanity: Shad': 718014
+        'Fishsanity: Shrimp': 718064
+        'Fishsanity: Slimejack': 718024
+        'Fishsanity: Smallmouth Bass': 718003
+        'Fishsanity: Snail': 718057
+        'Fishsanity: Spook Fish': 718049
+        'Fishsanity: Squid': 718036
+        'Fishsanity: Stingray': 718042
+        'Fishsanity: Stonefish': 718032
+        'Fishsanity: Sturgeon': 718037
+        'Fishsanity: Sunfish': 718006
+        'Fishsanity: Super Cucumber': 718041
+        'Fishsanity: Tiger Trout': 718028
+        'Fishsanity: Tilapia': 718019
+        'Fishsanity: Tuna': 718033
+        'Fishsanity: Void Salmon': 718040
+        'Fishsanity: Walleye': 718013
+        'Fishsanity: Woodskip': 718020
+        Floor 10 Elevator: 717215
+        Floor 100 Elevator: 717233
+        Floor 105 Elevator: 717234
+        Floor 110 Elevator: 717235
+        Floor 115 Elevator: 717236
+        Floor 120 Elevator: 717237
+        Floor 15 Elevator: 717216
+        Floor 20 Elevator: 717217
+        Floor 25 Elevator: 717218
+        Floor 30 Elevator: 717219
+        Floor 35 Elevator: 717220
+        Floor 40 Elevator: 717221
+        Floor 45 Elevator: 717222
+        Floor 5 Elevator: 717214
+        Floor 50 Elevator: 717223
+        Floor 55 Elevator: 717224
+        Floor 60 Elevator: 717225
+        Floor 65 Elevator: 717226
+        Floor 70 Elevator: 717227
+        Floor 75 Elevator: 717228
+        Floor 80 Elevator: 717229
+        Floor 85 Elevator: 717230
+        Floor 90 Elevator: 717231
+        Floor 95 Elevator: 717232
+        Fodder Bundle: 717025
+        Forging Ahead: 717508
+        Fresh Fruit: 717529
+        Galaxy Sword Shrine: 717703
+        Geologist's Bundle: 717020
+        Getting Started: 717503
+        Gold Axe Upgrade: 717113
+        Gold Hoe Upgrade: 717105
+        Gold Pickaxe Upgrade: 717109
+        Gold Trash Can Upgrade: 717121
+        Gold Watering Can Upgrade: 717117
+        Granny's Gift: 717542
+        Grim Reaper statue: 717212
+        'Help Wanted: Fishing 1': 717821
+        'Help Wanted: Fishing 2': 717822
+        'Help Wanted: Fishing 3': 717823
+        'Help Wanted: Fishing 4': 717824
+        'Help Wanted: Fishing 5': 717825
+        'Help Wanted: Fishing 6': 717826
+        'Help Wanted: Fishing 7': 717827
+        'Help Wanted: Fishing 8': 717828
+        'Help Wanted: Gathering 1': 717801
+        'Help Wanted: Gathering 2': 717802
+        'Help Wanted: Gathering 3': 717803
+        'Help Wanted: Gathering 4': 717804
+        'Help Wanted: Gathering 5': 717805
+        'Help Wanted: Gathering 6': 717806
+        'Help Wanted: Gathering 7': 717807
+        'Help Wanted: Gathering 8': 717808
+        'Help Wanted: Item Delivery 1': 717841
+        'Help Wanted: Item Delivery 10': 717850
+        'Help Wanted: Item Delivery 11': 717851
+        'Help Wanted: Item Delivery 12': 717852
+        'Help Wanted: Item Delivery 13': 717853
+        'Help Wanted: Item Delivery 14': 717854
+        'Help Wanted: Item Delivery 15': 717855
+        'Help Wanted: Item Delivery 16': 717856
+        'Help Wanted: Item Delivery 17': 717857
+        'Help Wanted: Item Delivery 18': 717858
+        'Help Wanted: Item Delivery 19': 717859
+        'Help Wanted: Item Delivery 2': 717842
+        'Help Wanted: Item Delivery 20': 717860
+        'Help Wanted: Item Delivery 21': 717861
+        'Help Wanted: Item Delivery 22': 717862
+        'Help Wanted: Item Delivery 23': 717863
+        'Help Wanted: Item Delivery 24': 717864
+        'Help Wanted: Item Delivery 25': 717865
+        'Help Wanted: Item Delivery 26': 717866
+        'Help Wanted: Item Delivery 27': 717867
+        'Help Wanted: Item Delivery 28': 717868
+        'Help Wanted: Item Delivery 29': 717869
+        'Help Wanted: Item Delivery 3': 717843
+        'Help Wanted: Item Delivery 30': 717870
+        'Help Wanted: Item Delivery 31': 717871
+        'Help Wanted: Item Delivery 32': 717872
+        'Help Wanted: Item Delivery 4': 717844
+        'Help Wanted: Item Delivery 5': 717845
+        'Help Wanted: Item Delivery 6': 717846
+        'Help Wanted: Item Delivery 7': 717847
+        'Help Wanted: Item Delivery 8': 717848
+        'Help Wanted: Item Delivery 9': 717849
+        'Help Wanted: Slay Monsters 1': 717811
+        'Help Wanted: Slay Monsters 2': 717812
+        'Help Wanted: Slay Monsters 3': 717813
+        'Help Wanted: Slay Monsters 4': 717814
+        'Help Wanted: Slay Monsters 5': 717815
+        'Help Wanted: Slay Monsters 6': 717816
+        'Help Wanted: Slay Monsters 7': 717817
+        'Help Wanted: Slay Monsters 8': 717818
+        How To Win Friends: 717502
+        Initiation: 717510
+        Introductions: 717501
+        Iridium Axe Upgrade: 717114
+        Iridium Hoe Upgrade: 717106
+        Iridium Pickaxe Upgrade: 717110
+        Iridium Trash Can Upgrade: 717122
+        Iridium Watering Can Upgrade: 717118
+        Iron Axe Upgrade: 717112
+        Iron Hoe Upgrade: 717104
+        Iron Pickaxe Upgrade: 717108
+        Iron Trash Can Upgrade: 717120
+        Iron Watering Can Upgrade: 717116
+        Jodi's Request: 717512
+        'JotPK: Ammo 1': 717607
+        'JotPK: Ammo 2': 717608
+        'JotPK: Ammo 3': 717609
+        'JotPK: Boots 1': 717601
+        'JotPK: Boots 2': 717602
+        'JotPK: Cowboy 1': 717610
+        'JotPK: Cowboy 2': 717611
+        'JotPK: Gun 1': 717603
+        'JotPK: Gun 2': 717604
+        'JotPK: Gun 3': 717605
+        'JotPK: Super Gun': 717606
+        Journey of the Prairie King Victory: 717620
+        'Junimo Kart: Crumble Cavern': 717612
+        'Junimo Kart: Ghastly Galleon': 717617
+        'Junimo Kart: Glowshroom Grotto': 717618
+        'Junimo Kart: Red Hot Rollercoaster': 717619
+        'Junimo Kart: Secret Level': 717614
+        'Junimo Kart: Slippery Slopes': 717613
+        'Junimo Kart: Slomp''s Stomp': 717616
+        'Junimo Kart: Sunset Speedway (Victory)': 717621
+        'Junimo Kart: The Gem Sea Giant': 717615
+        Kids Room Blueprint: 717417
+        Kitchen Blueprint: 717416
+        Knee Therapy: 717521
+        Lake Fish Bundle: 717014
+        Large Pack: 717101
+        Level 1 Combat: 717341
+        Level 1 Farming: 717301
+        Level 1 Fishing: 717311
+        Level 1 Foraging: 717321
+        Level 1 Mining: 717331
+        Level 10 Combat: 717350
+        Level 10 Farming: 717310
+        Level 10 Fishing: 717320
+        Level 10 Foraging: 717330
+        Level 10 Mining: 717340
+        Level 2 Combat: 717342
+        Level 2 Farming: 717302
+        Level 2 Fishing: 717312
+        Level 2 Foraging: 717322
+        Level 2 Mining: 717332
+        Level 3 Combat: 717343
+        Level 3 Farming: 717303
+        Level 3 Fishing: 717313
+        Level 3 Foraging: 717323
+        Level 3 Mining: 717333
+        Level 4 Combat: 717344
+        Level 4 Farming: 717304
+        Level 4 Fishing: 717314
+        Level 4 Foraging: 717324
+        Level 4 Mining: 717334
+        Level 5 Combat: 717345
+        Level 5 Farming: 717305
+        Level 5 Fishing: 717315
+        Level 5 Foraging: 717325
+        Level 5 Mining: 717335
+        Level 6 Combat: 717346
+        Level 6 Farming: 717306
+        Level 6 Fishing: 717316
+        Level 6 Foraging: 717326
+        Level 6 Mining: 717336
+        Level 7 Combat: 717347
+        Level 7 Farming: 717307
+        Level 7 Fishing: 717317
+        Level 7 Foraging: 717327
+        Level 7 Mining: 717337
+        Level 8 Combat: 717348
+        Level 8 Farming: 717308
+        Level 8 Fishing: 717318
+        Level 8 Foraging: 717328
+        Level 8 Mining: 717338
+        Level 9 Combat: 717349
+        Level 9 Farming: 717309
+        Level 9 Fishing: 717319
+        Level 9 Foraging: 717329
+        Level 9 Mining: 717339
+        Marnie's Request: 717515
+        Mayor's "Shorts": 717513
+        Mayor's Need: 717532
+        Meet The Wizard: 717507
+        Mill Blueprint: 717409
+        Night Fishing Bundle: 717016
+        Ocean Fish Bundle: 717015
+        Old Master Cannoli: 717701
+        Pam Is Thirsty: 717516
+        Pam Needs Juice: 717534
+        Pierre's Notice: 717538
+        Purchase Fiberglass Rod: 717125
+        Purchase Iridium Rod: 717126
+        Purchase Training Rod: 717123
+        Qi's Challenge: 717523
+        Quality Crops Bundle: 717010
+        Raising Animals: 717504
+        River Fish Bundle: 717013
+        Robin's Lost Axe: 717511
+        Robin's Request: 717522
+        Shed Blueprint: 717410
+        Shipping Bin Blueprint: 717415
+        Silo Blueprint: 717408
+        Slime Hutch Blueprint: 717414
+        Smelting: 717509
+        Specialty Fish Bundle: 717018
+        Spring Crops Bundle: 717007
+        Spring Foraging Bundle: 717001
+        Stable Blueprint: 717413
+        Staff Of Power: 717541
+        Strange Note: 717527
+        Summer Crops Bundle: 717008
+        Summer Foraging Bundle: 717002
+        The Mines Entrance Cutscene: 717213
+        The Mines Floor 10 Treasure: 717201
+        The Mines Floor 100 Treasure: 717209
+        The Mines Floor 110 Treasure: 717210
+        The Mines Floor 120 Treasure: 717211
+        The Mines Floor 20 Treasure: 717202
+        The Mines Floor 40 Treasure: 717203
+        The Mines Floor 50 Treasure: 717204
+        The Mines Floor 60 Treasure: 717205
+        The Mines Floor 70 Treasure: 717206
+        The Mines Floor 80 Treasure: 717207
+        The Mines Floor 90 Treasure: 717208
+        The Missing Bundle: 717031
+        The Mysterious Qi: 717524
+        The Skull Key: 717519
+        Traveling Merchant Friday Item 1: 717951
+        Traveling Merchant Friday Item 2: 717952
+        Traveling Merchant Friday Item 3: 717953
+        Traveling Merchant Monday Item 1: 717911
+        Traveling Merchant Monday Item 2: 717912
+        Traveling Merchant Monday Item 3: 717913
+        Traveling Merchant Saturday Item 1: 717961
+        Traveling Merchant Saturday Item 2: 717962
+        Traveling Merchant Saturday Item 3: 717963
+        Traveling Merchant Sunday Item 1: 717901
+        Traveling Merchant Sunday Item 2: 717902
+        Traveling Merchant Sunday Item 3: 717903
+        Traveling Merchant Thursday Item 1: 717941
+        Traveling Merchant Thursday Item 2: 717942
+        Traveling Merchant Thursday Item 3: 717943
+        Traveling Merchant Tuesday Item 1: 717921
+        Traveling Merchant Tuesday Item 2: 717922
+        Traveling Merchant Tuesday Item 3: 717923
+        Traveling Merchant Wednesday Item 1: 717931
+        Traveling Merchant Wednesday Item 2: 717932
+        Traveling Merchant Wednesday Item 3: 717933
+        'Wanted: Lobster': 717533
+        Well Blueprint: 717407
+        Winter Foraging Bundle: 717004
+      version: 0
+    The Messenger:
+      item_name_to_id:
+        Acro: 11390997
+        Candle: 11390986
+        Claustro: 11390996
+        Demon King Crown: 11390989
+        Fairy Bottle: 11390991
+        Key of Chaos: 11390977
+        Key of Courage: 11390978
+        Key of Hope: 11390976
+        Key of Love: 11390979
+        Key of Strength: 11390980
+        Key of Symbiosis: 11390981
+        Moon Crest: 11390993
+        Necro: 11390994
+        Ninja Tabi: 11390985
+        Power Seal: 11390998
+        Power Thistle: 11390988
+        Pyro: 11390995
+        Rope Dart: 11390984
+        Ruxxtin's Amulet: 11390990
+        Seashell: 11390987
+        Sun Crest: 11390992
+        Time Shard: 11390999
+        Windmill Shuriken: 11390982
+        Wingsuit: 11390983
+      location_name_to_id:
+        Acro: 11390999
+        Astral Seed: 11390986
+        Astral Tea Leaves: 11390987
+        Autumn Hills Seal - Double Swing Saws: 11391002
+        Autumn Hills Seal - Spike Ball Darts: 11391004
+        Autumn Hills Seal - Spike Ball Swing: 11391003
+        Autumn Hills Seal - Trip Saws: 11391001
+        Bamboo Creek Seal - Spike Ball Pits: 11391009
+        Bamboo Creek Seal - Spike Crushers and Doors: 11391008
+        Bamboo Creek Seal - Spike Crushers and Doors v2: 11391010
+        Candle: 11390988
+        Catacombs Seal - Crusher Gauntlet: 11391006
+        Catacombs Seal - Dirty Pond: 11391007
+        Catacombs Seal - Triple Spike Crushers: 11391005
+        Claustro: 11390998
+        Climbing Claws: 11390985
+        Cloud Ruins Seal - Ghost Pit: 11391026
+        Cloud Ruins Seal - Money Farm Room: 11391029
+        Cloud Ruins Seal - Saw Pit: 11391028
+        Cloud Ruins Seal - Toothbrush Alley: 11391027
+        Demon King Crown: 11390991
+        Elemental Skylands Seal - Air: 11391042
+        Elemental Skylands Seal - Fire: 11391044
+        Elemental Skylands Seal - Water: 11391043
+        Fairy Bottle: 11390993
+        Forlorn Temple Seal - Rocket Maze: 11391034
+        Forlorn Temple Seal - Rocket Sunset: 11391035
+        Glacial Peak Seal - Glacial Air Swag: 11391022
+        Glacial Peak Seal - Ice Climbers: 11391020
+        Glacial Peak Seal - Projectile Spike Pit: 11391021
+        Howling Grotto Seal - Breezy Crushers: 11391013
+        Howling Grotto Seal - Crushing Pits: 11391012
+        Howling Grotto Seal - Windy Saws and Balls: 11391011
+        Key of Chaos: 11390978
+        Key of Courage: 11390977
+        Key of Hope: 11390981
+        Key of Love: 11390976
+        Key of Strength: 11390980
+        Key of Symbiosis: 11390979
+        Moon Crest: 11390995
+        Necro: 11390996
+        Ninja Tabi: 11390984
+        Ninja Village Seal - Tree House: 11391000
+        Power Thistle: 11390990
+        Pyro: 11390997
+        Quillshroom Marsh Seal - Do the Spike Wave: 11391016
+        Quillshroom Marsh Seal - Sand Trap: 11391015
+        Quillshroom Marsh Seal - Spikey Window: 11391014
+        Riviere Turquoise Seal - Bounces and Balls: 11391039
+        Riviere Turquoise Seal - Flower Power: 11391041
+        Riviere Turquoise Seal - Launch of Faith: 11391040
+        Rope Dart: 11390983
+        Ruxxtin's Amulet: 11390992
+        Searing Crags Seal - Raining Rocks: 11391018
+        Searing Crags Seal - Rhythm Rocks: 11391019
+        Searing Crags Seal - Triple Ball Spinner: 11391017
+        Seashell: 11390989
+        Sun Crest: 11390994
+        Sunken Shrine Seal - Tabi Gauntlet: 11391038
+        Sunken Shrine Seal - Ultra Lifeguard: 11391036
+        Sunken Shrine Seal - Waterfall Paradise: 11391037
+        Tower of Time Seal - Arcane Orbs: 11391025
+        Tower of Time Seal - Lantern Climb: 11391024
+        Tower of Time Seal - Time Waster Seal: 11391023
+        Underworld Seal - Fireball Wave: 11391032
+        Underworld Seal - Rising Fanta: 11391033
+        Underworld Seal - Sharp and Windy Climb: 11391030
+        Underworld Seal - Spike Wall: 11391031
+        Wingsuit: 11390982
+      version: 0

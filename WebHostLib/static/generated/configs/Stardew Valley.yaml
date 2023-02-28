@@ -1,0 +1,356 @@
+# Q. What is this file?
+# A. This file contains options which allow you to configure your multiworld experience while allowing
+#    others to play how they want as well.
+#
+# Q. How do I use it?
+# A. The options in this file are weighted. This means the higher number you assign to a value, the
+#    more chances you have for that option to be chosen. For example, an option like this:
+#
+#    map_shuffle:
+#      on: 5
+#      off: 15
+#
+#    Means you have 5 chances for map shuffle to occur, and 15 chances for map shuffle to be turned
+#    off.
+#
+# Q. I've never seen a file like this before. What characters am I allowed to use?
+# A. This is a .yaml file. You are allowed to use most characters.
+#    To test if your yaml is valid or not, you can use this website:
+#        http://www.yamllint.com/
+#    You can also verify your Archipelago settings are valid at this site:
+#        https://archipelago.gg/check
+
+# Your name in-game. Spaces will be replaced with underscores and there is a 16-character limit.
+#     {player} will be replaced with the player's slot number.
+#     {PLAYER} will be replaced with the player's slot number, if that slot number is greater than 1.
+#     {number} will be replaced with the counter value of the name.
+#     {NUMBER} will be replaced with the counter value of the name, if the counter value is greater than 1.
+name: Player{number}
+
+# Used to describe your yaml. Useful if you have multiple files.
+description: Default Stardew Valley Template
+
+game: Stardew Valley
+requires:
+  version: 0.3.9 # Version of Archipelago required for this yaml to work as expected.
+
+Stardew Valley:
+  progression_balancing:
+    # A system that can move progression earlier, to try and prevent the player from getting stuck and bored early.
+    # A lower setting means more getting stuck. A higher setting means less getting stuck.
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 0
+    # Maximum value is 99
+    random: 0
+    random-low: 0
+    random-high: 0
+    disabled: 0 # equivalent to 0
+    normal: 50 # equivalent to 50
+    extreme: 0 # equivalent to 99
+
+  accessibility:
+    # Set rules for reachability of your items/locations.
+    # Locations: ensure everything can be reached and acquired.
+    # Items: ensure all logically relevant items can be acquired.
+    # Minimal: ensure what is needed to reach your goal can be acquired.
+    locations: 0
+    items: 50
+    minimal: 0
+
+  local_items:
+    # Forces these items to be in their native world.
+    []
+
+  non_local_items:
+    # Forces these items to be outside their native world.
+    []
+
+  start_inventory:
+    # Start with these items.
+    {}
+
+  start_hints:
+    # Start with these item's locations prefilled into the !hint command.
+    []
+
+  start_location_hints:
+    # Start with these locations and their item prefilled into the !hint command
+    []
+
+  exclude_locations:
+    # Prevent these locations from having an important item
+    []
+
+  priority_locations:
+    # Prevent these locations from having an unimportant item
+    []
+
+  item_links:
+    # Share part of your item pool with other players.
+    []
+
+  starting_money:
+    # Amount of gold when arriving at the farm.
+    # Set to -1 or unlimited for infinite money in this playthrough
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is -1
+    # Maximum value is 50000
+    random: 0
+    random-low: 0
+    random-high: 0
+    unlimited: 0 # equivalent to -1
+    vanilla: 0 # equivalent to 500
+    extra: 0 # equivalent to 2000
+    rich: 50 # equivalent to 5000
+    very rich: 0 # equivalent to 20000
+    filthy rich: 0 # equivalent to 50000
+
+  resource_pack_multiplier:
+    # How many items will be in the resource pack. A lower setting mean fewer resources in each pack.
+    # A higher setting means more resources in each pack. Easy (200) doubles the default quantity.
+    # This also include Friendship bonuses that replace the one from the Bulletin Board.
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 0
+    # Maximum value is 200
+    random: 0
+    random-low: 0
+    random-high: 0
+    resource packs disabled: 0 # equivalent to 0
+    half packs: 0 # equivalent to 50
+    normal packs: 50 # equivalent to 100
+    double packs: 0 # equivalent to 200
+
+  bundle_randomization:
+    # What items are needed for the community center bundles?
+    # With Vanilla, you get the standard bundles from the game
+    # With Thematic, every bundle will require random items within their original category
+    # With Shuffled, every bundle will require random items without logic
+    vanilla: 0
+    thematic: 50
+    shuffled: 0
+
+  bundle_price:
+    # How many items are needed for the community center bundles?
+    # With Very Cheap, every bundle will require two items fewer than usual
+    # With Cheap, every bundle will require 1 item fewer than usual
+    # With Normal, every bundle will require the vanilla number of items
+    # With Expensive, every bundle will require 1 extra item
+    very_cheap: 0
+    cheap: 0
+    normal: 50
+    expensive: 0
+
+  entrance_randomization:
+    # Should area entrances be randomized?
+    # With Disabled, no entrance randomization is done
+    # With Pelican Town, only buildings in the main town area are randomized with each other
+    # With Non Progression, only buildings that are always available are randomized with each other
+    # With Buildings, All buildings in the world are randomized with each other
+    # With Everything, All buildings and areas are randomized with each other
+    # With Chaos, same as everything, but the buildings are shuffled again every in-game day. You can't learn it!
+    disabled: 50
+    pelican_town: 0
+    non_progression: 0
+
+  backpack_progression:
+    # How is the backpack progression handled?
+    # With Vanilla, you can buy them at Pierre's.
+    # With Progressive, you will randomly find Progressive Backpack to upgrade.
+    # With Early Progressive, you can expect you first Backpack before the second season, and the third before the forth
+    #     season.
+    vanilla: 0
+    progressive: 0
+    early_progressive: 50
+
+  tool_progression:
+    # How is the tool progression handled?
+    # With Vanilla, Clint will upgrade your tools with ore.
+    # With Progressive, you will randomly find Progressive Tool to upgrade.
+    # With World Checks, the tools of different quality will be found in the world.
+    vanilla: 0
+    progressive: 50
+
+  skill_progression:
+    # How is the skill progression handled?
+    # With Vanilla, you will level up and get the normal reward at each level.
+    # With Progressive, the xp will be counted internally, locations will be sent when you gain a virtual level. Your real
+    #     levels will be scattered around the world.
+    vanilla: 0
+    progressive: 50
+
+  building_progression:
+    # How is the building progression handled?
+    # With Vanilla, you will buy each building and upgrade one at the time.
+    # With Progressive, you will receive the buildings and will be able to build the first one of each building for free,
+    #     once it is received. If you want more of the same building, it will cost the vanilla price.
+    #     This option INCLUDES the shipping bin as a building you need to receive.
+    # With Progressive early shipping bin, you can expect to receive the shipping bin before the end of the first season.
+    vanilla: 0
+    progressive: 0
+    progressive_early_shipping_bin: 50
+
+  elevator_progression:
+    # How is The Mines' Elevator progression handled?
+    # With Vanilla, you will unlock a new elevator floor every 5 floor in the mine.
+    # With Progressive, you will randomly find Progressive Mine Elevator to go deeper. Location are sent for reaching
+    #     every level multiple of 5.
+    # With Progressive from previous floor, you will randomly find Progressive Mine Elevator to go deeper. Location are
+    #     sent for taking the ladder or stair to every level multiple of 5, taking the elevator does not count.
+    vanilla: 0
+    progressive: 0
+    progressive_from_previous_floor: 50
+
+  arcade_machine_locations:
+    # How are the Arcade Machines handled?
+    # With Vanilla, the arcade machines are not included in the Archipelago shuffling.
+    # With Victories, each Arcade Machine will contain one check on victory, and be otherwise unchanged
+    # With Victories Easy, the arcade machines are both made considerably easier to be more accessible for the average
+    #     player. Junimo Kart will start each level with 6 Extra lives, and Journey of the Prairie King will start with
+    #     one of each equipment, and the drop rates of coins and powerups is increased.
+    # With Full Shuffling, the arcade machines will contain multiple checks each, and different buffs that make the game
+    #     easier are received in the item pool. Junimo Kart has one check at the end of each level, and 6 extra lives in
+    #     the item pool. Journey of the Prairie King has one check after each boss, plus one check for each vendor
+    #     equipment. Every equipment is instead in the item pool, plus 2 starting lives and one drop rate buff.
+    disabled: 0
+    victories: 0
+    victories_easy: 0
+    full_shuffling: 50
+
+  help_wanted_locations:
+    # How many "Help Wanted" quests need to be completed as ArchipelagoLocations
+    # Out of every 7 quests, 4 will be item deliveries, and then 1 of each for: Fishing, Gathering and Slaying Monsters.
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 0
+    # Maximum value is 56
+    random: 0
+    random-low: 0
+    random-high: 0
+    none: 0 # equivalent to 0
+    minimum: 50 # equivalent to 7
+    normal: 0 # equivalent to 14
+    lots: 0 # equivalent to 28
+    maximum: 0 # equivalent to 56
+
+  fishsanity:
+    # Locations for catching fish?
+    # With None, there are no locations for catching fish
+    # With Legendaries, each of the 5 legendary fish are locations that contain items
+    # With Special, a curated selection of strong fish are locations that contain items
+    # With Random Selection, a random selection of fish are locations that contain items
+    # With All, every single fish in the game is a location that contains an item. Pairs well with the Master Angler Goal
+    none: 50
+    legendaries: 0
+    special: 0
+    random_selection: 0
+    all: 0
+
+  player_buff_number:
+    # Number of buffs to the player of each type that exist as items in the pool.
+    # Buffs include movement speed (+25% multiplier, stacks additively)
+    # and daily luck bonus (0.025 flat value per buff)
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 0
+    # Maximum value is 12
+    4: 50
+    random: 0
+    random-low: 0
+    random-high: 0
+
+  goal:
+    # What's your goal with this play-through?
+    # With Community Center, the world will be completed once you complete the Community Center.
+    # With Grandpa's Evaluation, the world will be completed once 4 candles are lit around Grandpa's Shrine.
+    # With Bottom of the Mines, the world will be completed once you reach level 120 in the local mineshaft.
+    # With Cryptic Note, the world will be completed once you complete the quest "Cryptic Note" where Mr Qi asks you to reach floor 100 in the Skull Cavern
+    # With Master Angler, the world will be completed once you have caught every fish in the game. Pairs well with Fishsanity
+    community_center: 50
+    grandpa_evaluation: 0
+    bottom_of_the_mines: 0
+    cryptic_note: 0
+    master_angler: 0
+
+  multiple_day_sleep_enabled:
+    # Should you be able to sleep automatically multiple day strait?
+    false: 0
+    true: 50
+
+  multiple_day_sleep_cost:
+    # How must gold it cost to sleep through multiple days? You will have to pay that amount for each day slept.
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 0
+    # Maximum value is 200
+    random: 0
+    random-low: 0
+    random-high: 0
+    free: 50 # equivalent to 0
+    cheap: 0 # equivalent to 25
+    medium: 0 # equivalent to 50
+    expensive: 0 # equivalent to 100
+
+  experience_multiplier:
+    # How fast do you want to level up. A lower setting mean less experience.
+    # A higher setting means more experience.
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 25
+    # Maximum value is 400
+    random: 0
+    random-low: 0
+    random-high: 0
+    half: 0 # equivalent to 50
+    vanilla: 0 # equivalent to 100
+    double: 50 # equivalent to 200
+    triple: 0 # equivalent to 300
+    quadruple: 0 # equivalent to 400
+
+  debris_multiplier:
+    # How much debris spawn on the player's farm?
+    # With Vanilla, debris spawns normally
+    # With Half, debris will spawn at half the normal rate
+    # With Quarter, debris will spawn at one quarter of the normal rate
+    # With None, No debris will spawn on the farm, ever
+    # With Start Clear, debris will spawn at the normal rate, but the farm will be completely clear when starting the game
+    vanilla: 0
+    half: 50
+    quarter: 0
+    none: 0
+    start_clear: 0
+
+  quick_start:
+    # Do you want the quick start package? You will get a few items to help early game automation,
+    # so you can use the multiple day sleep at its maximum.
+    false: 0
+    true: 50
+
+  gifting:
+    # Do you want to enable gifting items to and from other Stardew Valley worlds?
+    false: 0
+    true: 50
+
+  gift_tax:
+    # Joja Prime will deliver gifts within one business day, for a price!
+    # Sending a gift will cost a percentage of the item's monetary value as a tax on the sender
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 0
+    # Maximum value is 400
+    random: 0
+    random-low: 0
+    random-high: 0
+    taxation is theft: 0 # equivalent to 0
+    soft tax: 50 # equivalent to 20
+    rough tax: 0 # equivalent to 40
+    communism: 0 # equivalent to 100
+    oppression: 0 # equivalent to 200
+    they better really need it: 0 # equivalent to 400
+
+  death_link:
+    # When you die, everyone dies. Of course the reverse is true too.
+    false: 50
+    true: 0
