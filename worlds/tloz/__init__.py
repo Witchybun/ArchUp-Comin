@@ -43,7 +43,7 @@ class TLoZWorld(World):
     option_definitions = tloz_options
     game = "The Legend of Zelda"
     topology_present = False
-    data_version = 1
+    data_version = 0
     base_id = 7000
     web = TLoZWeb()
 
