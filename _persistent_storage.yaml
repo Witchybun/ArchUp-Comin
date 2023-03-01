@@ -1,5 +1,5 @@
 client:
-  last_server_address: archipelago.gg:53380
+  last_server_address: 99.91.169.91:38281
   uuid: 256763541744698
 datapackage:
   games:
@@ -1894,2416 +1894,1752 @@ datapackage:
     Muse Dash:
       item_name_to_id:
         '#Psychedelic_Meguro_River': 290059
-        -+: 290469
-        7th Beat Games: 290195
-        8bit Adventurer: 290412
-        A Philosophical Wanderer: 290175
+        -+: 290476
+        7th Beat Games: 290202
+        8bit Adventurer: 290419
+        A Philosophical Wanderer: 290182
         AKUMU /: 290070
-        ALiVE: 290245
-        ANGEL HALO: 290183
+        ALiVE: 290252
+        ANGEL HALO: 290190
         ARIGA THESIS: 290057
-        ARUYA HARERUYA: 290214
-        AXION: 290390
-        Adjudicatorz-DanZai-: 290471
-        Alice in Misanthrope: 290477
-        Altale: 290431
-        Amakakeru Soukyuu no Serenade: 290456
+        ARUYA HARERUYA: 290221
+        AXION: 290397
+        Adjudicatorz-DanZai-: 290478
+        Alice in Misanthrope: 290484
+        Altale: 290438
+        Amakakeru Soukyuu no Serenade: 290463
         Amatsumikaboshi: 290056
-        Amenemhat: 290260
-        Amnesia: 290391
+        Amenemhat: 290267
+        Amenohoakari: 290083
+        Amnesia: 290398
         Aqua Stars: 290045
-        Arcaea: 290165
-        Autumn Moods: 290085
-        BATTLE NO.1: 290246
-        BLESS ME: 290217
-        Baby Pink: 290130
-        Bad Apple!! feat. Nomico: 290189
-        Bang!!: 290171
+        Arcaea: 290172
+        Autumn Moods: 290092
+        BATTLE NO.1: 290253
+        BLESS ME: 290224
+        Baby Pink: 290137
+        Bad Apple!! feat. Nomico: 290196
+        Bang!!: 290178
         Bass Telekinesis: 290027
         Believing and Being: 290064
-        Berry Go!!: 290433
+        Berry Go!!: 290440
         Best One feat.tooko: 290013
-        Better Graphic Animation: 290311
-        Bit-alize: 290463
-        Black River Feat.Mes: 290385
+        Better Graphic Animation: 290318
+        Bit-alize: 290470
+        Black River Feat.Mes: 290392
         Blackest Luxury Car: 290030
-        Blah!!: 290263
-        Blush: 290215
-        Boiling Blood: 290078
-        Bomb-Sniffing Pomeranian: 290197
-        Booouncing!!: 290236
-        Boys in Virtual Land: 290137
-        Brain Power: 290432
-        Brave My Heart: 290410
-        Brave My Soul: 290438
-        Breaker city: 290282
+        Blah!!: 290270
+        Blush: 290222
+        Boiling Blood: 290085
+        Bomb-Sniffing Pomeranian: 290204
+        Booouncing!!: 290243
+        Boys in Virtual Land: 290144
+        Brain Power: 290439
+        Brave My Heart: 290417
+        Brave My Soul: 290445
+        Breaker city: 290289
         Breaking Dawn: 290004
-        Bright Dream: 290151
-        Brilliant & Shining!: 290097
-        Budget Is Burning Vol.1: 290444
-        'Budget Is Burning: Nano Core': 290342
-        Burn: 290243
-        CHAOS: 290256
-        CHAOS Glitch: 290264
+        Bright Dream: 290158
+        Brilliant & Shining!: 290104
+        Budget Is Burning Vol.1: 290451
+        'Budget Is Burning: Nano Core': 290349
+        Burn: 290250
+        CHAOS: 290263
+        CHAOS Glitch: 290271
         Cage of Almeria: 290028
-        Can I friend you on Bassbook? lol: 290301
-        Can We Talk: 290162
+        Can I friend you on Bassbook? lol: 290308
+        Can We Talk: 290169
         Candy-coloured Love Theory: 290014
         Catalyst: 290065
-        Chariot: 290180
-        Cheshire's Dance: 290405
-        Chrome VOX: 290255
-        Chronomia: 290426
-        Cirno's Perfect Math Class: 290191
+        Chariot: 290187
+        Cheshire's Dance: 290412
+        Chrome VOX: 290262
+        Chronomia: 290433
+        Cirno's Perfect Math Class: 290198
         Clock Room & Spiritual World: 290047
-        Colored Glass: 290224
-        Colorful Star, Colored Drawing, Travel Poem: 290383
-        Comet Coaster: 290249
-        Computer Music Girl: 290284
+        Colored Glass: 290231
+        Colorful Star, Colored Drawing, Travel Poem: 290390
+        Comet Coaster: 290256
+        Computer Music Girl: 290291
         Confession: 290024
-        Confession Support Formula: 290330
-        Cotton Candy Wonderland: 290368
-        Creamy Sugary OVERDRIVE!!!: 290340
-        Crimson Nightingle: 290440
-        Cross Ray: 290277
-        Cthugha: 290247
-        Cute Is Everything Vol.1: 290479
-        Cute Is Everything Vol.2: 290395
-        Cute Is Everything Vol.3: 290381
-        Cute Is Everything Vol.4: 290360
-        Cute Is Everything Vol.5: 290328
-        Cute Is Everything Vol.6: 290279
-        Cute Is Everything Vol.7: 290223
-        Cutter: 290232
-        Cyaegha: 290169
-        D.I.Y.: 290136
+        Confession Support Formula: 290337
+        Cotton Candy Wonderland: 290375
+        Creamy Sugary OVERDRIVE!!!: 290347
+        Crimson Nightingle: 290447
+        Cross Ray: 290284
+        Cthugha: 290254
+        Cute Is Everything Vol.1: 290486
+        Cute Is Everything Vol.2: 290402
+        Cute Is Everything Vol.3: 290388
+        Cute Is Everything Vol.4: 290367
+        Cute Is Everything Vol.5: 290335
+        Cute Is Everything Vol.6: 290286
+        Cute Is Everything Vol.7: 290230
+        Cutter: 290239
+        Cyaegha: 290176
+        D.I.Y.: 290143
         DISCO NIGHT: 290018
-        DJMAX Reflect: 290149
+        DJMAX Reflect: 290156
         DROPS: 290072
-        Daisuki Dayo feat.Wotoha: 290148
-        Dandelion's Daydream: 290427
-        DarakuDatenshi: 290135
-        Daruma-san Fell Over: 290483
-        DataErr0r: 290242
-        Dating Manifesto: 290399
-        Deep Blue and the Breaths of the Night: 290362
+        Daisuki Dayo feat.Wotoha: 290155
+        Dandelion's Daydream: 290434
+        DarakuDatenshi: 290142
+        Daruma-san Fell Over: 290490
+        DataErr0r: 290249
+        Dating Manifesto: 290406
+        Deep Blue and the Breaths of the Night: 290369
         Default Music: 290000
         Departure Road: 290026
-        Desastre: 290270
-        Destr0yer: 290417
-        Different: 290484
+        Desastre: 290277
+        Destr0yer: 290424
+        Different: 290491
         Diffraction: 290069
-        Disorder: 290341
+        Disorder: 290348
         Dohna Dohna no Uta: 290016
-        DokiDoki! Valentine!: 290145
+        DokiDoki! Valentine!: 290152
         Dolphin and Broadcast: 290011
-        Don't Die: 290159
-        Don't Make the Vocalist do Anything Insane: 290090
-        Doppelganger: 290144
-        Dossoles Holiday: 290084
-        Down Low: 290093
-        Dr.Techro: 290359
-        Dreaming Girl: 290482
+        Don't Die: 290166
+        Don't Make the Vocalist do Anything Insane: 290097
+        Doppelganger: 290151
+        Dossoles Holiday: 290091
+        Down Low: 290100
+        Dr.Techro: 290366
+        Dreaming Girl: 290489
         Dysthymia: 290035
-        EMOMOMO: 290200
-        ENDLESS CIDER: 290118
-        ENERGY SYNERGY MATRIX: 290309
-        EXIST: 290344
-        Eeliaas: 290380
-        Elastic STAR: 290155
-        Elysion's Old Mans: 290389
-        Endless Error Loop: 290088
-        Enka Dance Music: 290454
-        Etude -Storm-: 290377
-        Etude -Sunset-: 290447
+        EMOMOMO: 290207
+        ENDLESS CIDER: 290125
+        ENERGY SYNERGY MATRIX: 290316
+        EXIST: 290351
+        Eeliaas: 290387
+        Elastic STAR: 290162
+        Elysion's Old Mans: 290396
+        Endless Error Loop: 290095
+        Enka Dance Music: 290461
+        Etude -Storm-: 290384
+        Etude -Sunset-: 290454
         Evolution: 290010
-        FM 17314 SUGAR RADIO: 290218
-        FREEDOM DiVE: 290337
-        FUJIN Rumble: 290288
-        FULi AUTO SHOOTER: 290326
-        FUTUREPOP: 290332
-        Fancy Night: 290161
-        Fantasia Sonata Destiny: 290124
-        Final Step!: 290275
-        Find this Month's Featured Playlist: 290115
-        Fireflies: 290252
-        First Snow: 290400
-        Flashdance: 290348
-        Flowery Moonlit Night: 290193
-        Fly Again: 290421
-        Fly High: 290370
-        Focus Point: 290285
-        Forbidden Pizza!: 290089
+        FM 17314 SUGAR RADIO: 290225
+        FREEDOM DiVE: 290344
+        FUJIN Rumble: 290295
+        FULi AUTO SHOOTER: 290333
+        FUTUREPOP: 290339
+        Fancy Night: 290168
+        Fantasia Sonata Destiny: 290131
+        Final Step!: 290282
+        Find this Month's Featured Playlist: 290122
+        Fireflies: 290259
+        First Snow: 290407
+        Flashdance: 290355
+        Flower, snow and Drum'n'bass.: 290082
+        Flowery Moonlit Night: 290200
+        Fly Again: 290428
+        Fly High: 290377
+        Focus Point: 290292
+        Forbidden Pizza!: 290096
         Formation: 290040
         Frightfully-insane Flan-chan's frightful song: 290073
         From the New World: 290036
         Frost Land: 290006
         Funkotsu Saishin Casino: 290046
-        Future Dive: 290375
-        Future Stream: 290325
-        GASHATT: 290181
-        GIMME DA BLOOD: 290167
-        GOODBOUNCE: 290443
-        GOODFORTUNE: 290327
-        GOODMEN: 290478
-        GOODRAGE: 290429
-        GOODTEK: 290464
-        GOODWORLD: 290394
-        Gaikan Chrysalis: 290403
+        Future Dive: 290382
+        Future Stream: 290332
+        GASHATT: 290188
+        GIMME DA BLOOD: 290174
+        GOODBOUNCE: 290450
+        GOODFORTUNE: 290334
+        GOODMEN: 290485
+        GOODRAGE: 290436
+        GOODTEK: 290471
+        GOODWORLD: 290401
+        Gaikan Chrysalis: 290410
         Galaxy Striker: 290025
-        Gaming*Everything: 290302
-        Gift box: 290457
-        Ginevra: 290295
-        Girly Cupid: 290280
-        Give Me 5: 290163
-        Give Up TREATMENT Vol.1: 290472
-        Give Up TREATMENT Vol.10: 290230
-        Give Up TREATMENT Vol.11: 290098
-        Give Up TREATMENT Vol.2: 290437
-        Give Up TREATMENT Vol.3: 290430
-        Give Up TREATMENT Vol.4: 290416
-        Give Up TREATMENT Vol.5: 290402
-        Give Up TREATMENT Vol.6: 290374
-        Give Up TREATMENT Vol.7: 290353
-        Give Up TREATMENT Vol.8: 290335
-        Give Up TREATMENT Vol.9: 290307
-        Gleam stone: 290393
-        Glimmer: 290343
-        Gloomy Flash: 290114
-        Good Life: 290298
-        Goodbye Boss: 290448
-        Goodbye Goodnight: 290117
-        Groove Prayer: 290287
-        Groovin Up: 290152
-        HARDCORE TANO*C: 290244
-        HEXENNACHTROCK-katashihaya-: 290262
-        HG Makaizou Polyvinyl Shounen: 290290
-        Halcyon: 290439
-        Happiness Breeze: 290254
-        Happy Otaku Pack SP: 290237
-        Happy Otaku Pack Vol.1: 290465
-        Happy Otaku Pack Vol.10: 290293
-        Happy Otaku Pack Vol.11: 290272
-        Happy Otaku Pack Vol.12: 290202
-        Happy Otaku Pack Vol.13: 290184
-        Happy Otaku Pack Vol.14: 290170
-        Happy Otaku Pack Vol.15: 290119
-        Happy Otaku Pack Vol.16: 290091
-        Happy Otaku Pack Vol.2: 290458
-        Happy Otaku Pack Vol.3: 290451
-        Happy Otaku Pack Vol.4: 290423
-        Happy Otaku Pack Vol.5: 290409
-        Happy Otaku Pack Vol.6: 290388
-        Happy Otaku Pack Vol.7: 290367
-        Happy Otaku Pack Vol.8: 290346
-        Happy Otaku Pack Vol.9: 290321
-        Haze of Autumn: 290166
+        Gaming*Everything: 290309
+        Gift box: 290464
+        Ginevra: 290302
+        Girly Cupid: 290287
+        Give Me 5: 290170
+        Give Up TREATMENT Vol.1: 290479
+        Give Up TREATMENT Vol.10: 290237
+        Give Up TREATMENT Vol.11: 290105
+        Give Up TREATMENT Vol.2: 290444
+        Give Up TREATMENT Vol.3: 290437
+        Give Up TREATMENT Vol.4: 290423
+        Give Up TREATMENT Vol.5: 290409
+        Give Up TREATMENT Vol.6: 290381
+        Give Up TREATMENT Vol.7: 290360
+        Give Up TREATMENT Vol.8: 290342
+        Give Up TREATMENT Vol.9: 290314
+        Gleam stone: 290400
+        Glimmer: 290350
+        Gloomy Flash: 290121
+        Good Life: 290305
+        Goodbye Boss: 290455
+        Goodbye Goodnight: 290124
+        Groove Prayer: 290294
+        Groovin Up: 290159
+        HARDCORE TANO*C: 290251
+        HEXENNACHTROCK-katashihaya-: 290269
+        HG Makaizou Polyvinyl Shounen: 290297
+        Halcyon: 290446
+        Happiness Breeze: 290261
+        Happy Otaku Pack SP: 290244
+        Happy Otaku Pack Vol.1: 290472
+        Happy Otaku Pack Vol.10: 290300
+        Happy Otaku Pack Vol.11: 290279
+        Happy Otaku Pack Vol.12: 290209
+        Happy Otaku Pack Vol.13: 290191
+        Happy Otaku Pack Vol.14: 290177
+        Happy Otaku Pack Vol.15: 290126
+        Happy Otaku Pack Vol.16: 290098
+        Happy Otaku Pack Vol.2: 290465
+        Happy Otaku Pack Vol.3: 290458
+        Happy Otaku Pack Vol.4: 290430
+        Happy Otaku Pack Vol.5: 290416
+        Happy Otaku Pack Vol.6: 290395
+        Happy Otaku Pack Vol.7: 290374
+        Happy Otaku Pack Vol.8: 290353
+        Happy Otaku Pack Vol.9: 290328
+        Haze of Autumn: 290173
         Heart-Pounding Flight: 290007
-        Heisha Onsha: 290294
-        Heracles: 290201
-        Hibari: 290207
-        Hiiro Gekka Kyousai no Zetsu: 290192
-        Holy Sh*t Grass Snake: 290366
-        Hope for the flowers: 290226
-        Hoshi no otoshimono: 290122
-        Howlin' Pumpkin: 290187
-        Hydrangea: 290259
-        I LOVE LETTUCE FRIED RICE!!: 290334
-        I Want You: 290153
-        I am really good at Japanese style: 290240
-        I am sorry for my existence: 290386
+        Heisha Onsha: 290301
+        Heracles: 290208
+        Hibari: 290214
+        Hiiro Gekka Kyousai no Zetsu: 290199
+        Holy Sh*t Grass Snake: 290373
+        Hope for the flowers: 290233
+        Hoshi no otoshimono: 290129
+        Howlin' Pumpkin: 290194
+        Hydrangea: 290266
+        I LOVE LETTUCE FRIED RICE!!: 290341
+        I Want You: 290160
+        I am really good at Japanese style: 290247
+        I am sorry for my existence: 290393
         I don't care about Christmas though: 290033
-        I'm Gonna Buy! Buy! Buy!: 290398
-        I'm Here: 290131
-        IKAROS: 290323
-        INFINITY: 290354
-        INFiNiTE ENERZY -Overdoze-: 290349
+        I'm Gonna Buy! Buy! Buy!: 290405
+        I'm Here: 290138
+        IKAROS: 290330
+        INFINITY: 290361
+        INFiNiTE ENERZY -Overdoze-: 290356
         INTERNET OVERDOSE: 290048
-        Igallta: 290222
+        Igallta: 290229
         Imaginary World: 290034
-        Imprinting: 290460
-        In-kya Yo-kya Onmyoji: 290142
-        Inferno City: 290100
-        Instant Soluble Neon: 290396
+        Imprinting: 290467
+        In-kya Yo-kya Onmyoji: 290149
+        Inferno City: 290107
+        Instant Soluble Neon: 290403
         Inu no outa: 290076
-        Invader: 290441
+        Invader: 290448
         Ira: 290029
-        Iro wa Nioedo, Chirinuru wo: 290190
-        Irreplaceable: 290345
-        Isouten: 290176
+        Iro wa Nioedo, Chirinuru wo: 290197
+        Irreplaceable: 290352
+        Isouten: 290183
         Iyaiya: 290002
-        JUMP! HardCandy: 290206
-        Jealousy: 290157
-        Joy Connection: 290363
-        Just Disobedient: 290365
+        JUMP! HardCandy: 290213
+        Jealousy: 290164
+        Joy Connection: 290370
+        Just Disobedient: 290372
         Just as Planned  Plus: 290054
-        KABOOOOOM!!!!: 290143
-        Kafig: 290468
-        Kakoinaki Yo wa Ichigo no Tsukikage: 290109
-        Kill My Fortune: 290204
-        Kimi to pool disco: 290320
+        KABOOOOOM!!!!: 290150
+        Kafig: 290475
+        Kakoinaki Yo wa Ichigo no Tsukikage: 290116
+        Kill My Fortune: 290211
+        Kimi to pool disco: 290327
         Koi no Moonlight: 290019
         Kuishinbo Hacker feat.Kuishinbo Akachan: 290075
-        Kyoukiranbu: 290419
-        LIN NE KRO NE feat. lasah: 290182
-        LOUDER MACHINE: 290094
-        La nuit de vif: 290462
+        Kyoukiranbu: 290426
+        LIN NE KRO NE feat. lasah: 290189
+        LOUDER MACHINE: 290101
+        La nuit de vif: 290469
         Latitude: 290044
-        Leave It Alone: 290424
-        Legend of Eastern Rabbit -SKY DEFENDER-: 290308
-        Let' s GROOVE!: 290286
-        Let's Do Bad Things Together: 290265
+        Leave It Alone: 290431
+        Legend of Eastern Rabbit -SKY DEFENDER-: 290315
+        Let' s GROOVE!: 290293
+        Let's Do Bad Things Together: 290272
         Lian Ai Audio Navigation: 290020
-        Libertas: 290168
-        Light up my love!!: 290253
+        Libertas: 290175
+        Light up my love!!: 290260
         Lights of Muse: 290021
-        Lilith ambivalence lovers: 290436
-        Lorikeet ~Flat design~: 290428
-        Love-Avoidance Addiction: 290147
-        Lueur de la nuit: 290339
-        Luna Express 2032: 290475
-        Lyrith: 290442
-        Lys Tourbillon: 290450
-        MAGENTA POTION: 290276
-        MARENOL: 290239
-        MEGAREX THE FUTURE: 290112
-        MSR Anthology: 290077
-        MUSE RADIO FM101: 290314
-        MUSE RADIO FM102: 290209
-        MUSE RADIO FM103: 290126
-        MUSEDASH!!!!: 290459
-        Madara: 290268
-        Magic Knight Girl: 290379
-        Magic Spell: 290382
-        Magical Number: 290481
+        Lilith ambivalence lovers: 290443
+        Lorikeet ~Flat design~: 290435
+        Love-Avoidance Addiction: 290154
+        Lueur de la nuit: 290346
+        Luna Express 2032: 290482
+        Lyrith: 290449
+        Lys Tourbillon: 290457
+        MAGENTA POTION: 290283
+        MARENOL: 290246
+        MEGAREX THE FUTURE: 290119
+        MSR Anthology: 290084
+        MUSE RADIO FM101: 290321
+        MUSE RADIO FM102: 290216
+        MUSE RADIO FM103: 290133
+        MUSEDASH!!!!: 290466
+        Madara: 290275
+        Magic Knight Girl: 290386
+        Magic Spell: 290389
+        Magical Number: 290488
         Magical Wonderland: 290001
-        Maharajah: 290466
-        'ManiFesto:': 290079
-        Marry me, Nightmare: 290289
-        Masquerade Diary: 290133
-        Maxi: 290356
+        Maharajah: 290473
+        'ManiFesto:': 290086
+        Marry me, Nightmare: 290296
+        Masquerade Diary: 290140
+        Maxi: 290363
         Medicine of Sing: 290031
-        Medusa: 290274
-        Memory of Beach: 290158
+        Medusa: 290281
+        Memory of Beach: 290165
         Mezame Eurythmics: 290042
         Midnight O'clock: 290061
         MilK: 290051
-        Mischievous Sensation: 290111
-        Monosugoi Space Shuttle de Koishi ga Monosugoi uta: 290108
-        Moonlight Banquet: 290347
+        Mischievous Sensation: 290118
+        Monosugoi Space Shuttle de Koishi ga Monosugoi uta: 290115
+        Moonlight Banquet: 290354
         Mopemope: 290053
-        Mousou Chu!!: 290229
+        Mousou Chu!!: 290236
         Mujinku-Vacuum: 290050
-        Music Sheet: 290486
-        My Life Is For You: 290446
+        Music Sheet: 290493
+        My Life Is For You: 290453
+        N3V3R G3T OV3R: 290078
         NISEGAO: 290037
-        NO ONE YES MAN: 290220
-        Naked Summer: 290216
-        Nanahira Festival: 290300
-        Nanahira Paradise: 290086
-        Nekojarashi: 290174
-        Neonlights: 290225
-        Newbies, Geeks, Internets: 290305
+        NO ONE YES MAN: 290227
+        Naked Summer: 290223
+        Nanahira Festival: 290307
+        Nanahira Paradise: 290093
+        Nekojarashi: 290181
+        Neonlights: 290232
+        Newbies, Geeks, Internets: 290312
         Night Wander: 290015
         Night of Nights: 290058
-        NightTheater: 290231
-        Nightmare: 290164
+        NightTheater: 290238
+        Nightmare: 290171
         Nihao: 290023
-        Noel: 290418
-        Not Ornament: 290129
-        Notice: 290317
-        Nyan Cat: 290140
-        Nyanya Universe!: 290139
-        OBLIVION: 290154
-        OCCHOCO-REST-LESS: 290208
-        OKIMOCHI EXPRESSION: 290319
-        ONOMATO Pairing!!!: 290178
-        Omatsuri: 290331
-        On And On!!: 290120
-        One Way Street: 290350
+        Noel: 290425
+        Not Ornament: 290136
+        Notice: 290324
+        Nyan Cat: 290147
+        Nyanya Universe!: 290146
+        OBLIVION: 290161
+        OCCHOCO-REST-LESS: 290215
+        OKIMOCHI EXPRESSION: 290326
+        ONOMATO Pairing!!!: 290185
+        Omatsuri: 290338
+        On And On!!: 290127
+        One Way Street: 290357
         One-Way Subway: 290005
-        Onegai!Kon kon Oinarisama: 290306
-        Onsen Dai Sakusen: 290392
-        Operation Blade: 290080
-        Oriens: 290473
-        Out of Sense: 290445
-        PUPA: 290474
+        Onegai!Kon kon Oinarisama: 290313
+        Onsen Dai Sakusen: 290399
+        Operation Blade: 290087
+        Oriens: 290480
+        Oshama Scramble!: 290079
+        Out of Sense: 290452
+        PUPA: 290481
         Pancake is Love: 290008
-        Paracelestia: 290296
-        Paradigm Shift: 290101
-        Paradise 2: 290172
-        Party in the HOLLOWood: 290185
-        Patchouli's - Best Hit GSK: 290107
-        People People: 290087
-        PeroPero in the Universe: 290141
-        PeroPeroGames goes Bankrupt: 290238
-        Phi: 290338
-        Phigros: 290219
-        Pixel Galaxy: 290316
-        Plucky Race: 290123
-        Plumage: 290358
-        Power Attack: 290415
-        Pray a LOVE: 290146
-        Preparara: 290266
-        Prestige and Vestige: 290103
-        Psyched Fevereiro: 290099
-        Psychedelic Kizakura Doumei: 290110
-        Punai Punai Genso: 290310
-        Punai Punai Senso: 290355
-        Punai Punai Taiso: 290369
+        Paracelestia: 290303
+        Paradigm Shift: 290108
+        Paradise 2: 290179
+        Paranormal My Mind: 290081
+        Party in the HOLLOWood: 290192
+        Patchouli's - Best Hit GSK: 290114
+        People People: 290094
+        PeroPero in the Universe: 290148
+        PeroPeroGames goes Bankrupt: 290245
+        Phi: 290345
+        Phigros: 290226
+        Pixel Galaxy: 290323
+        Plucky Race: 290130
+        Plumage: 290365
+        Power Attack: 290422
+        Pray a LOVE: 290153
+        Preparara: 290273
+        Prestige and Vestige: 290110
+        Psyched Fevereiro: 290106
+        Psychedelic Kizakura Doumei: 290117
+        Punai Punai Genso: 290317
+        Punai Punai Senso: 290362
+        Punai Punai Taiso: 290376
         Queen Aluett: 290071
-        RUBY:LINTe: 290408
-        Radiant: 290081
-        Rave_Tech: 290096
-        Re:End of a Dream: 290376
-        Reminiscence: 290134
-        Renegade: 290082
-        Renji de haochi: 290303
-        Retrospective Peom on the Planet: 290397
+        RUBY:LINTe: 290415
+        Radiant: 290088
+        Rave_Tech: 290103
+        Re:End of a Dream: 290383
+        Reminiscence: 290141
+        Renegade: 290089
+        Renji de haochi: 290310
+        Retrospective Peom on the Planet: 290404
         Rin: 290062
-        Rollerdisco Rumble: 290198
-        Rose Garden: 290199
-        Run through: 290125
-        Rush B: 290241
-        Rush-More: 290203
-        SKY HIGH: 290228
-        SWEETSWEETSWEET: 290361
-        Saika: 290257
-        Sakura Fubuki: 290411
+        Rollerdisco Rumble: 290205
+        Rose Garden: 290206
+        Run through: 290132
+        Rush B: 290248
+        Rush-More: 290210
+        SKY HIGH: 290235
+        SWEETSWEETSWEET: 290368
+        Saika: 290264
+        Sakura Fubuki: 290418
         Sand Maze: 290068
-        Santouka: 290261
-        Satell Knight: 290384
+        Santouka: 290268
+        Satell Knight: 290391
         Say! Fanfare!: 290038
-        Seaside Cycling on May 30: 290227
-        See-Saw Day: 290210
-        Seikimatsu no Natsu: 290212
-        Seizya no Ibuki: 290291
-        Self Willed Girl Ver.B: 290364
+        Seaside Cycling on May 30: 290234
+        See-Saw Day: 290217
+        Seikimatsu no Natsu: 290219
+        Seizya no Ibuki: 290298
+        Self Willed Girl Ver.B: 290371
         Shenri Kuaira -repeat-: 290043
         Shiguang Tuya: 290009
         Shinsou Masui: 290041
-        Shoot for the Moon: 290271
-        Skrik: 290406
-        Skyward: 290461
+        Shoot for the Moon: 290278
+        Skrik: 290413
+        Skyward: 290468
         Smile-mileS: 290063
-        Snapdragon: 290102
-        Snowfall, Merry Christmas: 290221
-        Soda Pop Canva5!: 290407
-        Sorewa mo Lovechu: 290095
-        Speed of Light: 290083
+        Snapdragon: 290109
+        Snowfall, Merry Christmas: 290228
+        Soda Pop Canva5!: 290414
+        Sorewa mo Lovechu: 290102
+        Speed of Light: 290090
         Spring Carnival: 290017
-        Square Lake: 290278
-        Standby for Action: 290258
+        Square Lake: 290285
+        Standby for Action: 290265
         Star Driver: 290039
-        Stargazer: 290449
-        Sterelogue: 290404
-        Strawberry Godzilla: 290318
-        Suffering of screw: 290413
-        Sunday Night: 290116
-        Sunshine and Rainbow after August Rain: 290480
-        Super Battleworn Insomniac: 290196
-        Sweet* Witch* Girl*: 290434
-        Symbol: 290173
-        TWINKLE*MAGIC: 290248
-        Tenri Kaku Jou: 290470
-        The 89's Momentum: 290372
-        The 90's Decision: 290273
-        The Breeze: 290333
-        The Dessert After Rain: 290329
-        The Future of the Phantom: 290485
+        Stargazer: 290456
+        Sterelogue: 290411
+        Strawberry Godzilla: 290325
+        Suffering of screw: 290420
+        Sunday Night: 290123
+        Sunshine and Rainbow after August Rain: 290487
+        Super Battleworn Insomniac: 290203
+        Sweet* Witch* Girl*: 290441
+        Symbol: 290180
+        TWINKLE*MAGIC: 290255
+        Tenri Kaku Jou: 290477
+        The 89's Momentum: 290379
+        The 90's Decision: 290280
+        The Breeze: 290340
+        The Dessert After Rain: 290336
+        The Future of the Phantom: 290492
         The Happycore Idol: 290055
-        The Last Page: 290322
-        The NightScape: 290336
-        Thirty Million Persona: 290452
-        This Club is Not 4 U: 290351
-        Tiny Fate: 290104
-        Tokimeki*Meteostrike: 290092
-        Touhou Mugakudan -1-: 290188
-        Touhou Mugakudan -2-: 290105
-        Trip!: 290121
-        Tsubasa no Oreta Tenshitachi no Requiem: 290425
-        Tsuki ni Murakumo Hana ni Kaze: 290106
-        Tsukuyomi: 290324
+        The Last Page: 290329
+        The NightScape: 290343
+        Thirty Million Persona: 290459
+        This Club is Not 4 U: 290358
+        Tiny Fate: 290111
+        Tokimeki*Meteostrike: 290099
+        Touhou Mugakudan -1-: 290195
+        Touhou Mugakudan -2-: 290112
+        Trip!: 290128
+        Tsubasa no Oreta Tenshitachi no Requiem: 290432
+        Tsuki ni Murakumo Hana ni Kaze: 290113
+        Tsukuyomi: 290331
         Tu Hua: 290049
-        Two Phace: 290420
-        U.A.D: 290156
-        ULTRA MEGA HAPPY PARTY!!!: 290352
-        Ueta Tori Tachi: 290387
-        Ukiyoe Yokochou: 290476
-        Ultra Happy Miracle Bazoooooka!!: 290313
-        Unconscious Requiem: 290194
-        Unlimited Katharsis: 290378
-        Variant Cross: 290312
-        Virtual Idol Production: 290132
-        WACCA Horizon: 290177
-        Whatcha;Whatcha Doin': 290267
-        White Canvas: 290113
+        Two Phace: 290427
+        U.A.D: 290163
+        ULTRA MEGA HAPPY PARTY!!!: 290359
+        Ueta Tori Tachi: 290394
+        Ukiyoe Yokochou: 290483
+        Ultra Happy Miracle Bazoooooka!!: 290320
+        Unconscious Requiem: 290201
+        Unlimited Katharsis: 290385
+        Valsqotch: 290080
+        Variant Cross: 290319
+        Virtual Idol Production: 290139
+        WACCA Horizon: 290184
+        Whatcha;Whatcha Doin': 290274
+        White Canvas: 290120
         Wonderful Pain: 290003
-        XING: 290455
-        XODUS: 290250
-        Xin Shang Huahai: 290401
-        Y CE Ver.: 290160
-        YInMn Blue: 290357
-        Ying Ying da Zuozhan: 290186
-        Yosari Tsukibotaru Suminoborite: 290205
-        You Make My Life 1UP: 290304
+        XING: 290462
+        XODUS: 290257
+        Xin Shang Huahai: 290408
+        Y CE Ver.: 290167
+        YInMn Blue: 290364
+        Ying Ying da Zuozhan: 290193
+        Yosari Tsukibotaru Suminoborite: 290212
+        You Make My Life 1UP: 290311
         Yuki no Shizuku Ame no Oto: 290012
-        bamboo: 290233
-        c.s.q.n.: 290235
+        bamboo: 290240
+        c.s.q.n.: 290242
         can you feel it: 290060
-        conflict: 290453
-        cyTus: 290251
-        daydream girl: 290128
+        conflict: 290460
+        cyTus: 290258
+        daydream girl: 290135
         don't!stop!eroero!: 290066
-        enchanted love: 290234
-        energy night: 290373
-        glory day: 290150
-        happy hour: 290211
-        heterodoxy: 290283
+        enchanted love: 290241
+        energy night: 290380
+        glory day: 290157
+        happy hour: 290218
+        heterodoxy: 290290
         irregulyze: 290032
-        keep on running: 290467
-        kui: 290138
-        marooned night: 290127
+        keep on running: 290474
+        kui: 290145
+        maimai DX Limited-time Suite: 290077
+        marooned night: 290134
         midstream jam: 290022
-        nini-nini-: 290299
-        ouroVoros: 290422
-        ouroboros -twin stroke of the end-: 290292
-        pICARESq: 290269
+        nini-nini-: 290306
+        ouroVoros: 290429
+        ouroboros -twin stroke of the end-: 290299
+        pICARESq: 290276
         pa pi pu pi pu pi pa: 290067
-        prejudice: 290371
-        sheep in the light: 290281
+        prejudice: 290378
+        sheep in the light: 290288
         snooze: 290074
-        tape/stop/night: 290315
-        tiny lady: 290414
-        trippers feeling!: 290435
-        twinkle night: 290213
+        tape/stop/night: 290322
+        tiny lady: 290421
+        trippers feeling!: 290442
+        twinkle night: 290220
         umpopoff: 290052
-        un secret: 290297
-        with U: 290179
+        un secret: 290304
+        with U: 290186
       location_name_to_id:
-        '#Psychedelic_Meguro_River-0': 290234
-        '#Psychedelic_Meguro_River-1': 290235
-        -+-0: 290942
-        -+-1: 290943
-        7th Beat Games-0: 290038
-        7th Beat Games-1: 290039
-        8bit Adventurer-0: 290844
-        8bit Adventurer-1: 290845
-        A Philosophical Wanderer-0: 290438
-        A Philosophical Wanderer-1: 290439
-        AKUMU /-0: 290256
-        AKUMU /-1: 290257
-        ALiVE-0: 290556
-        ALiVE-1: 290557
-        ANGEL HALO-0: 290452
-        ANGEL HALO-1: 290453
-        ARIGA THESIS-0: 290230
-        ARIGA THESIS-1: 290231
-        ARUYA HARERUYA-0: 290504
-        ARUYA HARERUYA-1: 290505
-        AXION-0: 290806
-        AXION-1: 290807
-        Adjudicatorz-DanZai--0: 290946
-        Adjudicatorz-DanZai--1: 290947
-        Alice in Misanthrope-0: 290956
-        Alice in Misanthrope-1: 290957
-        Altale-0: 290876
-        Altale-1: 290877
-        Amakakeru Soukyuu no Serenade-0: 290920
-        Amakakeru Soukyuu no Serenade-1: 290921
-        Amatsumikaboshi-0: 290228
-        Amatsumikaboshi-1: 290229
-        Amenemhat-0: 290584
-        Amenemhat-1: 290585
-        Amnesia-0: 290808
-        Amnesia-1: 290809
-        Aqua Stars-0: 290208
-        Aqua Stars-1: 290209
-        Arcaea-0: 290028
-        Arcaea-1: 290029
-        Autumn Moods-0: 290284
-        Autumn Moods-1: 290285
-        BATTLE NO.1-0: 290558
-        BATTLE NO.1-1: 290559
-        BLESS ME-0: 290510
-        BLESS ME-1: 290511
-        Baby Pink-0: 290360
-        Baby Pink-1: 290361
-        Bad Apple!! feat. Nomico-0: 290460
-        Bad Apple!! feat. Nomico-1: 290461
-        Bang!!-0: 290430
-        Bang!!-1: 290431
-        Bass Telekinesis-0: 290172
-        Bass Telekinesis-1: 290173
-        Believing and Being-0: 290244
-        Believing and Being-1: 290245
-        Berry Go!!-0: 290880
-        Berry Go!!-1: 290881
-        Best One feat.tooko-0: 290144
-        Best One feat.tooko-1: 290145
-        Better Graphic Animation-0: 290672
-        Better Graphic Animation-1: 290673
-        Bit-alize-0: 290932
-        Bit-alize-1: 290933
-        Black River Feat.Mes-0: 290798
-        Black River Feat.Mes-1: 290799
-        Blackest Luxury Car-0: 290178
-        Blackest Luxury Car-1: 290179
-        Blah!!-0: 290590
-        Blah!!-1: 290591
-        Blush-0: 290506
-        Blush-1: 290507
-        Boiling Blood-0: 290270
-        Boiling Blood-1: 290271
-        Bomb-Sniffing Pomeranian-0: 290474
-        Bomb-Sniffing Pomeranian-1: 290475
-        Booouncing!!-0: 290542
-        Booouncing!!-1: 290543
-        Boys in Virtual Land-0: 290372
-        Boys in Virtual Land-1: 290373
-        Brain Power-0: 290878
-        Brain Power-1: 290879
-        Brave My Heart-0: 290840
-        Brave My Heart-1: 290841
-        Brave My Soul-0: 290888
-        Brave My Soul-1: 290889
-        Breaker city-0: 290622
-        Breaker city-1: 290623
-        Breaking Dawn-0: 290126
-        Breaking Dawn-1: 290127
-        Bright Dream-0: 290394
-        Bright Dream-1: 290395
-        Brilliant & Shining!-0: 290304
-        Brilliant & Shining!-1: 290305
-        Budget Is Burning Vol.1-0: 290108
-        Budget Is Burning Vol.1-1: 290109
-        'Budget Is Burning: Nano Core-0': 290078
-        'Budget Is Burning: Nano Core-1': 290079
-        Burn-0: 290554
-        Burn-1: 290555
-        CHAOS Glitch-0: 290592
-        CHAOS Glitch-1: 290593
-        CHAOS-0: 290576
-        CHAOS-1: 290577
-        Cage of Almeria-0: 290174
-        Cage of Almeria-1: 290175
-        Can I friend you on Bassbook? lol-0: 290654
-        Can I friend you on Bassbook? lol-1: 290655
-        Can We Talk-0: 290416
-        Can We Talk-1: 290417
-        Candy-coloured Love Theory-0: 290146
-        Candy-coloured Love Theory-1: 290147
-        Catalyst-0: 290246
-        Catalyst-1: 290247
-        Chariot-0: 290446
-        Chariot-1: 290447
-        Cheshire's Dance-0: 290832
-        Cheshire's Dance-1: 290833
-        Chrome VOX-0: 290574
-        Chrome VOX-1: 290575
-        Chronomia-0: 290868
-        Chronomia-1: 290869
-        Cirno's Perfect Math Class-0: 290464
-        Cirno's Perfect Math Class-1: 290465
-        Clock Room & Spiritual World-0: 290212
-        Clock Room & Spiritual World-1: 290213
-        Colored Glass-0: 290520
-        Colored Glass-1: 290521
-        Colorful Star, Colored Drawing, Travel Poem-0: 290794
-        Colorful Star, Colored Drawing, Travel Poem-1: 290795
-        Comet Coaster-0: 290564
-        Comet Coaster-1: 290565
-        Computer Music Girl-0: 290626
-        Computer Music Girl-1: 290627
-        Confession Support Formula-0: 290704
-        Confession Support Formula-1: 290705
-        Confession-0: 290166
-        Confession-1: 290167
-        Cotton Candy Wonderland-0: 290768
-        Cotton Candy Wonderland-1: 290769
-        Creamy Sugary OVERDRIVE!!!-0: 290722
-        Creamy Sugary OVERDRIVE!!!-1: 290723
-        Crimson Nightingle-0: 290892
-        Crimson Nightingle-1: 290893
-        Cross Ray-0: 290614
-        Cross Ray-1: 290615
-        Cthugha-0: 290560
-        Cthugha-1: 290561
-        Cute Is Everything Vol.1-0: 290118
-        Cute Is Everything Vol.1-1: 290119
-        Cute Is Everything Vol.2-0: 290094
-        Cute Is Everything Vol.2-1: 290095
-        Cute Is Everything Vol.3-0: 290090
-        Cute Is Everything Vol.3-1: 290091
-        Cute Is Everything Vol.4-0: 290084
-        Cute Is Everything Vol.4-1: 290085
-        Cute Is Everything Vol.5-0: 290074
-        Cute Is Everything Vol.5-1: 290075
-        Cute Is Everything Vol.6-0: 290060
-        Cute Is Everything Vol.6-1: 290061
-        Cute Is Everything Vol.7-0: 290046
-        Cute Is Everything Vol.7-1: 290047
-        Cutter-0: 290534
-        Cutter-1: 290535
-        Cyaegha-0: 290428
-        Cyaegha-1: 290429
-        D.I.Y.-0: 290370
-        D.I.Y.-1: 290371
-        DISCO NIGHT-0: 290154
-        DISCO NIGHT-1: 290155
-        DJMAX Reflect-0: 290026
-        DJMAX Reflect-1: 290027
-        DROPS-0: 290260
-        DROPS-1: 290261
-        Daisuki Dayo feat.Wotoha-0: 290390
-        Daisuki Dayo feat.Wotoha-1: 290391
-        Dandelion's Daydream-0: 290870
-        Dandelion's Daydream-1: 290871
-        DarakuDatenshi-0: 290368
-        DarakuDatenshi-1: 290369
-        Daruma-san Fell Over-0: 290966
-        Daruma-san Fell Over-1: 290967
-        DataErr0r-0: 290552
-        DataErr0r-1: 290553
-        Dating Manifesto-0: 290822
-        Dating Manifesto-1: 290823
-        Deep Blue and the Breaths of the Night-0: 290758
-        Deep Blue and the Breaths of the Night-1: 290759
+        '#Psychedelic_Meguro_River-0': 290236
+        '#Psychedelic_Meguro_River-1': 290237
+        -+-0: 290956
+        -+-1: 290957
+        7th Beat Games-0: 290040
+        7th Beat Games-1: 290041
+        8bit Adventurer-0: 290858
+        8bit Adventurer-1: 290859
+        A Philosophical Wanderer-0: 290452
+        A Philosophical Wanderer-1: 290453
+        AKUMU /-0: 290258
+        AKUMU /-1: 290259
+        ALiVE-0: 290570
+        ALiVE-1: 290571
+        ANGEL HALO-0: 290466
+        ANGEL HALO-1: 290467
+        ARIGA THESIS-0: 290232
+        ARIGA THESIS-1: 290233
+        ARUYA HARERUYA-0: 290518
+        ARUYA HARERUYA-1: 290519
+        AXION-0: 290820
+        AXION-1: 290821
+        Adjudicatorz-DanZai--0: 290960
+        Adjudicatorz-DanZai--1: 290961
+        Alice in Misanthrope-0: 290970
+        Alice in Misanthrope-1: 290971
+        Altale-0: 290890
+        Altale-1: 290891
+        Amakakeru Soukyuu no Serenade-0: 290934
+        Amakakeru Soukyuu no Serenade-1: 290935
+        Amatsumikaboshi-0: 290230
+        Amatsumikaboshi-1: 290231
+        Amenemhat-0: 290598
+        Amenemhat-1: 290599
+        Amenohoakari-0: 290282
+        Amenohoakari-1: 290283
+        Amnesia-0: 290822
+        Amnesia-1: 290823
+        Aqua Stars-0: 290210
+        Aqua Stars-1: 290211
+        Arcaea-0: 290030
+        Arcaea-1: 290031
+        Autumn Moods-0: 290298
+        Autumn Moods-1: 290299
+        BATTLE NO.1-0: 290572
+        BATTLE NO.1-1: 290573
+        BLESS ME-0: 290524
+        BLESS ME-1: 290525
+        Baby Pink-0: 290374
+        Baby Pink-1: 290375
+        Bad Apple!! feat. Nomico-0: 290474
+        Bad Apple!! feat. Nomico-1: 290475
+        Bang!!-0: 290444
+        Bang!!-1: 290445
+        Bass Telekinesis-0: 290174
+        Bass Telekinesis-1: 290175
+        Believing and Being-0: 290246
+        Believing and Being-1: 290247
+        Berry Go!!-0: 290894
+        Berry Go!!-1: 290895
+        Best One feat.tooko-0: 290146
+        Best One feat.tooko-1: 290147
+        Better Graphic Animation-0: 290686
+        Better Graphic Animation-1: 290687
+        Bit-alize-0: 290946
+        Bit-alize-1: 290947
+        Black River Feat.Mes-0: 290812
+        Black River Feat.Mes-1: 290813
+        Blackest Luxury Car-0: 290180
+        Blackest Luxury Car-1: 290181
+        Blah!!-0: 290604
+        Blah!!-1: 290605
+        Blush-0: 290520
+        Blush-1: 290521
+        Boiling Blood-0: 290284
+        Boiling Blood-1: 290285
+        Bomb-Sniffing Pomeranian-0: 290488
+        Bomb-Sniffing Pomeranian-1: 290489
+        Booouncing!!-0: 290556
+        Booouncing!!-1: 290557
+        Boys in Virtual Land-0: 290386
+        Boys in Virtual Land-1: 290387
+        Brain Power-0: 290892
+        Brain Power-1: 290893
+        Brave My Heart-0: 290854
+        Brave My Heart-1: 290855
+        Brave My Soul-0: 290902
+        Brave My Soul-1: 290903
+        Breaker city-0: 290636
+        Breaker city-1: 290637
+        Breaking Dawn-0: 290128
+        Breaking Dawn-1: 290129
+        Bright Dream-0: 290408
+        Bright Dream-1: 290409
+        Brilliant & Shining!-0: 290318
+        Brilliant & Shining!-1: 290319
+        Budget Is Burning Vol.1-0: 290110
+        Budget Is Burning Vol.1-1: 290111
+        'Budget Is Burning: Nano Core-0': 290080
+        'Budget Is Burning: Nano Core-1': 290081
+        Burn-0: 290568
+        Burn-1: 290569
+        CHAOS Glitch-0: 290606
+        CHAOS Glitch-1: 290607
+        CHAOS-0: 290590
+        CHAOS-1: 290591
+        Cage of Almeria-0: 290176
+        Cage of Almeria-1: 290177
+        Can I friend you on Bassbook? lol-0: 290668
+        Can I friend you on Bassbook? lol-1: 290669
+        Can We Talk-0: 290430
+        Can We Talk-1: 290431
+        Candy-coloured Love Theory-0: 290148
+        Candy-coloured Love Theory-1: 290149
+        Catalyst-0: 290248
+        Catalyst-1: 290249
+        Chariot-0: 290460
+        Chariot-1: 290461
+        Cheshire's Dance-0: 290846
+        Cheshire's Dance-1: 290847
+        Chrome VOX-0: 290588
+        Chrome VOX-1: 290589
+        Chronomia-0: 290882
+        Chronomia-1: 290883
+        Cirno's Perfect Math Class-0: 290478
+        Cirno's Perfect Math Class-1: 290479
+        Clock Room & Spiritual World-0: 290214
+        Clock Room & Spiritual World-1: 290215
+        Colored Glass-0: 290534
+        Colored Glass-1: 290535
+        Colorful Star, Colored Drawing, Travel Poem-0: 290808
+        Colorful Star, Colored Drawing, Travel Poem-1: 290809
+        Comet Coaster-0: 290578
+        Comet Coaster-1: 290579
+        Computer Music Girl-0: 290640
+        Computer Music Girl-1: 290641
+        Confession Support Formula-0: 290718
+        Confession Support Formula-1: 290719
+        Confession-0: 290168
+        Confession-1: 290169
+        Cotton Candy Wonderland-0: 290782
+        Cotton Candy Wonderland-1: 290783
+        Creamy Sugary OVERDRIVE!!!-0: 290736
+        Creamy Sugary OVERDRIVE!!!-1: 290737
+        Crimson Nightingle-0: 290906
+        Crimson Nightingle-1: 290907
+        Cross Ray-0: 290628
+        Cross Ray-1: 290629
+        Cthugha-0: 290574
+        Cthugha-1: 290575
+        Cute Is Everything Vol.1-0: 290120
+        Cute Is Everything Vol.1-1: 290121
+        Cute Is Everything Vol.2-0: 290096
+        Cute Is Everything Vol.2-1: 290097
+        Cute Is Everything Vol.3-0: 290092
+        Cute Is Everything Vol.3-1: 290093
+        Cute Is Everything Vol.4-0: 290086
+        Cute Is Everything Vol.4-1: 290087
+        Cute Is Everything Vol.5-0: 290076
+        Cute Is Everything Vol.5-1: 290077
+        Cute Is Everything Vol.6-0: 290062
+        Cute Is Everything Vol.6-1: 290063
+        Cute Is Everything Vol.7-0: 290048
+        Cute Is Everything Vol.7-1: 290049
+        Cutter-0: 290548
+        Cutter-1: 290549
+        Cyaegha-0: 290442
+        Cyaegha-1: 290443
+        D.I.Y.-0: 290384
+        D.I.Y.-1: 290385
+        DISCO NIGHT-0: 290156
+        DISCO NIGHT-1: 290157
+        DJMAX Reflect-0: 290028
+        DJMAX Reflect-1: 290029
+        DROPS-0: 290262
+        DROPS-1: 290263
+        Daisuki Dayo feat.Wotoha-0: 290404
+        Daisuki Dayo feat.Wotoha-1: 290405
+        Dandelion's Daydream-0: 290884
+        Dandelion's Daydream-1: 290885
+        DarakuDatenshi-0: 290382
+        DarakuDatenshi-1: 290383
+        Daruma-san Fell Over-0: 290980
+        Daruma-san Fell Over-1: 290981
+        DataErr0r-0: 290566
+        DataErr0r-1: 290567
+        Dating Manifesto-0: 290836
+        Dating Manifesto-1: 290837
+        Deep Blue and the Breaths of the Night-0: 290772
+        Deep Blue and the Breaths of the Night-1: 290773
         Default Music-0: 290000
         Default Music-1: 290001
-        Departure Road-0: 290170
-        Departure Road-1: 290171
-        Desastre-0: 290602
-        Desastre-1: 290603
-        Destr0yer-0: 290852
-        Destr0yer-1: 290853
-        Different-0: 290968
-        Different-1: 290969
-        Diffraction-0: 290254
-        Diffraction-1: 290255
-        Disorder-0: 290724
-        Disorder-1: 290725
-        Dohna Dohna no Uta-0: 290150
-        Dohna Dohna no Uta-1: 290151
-        DokiDoki! Valentine!-0: 290024
-        DokiDoki! Valentine!-1: 290025
-        Dolphin and Broadcast-0: 290140
-        Dolphin and Broadcast-1: 290141
-        Don't Die-0: 290410
-        Don't Die-1: 290411
-        Don't Make the Vocalist do Anything Insane-0: 290292
-        Don't Make the Vocalist do Anything Insane-1: 290293
-        Doppelganger-0: 290384
-        Doppelganger-1: 290385
-        Dossoles Holiday-0: 290282
-        Dossoles Holiday-1: 290283
-        Down Low-0: 290296
-        Down Low-1: 290297
-        Dr.Techro-0: 290754
-        Dr.Techro-1: 290755
-        Dreaming Girl-0: 290964
-        Dreaming Girl-1: 290965
-        Dysthymia-0: 290188
-        Dysthymia-1: 290189
-        EMOMOMO-0: 290480
-        EMOMOMO-1: 290481
-        ENDLESS CIDER-0: 290340
-        ENDLESS CIDER-1: 290341
-        ENERGY SYNERGY MATRIX-0: 290668
-        ENERGY SYNERGY MATRIX-1: 290669
-        EXIST-0: 290728
-        EXIST-1: 290729
-        Eeliaas-0: 290790
-        Eeliaas-1: 290791
-        Elastic STAR-0: 290402
-        Elastic STAR-1: 290403
-        Elysion's Old Mans-0: 290804
-        Elysion's Old Mans-1: 290805
-        Endless Error Loop-0: 290288
-        Endless Error Loop-1: 290289
-        Enka Dance Music-0: 290916
-        Enka Dance Music-1: 290917
-        Etude -Storm--0: 290784
-        Etude -Storm--1: 290785
-        Etude -Sunset--0: 290904
-        Etude -Sunset--1: 290905
-        Evolution-0: 290138
-        Evolution-1: 290139
-        FM 17314 SUGAR RADIO-0: 290512
-        FM 17314 SUGAR RADIO-1: 290513
-        FREEDOM DiVE-0: 290716
-        FREEDOM DiVE-1: 290717
-        FUJIN Rumble-0: 290632
-        FUJIN Rumble-1: 290633
-        FULi AUTO SHOOTER-0: 290698
-        FULi AUTO SHOOTER-1: 290699
-        FUTUREPOP-0: 290708
-        FUTUREPOP-1: 290709
-        Fancy Night-0: 290414
-        Fancy Night-1: 290415
-        Fantasia Sonata Destiny-0: 290350
-        Fantasia Sonata Destiny-1: 290351
-        Final Step!-0: 290610
-        Final Step!-1: 290611
-        Find this Month's Featured Playlist-0: 290334
-        Find this Month's Featured Playlist-1: 290335
-        Fireflies-0: 290568
-        Fireflies-1: 290569
-        First Snow-0: 290824
-        First Snow-1: 290825
-        Flashdance-0: 290734
-        Flashdance-1: 290735
-        Flowery Moonlit Night-0: 290468
-        Flowery Moonlit Night-1: 290469
-        Fly Again-0: 290860
-        Fly Again-1: 290861
-        Fly High-0: 290772
-        Fly High-1: 290773
-        Focus Point-0: 290628
-        Focus Point-1: 290629
-        Forbidden Pizza!-0: 290290
-        Forbidden Pizza!-1: 290291
-        Formation-0: 290198
-        Formation-1: 290199
-        Frightfully-insane Flan-chan's frightful song-0: 290262
-        Frightfully-insane Flan-chan's frightful song-1: 290263
-        From the New World-0: 290190
-        From the New World-1: 290191
-        Frost Land-0: 290130
-        Frost Land-1: 290131
-        Funkotsu Saishin Casino-0: 290210
-        Funkotsu Saishin Casino-1: 290211
-        Future Dive-0: 290780
-        Future Dive-1: 290781
-        Future Stream-0: 290696
-        Future Stream-1: 290697
-        GASHATT-0: 290448
-        GASHATT-1: 290449
-        GIMME DA BLOOD-0: 290424
-        GIMME DA BLOOD-1: 290425
-        GOODBOUNCE-0: 290898
-        GOODBOUNCE-1: 290899
-        GOODFORTUNE-0: 290700
-        GOODFORTUNE-1: 290701
-        GOODMEN-0: 290958
-        GOODMEN-1: 290959
-        GOODRAGE-0: 290874
-        GOODRAGE-1: 290875
-        GOODTEK-0: 290934
-        GOODTEK-1: 290935
-        GOODWORLD-0: 290814
-        GOODWORLD-1: 290815
-        Gaikan Chrysalis-0: 290828
-        Gaikan Chrysalis-1: 290829
-        Galaxy Striker-0: 290168
-        Galaxy Striker-1: 290169
-        Gaming*Everything-0: 290656
-        Gaming*Everything-1: 290657
-        Gift box-0: 290922
-        Gift box-1: 290923
-        Ginevra-0: 290644
-        Ginevra-1: 290645
-        Girly Cupid-0: 290618
-        Girly Cupid-1: 290619
-        Give Me 5-0: 290418
-        Give Me 5-1: 290419
-        Give Up TREATMENT Vol.1-0: 290116
-        Give Up TREATMENT Vol.1-1: 290117
-        Give Up TREATMENT Vol.10-0: 290048
-        Give Up TREATMENT Vol.10-1: 290049
-        Give Up TREATMENT Vol.11-0: 290010
-        Give Up TREATMENT Vol.11-1: 290011
-        Give Up TREATMENT Vol.2-0: 290106
-        Give Up TREATMENT Vol.2-1: 290107
-        Give Up TREATMENT Vol.3-0: 290104
-        Give Up TREATMENT Vol.3-1: 290105
-        Give Up TREATMENT Vol.4-0: 290100
-        Give Up TREATMENT Vol.4-1: 290101
-        Give Up TREATMENT Vol.5-0: 290096
-        Give Up TREATMENT Vol.5-1: 290097
-        Give Up TREATMENT Vol.6-0: 290088
-        Give Up TREATMENT Vol.6-1: 290089
-        Give Up TREATMENT Vol.7-0: 290082
-        Give Up TREATMENT Vol.7-1: 290083
-        Give Up TREATMENT Vol.8-0: 290076
-        Give Up TREATMENT Vol.8-1: 290077
-        Give Up TREATMENT Vol.9-0: 290068
-        Give Up TREATMENT Vol.9-1: 290069
-        Gleam stone-0: 290812
-        Gleam stone-1: 290813
-        Glimmer-0: 290726
-        Glimmer-1: 290727
-        Gloomy Flash-0: 290332
-        Gloomy Flash-1: 290333
-        Good Life-0: 290650
-        Good Life-1: 290651
-        Goodbye Boss-0: 290906
-        Goodbye Boss-1: 290907
-        Goodbye Goodnight-0: 290338
-        Goodbye Goodnight-1: 290339
-        Groove Prayer-0: 290630
-        Groove Prayer-1: 290631
-        Groovin Up-0: 290396
-        Groovin Up-1: 290397
-        HARDCORE TANO*C-0: 290052
-        HARDCORE TANO*C-1: 290053
-        HEXENNACHTROCK-katashihaya--0: 290588
-        HEXENNACHTROCK-katashihaya--1: 290589
-        HG Makaizou Polyvinyl Shounen-0: 290636
-        HG Makaizou Polyvinyl Shounen-1: 290637
-        Halcyon-0: 290890
-        Halcyon-1: 290891
-        Happiness Breeze-0: 290572
-        Happiness Breeze-1: 290573
-        Happy Otaku Pack SP-0: 290050
-        Happy Otaku Pack SP-1: 290051
-        Happy Otaku Pack Vol.1-0: 290114
-        Happy Otaku Pack Vol.1-1: 290115
-        Happy Otaku Pack Vol.10-0: 290064
-        Happy Otaku Pack Vol.10-1: 290065
-        Happy Otaku Pack Vol.11-0: 290058
-        Happy Otaku Pack Vol.11-1: 290059
-        Happy Otaku Pack Vol.12-0: 290040
-        Happy Otaku Pack Vol.12-1: 290041
-        Happy Otaku Pack Vol.13-0: 290034
-        Happy Otaku Pack Vol.13-1: 290035
-        Happy Otaku Pack Vol.14-0: 290030
-        Happy Otaku Pack Vol.14-1: 290031
-        Happy Otaku Pack Vol.15-0: 290016
-        Happy Otaku Pack Vol.15-1: 290017
-        Happy Otaku Pack Vol.16-0: 290008
-        Happy Otaku Pack Vol.16-1: 290009
-        Happy Otaku Pack Vol.2-0: 290112
-        Happy Otaku Pack Vol.2-1: 290113
-        Happy Otaku Pack Vol.3-0: 290110
-        Happy Otaku Pack Vol.3-1: 290111
-        Happy Otaku Pack Vol.4-0: 290102
-        Happy Otaku Pack Vol.4-1: 290103
-        Happy Otaku Pack Vol.5-0: 290098
-        Happy Otaku Pack Vol.5-1: 290099
-        Happy Otaku Pack Vol.6-0: 290092
-        Happy Otaku Pack Vol.6-1: 290093
-        Happy Otaku Pack Vol.7-0: 290086
-        Happy Otaku Pack Vol.7-1: 290087
-        Happy Otaku Pack Vol.8-0: 290080
-        Happy Otaku Pack Vol.8-1: 290081
-        Happy Otaku Pack Vol.9-0: 290072
-        Happy Otaku Pack Vol.9-1: 290073
-        Haze of Autumn-0: 290422
-        Haze of Autumn-1: 290423
-        Heart-Pounding Flight-0: 290132
-        Heart-Pounding Flight-1: 290133
-        Heisha Onsha-0: 290642
-        Heisha Onsha-1: 290643
-        Heracles-0: 290482
-        Heracles-1: 290483
-        Hibari-0: 290492
-        Hibari-1: 290493
-        Hiiro Gekka Kyousai no Zetsu-0: 290466
-        Hiiro Gekka Kyousai no Zetsu-1: 290467
-        Holy Sh*t Grass Snake-0: 290766
-        Holy Sh*t Grass Snake-1: 290767
-        Hope for the flowers-0: 290524
-        Hope for the flowers-1: 290525
-        Hoshi no otoshimono-0: 290346
-        Hoshi no otoshimono-1: 290347
-        Howlin' Pumpkin-0: 290458
-        Howlin' Pumpkin-1: 290459
-        Hydrangea-0: 290582
-        Hydrangea-1: 290583
-        I LOVE LETTUCE FRIED RICE!!-0: 290712
-        I LOVE LETTUCE FRIED RICE!!-1: 290713
-        I Want You-0: 290398
-        I Want You-1: 290399
-        I am really good at Japanese style-0: 290548
-        I am really good at Japanese style-1: 290549
-        I am sorry for my existence-0: 290800
-        I am sorry for my existence-1: 290801
-        I don't care about Christmas though-0: 290184
-        I don't care about Christmas though-1: 290185
-        I'm Gonna Buy! Buy! Buy!-0: 290820
-        I'm Gonna Buy! Buy! Buy!-1: 290821
-        I'm Here-0: 290362
-        I'm Here-1: 290363
-        IKAROS-0: 290692
-        IKAROS-1: 290693
-        INFINITY-0: 290744
-        INFINITY-1: 290745
-        INFiNiTE ENERZY -Overdoze--0: 290736
-        INFiNiTE ENERZY -Overdoze--1: 290737
-        INTERNET OVERDOSE-0: 290214
-        INTERNET OVERDOSE-1: 290215
-        Igallta-0: 290518
-        Igallta-1: 290519
-        Imaginary World-0: 290186
-        Imaginary World-1: 290187
-        Imprinting-0: 290926
-        Imprinting-1: 290927
-        In-kya Yo-kya Onmyoji-0: 290380
-        In-kya Yo-kya Onmyoji-1: 290381
-        Inferno City-0: 290308
-        Inferno City-1: 290309
-        Instant Soluble Neon-0: 290816
-        Instant Soluble Neon-1: 290817
-        Inu no outa-0: 290268
-        Inu no outa-1: 290269
-        Invader-0: 290894
-        Invader-1: 290895
-        Ira-0: 290176
-        Ira-1: 290177
-        Iro wa Nioedo, Chirinuru wo-0: 290462
-        Iro wa Nioedo, Chirinuru wo-1: 290463
-        Irreplaceable-0: 290730
-        Irreplaceable-1: 290731
-        Isouten-0: 290440
-        Isouten-1: 290441
-        Iyaiya-0: 290122
-        Iyaiya-1: 290123
-        JUMP! HardCandy-0: 290490
-        JUMP! HardCandy-1: 290491
-        Jealousy-0: 290406
-        Jealousy-1: 290407
-        Joy Connection-0: 290760
-        Joy Connection-1: 290761
-        Just Disobedient-0: 290764
-        Just Disobedient-1: 290765
+        Departure Road-0: 290172
+        Departure Road-1: 290173
+        Desastre-0: 290616
+        Desastre-1: 290617
+        Destr0yer-0: 290866
+        Destr0yer-1: 290867
+        Different-0: 290982
+        Different-1: 290983
+        Diffraction-0: 290256
+        Diffraction-1: 290257
+        Disorder-0: 290738
+        Disorder-1: 290739
+        Dohna Dohna no Uta-0: 290152
+        Dohna Dohna no Uta-1: 290153
+        DokiDoki! Valentine!-0: 290026
+        DokiDoki! Valentine!-1: 290027
+        Dolphin and Broadcast-0: 290142
+        Dolphin and Broadcast-1: 290143
+        Don't Die-0: 290424
+        Don't Die-1: 290425
+        Don't Make the Vocalist do Anything Insane-0: 290306
+        Don't Make the Vocalist do Anything Insane-1: 290307
+        Doppelganger-0: 290398
+        Doppelganger-1: 290399
+        Dossoles Holiday-0: 290296
+        Dossoles Holiday-1: 290297
+        Down Low-0: 290310
+        Down Low-1: 290311
+        Dr.Techro-0: 290768
+        Dr.Techro-1: 290769
+        Dreaming Girl-0: 290978
+        Dreaming Girl-1: 290979
+        Dysthymia-0: 290190
+        Dysthymia-1: 290191
+        EMOMOMO-0: 290494
+        EMOMOMO-1: 290495
+        ENDLESS CIDER-0: 290354
+        ENDLESS CIDER-1: 290355
+        ENERGY SYNERGY MATRIX-0: 290682
+        ENERGY SYNERGY MATRIX-1: 290683
+        EXIST-0: 290742
+        EXIST-1: 290743
+        Eeliaas-0: 290804
+        Eeliaas-1: 290805
+        Elastic STAR-0: 290416
+        Elastic STAR-1: 290417
+        Elysion's Old Mans-0: 290818
+        Elysion's Old Mans-1: 290819
+        Endless Error Loop-0: 290302
+        Endless Error Loop-1: 290303
+        Enka Dance Music-0: 290930
+        Enka Dance Music-1: 290931
+        Etude -Storm--0: 290798
+        Etude -Storm--1: 290799
+        Etude -Sunset--0: 290918
+        Etude -Sunset--1: 290919
+        Evolution-0: 290140
+        Evolution-1: 290141
+        FM 17314 SUGAR RADIO-0: 290526
+        FM 17314 SUGAR RADIO-1: 290527
+        FREEDOM DiVE-0: 290730
+        FREEDOM DiVE-1: 290731
+        FUJIN Rumble-0: 290646
+        FUJIN Rumble-1: 290647
+        FULi AUTO SHOOTER-0: 290712
+        FULi AUTO SHOOTER-1: 290713
+        FUTUREPOP-0: 290722
+        FUTUREPOP-1: 290723
+        Fancy Night-0: 290428
+        Fancy Night-1: 290429
+        Fantasia Sonata Destiny-0: 290364
+        Fantasia Sonata Destiny-1: 290365
+        Final Step!-0: 290624
+        Final Step!-1: 290625
+        Find this Month's Featured Playlist-0: 290348
+        Find this Month's Featured Playlist-1: 290349
+        Fireflies-0: 290582
+        Fireflies-1: 290583
+        First Snow-0: 290838
+        First Snow-1: 290839
+        Flashdance-0: 290748
+        Flashdance-1: 290749
+        Flower, snow and Drum'n'bass.-0: 290280
+        Flower, snow and Drum'n'bass.-1: 290281
+        Flowery Moonlit Night-0: 290482
+        Flowery Moonlit Night-1: 290483
+        Fly Again-0: 290874
+        Fly Again-1: 290875
+        Fly High-0: 290786
+        Fly High-1: 290787
+        Focus Point-0: 290642
+        Focus Point-1: 290643
+        Forbidden Pizza!-0: 290304
+        Forbidden Pizza!-1: 290305
+        Formation-0: 290200
+        Formation-1: 290201
+        Frightfully-insane Flan-chan's frightful song-0: 290264
+        Frightfully-insane Flan-chan's frightful song-1: 290265
+        From the New World-0: 290192
+        From the New World-1: 290193
+        Frost Land-0: 290132
+        Frost Land-1: 290133
+        Funkotsu Saishin Casino-0: 290212
+        Funkotsu Saishin Casino-1: 290213
+        Future Dive-0: 290794
+        Future Dive-1: 290795
+        Future Stream-0: 290710
+        Future Stream-1: 290711
+        GASHATT-0: 290462
+        GASHATT-1: 290463
+        GIMME DA BLOOD-0: 290438
+        GIMME DA BLOOD-1: 290439
+        GOODBOUNCE-0: 290912
+        GOODBOUNCE-1: 290913
+        GOODFORTUNE-0: 290714
+        GOODFORTUNE-1: 290715
+        GOODMEN-0: 290972
+        GOODMEN-1: 290973
+        GOODRAGE-0: 290888
+        GOODRAGE-1: 290889
+        GOODTEK-0: 290948
+        GOODTEK-1: 290949
+        GOODWORLD-0: 290828
+        GOODWORLD-1: 290829
+        Gaikan Chrysalis-0: 290842
+        Gaikan Chrysalis-1: 290843
+        Galaxy Striker-0: 290170
+        Galaxy Striker-1: 290171
+        Gaming*Everything-0: 290670
+        Gaming*Everything-1: 290671
+        Gift box-0: 290936
+        Gift box-1: 290937
+        Ginevra-0: 290658
+        Ginevra-1: 290659
+        Girly Cupid-0: 290632
+        Girly Cupid-1: 290633
+        Give Me 5-0: 290432
+        Give Me 5-1: 290433
+        Give Up TREATMENT Vol.1-0: 290118
+        Give Up TREATMENT Vol.1-1: 290119
+        Give Up TREATMENT Vol.10-0: 290050
+        Give Up TREATMENT Vol.10-1: 290051
+        Give Up TREATMENT Vol.11-0: 290012
+        Give Up TREATMENT Vol.11-1: 290013
+        Give Up TREATMENT Vol.2-0: 290108
+        Give Up TREATMENT Vol.2-1: 290109
+        Give Up TREATMENT Vol.3-0: 290106
+        Give Up TREATMENT Vol.3-1: 290107
+        Give Up TREATMENT Vol.4-0: 290102
+        Give Up TREATMENT Vol.4-1: 290103
+        Give Up TREATMENT Vol.5-0: 290098
+        Give Up TREATMENT Vol.5-1: 290099
+        Give Up TREATMENT Vol.6-0: 290090
+        Give Up TREATMENT Vol.6-1: 290091
+        Give Up TREATMENT Vol.7-0: 290084
+        Give Up TREATMENT Vol.7-1: 290085
+        Give Up TREATMENT Vol.8-0: 290078
+        Give Up TREATMENT Vol.8-1: 290079
+        Give Up TREATMENT Vol.9-0: 290070
+        Give Up TREATMENT Vol.9-1: 290071
+        Gleam stone-0: 290826
+        Gleam stone-1: 290827
+        Glimmer-0: 290740
+        Glimmer-1: 290741
+        Gloomy Flash-0: 290346
+        Gloomy Flash-1: 290347
+        Good Life-0: 290664
+        Good Life-1: 290665
+        Goodbye Boss-0: 290920
+        Goodbye Boss-1: 290921
+        Goodbye Goodnight-0: 290352
+        Goodbye Goodnight-1: 290353
+        Groove Prayer-0: 290644
+        Groove Prayer-1: 290645
+        Groovin Up-0: 290410
+        Groovin Up-1: 290411
+        HARDCORE TANO*C-0: 290054
+        HARDCORE TANO*C-1: 290055
+        HEXENNACHTROCK-katashihaya--0: 290602
+        HEXENNACHTROCK-katashihaya--1: 290603
+        HG Makaizou Polyvinyl Shounen-0: 290650
+        HG Makaizou Polyvinyl Shounen-1: 290651
+        Halcyon-0: 290904
+        Halcyon-1: 290905
+        Happiness Breeze-0: 290586
+        Happiness Breeze-1: 290587
+        Happy Otaku Pack SP-0: 290052
+        Happy Otaku Pack SP-1: 290053
+        Happy Otaku Pack Vol.1-0: 290116
+        Happy Otaku Pack Vol.1-1: 290117
+        Happy Otaku Pack Vol.10-0: 290066
+        Happy Otaku Pack Vol.10-1: 290067
+        Happy Otaku Pack Vol.11-0: 290060
+        Happy Otaku Pack Vol.11-1: 290061
+        Happy Otaku Pack Vol.12-0: 290042
+        Happy Otaku Pack Vol.12-1: 290043
+        Happy Otaku Pack Vol.13-0: 290036
+        Happy Otaku Pack Vol.13-1: 290037
+        Happy Otaku Pack Vol.14-0: 290032
+        Happy Otaku Pack Vol.14-1: 290033
+        Happy Otaku Pack Vol.15-0: 290018
+        Happy Otaku Pack Vol.15-1: 290019
+        Happy Otaku Pack Vol.16-0: 290010
+        Happy Otaku Pack Vol.16-1: 290011
+        Happy Otaku Pack Vol.2-0: 290114
+        Happy Otaku Pack Vol.2-1: 290115
+        Happy Otaku Pack Vol.3-0: 290112
+        Happy Otaku Pack Vol.3-1: 290113
+        Happy Otaku Pack Vol.4-0: 290104
+        Happy Otaku Pack Vol.4-1: 290105
+        Happy Otaku Pack Vol.5-0: 290100
+        Happy Otaku Pack Vol.5-1: 290101
+        Happy Otaku Pack Vol.6-0: 290094
+        Happy Otaku Pack Vol.6-1: 290095
+        Happy Otaku Pack Vol.7-0: 290088
+        Happy Otaku Pack Vol.7-1: 290089
+        Happy Otaku Pack Vol.8-0: 290082
+        Happy Otaku Pack Vol.8-1: 290083
+        Happy Otaku Pack Vol.9-0: 290074
+        Happy Otaku Pack Vol.9-1: 290075
+        Haze of Autumn-0: 290436
+        Haze of Autumn-1: 290437
+        Heart-Pounding Flight-0: 290134
+        Heart-Pounding Flight-1: 290135
+        Heisha Onsha-0: 290656
+        Heisha Onsha-1: 290657
+        Heracles-0: 290496
+        Heracles-1: 290497
+        Hibari-0: 290506
+        Hibari-1: 290507
+        Hiiro Gekka Kyousai no Zetsu-0: 290480
+        Hiiro Gekka Kyousai no Zetsu-1: 290481
+        Holy Sh*t Grass Snake-0: 290780
+        Holy Sh*t Grass Snake-1: 290781
+        Hope for the flowers-0: 290538
+        Hope for the flowers-1: 290539
+        Hoshi no otoshimono-0: 290360
+        Hoshi no otoshimono-1: 290361
+        Howlin' Pumpkin-0: 290472
+        Howlin' Pumpkin-1: 290473
+        Hydrangea-0: 290596
+        Hydrangea-1: 290597
+        I LOVE LETTUCE FRIED RICE!!-0: 290726
+        I LOVE LETTUCE FRIED RICE!!-1: 290727
+        I Want You-0: 290412
+        I Want You-1: 290413
+        I am really good at Japanese style-0: 290562
+        I am really good at Japanese style-1: 290563
+        I am sorry for my existence-0: 290814
+        I am sorry for my existence-1: 290815
+        I don't care about Christmas though-0: 290186
+        I don't care about Christmas though-1: 290187
+        I'm Gonna Buy! Buy! Buy!-0: 290834
+        I'm Gonna Buy! Buy! Buy!-1: 290835
+        I'm Here-0: 290376
+        I'm Here-1: 290377
+        IKAROS-0: 290706
+        IKAROS-1: 290707
+        INFINITY-0: 290758
+        INFINITY-1: 290759
+        INFiNiTE ENERZY -Overdoze--0: 290750
+        INFiNiTE ENERZY -Overdoze--1: 290751
+        INTERNET OVERDOSE-0: 290216
+        INTERNET OVERDOSE-1: 290217
+        Igallta-0: 290532
+        Igallta-1: 290533
+        Imaginary World-0: 290188
+        Imaginary World-1: 290189
+        Imprinting-0: 290940
+        Imprinting-1: 290941
+        In-kya Yo-kya Onmyoji-0: 290394
+        In-kya Yo-kya Onmyoji-1: 290395
+        Inferno City-0: 290322
+        Inferno City-1: 290323
+        Instant Soluble Neon-0: 290830
+        Instant Soluble Neon-1: 290831
+        Inu no outa-0: 290270
+        Inu no outa-1: 290271
+        Invader-0: 290908
+        Invader-1: 290909
+        Ira-0: 290178
+        Ira-1: 290179
+        Iro wa Nioedo, Chirinuru wo-0: 290476
+        Iro wa Nioedo, Chirinuru wo-1: 290477
+        Irreplaceable-0: 290744
+        Irreplaceable-1: 290745
+        Isouten-0: 290454
+        Isouten-1: 290455
+        Iyaiya-0: 290124
+        Iyaiya-1: 290125
+        JUMP! HardCandy-0: 290504
+        JUMP! HardCandy-1: 290505
+        Jealousy-0: 290420
+        Jealousy-1: 290421
+        Joy Connection-0: 290774
+        Joy Connection-1: 290775
+        Just Disobedient-0: 290778
+        Just Disobedient-1: 290779
         Just as Planned  Plus-0: 290002
         Just as Planned  Plus-1: 290003
-        KABOOOOOM!!!!-0: 290382
-        KABOOOOOM!!!!-1: 290383
-        Kafig-0: 290940
-        Kafig-1: 290941
-        Kakoinaki Yo wa Ichigo no Tsukikage-0: 290324
-        Kakoinaki Yo wa Ichigo no Tsukikage-1: 290325
-        Kill My Fortune-0: 290486
-        Kill My Fortune-1: 290487
-        Kimi to pool disco-0: 290688
-        Kimi to pool disco-1: 290689
-        Koi no Moonlight-0: 290156
-        Koi no Moonlight-1: 290157
-        Kuishinbo Hacker feat.Kuishinbo Akachan-0: 290266
-        Kuishinbo Hacker feat.Kuishinbo Akachan-1: 290267
-        Kyoukiranbu-0: 290856
-        Kyoukiranbu-1: 290857
-        LIN NE KRO NE feat. lasah-0: 290450
-        LIN NE KRO NE feat. lasah-1: 290451
-        LOUDER MACHINE-0: 290298
-        LOUDER MACHINE-1: 290299
-        La nuit de vif-0: 290930
-        La nuit de vif-1: 290931
-        Latitude-0: 290206
-        Latitude-1: 290207
-        Leave It Alone-0: 290864
-        Leave It Alone-1: 290865
-        Legend of Eastern Rabbit -SKY DEFENDER--0: 290666
-        Legend of Eastern Rabbit -SKY DEFENDER--1: 290667
-        Let' s GROOVE!-0: 290062
-        Let' s GROOVE!-1: 290063
-        Let's Do Bad Things Together-0: 290056
-        Let's Do Bad Things Together-1: 290057
-        Lian Ai Audio Navigation-0: 290158
-        Lian Ai Audio Navigation-1: 290159
-        Libertas-0: 290426
-        Libertas-1: 290427
-        Light up my love!!-0: 290570
-        Light up my love!!-1: 290571
-        Lights of Muse-0: 290160
-        Lights of Muse-1: 290161
-        Lilith ambivalence lovers-0: 290886
-        Lilith ambivalence lovers-1: 290887
-        Lorikeet ~Flat design~-0: 290872
-        Lorikeet ~Flat design~-1: 290873
-        Love-Avoidance Addiction-0: 290388
-        Love-Avoidance Addiction-1: 290389
-        Lueur de la nuit-0: 290720
-        Lueur de la nuit-1: 290721
-        Luna Express 2032-0: 290952
-        Luna Express 2032-1: 290953
-        Lyrith-0: 290896
-        Lyrith-1: 290897
-        Lys Tourbillon-0: 290910
-        Lys Tourbillon-1: 290911
-        MAGENTA POTION-0: 290612
-        MAGENTA POTION-1: 290613
-        MARENOL-0: 290546
-        MARENOL-1: 290547
-        MEGAREX THE FUTURE-0: 290014
-        MEGAREX THE FUTURE-1: 290015
-        MSR Anthology-0: 290004
-        MSR Anthology-1: 290005
-        MUSE RADIO FM101-0: 290070
-        MUSE RADIO FM101-1: 290071
-        MUSE RADIO FM102-0: 290042
-        MUSE RADIO FM102-1: 290043
-        MUSE RADIO FM103-0: 290018
-        MUSE RADIO FM103-1: 290019
-        MUSEDASH!!!!-0: 290924
-        MUSEDASH!!!!-1: 290925
-        Madara-0: 290598
-        Madara-1: 290599
-        Magic Knight Girl-0: 290788
-        Magic Knight Girl-1: 290789
-        Magic Spell-0: 290792
-        Magic Spell-1: 290793
-        Magical Number-0: 290962
-        Magical Number-1: 290963
-        Magical Wonderland-0: 290120
-        Magical Wonderland-1: 290121
-        Maharajah-0: 290936
-        Maharajah-1: 290937
-        ManiFesto:-0: 290272
-        ManiFesto:-1: 290273
-        Marry me, Nightmare-0: 290634
-        Marry me, Nightmare-1: 290635
-        Masquerade Diary-0: 290364
-        Masquerade Diary-1: 290365
-        Maxi-0: 290748
-        Maxi-1: 290749
-        Medicine of Sing-0: 290180
-        Medicine of Sing-1: 290181
-        Medusa-0: 290608
-        Medusa-1: 290609
-        Memory of Beach-0: 290408
-        Memory of Beach-1: 290409
-        Mezame Eurythmics-0: 290202
-        Mezame Eurythmics-1: 290203
-        Midnight O'clock-0: 290238
-        Midnight O'clock-1: 290239
-        MilK-0: 290220
-        MilK-1: 290221
-        Mischievous Sensation-0: 290328
-        Mischievous Sensation-1: 290329
-        Monosugoi Space Shuttle de Koishi ga Monosugoi uta-0: 290322
-        Monosugoi Space Shuttle de Koishi ga Monosugoi uta-1: 290323
-        Moonlight Banquet-0: 290732
-        Moonlight Banquet-1: 290733
-        Mopemope-0: 290224
-        Mopemope-1: 290225
-        Mousou Chu!!-0: 290530
-        Mousou Chu!!-1: 290531
-        Mujinku-Vacuum-0: 290218
-        Mujinku-Vacuum-1: 290219
-        My Life Is For You-0: 290902
-        My Life Is For You-1: 290903
-        NISEGAO-0: 290192
-        NISEGAO-1: 290193
-        NO ONE YES MAN-0: 290514
-        NO ONE YES MAN-1: 290515
-        Naked Summer-0: 290508
-        Naked Summer-1: 290509
-        Nanahira Festival-0: 290066
-        Nanahira Festival-1: 290067
-        Nanahira Paradise-0: 290006
-        Nanahira Paradise-1: 290007
-        Nekojarashi-0: 290436
-        Nekojarashi-1: 290437
-        Neonlights-0: 290522
-        Neonlights-1: 290523
-        Newbies, Geeks, Internets-0: 290662
-        Newbies, Geeks, Internets-1: 290663
-        Night Wander-0: 290148
-        Night Wander-1: 290149
-        Night of Nights-0: 290232
-        Night of Nights-1: 290233
-        NightTheater-0: 290532
-        NightTheater-1: 290533
-        Nightmare-0: 290420
-        Nightmare-1: 290421
-        Nihao-0: 290164
-        Nihao-1: 290165
-        Noel-0: 290854
-        Noel-1: 290855
-        Not Ornament-0: 290358
-        Not Ornament-1: 290359
-        Notice-0: 290682
-        Notice-1: 290683
-        Nyan Cat-0: 290376
-        Nyan Cat-1: 290377
-        Nyanya Universe!-0: 290022
-        Nyanya Universe!-1: 290023
-        OBLIVION-0: 290400
-        OBLIVION-1: 290401
-        OCCHOCO-REST-LESS-0: 290494
-        OCCHOCO-REST-LESS-1: 290495
-        OKIMOCHI EXPRESSION-0: 290686
-        OKIMOCHI EXPRESSION-1: 290687
-        ONOMATO Pairing!!!-0: 290442
-        ONOMATO Pairing!!!-1: 290443
-        Omatsuri-0: 290706
-        Omatsuri-1: 290707
-        On And On!!-0: 290342
-        On And On!!-1: 290343
-        One Way Street-0: 290738
-        One Way Street-1: 290739
-        One-Way Subway-0: 290128
-        One-Way Subway-1: 290129
-        Onegai!Kon kon Oinarisama-0: 290664
-        Onegai!Kon kon Oinarisama-1: 290665
-        Onsen Dai Sakusen-0: 290810
-        Onsen Dai Sakusen-1: 290811
-        Operation Blade-0: 290274
-        Operation Blade-1: 290275
-        Oriens-0: 290948
-        Oriens-1: 290949
-        Out of Sense-0: 290900
-        Out of Sense-1: 290901
-        PUPA-0: 290950
-        PUPA-1: 290951
-        Pancake is Love-0: 290134
-        Pancake is Love-1: 290135
-        Paracelestia-0: 290646
-        Paracelestia-1: 290647
-        Paradigm Shift-0: 290310
-        Paradigm Shift-1: 290311
-        Paradise 2-0: 290432
-        Paradise 2-1: 290433
-        Party in the HOLLOWood-0: 290454
-        Party in the HOLLOWood-1: 290455
-        Patchouli's - Best Hit GSK-0: 290320
-        Patchouli's - Best Hit GSK-1: 290321
-        People People-0: 290286
-        People People-1: 290287
-        PeroPero in the Universe-0: 290378
-        PeroPero in the Universe-1: 290379
-        PeroPeroGames goes Bankrupt-0: 290544
-        PeroPeroGames goes Bankrupt-1: 290545
-        Phi-0: 290718
-        Phi-1: 290719
-        Phigros-0: 290044
-        Phigros-1: 290045
-        Pixel Galaxy-0: 290680
-        Pixel Galaxy-1: 290681
-        Plucky Race-0: 290348
-        Plucky Race-1: 290349
-        Plumage-0: 290752
-        Plumage-1: 290753
-        Power Attack-0: 290850
-        Power Attack-1: 290851
-        Pray a LOVE-0: 290386
-        Pray a LOVE-1: 290387
-        Preparara-0: 290594
-        Preparara-1: 290595
-        Prestige and Vestige-0: 290314
-        Prestige and Vestige-1: 290315
-        Psyched Fevereiro-0: 290306
-        Psyched Fevereiro-1: 290307
-        Psychedelic Kizakura Doumei-0: 290326
-        Psychedelic Kizakura Doumei-1: 290327
-        Punai Punai Genso-0: 290670
-        Punai Punai Genso-1: 290671
-        Punai Punai Senso-0: 290746
-        Punai Punai Senso-1: 290747
-        Punai Punai Taiso-0: 290770
-        Punai Punai Taiso-1: 290771
-        Queen Aluett-0: 290258
-        Queen Aluett-1: 290259
-        RUBY:LINTe-0: 290838
-        RUBY:LINTe-1: 290839
-        Radiant-0: 290276
-        Radiant-1: 290277
-        Rave_Tech-0: 290302
-        Rave_Tech-1: 290303
-        Re:End of a Dream-0: 290782
-        Re:End of a Dream-1: 290783
-        Reminiscence-0: 290366
-        Reminiscence-1: 290367
-        Renegade-0: 290278
-        Renegade-1: 290279
-        Renji de haochi-0: 290658
-        Renji de haochi-1: 290659
-        Retrospective Peom on the Planet-0: 290818
-        Retrospective Peom on the Planet-1: 290819
-        Rin-0: 290240
-        Rin-1: 290241
-        Rollerdisco Rumble-0: 290476
-        Rollerdisco Rumble-1: 290477
-        Rose Garden-0: 290478
-        Rose Garden-1: 290479
-        Run through-0: 290352
-        Run through-1: 290353
-        Rush B-0: 290550
-        Rush B-1: 290551
-        Rush-More-0: 290484
-        Rush-More-1: 290485
-        SKY HIGH-0: 290528
-        SKY HIGH-1: 290529
-        SWEETSWEETSWEET-0: 290756
-        SWEETSWEETSWEET-1: 290757
-        Saika-0: 290578
-        Saika-1: 290579
-        Sakura Fubuki-0: 290842
-        Sakura Fubuki-1: 290843
-        Sand Maze-0: 290252
-        Sand Maze-1: 290253
-        Santouka-0: 290586
-        Santouka-1: 290587
-        Satell Knight-0: 290796
-        Satell Knight-1: 290797
-        Say! Fanfare!-0: 290194
-        Say! Fanfare!-1: 290195
-        Seaside Cycling on May 30-0: 290526
-        Seaside Cycling on May 30-1: 290527
-        See-Saw Day-0: 290496
-        See-Saw Day-1: 290497
-        Seikimatsu no Natsu-0: 290500
-        Seikimatsu no Natsu-1: 290501
-        Seizya no Ibuki-0: 290638
-        Seizya no Ibuki-1: 290639
-        Self Willed Girl Ver.B-0: 290762
-        Self Willed Girl Ver.B-1: 290763
-        Shenri Kuaira -repeat--0: 290204
-        Shenri Kuaira -repeat--1: 290205
-        Shiguang Tuya-0: 290136
-        Shiguang Tuya-1: 290137
-        Shinsou Masui-0: 290200
-        Shinsou Masui-1: 290201
-        Shoot for the Moon-0: 290604
-        Shoot for the Moon-1: 290605
-        Skrik-0: 290834
-        Skrik-1: 290835
-        Skyward-0: 290928
-        Skyward-1: 290929
-        Smile-mileS-0: 290242
-        Smile-mileS-1: 290243
-        Snapdragon-0: 290312
-        Snapdragon-1: 290313
-        Snowfall, Merry Christmas-0: 290516
-        Snowfall, Merry Christmas-1: 290517
-        Soda Pop Canva5!-0: 290836
-        Soda Pop Canva5!-1: 290837
-        Sorewa mo Lovechu-0: 290300
-        Sorewa mo Lovechu-1: 290301
-        Speed of Light-0: 290280
-        Speed of Light-1: 290281
-        Spring Carnival-0: 290152
-        Spring Carnival-1: 290153
-        Square Lake-0: 290616
-        Square Lake-1: 290617
-        Standby for Action-0: 290580
-        Standby for Action-1: 290581
-        Star Driver-0: 290196
-        Star Driver-1: 290197
-        Stargazer-0: 290908
-        Stargazer-1: 290909
-        Sterelogue-0: 290830
-        Sterelogue-1: 290831
-        Strawberry Godzilla-0: 290684
-        Strawberry Godzilla-1: 290685
-        Suffering of screw-0: 290846
-        Suffering of screw-1: 290847
-        Sunday Night-0: 290336
-        Sunday Night-1: 290337
-        Sunshine and Rainbow after August Rain-0: 290960
-        Sunshine and Rainbow after August Rain-1: 290961
-        Super Battleworn Insomniac-0: 290472
-        Super Battleworn Insomniac-1: 290473
-        Sweet* Witch* Girl*-0: 290882
-        Sweet* Witch* Girl*-1: 290883
-        Symbol-0: 290434
-        Symbol-1: 290435
-        TWINKLE*MAGIC-0: 290562
-        TWINKLE*MAGIC-1: 290563
-        Tenri Kaku Jou-0: 290944
-        Tenri Kaku Jou-1: 290945
-        The 89's Momentum-0: 290776
-        The 89's Momentum-1: 290777
-        The 90's Decision-0: 290606
-        The 90's Decision-1: 290607
-        The Breeze-0: 290710
-        The Breeze-1: 290711
-        The Dessert After Rain-0: 290702
-        The Dessert After Rain-1: 290703
-        The Future of the Phantom-0: 290970
-        The Future of the Phantom-1: 290971
-        The Happycore Idol-0: 290226
-        The Happycore Idol-1: 290227
-        The Last Page-0: 290690
-        The Last Page-1: 290691
-        The NightScape-0: 290714
-        The NightScape-1: 290715
-        Thirty Million Persona-0: 290912
-        Thirty Million Persona-1: 290913
-        This Club is Not 4 U-0: 290740
-        This Club is Not 4 U-1: 290741
-        Tiny Fate-0: 290316
-        Tiny Fate-1: 290317
-        Tokimeki*Meteostrike-0: 290294
-        Tokimeki*Meteostrike-1: 290295
-        Touhou Mugakudan -1--0: 290036
-        Touhou Mugakudan -1--1: 290037
-        Touhou Mugakudan -2--0: 290012
-        Touhou Mugakudan -2--1: 290013
-        Trip!-0: 290344
-        Trip!-1: 290345
-        Tsubasa no Oreta Tenshitachi no Requiem-0: 290866
-        Tsubasa no Oreta Tenshitachi no Requiem-1: 290867
-        Tsuki ni Murakumo Hana ni Kaze-0: 290318
-        Tsuki ni Murakumo Hana ni Kaze-1: 290319
-        Tsukuyomi-0: 290694
-        Tsukuyomi-1: 290695
-        Tu Hua-0: 290216
-        Tu Hua-1: 290217
-        Two Phace-0: 290858
-        Two Phace-1: 290859
-        U.A.D-0: 290404
-        U.A.D-1: 290405
-        ULTRA MEGA HAPPY PARTY!!!-0: 290742
-        ULTRA MEGA HAPPY PARTY!!!-1: 290743
-        Ueta Tori Tachi-0: 290802
-        Ueta Tori Tachi-1: 290803
-        Ukiyoe Yokochou-0: 290954
-        Ukiyoe Yokochou-1: 290955
-        Ultra Happy Miracle Bazoooooka!!-0: 290676
-        Ultra Happy Miracle Bazoooooka!!-1: 290677
-        Unconscious Requiem-0: 290470
-        Unconscious Requiem-1: 290471
-        Unlimited Katharsis-0: 290786
-        Unlimited Katharsis-1: 290787
-        Variant Cross-0: 290674
-        Variant Cross-1: 290675
-        Virtual Idol Production-0: 290020
-        Virtual Idol Production-1: 290021
-        WACCA Horizon-0: 290032
-        WACCA Horizon-1: 290033
-        Whatcha;Whatcha Doin'-0: 290596
-        Whatcha;Whatcha Doin'-1: 290597
-        White Canvas-0: 290330
-        White Canvas-1: 290331
-        Wonderful Pain-0: 290124
-        Wonderful Pain-1: 290125
-        XING-0: 290918
-        XING-1: 290919
-        XODUS-0: 290566
-        XODUS-1: 290567
-        Xin Shang Huahai-0: 290826
-        Xin Shang Huahai-1: 290827
-        Y CE Ver.-0: 290412
-        Y CE Ver.-1: 290413
-        YInMn Blue-0: 290750
-        YInMn Blue-1: 290751
-        Ying Ying da Zuozhan-0: 290456
-        Ying Ying da Zuozhan-1: 290457
-        Yosari Tsukibotaru Suminoborite-0: 290488
-        Yosari Tsukibotaru Suminoborite-1: 290489
-        You Make My Life 1UP-0: 290660
-        You Make My Life 1UP-1: 290661
-        Yuki no Shizuku Ame no Oto-0: 290142
-        Yuki no Shizuku Ame no Oto-1: 290143
-        bamboo-0: 290536
-        bamboo-1: 290537
-        c.s.q.n.-0: 290540
-        c.s.q.n.-1: 290541
-        can you feel it-0: 290236
-        can you feel it-1: 290237
-        conflict-0: 290914
-        conflict-1: 290915
-        cyTus-0: 290054
-        cyTus-1: 290055
-        daydream girl-0: 290356
-        daydream girl-1: 290357
-        don't!stop!eroero!-0: 290248
-        don't!stop!eroero!-1: 290249
-        enchanted love-0: 290538
-        enchanted love-1: 290539
-        energy night-0: 290778
-        energy night-1: 290779
-        glory day-0: 290392
-        glory day-1: 290393
-        happy hour-0: 290498
-        happy hour-1: 290499
-        heterodoxy-0: 290624
-        heterodoxy-1: 290625
-        irregulyze-0: 290182
-        irregulyze-1: 290183
-        keep on running-0: 290938
-        keep on running-1: 290939
-        kui-0: 290374
-        kui-1: 290375
-        marooned night-0: 290354
-        marooned night-1: 290355
-        midstream jam-0: 290162
-        midstream jam-1: 290163
-        nini-nini--0: 290652
-        nini-nini--1: 290653
-        ouroVoros-0: 290862
-        ouroVoros-1: 290863
-        ouroboros -twin stroke of the end--0: 290640
-        ouroboros -twin stroke of the end--1: 290641
-        pICARESq-0: 290600
-        pICARESq-1: 290601
-        pa pi pu pi pu pi pa-0: 290250
-        pa pi pu pi pu pi pa-1: 290251
-        prejudice-0: 290774
-        prejudice-1: 290775
-        sheep in the light-0: 290620
-        sheep in the light-1: 290621
-        snooze-0: 290264
-        snooze-1: 290265
-        tape/stop/night-0: 290678
-        tape/stop/night-1: 290679
-        tiny lady-0: 290848
-        tiny lady-1: 290849
-        trippers feeling!-0: 290884
-        trippers feeling!-1: 290885
-        twinkle night-0: 290502
-        twinkle night-1: 290503
-        umpopoff-0: 290222
-        umpopoff-1: 290223
-        un secret-0: 290648
-        un secret-1: 290649
-        with U-0: 290444
-        with U-1: 290445
+        KABOOOOOM!!!!-0: 290396
+        KABOOOOOM!!!!-1: 290397
+        Kafig-0: 290954
+        Kafig-1: 290955
+        Kakoinaki Yo wa Ichigo no Tsukikage-0: 290338
+        Kakoinaki Yo wa Ichigo no Tsukikage-1: 290339
+        Kill My Fortune-0: 290500
+        Kill My Fortune-1: 290501
+        Kimi to pool disco-0: 290702
+        Kimi to pool disco-1: 290703
+        Koi no Moonlight-0: 290158
+        Koi no Moonlight-1: 290159
+        Kuishinbo Hacker feat.Kuishinbo Akachan-0: 290268
+        Kuishinbo Hacker feat.Kuishinbo Akachan-1: 290269
+        Kyoukiranbu-0: 290870
+        Kyoukiranbu-1: 290871
+        LIN NE KRO NE feat. lasah-0: 290464
+        LIN NE KRO NE feat. lasah-1: 290465
+        LOUDER MACHINE-0: 290312
+        LOUDER MACHINE-1: 290313
+        La nuit de vif-0: 290944
+        La nuit de vif-1: 290945
+        Latitude-0: 290208
+        Latitude-1: 290209
+        Leave It Alone-0: 290878
+        Leave It Alone-1: 290879
+        Legend of Eastern Rabbit -SKY DEFENDER--0: 290680
+        Legend of Eastern Rabbit -SKY DEFENDER--1: 290681
+        Let' s GROOVE!-0: 290064
+        Let' s GROOVE!-1: 290065
+        Let's Do Bad Things Together-0: 290058
+        Let's Do Bad Things Together-1: 290059
+        Lian Ai Audio Navigation-0: 290160
+        Lian Ai Audio Navigation-1: 290161
+        Libertas-0: 290440
+        Libertas-1: 290441
+        Light up my love!!-0: 290584
+        Light up my love!!-1: 290585
+        Lights of Muse-0: 290162
+        Lights of Muse-1: 290163
+        Lilith ambivalence lovers-0: 290900
+        Lilith ambivalence lovers-1: 290901
+        Lorikeet ~Flat design~-0: 290886
+        Lorikeet ~Flat design~-1: 290887
+        Love-Avoidance Addiction-0: 290402
+        Love-Avoidance Addiction-1: 290403
+        Lueur de la nuit-0: 290734
+        Lueur de la nuit-1: 290735
+        Luna Express 2032-0: 290966
+        Luna Express 2032-1: 290967
+        Lyrith-0: 290910
+        Lyrith-1: 290911
+        Lys Tourbillon-0: 290924
+        Lys Tourbillon-1: 290925
+        MAGENTA POTION-0: 290626
+        MAGENTA POTION-1: 290627
+        MARENOL-0: 290560
+        MARENOL-1: 290561
+        MEGAREX THE FUTURE-0: 290016
+        MEGAREX THE FUTURE-1: 290017
+        MSR Anthology-0: 290006
+        MSR Anthology-1: 290007
+        MUSE RADIO FM101-0: 290072
+        MUSE RADIO FM101-1: 290073
+        MUSE RADIO FM102-0: 290044
+        MUSE RADIO FM102-1: 290045
+        MUSE RADIO FM103-0: 290020
+        MUSE RADIO FM103-1: 290021
+        MUSEDASH!!!!-0: 290938
+        MUSEDASH!!!!-1: 290939
+        Madara-0: 290612
+        Madara-1: 290613
+        Magic Knight Girl-0: 290802
+        Magic Knight Girl-1: 290803
+        Magic Spell-0: 290806
+        Magic Spell-1: 290807
+        Magical Number-0: 290976
+        Magical Number-1: 290977
+        Magical Wonderland-0: 290122
+        Magical Wonderland-1: 290123
+        Maharajah-0: 290950
+        Maharajah-1: 290951
+        ManiFesto:-0: 290286
+        ManiFesto:-1: 290287
+        Marry me, Nightmare-0: 290648
+        Marry me, Nightmare-1: 290649
+        Masquerade Diary-0: 290378
+        Masquerade Diary-1: 290379
+        Maxi-0: 290762
+        Maxi-1: 290763
+        Medicine of Sing-0: 290182
+        Medicine of Sing-1: 290183
+        Medusa-0: 290622
+        Medusa-1: 290623
+        Memory of Beach-0: 290422
+        Memory of Beach-1: 290423
+        Mezame Eurythmics-0: 290204
+        Mezame Eurythmics-1: 290205
+        Midnight O'clock-0: 290240
+        Midnight O'clock-1: 290241
+        MilK-0: 290222
+        MilK-1: 290223
+        Mischievous Sensation-0: 290342
+        Mischievous Sensation-1: 290343
+        Monosugoi Space Shuttle de Koishi ga Monosugoi uta-0: 290336
+        Monosugoi Space Shuttle de Koishi ga Monosugoi uta-1: 290337
+        Moonlight Banquet-0: 290746
+        Moonlight Banquet-1: 290747
+        Mopemope-0: 290226
+        Mopemope-1: 290227
+        Mousou Chu!!-0: 290544
+        Mousou Chu!!-1: 290545
+        Mujinku-Vacuum-0: 290220
+        Mujinku-Vacuum-1: 290221
+        My Life Is For You-0: 290916
+        My Life Is For You-1: 290917
+        N3V3R G3T OV3R-0: 290272
+        N3V3R G3T OV3R-1: 290273
+        NISEGAO-0: 290194
+        NISEGAO-1: 290195
+        NO ONE YES MAN-0: 290528
+        NO ONE YES MAN-1: 290529
+        Naked Summer-0: 290522
+        Naked Summer-1: 290523
+        Nanahira Festival-0: 290068
+        Nanahira Festival-1: 290069
+        Nanahira Paradise-0: 290008
+        Nanahira Paradise-1: 290009
+        Nekojarashi-0: 290450
+        Nekojarashi-1: 290451
+        Neonlights-0: 290536
+        Neonlights-1: 290537
+        Newbies, Geeks, Internets-0: 290676
+        Newbies, Geeks, Internets-1: 290677
+        Night Wander-0: 290150
+        Night Wander-1: 290151
+        Night of Nights-0: 290234
+        Night of Nights-1: 290235
+        NightTheater-0: 290546
+        NightTheater-1: 290547
+        Nightmare-0: 290434
+        Nightmare-1: 290435
+        Nihao-0: 290166
+        Nihao-1: 290167
+        Noel-0: 290868
+        Noel-1: 290869
+        Not Ornament-0: 290372
+        Not Ornament-1: 290373
+        Notice-0: 290696
+        Notice-1: 290697
+        Nyan Cat-0: 290390
+        Nyan Cat-1: 290391
+        Nyanya Universe!-0: 290024
+        Nyanya Universe!-1: 290025
+        OBLIVION-0: 290414
+        OBLIVION-1: 290415
+        OCCHOCO-REST-LESS-0: 290508
+        OCCHOCO-REST-LESS-1: 290509
+        OKIMOCHI EXPRESSION-0: 290700
+        OKIMOCHI EXPRESSION-1: 290701
+        ONOMATO Pairing!!!-0: 290456
+        ONOMATO Pairing!!!-1: 290457
+        Omatsuri-0: 290720
+        Omatsuri-1: 290721
+        On And On!!-0: 290356
+        On And On!!-1: 290357
+        One Way Street-0: 290752
+        One Way Street-1: 290753
+        One-Way Subway-0: 290130
+        One-Way Subway-1: 290131
+        Onegai!Kon kon Oinarisama-0: 290678
+        Onegai!Kon kon Oinarisama-1: 290679
+        Onsen Dai Sakusen-0: 290824
+        Onsen Dai Sakusen-1: 290825
+        Operation Blade-0: 290288
+        Operation Blade-1: 290289
+        Oriens-0: 290962
+        Oriens-1: 290963
+        Oshama Scramble!-0: 290274
+        Oshama Scramble!-1: 290275
+        Out of Sense-0: 290914
+        Out of Sense-1: 290915
+        PUPA-0: 290964
+        PUPA-1: 290965
+        Pancake is Love-0: 290136
+        Pancake is Love-1: 290137
+        Paracelestia-0: 290660
+        Paracelestia-1: 290661
+        Paradigm Shift-0: 290324
+        Paradigm Shift-1: 290325
+        Paradise 2-0: 290446
+        Paradise 2-1: 290447
+        Paranormal My Mind-0: 290278
+        Paranormal My Mind-1: 290279
+        Party in the HOLLOWood-0: 290468
+        Party in the HOLLOWood-1: 290469
+        Patchouli's - Best Hit GSK-0: 290334
+        Patchouli's - Best Hit GSK-1: 290335
+        People People-0: 290300
+        People People-1: 290301
+        PeroPero in the Universe-0: 290392
+        PeroPero in the Universe-1: 290393
+        PeroPeroGames goes Bankrupt-0: 290558
+        PeroPeroGames goes Bankrupt-1: 290559
+        Phi-0: 290732
+        Phi-1: 290733
+        Phigros-0: 290046
+        Phigros-1: 290047
+        Pixel Galaxy-0: 290694
+        Pixel Galaxy-1: 290695
+        Plucky Race-0: 290362
+        Plucky Race-1: 290363
+        Plumage-0: 290766
+        Plumage-1: 290767
+        Power Attack-0: 290864
+        Power Attack-1: 290865
+        Pray a LOVE-0: 290400
+        Pray a LOVE-1: 290401
+        Preparara-0: 290608
+        Preparara-1: 290609
+        Prestige and Vestige-0: 290328
+        Prestige and Vestige-1: 290329
+        Psyched Fevereiro-0: 290320
+        Psyched Fevereiro-1: 290321
+        Psychedelic Kizakura Doumei-0: 290340
+        Psychedelic Kizakura Doumei-1: 290341
+        Punai Punai Genso-0: 290684
+        Punai Punai Genso-1: 290685
+        Punai Punai Senso-0: 290760
+        Punai Punai Senso-1: 290761
+        Punai Punai Taiso-0: 290784
+        Punai Punai Taiso-1: 290785
+        Queen Aluett-0: 290260
+        Queen Aluett-1: 290261
+        RUBY:LINTe-0: 290852
+        RUBY:LINTe-1: 290853
+        Radiant-0: 290290
+        Radiant-1: 290291
+        Rave_Tech-0: 290316
+        Rave_Tech-1: 290317
+        Re:End of a Dream-0: 290796
+        Re:End of a Dream-1: 290797
+        Reminiscence-0: 290380
+        Reminiscence-1: 290381
+        Renegade-0: 290292
+        Renegade-1: 290293
+        Renji de haochi-0: 290672
+        Renji de haochi-1: 290673
+        Retrospective Peom on the Planet-0: 290832
+        Retrospective Peom on the Planet-1: 290833
+        Rin-0: 290242
+        Rin-1: 290243
+        Rollerdisco Rumble-0: 290490
+        Rollerdisco Rumble-1: 290491
+        Rose Garden-0: 290492
+        Rose Garden-1: 290493
+        Run through-0: 290366
+        Run through-1: 290367
+        Rush B-0: 290564
+        Rush B-1: 290565
+        Rush-More-0: 290498
+        Rush-More-1: 290499
+        SKY HIGH-0: 290542
+        SKY HIGH-1: 290543
+        SWEETSWEETSWEET-0: 290770
+        SWEETSWEETSWEET-1: 290771
+        Saika-0: 290592
+        Saika-1: 290593
+        Sakura Fubuki-0: 290856
+        Sakura Fubuki-1: 290857
+        Sand Maze-0: 290254
+        Sand Maze-1: 290255
+        Santouka-0: 290600
+        Santouka-1: 290601
+        Satell Knight-0: 290810
+        Satell Knight-1: 290811
+        Say! Fanfare!-0: 290196
+        Say! Fanfare!-1: 290197
+        Seaside Cycling on May 30-0: 290540
+        Seaside Cycling on May 30-1: 290541
+        See-Saw Day-0: 290510
+        See-Saw Day-1: 290511
+        Seikimatsu no Natsu-0: 290514
+        Seikimatsu no Natsu-1: 290515
+        Seizya no Ibuki-0: 290652
+        Seizya no Ibuki-1: 290653
+        Self Willed Girl Ver.B-0: 290776
+        Self Willed Girl Ver.B-1: 290777
+        Shenri Kuaira -repeat--0: 290206
+        Shenri Kuaira -repeat--1: 290207
+        Shiguang Tuya-0: 290138
+        Shiguang Tuya-1: 290139
+        Shinsou Masui-0: 290202
+        Shinsou Masui-1: 290203
+        Shoot for the Moon-0: 290618
+        Shoot for the Moon-1: 290619
+        Skrik-0: 290848
+        Skrik-1: 290849
+        Skyward-0: 290942
+        Skyward-1: 290943
+        Smile-mileS-0: 290244
+        Smile-mileS-1: 290245
+        Snapdragon-0: 290326
+        Snapdragon-1: 290327
+        Snowfall, Merry Christmas-0: 290530
+        Snowfall, Merry Christmas-1: 290531
+        Soda Pop Canva5!-0: 290850
+        Soda Pop Canva5!-1: 290851
+        Sorewa mo Lovechu-0: 290314
+        Sorewa mo Lovechu-1: 290315
+        Speed of Light-0: 290294
+        Speed of Light-1: 290295
+        Spring Carnival-0: 290154
+        Spring Carnival-1: 290155
+        Square Lake-0: 290630
+        Square Lake-1: 290631
+        Standby for Action-0: 290594
+        Standby for Action-1: 290595
+        Star Driver-0: 290198
+        Star Driver-1: 290199
+        Stargazer-0: 290922
+        Stargazer-1: 290923
+        Sterelogue-0: 290844
+        Sterelogue-1: 290845
+        Strawberry Godzilla-0: 290698
+        Strawberry Godzilla-1: 290699
+        Suffering of screw-0: 290860
+        Suffering of screw-1: 290861
+        Sunday Night-0: 290350
+        Sunday Night-1: 290351
+        Sunshine and Rainbow after August Rain-0: 290974
+        Sunshine and Rainbow after August Rain-1: 290975
+        Super Battleworn Insomniac-0: 290486
+        Super Battleworn Insomniac-1: 290487
+        Sweet* Witch* Girl*-0: 290896
+        Sweet* Witch* Girl*-1: 290897
+        Symbol-0: 290448
+        Symbol-1: 290449
+        TWINKLE*MAGIC-0: 290576
+        TWINKLE*MAGIC-1: 290577
+        Tenri Kaku Jou-0: 290958
+        Tenri Kaku Jou-1: 290959
+        The 89's Momentum-0: 290790
+        The 89's Momentum-1: 290791
+        The 90's Decision-0: 290620
+        The 90's Decision-1: 290621
+        The Breeze-0: 290724
+        The Breeze-1: 290725
+        The Dessert After Rain-0: 290716
+        The Dessert After Rain-1: 290717
+        The Future of the Phantom-0: 290984
+        The Future of the Phantom-1: 290985
+        The Happycore Idol-0: 290228
+        The Happycore Idol-1: 290229
+        The Last Page-0: 290704
+        The Last Page-1: 290705
+        The NightScape-0: 290728
+        The NightScape-1: 290729
+        Thirty Million Persona-0: 290926
+        Thirty Million Persona-1: 290927
+        This Club is Not 4 U-0: 290754
+        This Club is Not 4 U-1: 290755
+        Tiny Fate-0: 290330
+        Tiny Fate-1: 290331
+        Tokimeki*Meteostrike-0: 290308
+        Tokimeki*Meteostrike-1: 290309
+        Touhou Mugakudan -1--0: 290038
+        Touhou Mugakudan -1--1: 290039
+        Touhou Mugakudan -2--0: 290014
+        Touhou Mugakudan -2--1: 290015
+        Trip!-0: 290358
+        Trip!-1: 290359
+        Tsubasa no Oreta Tenshitachi no Requiem-0: 290880
+        Tsubasa no Oreta Tenshitachi no Requiem-1: 290881
+        Tsuki ni Murakumo Hana ni Kaze-0: 290332
+        Tsuki ni Murakumo Hana ni Kaze-1: 290333
+        Tsukuyomi-0: 290708
+        Tsukuyomi-1: 290709
+        Tu Hua-0: 290218
+        Tu Hua-1: 290219
+        Two Phace-0: 290872
+        Two Phace-1: 290873
+        U.A.D-0: 290418
+        U.A.D-1: 290419
+        ULTRA MEGA HAPPY PARTY!!!-0: 290756
+        ULTRA MEGA HAPPY PARTY!!!-1: 290757
+        Ueta Tori Tachi-0: 290816
+        Ueta Tori Tachi-1: 290817
+        Ukiyoe Yokochou-0: 290968
+        Ukiyoe Yokochou-1: 290969
+        Ultra Happy Miracle Bazoooooka!!-0: 290690
+        Ultra Happy Miracle Bazoooooka!!-1: 290691
+        Unconscious Requiem-0: 290484
+        Unconscious Requiem-1: 290485
+        Unlimited Katharsis-0: 290800
+        Unlimited Katharsis-1: 290801
+        Valsqotch-0: 290276
+        Valsqotch-1: 290277
+        Variant Cross-0: 290688
+        Variant Cross-1: 290689
+        Virtual Idol Production-0: 290022
+        Virtual Idol Production-1: 290023
+        WACCA Horizon-0: 290034
+        WACCA Horizon-1: 290035
+        Whatcha;Whatcha Doin'-0: 290610
+        Whatcha;Whatcha Doin'-1: 290611
+        White Canvas-0: 290344
+        White Canvas-1: 290345
+        Wonderful Pain-0: 290126
+        Wonderful Pain-1: 290127
+        XING-0: 290932
+        XING-1: 290933
+        XODUS-0: 290580
+        XODUS-1: 290581
+        Xin Shang Huahai-0: 290840
+        Xin Shang Huahai-1: 290841
+        Y CE Ver.-0: 290426
+        Y CE Ver.-1: 290427
+        YInMn Blue-0: 290764
+        YInMn Blue-1: 290765
+        Ying Ying da Zuozhan-0: 290470
+        Ying Ying da Zuozhan-1: 290471
+        Yosari Tsukibotaru Suminoborite-0: 290502
+        Yosari Tsukibotaru Suminoborite-1: 290503
+        You Make My Life 1UP-0: 290674
+        You Make My Life 1UP-1: 290675
+        Yuki no Shizuku Ame no Oto-0: 290144
+        Yuki no Shizuku Ame no Oto-1: 290145
+        bamboo-0: 290550
+        bamboo-1: 290551
+        c.s.q.n.-0: 290554
+        c.s.q.n.-1: 290555
+        can you feel it-0: 290238
+        can you feel it-1: 290239
+        conflict-0: 290928
+        conflict-1: 290929
+        cyTus-0: 290056
+        cyTus-1: 290057
+        daydream girl-0: 290370
+        daydream girl-1: 290371
+        don't!stop!eroero!-0: 290250
+        don't!stop!eroero!-1: 290251
+        enchanted love-0: 290552
+        enchanted love-1: 290553
+        energy night-0: 290792
+        energy night-1: 290793
+        glory day-0: 290406
+        glory day-1: 290407
+        happy hour-0: 290512
+        happy hour-1: 290513
+        heterodoxy-0: 290638
+        heterodoxy-1: 290639
+        irregulyze-0: 290184
+        irregulyze-1: 290185
+        keep on running-0: 290952
+        keep on running-1: 290953
+        kui-0: 290388
+        kui-1: 290389
+        maimai DX Limited-time Suite-0: 290004
+        maimai DX Limited-time Suite-1: 290005
+        marooned night-0: 290368
+        marooned night-1: 290369
+        midstream jam-0: 290164
+        midstream jam-1: 290165
+        nini-nini--0: 290666
+        nini-nini--1: 290667
+        ouroVoros-0: 290876
+        ouroVoros-1: 290877
+        ouroboros -twin stroke of the end--0: 290654
+        ouroboros -twin stroke of the end--1: 290655
+        pICARESq-0: 290614
+        pICARESq-1: 290615
+        pa pi pu pi pu pi pa-0: 290252
+        pa pi pu pi pu pi pa-1: 290253
+        prejudice-0: 290788
+        prejudice-1: 290789
+        sheep in the light-0: 290634
+        sheep in the light-1: 290635
+        snooze-0: 290266
+        snooze-1: 290267
+        tape/stop/night-0: 290692
+        tape/stop/night-1: 290693
+        tiny lady-0: 290862
+        tiny lady-1: 290863
+        trippers feeling!-0: 290898
+        trippers feeling!-1: 290899
+        twinkle night-0: 290516
+        twinkle night-1: 290517
+        umpopoff-0: 290224
+        umpopoff-1: 290225
+        un secret-0: 290662
+        un secret-1: 290663
+        with U-0: 290458
+        with U-1: 290459
       version: 0
     Risk of Rain 2:
       item_name_to_id:
-        Abandoned Aqueduct: 37717
-        Abyssal Depths: 37710
-        Aphelian Sanctuary: 37703
         Boss Item: 37005
-        Commencement: 37732
         Common Item: 37002
         Dio's Best Friend: 37001
-        Distant Roost: 37707
-        Distant Roost (2): 37708
         Equipment: 37007
-        'Hidden Realm: A Moment, Fractured': 37733
-        'Hidden Realm: A Moment, Whole': 37727
-        'Hidden Realm: Bazaar Between Time': 37706
-        'Hidden Realm: Bulwark''s Ambry': 37705
-        'Hidden Realm: Gilded Coast': 37714
         Item Scrap, Green: 37009
         Item Scrap, Red: 37010
         Item Scrap, White: 37008
         Item Scrap, Yellow: 37011
         Legendary Item: 37004
         Lunar Item: 37006
-        Rallypoint Delta: 37713
-        Scorched Acres: 37747
-        Siphoned Forest: 37739
-        Siren's Call: 37737
-        Sky Meadow: 37738
-        Sulfur Pools: 37741
-        Sundered Grove: 37735
-        The Planetarium: 37746
-        Titanic Plains: 37715
-        Titanic Plains (2): 37716
         Uncommon Item: 37003
-        Void Fields: 37704
-        Void Item: 37012
-        Void Locus: 37745
-        Wetland Aspect: 37712
       location_name_to_id:
-        'Abandoned Aqueduct: Chest 1': 38998
-        'Abandoned Aqueduct: Chest 10': 39007
-        'Abandoned Aqueduct: Chest 11': 39008
-        'Abandoned Aqueduct: Chest 12': 39009
-        'Abandoned Aqueduct: Chest 13': 39010
-        'Abandoned Aqueduct: Chest 14': 39011
-        'Abandoned Aqueduct: Chest 15': 39012
-        'Abandoned Aqueduct: Chest 16': 39013
-        'Abandoned Aqueduct: Chest 17': 39014
-        'Abandoned Aqueduct: Chest 18': 39015
-        'Abandoned Aqueduct: Chest 19': 39016
-        'Abandoned Aqueduct: Chest 2': 38999
-        'Abandoned Aqueduct: Chest 20': 39017
-        'Abandoned Aqueduct: Chest 3': 39000
-        'Abandoned Aqueduct: Chest 4': 39001
-        'Abandoned Aqueduct: Chest 5': 39002
-        'Abandoned Aqueduct: Chest 6': 39003
-        'Abandoned Aqueduct: Chest 7': 39004
-        'Abandoned Aqueduct: Chest 8': 39005
-        'Abandoned Aqueduct: Chest 9': 39006
-        'Abandoned Aqueduct: Newt Altar 1': 39040
-        'Abandoned Aqueduct: Newt Altar 2': 39041
-        'Abandoned Aqueduct: Radio Scanner 1': 39039
-        'Abandoned Aqueduct: Scavenger 1': 39038
-        'Abandoned Aqueduct: Shrine 1': 39018
-        'Abandoned Aqueduct: Shrine 10': 39027
-        'Abandoned Aqueduct: Shrine 11': 39028
-        'Abandoned Aqueduct: Shrine 12': 39029
-        'Abandoned Aqueduct: Shrine 13': 39030
-        'Abandoned Aqueduct: Shrine 14': 39031
-        'Abandoned Aqueduct: Shrine 15': 39032
-        'Abandoned Aqueduct: Shrine 16': 39033
-        'Abandoned Aqueduct: Shrine 17': 39034
-        'Abandoned Aqueduct: Shrine 18': 39035
-        'Abandoned Aqueduct: Shrine 19': 39036
-        'Abandoned Aqueduct: Shrine 2': 39019
-        'Abandoned Aqueduct: Shrine 20': 39037
-        'Abandoned Aqueduct: Shrine 3': 39020
-        'Abandoned Aqueduct: Shrine 4': 39021
-        'Abandoned Aqueduct: Shrine 5': 39022
-        'Abandoned Aqueduct: Shrine 6': 39023
-        'Abandoned Aqueduct: Shrine 7': 39024
-        'Abandoned Aqueduct: Shrine 8': 39025
-        'Abandoned Aqueduct: Shrine 9': 39026
-        'Abyssal Depths: Chest 1': 38690
-        'Abyssal Depths: Chest 10': 38699
-        'Abyssal Depths: Chest 11': 38700
-        'Abyssal Depths: Chest 12': 38701
-        'Abyssal Depths: Chest 13': 38702
-        'Abyssal Depths: Chest 14': 38703
-        'Abyssal Depths: Chest 15': 38704
-        'Abyssal Depths: Chest 16': 38705
-        'Abyssal Depths: Chest 17': 38706
-        'Abyssal Depths: Chest 18': 38707
-        'Abyssal Depths: Chest 19': 38708
-        'Abyssal Depths: Chest 2': 38691
-        'Abyssal Depths: Chest 20': 38709
-        'Abyssal Depths: Chest 3': 38692
-        'Abyssal Depths: Chest 4': 38693
-        'Abyssal Depths: Chest 5': 38694
-        'Abyssal Depths: Chest 6': 38695
-        'Abyssal Depths: Chest 7': 38696
-        'Abyssal Depths: Chest 8': 38697
-        'Abyssal Depths: Chest 9': 38698
-        'Abyssal Depths: Newt Altar 1': 38732
-        'Abyssal Depths: Newt Altar 2': 38733
-        'Abyssal Depths: Radio Scanner 1': 38731
-        'Abyssal Depths: Scavenger 1': 38730
-        'Abyssal Depths: Shrine 1': 38710
-        'Abyssal Depths: Shrine 10': 38719
-        'Abyssal Depths: Shrine 11': 38720
-        'Abyssal Depths: Shrine 12': 38721
-        'Abyssal Depths: Shrine 13': 38722
-        'Abyssal Depths: Shrine 14': 38723
-        'Abyssal Depths: Shrine 15': 38724
-        'Abyssal Depths: Shrine 16': 38725
-        'Abyssal Depths: Shrine 17': 38726
-        'Abyssal Depths: Shrine 18': 38727
-        'Abyssal Depths: Shrine 19': 38728
-        'Abyssal Depths: Shrine 2': 38711
-        'Abyssal Depths: Shrine 20': 38729
-        'Abyssal Depths: Shrine 3': 38712
-        'Abyssal Depths: Shrine 4': 38713
-        'Abyssal Depths: Shrine 5': 38714
-        'Abyssal Depths: Shrine 6': 38715
-        'Abyssal Depths: Shrine 7': 38716
-        'Abyssal Depths: Shrine 8': 38717
-        'Abyssal Depths: Shrine 9': 38718
-        'Aphelian Sanctuary: Chest 1': 38382
-        'Aphelian Sanctuary: Chest 10': 38391
-        'Aphelian Sanctuary: Chest 11': 38392
-        'Aphelian Sanctuary: Chest 12': 38393
-        'Aphelian Sanctuary: Chest 13': 38394
-        'Aphelian Sanctuary: Chest 14': 38395
-        'Aphelian Sanctuary: Chest 15': 38396
-        'Aphelian Sanctuary: Chest 16': 38397
-        'Aphelian Sanctuary: Chest 17': 38398
-        'Aphelian Sanctuary: Chest 18': 38399
-        'Aphelian Sanctuary: Chest 19': 38400
-        'Aphelian Sanctuary: Chest 2': 38383
-        'Aphelian Sanctuary: Chest 20': 38401
-        'Aphelian Sanctuary: Chest 3': 38384
-        'Aphelian Sanctuary: Chest 4': 38385
-        'Aphelian Sanctuary: Chest 5': 38386
-        'Aphelian Sanctuary: Chest 6': 38387
-        'Aphelian Sanctuary: Chest 7': 38388
-        'Aphelian Sanctuary: Chest 8': 38389
-        'Aphelian Sanctuary: Chest 9': 38390
-        'Aphelian Sanctuary: Newt Altar 1': 38424
-        'Aphelian Sanctuary: Newt Altar 2': 38425
-        'Aphelian Sanctuary: Radio Scanner 1': 38423
-        'Aphelian Sanctuary: Scavenger 1': 38422
-        'Aphelian Sanctuary: Shrine 1': 38402
-        'Aphelian Sanctuary: Shrine 10': 38411
-        'Aphelian Sanctuary: Shrine 11': 38412
-        'Aphelian Sanctuary: Shrine 12': 38413
-        'Aphelian Sanctuary: Shrine 13': 38414
-        'Aphelian Sanctuary: Shrine 14': 38415
-        'Aphelian Sanctuary: Shrine 15': 38416
-        'Aphelian Sanctuary: Shrine 16': 38417
-        'Aphelian Sanctuary: Shrine 17': 38418
-        'Aphelian Sanctuary: Shrine 18': 38419
-        'Aphelian Sanctuary: Shrine 19': 38420
-        'Aphelian Sanctuary: Shrine 2': 38403
-        'Aphelian Sanctuary: Shrine 20': 38421
-        'Aphelian Sanctuary: Shrine 3': 38404
-        'Aphelian Sanctuary: Shrine 4': 38405
-        'Aphelian Sanctuary: Shrine 5': 38406
-        'Aphelian Sanctuary: Shrine 6': 38407
-        'Aphelian Sanctuary: Shrine 7': 38408
-        'Aphelian Sanctuary: Shrine 8': 38409
-        'Aphelian Sanctuary: Shrine 9': 38410
-        'Distant Roost (2): Chest 1': 38602
-        'Distant Roost (2): Chest 10': 38611
-        'Distant Roost (2): Chest 11': 38612
-        'Distant Roost (2): Chest 12': 38613
-        'Distant Roost (2): Chest 13': 38614
-        'Distant Roost (2): Chest 14': 38615
-        'Distant Roost (2): Chest 15': 38616
-        'Distant Roost (2): Chest 16': 38617
-        'Distant Roost (2): Chest 17': 38618
-        'Distant Roost (2): Chest 18': 38619
-        'Distant Roost (2): Chest 19': 38620
-        'Distant Roost (2): Chest 2': 38603
-        'Distant Roost (2): Chest 20': 38621
-        'Distant Roost (2): Chest 3': 38604
-        'Distant Roost (2): Chest 4': 38605
-        'Distant Roost (2): Chest 5': 38606
-        'Distant Roost (2): Chest 6': 38607
-        'Distant Roost (2): Chest 7': 38608
-        'Distant Roost (2): Chest 8': 38609
-        'Distant Roost (2): Chest 9': 38610
-        'Distant Roost (2): Newt Altar 1': 38644
-        'Distant Roost (2): Newt Altar 2': 38645
-        'Distant Roost (2): Radio Scanner 1': 38643
-        'Distant Roost (2): Scavenger 1': 38642
-        'Distant Roost (2): Shrine 1': 38622
-        'Distant Roost (2): Shrine 10': 38631
-        'Distant Roost (2): Shrine 11': 38632
-        'Distant Roost (2): Shrine 12': 38633
-        'Distant Roost (2): Shrine 13': 38634
-        'Distant Roost (2): Shrine 14': 38635
-        'Distant Roost (2): Shrine 15': 38636
-        'Distant Roost (2): Shrine 16': 38637
-        'Distant Roost (2): Shrine 17': 38638
-        'Distant Roost (2): Shrine 18': 38639
-        'Distant Roost (2): Shrine 19': 38640
-        'Distant Roost (2): Shrine 2': 38623
-        'Distant Roost (2): Shrine 20': 38641
-        'Distant Roost (2): Shrine 3': 38624
-        'Distant Roost (2): Shrine 4': 38625
-        'Distant Roost (2): Shrine 5': 38626
-        'Distant Roost (2): Shrine 6': 38627
-        'Distant Roost (2): Shrine 7': 38628
-        'Distant Roost (2): Shrine 8': 38629
-        'Distant Roost (2): Shrine 9': 38630
-        'Distant Roost: Chest 1': 38558
-        'Distant Roost: Chest 10': 38567
-        'Distant Roost: Chest 11': 38568
-        'Distant Roost: Chest 12': 38569
-        'Distant Roost: Chest 13': 38570
-        'Distant Roost: Chest 14': 38571
-        'Distant Roost: Chest 15': 38572
-        'Distant Roost: Chest 16': 38573
-        'Distant Roost: Chest 17': 38574
-        'Distant Roost: Chest 18': 38575
-        'Distant Roost: Chest 19': 38576
-        'Distant Roost: Chest 2': 38559
-        'Distant Roost: Chest 20': 38577
-        'Distant Roost: Chest 3': 38560
-        'Distant Roost: Chest 4': 38561
-        'Distant Roost: Chest 5': 38562
-        'Distant Roost: Chest 6': 38563
-        'Distant Roost: Chest 7': 38564
-        'Distant Roost: Chest 8': 38565
-        'Distant Roost: Chest 9': 38566
-        'Distant Roost: Newt Altar 1': 38600
-        'Distant Roost: Newt Altar 2': 38601
-        'Distant Roost: Radio Scanner 1': 38599
-        'Distant Roost: Scavenger 1': 38598
-        'Distant Roost: Shrine 1': 38578
-        'Distant Roost: Shrine 10': 38587
-        'Distant Roost: Shrine 11': 38588
-        'Distant Roost: Shrine 12': 38589
-        'Distant Roost: Shrine 13': 38590
-        'Distant Roost: Shrine 14': 38591
-        'Distant Roost: Shrine 15': 38592
-        'Distant Roost: Shrine 16': 38593
-        'Distant Roost: Shrine 17': 38594
-        'Distant Roost: Shrine 18': 38595
-        'Distant Roost: Shrine 19': 38596
-        'Distant Roost: Shrine 2': 38579
-        'Distant Roost: Shrine 20': 38597
-        'Distant Roost: Shrine 3': 38580
-        'Distant Roost: Shrine 4': 38581
-        'Distant Roost: Shrine 5': 38582
-        'Distant Roost: Shrine 6': 38583
-        'Distant Roost: Shrine 7': 38584
-        'Distant Roost: Shrine 8': 38585
-        'Distant Roost: Shrine 9': 38586
-        ItemPickup1: 38000
-        ItemPickup10: 38009
-        ItemPickup100: 38099
-        ItemPickup101: 38100
-        ItemPickup102: 38101
-        ItemPickup103: 38102
-        ItemPickup104: 38103
-        ItemPickup105: 38104
-        ItemPickup106: 38105
-        ItemPickup107: 38106
-        ItemPickup108: 38107
-        ItemPickup109: 38108
-        ItemPickup11: 38010
-        ItemPickup110: 38109
-        ItemPickup111: 38110
-        ItemPickup112: 38111
-        ItemPickup113: 38112
-        ItemPickup114: 38113
-        ItemPickup115: 38114
-        ItemPickup116: 38115
-        ItemPickup117: 38116
-        ItemPickup118: 38117
-        ItemPickup119: 38118
-        ItemPickup12: 38011
-        ItemPickup120: 38119
-        ItemPickup121: 38120
-        ItemPickup122: 38121
-        ItemPickup123: 38122
-        ItemPickup124: 38123
-        ItemPickup125: 38124
-        ItemPickup126: 38125
-        ItemPickup127: 38126
-        ItemPickup128: 38127
-        ItemPickup129: 38128
-        ItemPickup13: 38012
-        ItemPickup130: 38129
-        ItemPickup131: 38130
-        ItemPickup132: 38131
-        ItemPickup133: 38132
-        ItemPickup134: 38133
-        ItemPickup135: 38134
-        ItemPickup136: 38135
-        ItemPickup137: 38136
-        ItemPickup138: 38137
-        ItemPickup139: 38138
-        ItemPickup14: 38013
-        ItemPickup140: 38139
-        ItemPickup141: 38140
-        ItemPickup142: 38141
-        ItemPickup143: 38142
-        ItemPickup144: 38143
-        ItemPickup145: 38144
-        ItemPickup146: 38145
-        ItemPickup147: 38146
-        ItemPickup148: 38147
-        ItemPickup149: 38148
-        ItemPickup15: 38014
-        ItemPickup150: 38149
-        ItemPickup151: 38150
-        ItemPickup152: 38151
-        ItemPickup153: 38152
-        ItemPickup154: 38153
-        ItemPickup155: 38154
-        ItemPickup156: 38155
-        ItemPickup157: 38156
-        ItemPickup158: 38157
-        ItemPickup159: 38158
-        ItemPickup16: 38015
-        ItemPickup160: 38159
-        ItemPickup161: 38160
-        ItemPickup162: 38161
-        ItemPickup163: 38162
-        ItemPickup164: 38163
-        ItemPickup165: 38164
-        ItemPickup166: 38165
-        ItemPickup167: 38166
-        ItemPickup168: 38167
-        ItemPickup169: 38168
-        ItemPickup17: 38016
-        ItemPickup170: 38169
-        ItemPickup171: 38170
-        ItemPickup172: 38171
-        ItemPickup173: 38172
-        ItemPickup174: 38173
-        ItemPickup175: 38174
-        ItemPickup176: 38175
-        ItemPickup177: 38176
-        ItemPickup178: 38177
-        ItemPickup179: 38178
-        ItemPickup18: 38017
-        ItemPickup180: 38179
-        ItemPickup181: 38180
-        ItemPickup182: 38181
-        ItemPickup183: 38182
-        ItemPickup184: 38183
-        ItemPickup185: 38184
-        ItemPickup186: 38185
-        ItemPickup187: 38186
-        ItemPickup188: 38187
-        ItemPickup189: 38188
-        ItemPickup19: 38018
-        ItemPickup190: 38189
-        ItemPickup191: 38190
-        ItemPickup192: 38191
-        ItemPickup193: 38192
-        ItemPickup194: 38193
-        ItemPickup195: 38194
-        ItemPickup196: 38195
-        ItemPickup197: 38196
-        ItemPickup198: 38197
-        ItemPickup199: 38198
-        ItemPickup2: 38001
-        ItemPickup20: 38019
-        ItemPickup200: 38199
-        ItemPickup201: 38200
-        ItemPickup202: 38201
-        ItemPickup203: 38202
-        ItemPickup204: 38203
-        ItemPickup205: 38204
-        ItemPickup206: 38205
-        ItemPickup207: 38206
-        ItemPickup208: 38207
-        ItemPickup209: 38208
-        ItemPickup21: 38020
-        ItemPickup210: 38209
-        ItemPickup211: 38210
-        ItemPickup212: 38211
-        ItemPickup213: 38212
-        ItemPickup214: 38213
-        ItemPickup215: 38214
-        ItemPickup216: 38215
-        ItemPickup217: 38216
-        ItemPickup218: 38217
-        ItemPickup219: 38218
-        ItemPickup22: 38021
-        ItemPickup220: 38219
-        ItemPickup221: 38220
-        ItemPickup222: 38221
-        ItemPickup223: 38222
-        ItemPickup224: 38223
-        ItemPickup225: 38224
-        ItemPickup226: 38225
-        ItemPickup227: 38226
-        ItemPickup228: 38227
-        ItemPickup229: 38228
-        ItemPickup23: 38022
-        ItemPickup230: 38229
-        ItemPickup231: 38230
-        ItemPickup232: 38231
-        ItemPickup233: 38232
-        ItemPickup234: 38233
-        ItemPickup235: 38234
-        ItemPickup236: 38235
-        ItemPickup237: 38236
-        ItemPickup238: 38237
-        ItemPickup239: 38238
-        ItemPickup24: 38023
-        ItemPickup240: 38239
-        ItemPickup241: 38240
-        ItemPickup242: 38241
-        ItemPickup243: 38242
-        ItemPickup244: 38243
-        ItemPickup245: 38244
-        ItemPickup246: 38245
-        ItemPickup247: 38246
-        ItemPickup248: 38247
-        ItemPickup249: 38248
-        ItemPickup25: 38024
-        ItemPickup250: 38249
-        ItemPickup26: 38025
-        ItemPickup27: 38026
-        ItemPickup28: 38027
-        ItemPickup29: 38028
-        ItemPickup3: 38002
-        ItemPickup30: 38029
-        ItemPickup31: 38030
-        ItemPickup32: 38031
-        ItemPickup33: 38032
-        ItemPickup34: 38033
-        ItemPickup35: 38034
-        ItemPickup36: 38035
-        ItemPickup37: 38036
-        ItemPickup38: 38037
-        ItemPickup39: 38038
-        ItemPickup4: 38003
-        ItemPickup40: 38039
-        ItemPickup41: 38040
-        ItemPickup42: 38041
-        ItemPickup43: 38042
-        ItemPickup44: 38043
-        ItemPickup45: 38044
-        ItemPickup46: 38045
-        ItemPickup47: 38046
-        ItemPickup48: 38047
-        ItemPickup49: 38048
-        ItemPickup5: 38004
-        ItemPickup50: 38049
-        ItemPickup51: 38050
-        ItemPickup52: 38051
-        ItemPickup53: 38052
-        ItemPickup54: 38053
-        ItemPickup55: 38054
-        ItemPickup56: 38055
-        ItemPickup57: 38056
-        ItemPickup58: 38057
-        ItemPickup59: 38058
-        ItemPickup6: 38005
-        ItemPickup60: 38059
-        ItemPickup61: 38060
-        ItemPickup62: 38061
-        ItemPickup63: 38062
-        ItemPickup64: 38063
-        ItemPickup65: 38064
-        ItemPickup66: 38065
-        ItemPickup67: 38066
-        ItemPickup68: 38067
-        ItemPickup69: 38068
-        ItemPickup7: 38006
-        ItemPickup70: 38069
-        ItemPickup71: 38070
-        ItemPickup72: 38071
-        ItemPickup73: 38072
-        ItemPickup74: 38073
-        ItemPickup75: 38074
-        ItemPickup76: 38075
-        ItemPickup77: 38076
-        ItemPickup78: 38077
-        ItemPickup79: 38078
-        ItemPickup8: 38007
-        ItemPickup80: 38079
-        ItemPickup81: 38080
-        ItemPickup82: 38081
-        ItemPickup83: 38082
-        ItemPickup84: 38083
-        ItemPickup85: 38084
-        ItemPickup86: 38085
-        ItemPickup87: 38086
-        ItemPickup88: 38087
-        ItemPickup89: 38088
-        ItemPickup9: 38008
-        ItemPickup90: 38089
-        ItemPickup91: 38090
-        ItemPickup92: 38091
-        ItemPickup93: 38092
-        ItemPickup94: 38093
-        ItemPickup95: 38094
-        ItemPickup96: 38095
-        ItemPickup97: 38096
-        ItemPickup98: 38097
-        ItemPickup99: 38098
-        'Rallypoint Delta: Chest 1': 38822
-        'Rallypoint Delta: Chest 10': 38831
-        'Rallypoint Delta: Chest 11': 38832
-        'Rallypoint Delta: Chest 12': 38833
-        'Rallypoint Delta: Chest 13': 38834
-        'Rallypoint Delta: Chest 14': 38835
-        'Rallypoint Delta: Chest 15': 38836
-        'Rallypoint Delta: Chest 16': 38837
-        'Rallypoint Delta: Chest 17': 38838
-        'Rallypoint Delta: Chest 18': 38839
-        'Rallypoint Delta: Chest 19': 38840
-        'Rallypoint Delta: Chest 2': 38823
-        'Rallypoint Delta: Chest 20': 38841
-        'Rallypoint Delta: Chest 3': 38824
-        'Rallypoint Delta: Chest 4': 38825
-        'Rallypoint Delta: Chest 5': 38826
-        'Rallypoint Delta: Chest 6': 38827
-        'Rallypoint Delta: Chest 7': 38828
-        'Rallypoint Delta: Chest 8': 38829
-        'Rallypoint Delta: Chest 9': 38830
-        'Rallypoint Delta: Newt Altar 1': 38864
-        'Rallypoint Delta: Newt Altar 2': 38865
-        'Rallypoint Delta: Radio Scanner 1': 38863
-        'Rallypoint Delta: Scavenger 1': 38862
-        'Rallypoint Delta: Shrine 1': 38842
-        'Rallypoint Delta: Shrine 10': 38851
-        'Rallypoint Delta: Shrine 11': 38852
-        'Rallypoint Delta: Shrine 12': 38853
-        'Rallypoint Delta: Shrine 13': 38854
-        'Rallypoint Delta: Shrine 14': 38855
-        'Rallypoint Delta: Shrine 15': 38856
-        'Rallypoint Delta: Shrine 16': 38857
-        'Rallypoint Delta: Shrine 17': 38858
-        'Rallypoint Delta: Shrine 18': 38859
-        'Rallypoint Delta: Shrine 19': 38860
-        'Rallypoint Delta: Shrine 2': 38843
-        'Rallypoint Delta: Shrine 20': 38861
-        'Rallypoint Delta: Shrine 3': 38844
-        'Rallypoint Delta: Shrine 4': 38845
-        'Rallypoint Delta: Shrine 5': 38846
-        'Rallypoint Delta: Shrine 6': 38847
-        'Rallypoint Delta: Shrine 7': 38848
-        'Rallypoint Delta: Shrine 8': 38849
-        'Rallypoint Delta: Shrine 9': 38850
-        'Scorched Acres: Chest 1': 40318
-        'Scorched Acres: Chest 10': 40327
-        'Scorched Acres: Chest 11': 40328
-        'Scorched Acres: Chest 12': 40329
-        'Scorched Acres: Chest 13': 40330
-        'Scorched Acres: Chest 14': 40331
-        'Scorched Acres: Chest 15': 40332
-        'Scorched Acres: Chest 16': 40333
-        'Scorched Acres: Chest 17': 40334
-        'Scorched Acres: Chest 18': 40335
-        'Scorched Acres: Chest 19': 40336
-        'Scorched Acres: Chest 2': 40319
-        'Scorched Acres: Chest 20': 40337
-        'Scorched Acres: Chest 3': 40320
-        'Scorched Acres: Chest 4': 40321
-        'Scorched Acres: Chest 5': 40322
-        'Scorched Acres: Chest 6': 40323
-        'Scorched Acres: Chest 7': 40324
-        'Scorched Acres: Chest 8': 40325
-        'Scorched Acres: Chest 9': 40326
-        'Scorched Acres: Newt Altar 1': 40360
-        'Scorched Acres: Newt Altar 2': 40361
-        'Scorched Acres: Radio Scanner 1': 40359
-        'Scorched Acres: Scavenger 1': 40358
-        'Scorched Acres: Shrine 1': 40338
-        'Scorched Acres: Shrine 10': 40347
-        'Scorched Acres: Shrine 11': 40348
-        'Scorched Acres: Shrine 12': 40349
-        'Scorched Acres: Shrine 13': 40350
-        'Scorched Acres: Shrine 14': 40351
-        'Scorched Acres: Shrine 15': 40352
-        'Scorched Acres: Shrine 16': 40353
-        'Scorched Acres: Shrine 17': 40354
-        'Scorched Acres: Shrine 18': 40355
-        'Scorched Acres: Shrine 19': 40356
-        'Scorched Acres: Shrine 2': 40339
-        'Scorched Acres: Shrine 20': 40357
-        'Scorched Acres: Shrine 3': 40340
-        'Scorched Acres: Shrine 4': 40341
-        'Scorched Acres: Shrine 5': 40342
-        'Scorched Acres: Shrine 6': 40343
-        'Scorched Acres: Shrine 7': 40344
-        'Scorched Acres: Shrine 8': 40345
-        'Scorched Acres: Shrine 9': 40346
-        'Siphoned Forest: Chest 1': 39966
-        'Siphoned Forest: Chest 10': 39975
-        'Siphoned Forest: Chest 11': 39976
-        'Siphoned Forest: Chest 12': 39977
-        'Siphoned Forest: Chest 13': 39978
-        'Siphoned Forest: Chest 14': 39979
-        'Siphoned Forest: Chest 15': 39980
-        'Siphoned Forest: Chest 16': 39981
-        'Siphoned Forest: Chest 17': 39982
-        'Siphoned Forest: Chest 18': 39983
-        'Siphoned Forest: Chest 19': 39984
-        'Siphoned Forest: Chest 2': 39967
-        'Siphoned Forest: Chest 20': 39985
-        'Siphoned Forest: Chest 3': 39968
-        'Siphoned Forest: Chest 4': 39969
-        'Siphoned Forest: Chest 5': 39970
-        'Siphoned Forest: Chest 6': 39971
-        'Siphoned Forest: Chest 7': 39972
-        'Siphoned Forest: Chest 8': 39973
-        'Siphoned Forest: Chest 9': 39974
-        'Siphoned Forest: Newt Altar 1': 40008
-        'Siphoned Forest: Newt Altar 2': 40009
-        'Siphoned Forest: Radio Scanner 1': 40007
-        'Siphoned Forest: Scavenger 1': 40006
-        'Siphoned Forest: Shrine 1': 39986
-        'Siphoned Forest: Shrine 10': 39995
-        'Siphoned Forest: Shrine 11': 39996
-        'Siphoned Forest: Shrine 12': 39997
-        'Siphoned Forest: Shrine 13': 39998
-        'Siphoned Forest: Shrine 14': 39999
-        'Siphoned Forest: Shrine 15': 40000
-        'Siphoned Forest: Shrine 16': 40001
-        'Siphoned Forest: Shrine 17': 40002
-        'Siphoned Forest: Shrine 18': 40003
-        'Siphoned Forest: Shrine 19': 40004
-        'Siphoned Forest: Shrine 2': 39987
-        'Siphoned Forest: Shrine 20': 40005
-        'Siphoned Forest: Shrine 3': 39988
-        'Siphoned Forest: Shrine 4': 39989
-        'Siphoned Forest: Shrine 5': 39990
-        'Siphoned Forest: Shrine 6': 39991
-        'Siphoned Forest: Shrine 7': 39992
-        'Siphoned Forest: Shrine 8': 39993
-        'Siphoned Forest: Shrine 9': 39994
-        'Siren''s Call: Chest 1': 39878
-        'Siren''s Call: Chest 10': 39887
-        'Siren''s Call: Chest 11': 39888
-        'Siren''s Call: Chest 12': 39889
-        'Siren''s Call: Chest 13': 39890
-        'Siren''s Call: Chest 14': 39891
-        'Siren''s Call: Chest 15': 39892
-        'Siren''s Call: Chest 16': 39893
-        'Siren''s Call: Chest 17': 39894
-        'Siren''s Call: Chest 18': 39895
-        'Siren''s Call: Chest 19': 39896
-        'Siren''s Call: Chest 2': 39879
-        'Siren''s Call: Chest 20': 39897
-        'Siren''s Call: Chest 3': 39880
-        'Siren''s Call: Chest 4': 39881
-        'Siren''s Call: Chest 5': 39882
-        'Siren''s Call: Chest 6': 39883
-        'Siren''s Call: Chest 7': 39884
-        'Siren''s Call: Chest 8': 39885
-        'Siren''s Call: Chest 9': 39886
-        'Siren''s Call: Newt Altar 1': 39920
-        'Siren''s Call: Newt Altar 2': 39921
-        'Siren''s Call: Radio Scanner 1': 39919
-        'Siren''s Call: Scavenger 1': 39918
-        'Siren''s Call: Shrine 1': 39898
-        'Siren''s Call: Shrine 10': 39907
-        'Siren''s Call: Shrine 11': 39908
-        'Siren''s Call: Shrine 12': 39909
-        'Siren''s Call: Shrine 13': 39910
-        'Siren''s Call: Shrine 14': 39911
-        'Siren''s Call: Shrine 15': 39912
-        'Siren''s Call: Shrine 16': 39913
-        'Siren''s Call: Shrine 17': 39914
-        'Siren''s Call: Shrine 18': 39915
-        'Siren''s Call: Shrine 19': 39916
-        'Siren''s Call: Shrine 2': 39899
-        'Siren''s Call: Shrine 20': 39917
-        'Siren''s Call: Shrine 3': 39900
-        'Siren''s Call: Shrine 4': 39901
-        'Siren''s Call: Shrine 5': 39902
-        'Siren''s Call: Shrine 6': 39903
-        'Siren''s Call: Shrine 7': 39904
-        'Siren''s Call: Shrine 8': 39905
-        'Siren''s Call: Shrine 9': 39906
-        'Sky Meadow: Chest 1': 39922
-        'Sky Meadow: Chest 10': 39931
-        'Sky Meadow: Chest 11': 39932
-        'Sky Meadow: Chest 12': 39933
-        'Sky Meadow: Chest 13': 39934
-        'Sky Meadow: Chest 14': 39935
-        'Sky Meadow: Chest 15': 39936
-        'Sky Meadow: Chest 16': 39937
-        'Sky Meadow: Chest 17': 39938
-        'Sky Meadow: Chest 18': 39939
-        'Sky Meadow: Chest 19': 39940
-        'Sky Meadow: Chest 2': 39923
-        'Sky Meadow: Chest 20': 39941
-        'Sky Meadow: Chest 3': 39924
-        'Sky Meadow: Chest 4': 39925
-        'Sky Meadow: Chest 5': 39926
-        'Sky Meadow: Chest 6': 39927
-        'Sky Meadow: Chest 7': 39928
-        'Sky Meadow: Chest 8': 39929
-        'Sky Meadow: Chest 9': 39930
-        'Sky Meadow: Newt Altar 1': 39964
-        'Sky Meadow: Newt Altar 2': 39965
-        'Sky Meadow: Radio Scanner 1': 39963
-        'Sky Meadow: Scavenger 1': 39962
-        'Sky Meadow: Shrine 1': 39942
-        'Sky Meadow: Shrine 10': 39951
-        'Sky Meadow: Shrine 11': 39952
-        'Sky Meadow: Shrine 12': 39953
-        'Sky Meadow: Shrine 13': 39954
-        'Sky Meadow: Shrine 14': 39955
-        'Sky Meadow: Shrine 15': 39956
-        'Sky Meadow: Shrine 16': 39957
-        'Sky Meadow: Shrine 17': 39958
-        'Sky Meadow: Shrine 18': 39959
-        'Sky Meadow: Shrine 19': 39960
-        'Sky Meadow: Shrine 2': 39943
-        'Sky Meadow: Shrine 20': 39961
-        'Sky Meadow: Shrine 3': 39944
-        'Sky Meadow: Shrine 4': 39945
-        'Sky Meadow: Shrine 5': 39946
-        'Sky Meadow: Shrine 6': 39947
-        'Sky Meadow: Shrine 7': 39948
-        'Sky Meadow: Shrine 8': 39949
-        'Sky Meadow: Shrine 9': 39950
-        'Sulfur Pools: Chest 1': 40054
-        'Sulfur Pools: Chest 10': 40063
-        'Sulfur Pools: Chest 11': 40064
-        'Sulfur Pools: Chest 12': 40065
-        'Sulfur Pools: Chest 13': 40066
-        'Sulfur Pools: Chest 14': 40067
-        'Sulfur Pools: Chest 15': 40068
-        'Sulfur Pools: Chest 16': 40069
-        'Sulfur Pools: Chest 17': 40070
-        'Sulfur Pools: Chest 18': 40071
-        'Sulfur Pools: Chest 19': 40072
-        'Sulfur Pools: Chest 2': 40055
-        'Sulfur Pools: Chest 20': 40073
-        'Sulfur Pools: Chest 3': 40056
-        'Sulfur Pools: Chest 4': 40057
-        'Sulfur Pools: Chest 5': 40058
-        'Sulfur Pools: Chest 6': 40059
-        'Sulfur Pools: Chest 7': 40060
-        'Sulfur Pools: Chest 8': 40061
-        'Sulfur Pools: Chest 9': 40062
-        'Sulfur Pools: Newt Altar 1': 40096
-        'Sulfur Pools: Newt Altar 2': 40097
-        'Sulfur Pools: Radio Scanner 1': 40095
-        'Sulfur Pools: Scavenger 1': 40094
-        'Sulfur Pools: Shrine 1': 40074
-        'Sulfur Pools: Shrine 10': 40083
-        'Sulfur Pools: Shrine 11': 40084
-        'Sulfur Pools: Shrine 12': 40085
-        'Sulfur Pools: Shrine 13': 40086
-        'Sulfur Pools: Shrine 14': 40087
-        'Sulfur Pools: Shrine 15': 40088
-        'Sulfur Pools: Shrine 16': 40089
-        'Sulfur Pools: Shrine 17': 40090
-        'Sulfur Pools: Shrine 18': 40091
-        'Sulfur Pools: Shrine 19': 40092
-        'Sulfur Pools: Shrine 2': 40075
-        'Sulfur Pools: Shrine 20': 40093
-        'Sulfur Pools: Shrine 3': 40076
-        'Sulfur Pools: Shrine 4': 40077
-        'Sulfur Pools: Shrine 5': 40078
-        'Sulfur Pools: Shrine 6': 40079
-        'Sulfur Pools: Shrine 7': 40080
-        'Sulfur Pools: Shrine 8': 40081
-        'Sulfur Pools: Shrine 9': 40082
-        'Sundered Grove: Chest 1': 39790
-        'Sundered Grove: Chest 10': 39799
-        'Sundered Grove: Chest 11': 39800
-        'Sundered Grove: Chest 12': 39801
-        'Sundered Grove: Chest 13': 39802
-        'Sundered Grove: Chest 14': 39803
-        'Sundered Grove: Chest 15': 39804
-        'Sundered Grove: Chest 16': 39805
-        'Sundered Grove: Chest 17': 39806
-        'Sundered Grove: Chest 18': 39807
-        'Sundered Grove: Chest 19': 39808
-        'Sundered Grove: Chest 2': 39791
-        'Sundered Grove: Chest 20': 39809
-        'Sundered Grove: Chest 3': 39792
-        'Sundered Grove: Chest 4': 39793
-        'Sundered Grove: Chest 5': 39794
-        'Sundered Grove: Chest 6': 39795
-        'Sundered Grove: Chest 7': 39796
-        'Sundered Grove: Chest 8': 39797
-        'Sundered Grove: Chest 9': 39798
-        'Sundered Grove: Newt Altar 1': 39832
-        'Sundered Grove: Newt Altar 2': 39833
-        'Sundered Grove: Radio Scanner 1': 39831
-        'Sundered Grove: Scavenger 1': 39830
-        'Sundered Grove: Shrine 1': 39810
-        'Sundered Grove: Shrine 10': 39819
-        'Sundered Grove: Shrine 11': 39820
-        'Sundered Grove: Shrine 12': 39821
-        'Sundered Grove: Shrine 13': 39822
-        'Sundered Grove: Shrine 14': 39823
-        'Sundered Grove: Shrine 15': 39824
-        'Sundered Grove: Shrine 16': 39825
-        'Sundered Grove: Shrine 17': 39826
-        'Sundered Grove: Shrine 18': 39827
-        'Sundered Grove: Shrine 19': 39828
-        'Sundered Grove: Shrine 2': 39811
-        'Sundered Grove: Shrine 20': 39829
-        'Sundered Grove: Shrine 3': 39812
-        'Sundered Grove: Shrine 4': 39813
-        'Sundered Grove: Shrine 5': 39814
-        'Sundered Grove: Shrine 6': 39815
-        'Sundered Grove: Shrine 7': 39816
-        'Sundered Grove: Shrine 8': 39817
-        'Sundered Grove: Shrine 9': 39818
-        'Titanic Plains (2): Chest 1': 38954
-        'Titanic Plains (2): Chest 10': 38963
-        'Titanic Plains (2): Chest 11': 38964
-        'Titanic Plains (2): Chest 12': 38965
-        'Titanic Plains (2): Chest 13': 38966
-        'Titanic Plains (2): Chest 14': 38967
-        'Titanic Plains (2): Chest 15': 38968
-        'Titanic Plains (2): Chest 16': 38969
-        'Titanic Plains (2): Chest 17': 38970
-        'Titanic Plains (2): Chest 18': 38971
-        'Titanic Plains (2): Chest 19': 38972
-        'Titanic Plains (2): Chest 2': 38955
-        'Titanic Plains (2): Chest 20': 38973
-        'Titanic Plains (2): Chest 3': 38956
-        'Titanic Plains (2): Chest 4': 38957
-        'Titanic Plains (2): Chest 5': 38958
-        'Titanic Plains (2): Chest 6': 38959
-        'Titanic Plains (2): Chest 7': 38960
-        'Titanic Plains (2): Chest 8': 38961
-        'Titanic Plains (2): Chest 9': 38962
-        'Titanic Plains (2): Newt Altar 1': 38996
-        'Titanic Plains (2): Newt Altar 2': 38997
-        'Titanic Plains (2): Radio Scanner 1': 38995
-        'Titanic Plains (2): Scavenger 1': 38994
-        'Titanic Plains (2): Shrine 1': 38974
-        'Titanic Plains (2): Shrine 10': 38983
-        'Titanic Plains (2): Shrine 11': 38984
-        'Titanic Plains (2): Shrine 12': 38985
-        'Titanic Plains (2): Shrine 13': 38986
-        'Titanic Plains (2): Shrine 14': 38987
-        'Titanic Plains (2): Shrine 15': 38988
-        'Titanic Plains (2): Shrine 16': 38989
-        'Titanic Plains (2): Shrine 17': 38990
-        'Titanic Plains (2): Shrine 18': 38991
-        'Titanic Plains (2): Shrine 19': 38992
-        'Titanic Plains (2): Shrine 2': 38975
-        'Titanic Plains (2): Shrine 20': 38993
-        'Titanic Plains (2): Shrine 3': 38976
-        'Titanic Plains (2): Shrine 4': 38977
-        'Titanic Plains (2): Shrine 5': 38978
-        'Titanic Plains (2): Shrine 6': 38979
-        'Titanic Plains (2): Shrine 7': 38980
-        'Titanic Plains (2): Shrine 8': 38981
-        'Titanic Plains (2): Shrine 9': 38982
-        'Titanic Plains: Chest 1': 38910
-        'Titanic Plains: Chest 10': 38919
-        'Titanic Plains: Chest 11': 38920
-        'Titanic Plains: Chest 12': 38921
-        'Titanic Plains: Chest 13': 38922
-        'Titanic Plains: Chest 14': 38923
-        'Titanic Plains: Chest 15': 38924
-        'Titanic Plains: Chest 16': 38925
-        'Titanic Plains: Chest 17': 38926
-        'Titanic Plains: Chest 18': 38927
-        'Titanic Plains: Chest 19': 38928
-        'Titanic Plains: Chest 2': 38911
-        'Titanic Plains: Chest 20': 38929
-        'Titanic Plains: Chest 3': 38912
-        'Titanic Plains: Chest 4': 38913
-        'Titanic Plains: Chest 5': 38914
-        'Titanic Plains: Chest 6': 38915
-        'Titanic Plains: Chest 7': 38916
-        'Titanic Plains: Chest 8': 38917
-        'Titanic Plains: Chest 9': 38918
-        'Titanic Plains: Newt Altar 1': 38952
-        'Titanic Plains: Newt Altar 2': 38953
-        'Titanic Plains: Radio Scanner 1': 38951
-        'Titanic Plains: Scavenger 1': 38950
-        'Titanic Plains: Shrine 1': 38930
-        'Titanic Plains: Shrine 10': 38939
-        'Titanic Plains: Shrine 11': 38940
-        'Titanic Plains: Shrine 12': 38941
-        'Titanic Plains: Shrine 13': 38942
-        'Titanic Plains: Shrine 14': 38943
-        'Titanic Plains: Shrine 15': 38944
-        'Titanic Plains: Shrine 16': 38945
-        'Titanic Plains: Shrine 17': 38946
-        'Titanic Plains: Shrine 18': 38947
-        'Titanic Plains: Shrine 19': 38948
-        'Titanic Plains: Shrine 2': 38931
-        'Titanic Plains: Shrine 20': 38949
-        'Titanic Plains: Shrine 3': 38932
-        'Titanic Plains: Shrine 4': 38933
-        'Titanic Plains: Shrine 5': 38934
-        'Titanic Plains: Shrine 6': 38935
-        'Titanic Plains: Shrine 7': 38936
-        'Titanic Plains: Shrine 8': 38937
-        'Titanic Plains: Shrine 9': 38938
-        'Wetland Aspect: Chest 1': 38778
-        'Wetland Aspect: Chest 10': 38787
-        'Wetland Aspect: Chest 11': 38788
-        'Wetland Aspect: Chest 12': 38789
-        'Wetland Aspect: Chest 13': 38790
-        'Wetland Aspect: Chest 14': 38791
-        'Wetland Aspect: Chest 15': 38792
-        'Wetland Aspect: Chest 16': 38793
-        'Wetland Aspect: Chest 17': 38794
-        'Wetland Aspect: Chest 18': 38795
-        'Wetland Aspect: Chest 19': 38796
-        'Wetland Aspect: Chest 2': 38779
-        'Wetland Aspect: Chest 20': 38797
-        'Wetland Aspect: Chest 3': 38780
-        'Wetland Aspect: Chest 4': 38781
-        'Wetland Aspect: Chest 5': 38782
-        'Wetland Aspect: Chest 6': 38783
-        'Wetland Aspect: Chest 7': 38784
-        'Wetland Aspect: Chest 8': 38785
-        'Wetland Aspect: Chest 9': 38786
-        'Wetland Aspect: Newt Altar 1': 38820
-        'Wetland Aspect: Newt Altar 2': 38821
-        'Wetland Aspect: Radio Scanner 1': 38819
-        'Wetland Aspect: Scavenger 1': 38818
-        'Wetland Aspect: Shrine 1': 38798
-        'Wetland Aspect: Shrine 10': 38807
-        'Wetland Aspect: Shrine 11': 38808
-        'Wetland Aspect: Shrine 12': 38809
-        'Wetland Aspect: Shrine 13': 38810
-        'Wetland Aspect: Shrine 14': 38811
-        'Wetland Aspect: Shrine 15': 38812
-        'Wetland Aspect: Shrine 16': 38813
-        'Wetland Aspect: Shrine 17': 38814
-        'Wetland Aspect: Shrine 18': 38815
-        'Wetland Aspect: Shrine 19': 38816
-        'Wetland Aspect: Shrine 2': 38799
-        'Wetland Aspect: Shrine 20': 38817
-        'Wetland Aspect: Shrine 3': 38800
-        'Wetland Aspect: Shrine 4': 38801
-        'Wetland Aspect: Shrine 5': 38802
-        'Wetland Aspect: Shrine 6': 38803
-        'Wetland Aspect: Shrine 7': 38804
-        'Wetland Aspect: Shrine 8': 38805
-        'Wetland Aspect: Shrine 9': 38806
-      version: 0
+        ItemPickup1: 37000
+        ItemPickup10: 37009
+        ItemPickup100: 37099
+        ItemPickup101: 37100
+        ItemPickup102: 37101
+        ItemPickup103: 37102
+        ItemPickup104: 37103
+        ItemPickup105: 37104
+        ItemPickup106: 37105
+        ItemPickup107: 37106
+        ItemPickup108: 37107
+        ItemPickup109: 37108
+        ItemPickup11: 37010
+        ItemPickup110: 37109
+        ItemPickup111: 37110
+        ItemPickup112: 37111
+        ItemPickup113: 37112
+        ItemPickup114: 37113
+        ItemPickup115: 37114
+        ItemPickup116: 37115
+        ItemPickup117: 37116
+        ItemPickup118: 37117
+        ItemPickup119: 37118
+        ItemPickup12: 37011
+        ItemPickup120: 37119
+        ItemPickup121: 37120
+        ItemPickup122: 37121
+        ItemPickup123: 37122
+        ItemPickup124: 37123
+        ItemPickup125: 37124
+        ItemPickup126: 37125
+        ItemPickup127: 37126
+        ItemPickup128: 37127
+        ItemPickup129: 37128
+        ItemPickup13: 37012
+        ItemPickup130: 37129
+        ItemPickup131: 37130
+        ItemPickup132: 37131
+        ItemPickup133: 37132
+        ItemPickup134: 37133
+        ItemPickup135: 37134
+        ItemPickup136: 37135
+        ItemPickup137: 37136
+        ItemPickup138: 37137
+        ItemPickup139: 37138
+        ItemPickup14: 37013
+        ItemPickup140: 37139
+        ItemPickup141: 37140
+        ItemPickup142: 37141
+        ItemPickup143: 37142
+        ItemPickup144: 37143
+        ItemPickup145: 37144
+        ItemPickup146: 37145
+        ItemPickup147: 37146
+        ItemPickup148: 37147
+        ItemPickup149: 37148
+        ItemPickup15: 37014
+        ItemPickup150: 37149
+        ItemPickup151: 37150
+        ItemPickup152: 37151
+        ItemPickup153: 37152
+        ItemPickup154: 37153
+        ItemPickup155: 37154
+        ItemPickup156: 37155
+        ItemPickup157: 37156
+        ItemPickup158: 37157
+        ItemPickup159: 37158
+        ItemPickup16: 37015
+        ItemPickup160: 37159
+        ItemPickup161: 37160
+        ItemPickup162: 37161
+        ItemPickup163: 37162
+        ItemPickup164: 37163
+        ItemPickup165: 37164
+        ItemPickup166: 37165
+        ItemPickup167: 37166
+        ItemPickup168: 37167
+        ItemPickup169: 37168
+        ItemPickup17: 37016
+        ItemPickup170: 37169
+        ItemPickup171: 37170
+        ItemPickup172: 37171
+        ItemPickup173: 37172
+        ItemPickup174: 37173
+        ItemPickup175: 37174
+        ItemPickup176: 37175
+        ItemPickup177: 37176
+        ItemPickup178: 37177
+        ItemPickup179: 37178
+        ItemPickup18: 37017
+        ItemPickup180: 37179
+        ItemPickup181: 37180
+        ItemPickup182: 37181
+        ItemPickup183: 37182
+        ItemPickup184: 37183
+        ItemPickup185: 37184
+        ItemPickup186: 37185
+        ItemPickup187: 37186
+        ItemPickup188: 37187
+        ItemPickup189: 37188
+        ItemPickup19: 37018
+        ItemPickup190: 37189
+        ItemPickup191: 37190
+        ItemPickup192: 37191
+        ItemPickup193: 37192
+        ItemPickup194: 37193
+        ItemPickup195: 37194
+        ItemPickup196: 37195
+        ItemPickup197: 37196
+        ItemPickup198: 37197
+        ItemPickup199: 37198
+        ItemPickup2: 37001
+        ItemPickup20: 37019
+        ItemPickup200: 37199
+        ItemPickup201: 37200
+        ItemPickup202: 37201
+        ItemPickup203: 37202
+        ItemPickup204: 37203
+        ItemPickup205: 37204
+        ItemPickup206: 37205
+        ItemPickup207: 37206
+        ItemPickup208: 37207
+        ItemPickup209: 37208
+        ItemPickup21: 37020
+        ItemPickup210: 37209
+        ItemPickup211: 37210
+        ItemPickup212: 37211
+        ItemPickup213: 37212
+        ItemPickup214: 37213
+        ItemPickup215: 37214
+        ItemPickup216: 37215
+        ItemPickup217: 37216
+        ItemPickup218: 37217
+        ItemPickup219: 37218
+        ItemPickup22: 37021
+        ItemPickup220: 37219
+        ItemPickup221: 37220
+        ItemPickup222: 37221
+        ItemPickup223: 37222
+        ItemPickup224: 37223
+        ItemPickup225: 37224
+        ItemPickup226: 37225
+        ItemPickup227: 37226
+        ItemPickup228: 37227
+        ItemPickup229: 37228
+        ItemPickup23: 37022
+        ItemPickup230: 37229
+        ItemPickup231: 37230
+        ItemPickup232: 37231
+        ItemPickup233: 37232
+        ItemPickup234: 37233
+        ItemPickup235: 37234
+        ItemPickup236: 37235
+        ItemPickup237: 37236
+        ItemPickup238: 37237
+        ItemPickup239: 37238
+        ItemPickup24: 37023
+        ItemPickup240: 37239
+        ItemPickup241: 37240
+        ItemPickup242: 37241
+        ItemPickup243: 37242
+        ItemPickup244: 37243
+        ItemPickup245: 37244
+        ItemPickup246: 37245
+        ItemPickup247: 37246
+        ItemPickup248: 37247
+        ItemPickup249: 37248
+        ItemPickup25: 37024
+        ItemPickup250: 37249
+        ItemPickup26: 37025
+        ItemPickup27: 37026
+        ItemPickup28: 37027
+        ItemPickup29: 37028
+        ItemPickup3: 37002
+        ItemPickup30: 37029
+        ItemPickup31: 37030
+        ItemPickup32: 37031
+        ItemPickup33: 37032
+        ItemPickup34: 37033
+        ItemPickup35: 37034
+        ItemPickup36: 37035
+        ItemPickup37: 37036
+        ItemPickup38: 37037
+        ItemPickup39: 37038
+        ItemPickup4: 37003
+        ItemPickup40: 37039
+        ItemPickup41: 37040
+        ItemPickup42: 37041
+        ItemPickup43: 37042
+        ItemPickup44: 37043
+        ItemPickup45: 37044
+        ItemPickup46: 37045
+        ItemPickup47: 37046
+        ItemPickup48: 37047
+        ItemPickup49: 37048
+        ItemPickup5: 37004
+        ItemPickup50: 37049
+        ItemPickup51: 37050
+        ItemPickup52: 37051
+        ItemPickup53: 37052
+        ItemPickup54: 37053
+        ItemPickup55: 37054
+        ItemPickup56: 37055
+        ItemPickup57: 37056
+        ItemPickup58: 37057
+        ItemPickup59: 37058
+        ItemPickup6: 37005
+        ItemPickup60: 37059
+        ItemPickup61: 37060
+        ItemPickup62: 37061
+        ItemPickup63: 37062
+        ItemPickup64: 37063
+        ItemPickup65: 37064
+        ItemPickup66: 37065
+        ItemPickup67: 37066
+        ItemPickup68: 37067
+        ItemPickup69: 37068
+        ItemPickup7: 37006
+        ItemPickup70: 37069
+        ItemPickup71: 37070
+        ItemPickup72: 37071
+        ItemPickup73: 37072
+        ItemPickup74: 37073
+        ItemPickup75: 37074
+        ItemPickup76: 37075
+        ItemPickup77: 37076
+        ItemPickup78: 37077
+        ItemPickup79: 37078
+        ItemPickup8: 37007
+        ItemPickup80: 37079
+        ItemPickup81: 37080
+        ItemPickup82: 37081
+        ItemPickup83: 37082
+        ItemPickup84: 37083
+        ItemPickup85: 37084
+        ItemPickup86: 37085
+        ItemPickup87: 37086
+        ItemPickup88: 37087
+        ItemPickup89: 37088
+        ItemPickup9: 37008
+        ItemPickup90: 37089
+        ItemPickup91: 37090
+        ItemPickup92: 37091
+        ItemPickup93: 37092
+        ItemPickup94: 37093
+        ItemPickup95: 37094
+        ItemPickup96: 37095
+        ItemPickup97: 37096
+        ItemPickup98: 37097
+        ItemPickup99: 37098
+      version: 4
     Stardew Valley:
       item_name_to_id:
         Adventurer's Guild: 717095
@@ -5094,3 +4430,400 @@ datapackage:
         Underworld Seal - Spike Wall: 11391031
         Wingsuit: 11390982
       version: 0
+    Timespinner:
+      item_name_to_id:
+        Advisor Hat: 1337008
+        Advisor Robe: 1337024
+        Alchemy Tools: 1337084
+        Ancient Coin: 1337043
+        Antidote: 1337065
+        Arm Cannon: 1337154
+        Aura Blast: 1337147
+        Aura Serpent: 1337156
+        Azure Stole: 1337042
+        Berry Pick-Mi-Up: 1337061
+        Berry Pick-Mi-Up+: 1337062
+        Bird Statue: 1337037
+        Biscuit: 1337072
+        Blade Orb: 1337132
+        Bleak Ring: 1337163
+        Blood Orb: 1337142
+        Blue Orb: 1337131
+        Bombardment: 1337160
+        Buckle Hat: 1337007
+        Captain's Cap: 1337011
+        Captain's Uniform: 1337027
+        Celestial Sash: 1337113
+        Chaos Blades: 1337157
+        Chaos Horn: 1337040
+        Chaos Rose: 1337066
+        Chaos Stole: 1337038
+        Cheveur Drumstick: 1337094
+        Cheveur Plume: 1337033
+        Cheveur au Vin: 1337076
+        Cheveux Breast: 1337097
+        Cheveux Feather: 1337099
+        Colossal Blade: 1337148
+        Colossal Hammer: 1337151
+        Combat Helmet: 1337010
+        Copper Breastplate: 1337020
+        Copper Helmet: 1337004
+        Corruption: 1337161
+        Crimson Vortex: 1337158
+        Dark Flames: 1337155
+        Demon: 1337054
+        Djinn Inferno: 1337159
+        Dragoon Armor: 1337022
+        Dragoon Helmet: 1337006
+        Dream Wisp: 1337068
+        Dusk Ring: 1337171
+        Economizer Ring: 1337170
+        Eel Meat: 1337096
+        Elevator Keycard: 1337125
+        Empire Crown: 1337013
+        Empire Orb: 1337140
+        Empress Cake: 1337082
+        Empress Robe: 1337029
+        Engineer Goggles: 1337002
+        Essence Crystal: 1337087
+        Eternal Brooch: 1337130
+        Eternal Coat: 1337031
+        Eternal Crown: 1337000
+        Ether: 1337056
+        Eye Orb: 1337141
+        Filigree Clasp: 1337041
+        Filigree Tea: 1337081
+        Fire Orb: 1337133
+        Food Synthesizer: 1337098
+        Forbidden Tome: 1337143
+        Fried Cheveur: 1337073
+        Frozen Spires: 1337152
+        Galaxy Earrings: 1337045
+        Galaxy Stone: 1337085
+        Gas Mask: 1337117
+        Gilded Egg: 1337048
+        Glass Pumpkin: 1337047
+        Goddess Brooch: 1337127
+        Gold Necklace: 1337089
+        Gold Ring: 1337088
+        Greed Brooch: 1337129
+        Griffin: 1337050
+        Gun Orb: 1337138
+        Herb: 1337090
+        Hi-Ether: 1337059
+        Hi-Potion: 1337058
+        Historical Documents: 1337103
+        Hope Ring: 1337178
+        Ice Orb: 1337136
+        Icicle Ring: 1337168
+        Infernal Flames: 1337149
+        Iron Orb: 1337135
+        Jerky: 1337071
+        Jewelry Box: 1337126
+        Kobo: 1337052
+        Lab Coat: 1337028
+        Lab Glasses: 1337012
+        Lachiemi Sun: 1337070
+        Leather Helmet: 1337003
+        Leather Jerkin: 1337019
+        Librarian Hat: 1337009
+        Librarian Robe: 1337025
+        Library Keycard V: 1337123
+        Lightwall: 1337162
+        MapReveal 0: 1337104
+        MapReveal 1: 1337105
+        MapReveal 2: 1337106
+        Max Aura: 1337180
+        Max HP: 1337179
+        Max Sand: 1337249
+        Merchant Crow: 1337051
+        Metal Wristband: 1337034
+        Meyef: 1337049
+        Midnight Cloak: 1337023
+        Military Armor: 1337026
+        Mind Refresh: 1337063
+        Mind Refresh ULTRA: 1337064
+        Mother o' Pearl: 1337036
+        Mushroom: 1337091
+        Nether Orb: 1337145
+        Nymph Hairband: 1337035
+        Oculus Ring: 1337173
+        Old Coat: 1337016
+        Orange Juice: 1337080
+        Pendulum: 1337039
+        PlaceHolderItem1: 1337069
+        Plasma Core: 1337101
+        Plasma Crystal: 1337092
+        Plasma Geyser: 1337150
+        Plasma IV Bag: 1337093
+        Plasma Orb: 1337134
+        Plump Maggot: 1337079
+        Pointy Hat: 1337005
+        Potion: 1337055
+        Princess Dress: 1337030
+        Pyro Ring: 1337165
+        Radiant Orb: 1337146
+        Rotten Tail: 1337083
+        Royal Casserole: 1337077
+        Royal Ring: 1337166
+        Sand Bottle: 1337060
+        Sand Vial: 1337057
+        Sanguine Ring: 1337174
+        "Saut\xE9ed Wyvern Tail": 1337074
+        Scythe Ring: 1337164
+        Security Keycard A: 1337119
+        Security Keycard B: 1337120
+        Security Keycard C: 1337121
+        Security Keycard D: 1337122
+        Security Vest: 1337018
+        Security Visor: 1337001
+        Selen's Bangle: 1337046
+        Shadow Seal: 1337177
+        Shattered Orb: 1337144
+        Shield Ring: 1337167
+        Shiny Rock: 1337044
+        Silence Ring: 1337176
+        Silver Ore: 1337102
+        Siren Ink: 1337100
+        Soul Scanner: 1337118
+        Spaghetti: 1337078
+        Sprite: 1337053
+        Star of Lachiem: 1337172
+        Storm Eye: 1337153
+        Succubus Hairpin: 1337114
+        Sun Ring: 1337175
+        Sunglasses: 1337015
+        Synthetic Plume: 1337032
+        Tablet: 1337124
+        Tailwind Ring: 1337169
+        Talaria Attachment: 1337115
+        Timespinner Gear 1: 1337109
+        Timespinner Gear 2: 1337110
+        Timespinner Gear 3: 1337111
+        Timespinner Spindle: 1337108
+        Timespinner Wheel: 1337107
+        Traveler's Cloak: 1337021
+        Trendy Jacket: 1337017
+        Twin Pyramid Key: 1337112
+        Umbra Orb: 1337139
+        Unagi Roll: 1337075
+        Viletian Crown: 1337014
+        Warp Shard: 1337067
+        Water Mask: 1337116
+        Wind Orb: 1337137
+        Wyrm Brooch: 1337128
+        Wyvern Tail: 1337095
+      location_name_to_id:
+        'Ancient Pyramid: Conviction guarded room': 1337247
+        'Ancient Pyramid: Nightmare Door chest': 1337236
+        'Ancient Pyramid: Pit secret room': 1337248
+        'Ancient Pyramid: Regret chest': 1337249
+        'Ancient Pyramid: Why not it''s right there': 1337246
+        'Castle Keep: Advisor jump': 1337171
+        'Castle Keep: Basement secret pedestal': 1337133
+        'Castle Keep: Clean the castle basement': 1337134
+        'Castle Keep: Giantess guarded chest': 1337136
+        'Castle Keep: Journal - Castle Loop Giantess (Political Advice)': 1337193
+        'Castle Keep: Journal - Under the Twins (Letter of Reference)': 1337192
+        'Castle Keep: Just an egg': 1337138
+        'Castle Keep: Omelette chest': 1337137
+        'Castle Keep: Royal guard tiny room': 1337141
+        'Castle Keep: Twins': 1337140
+        'Castle Keep: Under the twins': 1337139
+        'Castle Keep: Yas queen room': 1337135
+        'Castle Ramparts: Bomber chest': 1337128
+        'Castle Ramparts: Freeze the engineer': 1337129
+        'Castle Ramparts: Giantess guarded room': 1337130
+        'Castle Ramparts: In the moat': 1337097
+        'Castle Ramparts: Journal - Archer + Knight (Declaration of Independence)': 1337191
+        'Castle Ramparts: Journal - Floating in Moat (Prime Edicts)': 1337190
+        'Castle Ramparts: Knight and archer guarded room': 1337131
+        'Castle Ramparts: Pedestal': 1337132
+        'Caves of Banishment (Maw): Bottom left room': 1337114
+        'Caves of Banishment (Maw): Jackpot room chest 1': 1337116
+        'Caves of Banishment (Maw): Jackpot room chest 2': 1337117
+        'Caves of Banishment (Maw): Jackpot room chest 3': 1337118
+        'Caves of Banishment (Maw): Jackpot room chest 4': 1337119
+        'Caves of Banishment (Maw): Journal - Lower Left Caves (Naivety)': 1337198
+        'Caves of Banishment (Maw): Last chance before Maw': 1337121
+        'Caves of Banishment (Maw): Mineshaft': 1337122
+        'Caves of Banishment (Maw): Pedestal': 1337120
+        'Caves of Banishment (Maw): Plasma Crystal': 1337173
+        'Caves of Banishment (Maw): Secret room': 1337113
+        'Caves of Banishment (Maw): Shroom jump room': 1337112
+        'Caves of Banishment (Maw): Single shroom room': 1337115
+        'Caves of Banishment (Sirens): Siren room above water chest': 1337124
+        'Caves of Banishment (Sirens): Siren room underwater left chest': 1337125
+        'Caves of Banishment (Sirens): Siren room underwater right chest': 1337126
+        'Caves of Banishment (Sirens): Siren room underwater right ground': 1337172
+        'Caves of Banishment (Sirens): Water hook': 1337127
+        'Caves of Banishment (Sirens): Wyvern room': 1337123
+        'Emperor''s Tower: Bottom right tower': 1337081
+        'Emperor''s Tower: Courtyard bottom chest': 1337077
+        'Emperor''s Tower: Courtyard floor secret': 1337078
+        'Emperor''s Tower: Courtyard upper chest': 1337079
+        'Emperor''s Tower: Emperor''s Chambers chest': 1337084
+        'Emperor''s Tower: Emperor''s Chambers pedestal': 1337085
+        'Emperor''s Tower: Galactic sage room': 1337080
+        'Emperor''s Tower: Left tower balcony': 1337083
+        'Emperor''s Tower: Memory - Way Up There (Final Circle)': 1337187
+        'Emperor''s Tower: Wayyyy up there': 1337082
+        'Forest: Bat jump ledge': 1337091
+        'Forest: Batcave': 1337096
+        'Forest: Before Serene single bat cave': 1337098
+        'Forest: Green platform secret': 1337092
+        'Forest: Journal - Bat Jump Ledge (Peace Treaty)': 1337189
+        'Forest: Journal - Rats (Lachiem Expedition)': 1337188
+        'Forest: Rats guarded chest': 1337093
+        'Forest: Refugee camp roof': 1337090
+        'Forest: Waterfall chest 1': 1337094
+        'Forest: Waterfall chest 2': 1337095
+        'Ifrit: Post fight (chest)': 1337245
+        'Ifrit: Post fight (pedestal)': 1337238
+        'Ifrit: Pre fight': 1337244
+        'Lab: Below lab entrance': 1337069
+        'Lab: Coffee break': 1337066
+        'Lab: Download and chest room chest': 1337074
+        'Lab: Download and chest room terminal (Experiment #13)': 1337165
+        'Lab: Dynamo Works': 1337071
+        'Lab: Experiment #13': 1337073
+        'Lab: Experiment 13 terminal (W.R.E.C Farewell)': 1337168
+        'Lab: Genza (Blob Mom)': 1337072
+        'Lab: Lab secret': 1337075
+        'Lab: Left terminal (Biotechnology)': 1337169
+        'Lab: Lower trash left': 1337068
+        'Lab: Lower trash right': 1337067
+        'Lab: Memory - Genza''s Secret Stash 1 (An Old Friend)': 1337185
+        'Lab: Memory - Genza''s Secret Stash 2 (Twilight Dinner)': 1337186
+        'Lab: Middle terminal (Amadeus Laboratory Map)': 1337166
+        'Lab: Right terminal (Experiment #11)': 1337170
+        'Lab: Sentry platform terminal (Origins)': 1337167
+        'Lab: Spider Hell': 1337076
+        'Lab: Trash jump room': 1337070
+        'Lake Desolation (Lower): Chicken chest': 1337007
+        'Lake Desolation (Lower): Not so secret room': 1337008
+        'Lake Desolation (Lower): Timespinner Wheel room': 1337005
+        'Lake Desolation (Upper): Crash site chest 1': 1337016
+        'Lake Desolation (Upper): Crash site chest 2': 1337017
+        'Lake Desolation (Upper): Crash site pedestal': 1337015
+        'Lake Desolation (Upper): Double jump cave floor': 1337013
+        'Lake Desolation (Upper): Double jump cave platform': 1337012
+        'Lake Desolation (Upper): Oxygen recovery room': 1337010
+        'Lake Desolation (Upper): Secret room': 1337011
+        'Lake Desolation (Upper): Sparrow chest': 1337014
+        'Lake Desolation (Upper): Tank chest': 1337009
+        'Lake Desolation: Forget me not chest': 1337006
+        'Lake Desolation: Kitty Boss': 1337018
+        'Lake Desolation: Memory - Coyote Jump (Time Messenger)': 1337177
+        'Lake Desolation: Starter chest 1': 1337004
+        'Lake Desolation: Starter chest 2': 1337002
+        'Lake Desolation: Starter chest 3': 1337003
+        'Lake Serene (Lower): Deep dive': 1337105
+        'Lake Serene (Lower): Past the eels': 1337110
+        'Lake Serene (Lower): T chest': 1337109
+        'Lake Serene (Lower): Under the eels': 1337106
+        'Lake Serene (Lower): Underwater pedestal': 1337111
+        'Lake Serene (Lower): Underwater secret': 1337108
+        'Lake Serene (Lower): Water spikes room': 1337107
+        'Lake Serene (Upper): Cave secret': 1337102
+        'Lake Serene (Upper): Chicken ledge': 1337174
+        'Lake Serene (Upper): Double jump cave floor': 1337101
+        'Lake Serene (Upper): Double jump cave platform': 1337100
+        'Lake Serene (Upper): Rat nest': 1337099
+        'Lake Serene: Before Big Bird': 1337175
+        'Lake Serene: Behind the vines': 1337103
+        'Lake Serene: Cantoran': 1337176
+        'Lake Serene: Pyramid keys room': 1337104
+        'Library: Backer room chest 1': 1337030
+        'Library: Backer room chest 2': 1337029
+        'Library: Backer room chest 3': 1337028
+        'Library: Backer room chest 4': 1337027
+        'Library: Backer room chest 5': 1337026
+        'Library: Backer room terminal (Vandagray Metropolis Map)': 1337163
+        'Library: Basement': 1337019
+        'Library: Librarian': 1337021
+        'Library: Memory - Library Gap (Lachiemi Sun)': 1337179
+        'Library: Memory - Mr. Hat Portrait (Moonlit Night)': 1337180
+        'Library: Memory - Waterway (A Message)': 1337178
+        'Library: Reading nook chest': 1337022
+        'Library: Storage room chest 1': 1337023
+        'Library: Storage room chest 2': 1337024
+        'Library: Storage room chest 3': 1337025
+        'Library: Terminal 1 (Windaria)': 1337157
+        'Library: Terminal 2 (Lachiem)': 1337156
+        'Library: Terminal 3 (Emporer Nuvius)': 1337159
+        'Library: V terminal 1 (War of the Sisters)': 1337160
+        'Library: V terminal 2 (Lake Desolation Map)': 1337161
+        'Library: V terminal 3 (Vilete)': 1337162
+        'Library: Warp gate': 1337020
+        'Military Fortress: B door chest 1': 1337064
+        'Military Fortress: B door chest 2': 1337063
+        'Military Fortress: Bomber chest': 1337058
+        'Military Fortress: Close combat room': 1337059
+        'Military Fortress: Giantess bridge': 1337062
+        'Military Fortress: Giantess room': 1337061
+        'Military Fortress: Memory - Bomber Climb (A Solution)': 1337184
+        'Military Fortress: Pedestal': 1337065
+        'Military Fortress: Soldiers bridge': 1337060
+        'Ravenlord: Post fight (chest)': 1337243
+        'Ravenlord: Post fight (pedestal)': 1337237
+        'Ravenlord: Pre fight': 1337242
+        'Refugee Camp: Neliste''s Bra': 1337086
+        'Refugee Camp: Storage chest 1': 1337089
+        'Refugee Camp: Storage chest 2': 1337088
+        'Refugee Camp: Storage chest 3': 1337087
+        'Royal Towers: Aelana''s attic': 1337153
+        'Royal Towers: Aelana''s chest': 1337154
+        'Royal Towers: Aelana''s pedestal': 1337155
+        'Royal Towers: Before Aelana': 1337152
+        'Royal Towers: Bottom struggle juggle': 1337146
+        'Royal Towers: Floor secret': 1337142
+        'Royal Towers: Journal - Aelana Boss (Stained Letter)': 1337196
+        'Royal Towers: Journal - Aelana''s Room (Diplomatic Missive)': 1337194
+        'Royal Towers: Journal - Near Bottom Struggle Juggle (Mission Findings)': 1337197
+        'Royal Towers: Journal - Top Struggle Juggle Base (War of the Sisters)': 1337195
+        'Royal Towers: Left tower royal guard': 1337151
+        'Royal Towers: Left tower small balcony': 1337150
+        'Royal Towers: Long balcony': 1337144
+        'Royal Towers: No struggle required': 1337148
+        'Royal Towers: Past bottom struggle juggle': 1337145
+        'Royal Towers: Pre-climb gap': 1337143
+        'Royal Towers: Right tower freebie': 1337149
+        'Royal Towers: Top struggle juggle': 1337147
+        'Sealed Caves (Sirens): Cave after sirens chest 1': 1337056
+        'Sealed Caves (Sirens): Cave after sirens chest 2': 1337057
+        'Sealed Caves (Sirens): Siren room underwater left': 1337055
+        'Sealed Caves (Sirens): Siren room underwater right': 1337054
+        'Sealed Caves (Sirens): Water hook': 1337053
+        'Sealed Caves (Xarion): Below mini jackpot room': 1337048
+        'Sealed Caves (Xarion): Bottom left room': 1337050
+        'Sealed Caves (Xarion): Double shroom room': 1337046
+        'Sealed Caves (Xarion): Last chance before Xarion': 1337051
+        'Sealed Caves (Xarion): Mini jackpot room': 1337047
+        'Sealed Caves (Xarion): Secret room': 1337049
+        'Sealed Caves (Xarion): Shroom jump room': 1337045
+        'Sealed Caves (Xarion): Skeleton': 1337044
+        'Sealed Caves (Xarion): Xarion': 1337052
+        'Temporal Gyre: Chest 1': 1337239
+        'Temporal Gyre: Chest 2': 1337240
+        'Temporal Gyre: Chest 3': 1337241
+        'Tutorial: Yo Momma 1': 1337000
+        'Tutorial: Yo Momma 2': 1337001
+        'Varndagroth Towers (Left): Air vents secret': 1337034
+        'Varndagroth Towers (Left): Bottom floor': 1337033
+        'Varndagroth Towers (Left): Elevator Key not required': 1337031
+        'Varndagroth Towers (Left): Elevator chest': 1337035
+        'Varndagroth Towers (Left): Memory - Elevator (Nomads)': 1337181
+        'Varndagroth Towers (Left): Ye olde Timespinner': 1337032
+        'Varndagroth Towers (Right): Air vents left chest': 1337040
+        'Varndagroth Towers (Right): Air vents right chest': 1337039
+        'Varndagroth Towers (Right): Bottom floor': 1337041
+        'Varndagroth Towers (Right): Elevator card chest': 1337038
+        'Varndagroth Towers (Right): Elevator chest': 1337037
+        'Varndagroth Towers (Right): Medbay terminal (Bleakness Research)': 1337164
+        'Varndagroth Towers (Right): Memory - Bottom (Faron)': 1337183
+        'Varndagroth Towers (Right): Spider Hell': 1337043
+        'Varndagroth Towers (Right): Varndagroth': 1337042
+        'Varndagroth Towers: Bridge': 1337036
+        'Varndagroth Towers: Memory - Siren Elevator (Childhood)': 1337182
+      version: 10

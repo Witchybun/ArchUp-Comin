@@ -1,0 +1,1206 @@
+﻿[root at 2023-02-22 11:57:54,056]: Archipelago (0.3.9) logging initialized on Linux-6.1.12-x64v3-xanmod1-x86_64-with-glibc2.35 running Python 3.10.6
+[root at 2023-02-22 11:57:54,081]: Archipelago Version 0.3.9  -  Seed: 18408894831064393418
+
+[root at 2023-02-22 11:57:54,081]: Found World Types:
+[root at 2023-02-22 11:57:54,082]:  A Link to the Past             : 144 Items (IDs:         2 -       180) |  287 Locations (IDs:     59758 -   4194341)
+[root at 2023-02-22 11:57:54,082]:  Blasphemous                    : 200 Items (IDs:   1909000 -   1909199) |  304 Locations (IDs:   1909000 -   1909303)
+[root at 2023-02-22 11:57:54,082]:  ChecksFinder                   :   3 Items (IDs:     80000 -     80002) |   25 Locations (IDs:     81000 -     81024)
+[root at 2023-02-22 11:57:54,082]:  Castlevania 64                 :  30 Items (IDs:  12992514 -  12992553) |  218 Locations (IDs:  12992513 -  12992731)
+[root at 2023-02-22 11:57:54,082]:  Dark Souls III                 : 400 Items (IDs:    100000 -    100783) |  410 Locations (IDs:    100000 -    101873)
+[root at 2023-02-22 11:57:54,082]:  Donkey Kong Country 3          :   8 Items (IDs:  14430208 -  14430215) |  230 Locations (IDs:  14430208 -  14430618)
+[root at 2023-02-22 11:57:54,082]:  Factorio                       : 222 Items (IDs:    131070 -    131292) |  852 Locations (IDs:    131072 -    131960)
+[root at 2023-02-22 11:57:54,082]:  Final Fantasy                  : 194 Items (IDs:       256 -       500) |  255 Locations (IDs:       257 -       767)
+[root at 2023-02-22 11:57:54,082]:  Final Fantasy 6 Worlds Collide : 297 Items (IDs:      6000 -      6296) |  331 Locations (IDs:      6000 -      6330)
+[root at 2023-02-22 11:57:54,082]:  FFPS                           :  62 Items (IDs:     55500 -     55656) |   70 Locations (IDs:     57500 -     57569)
+[root at 2023-02-22 11:57:54,082]:  Hollow Knight                  : 249 Items (IDs:  16777216 -  16777464) |  740 Locations (IDs:  16777216 -  16777955)
+[root at 2023-02-22 11:57:54,082]:  Hylics 2                       :  70 Items (IDs:    200622 -    200692) |  163 Locations (IDs:    200622 -    200784)
+[root at 2023-02-22 11:57:54,082]:  Kingdom Hearts 2               : 297 Items (IDs:   1245184 -   1245480) |  727 Locations (IDs:   1245184 -   1245915)
+[root at 2023-02-22 11:57:54,083]:  Links Awakening DX             : 117 Items (IDs:  10000000 -  10000164) |  255 Locations (IDs:  10000000 -  10003673)
+[root at 2023-02-22 11:57:54,083]:  Lufia II Ancient Cave          : 405 Items (IDs:  11272193 -  11304994) |   88 Locations (IDs:  11272192 -  11272279)
+[root at 2023-02-22 11:57:54,083]:  Meritous                       :  23 Items (IDs:    593000 -    593022) |  104 Locations (IDs:    593000 -    593103)
+[root at 2023-02-22 11:57:54,083]:  The Messenger                  :  24 Items (IDs:  11390976 -  11390999) |   69 Locations (IDs:  11390976 -  11391044)
+[root at 2023-02-22 11:57:54,083]:  Minecraft                      :  46 Items (IDs:     45000 -     45100) |  114 Locations (IDs:     42000 -     42113)
+[root at 2023-02-22 11:57:54,083]:  MegaMan Battle Network 3       : 221 Items (IDs:  11735040 -  11735262) |  259 Locations (IDs:  11735040 -  11735309)
+[root at 2023-02-22 11:57:54,083]:  Muse Dash                      : 487 Items (IDs:    290000 -    290486) |  972 Locations (IDs:    290000 -    290971)
+[root at 2023-02-22 11:57:54,083]:  Ocarina of Time                : 143 Items (IDs:     66001 -     66211) | 1623 Locations (IDs:     67010 -     68705)
+[root at 2023-02-22 11:57:54,083]:  Overcooked! 2                  :  45 Items (IDs:    213701 -    213745) |   43 Locations (IDs:         1 -        44)
+[root at 2023-02-22 11:57:54,083]:  Pokemon Red and Blue           : 142 Items (IDs: 172000001 - 172000250) |  525 Locations (IDs: 172000000 - 172000524)
+[root at 2023-02-22 11:57:54,083]:  Raft                           : 325 Items (IDs:     47001 -     47325) |  154 Locations (IDs:     48001 -     48155)
+[root at 2023-02-22 11:57:54,083]:  Rogue Legacy                   :  60 Items (IDs:     90000 -     90097) |  584 Locations (IDs:     91000 -     92259)
+[root at 2023-02-22 11:57:54,083]:  Risk of Rain 2                 :  36 Items (IDs:     37001 -     37747) |  910 Locations (IDs:     38000 -     40361)
+[root at 2023-02-22 11:57:54,083]:  Sonic Adventure 2 Battle       :  50 Items (IDs:  16711680 -  16711750) |  499 Locations (IDs:  16711680 -  16713600)
+[root at 2023-02-22 11:57:54,083]:  Starcraft 2 Wings of Liberty   : 111 Items (IDs:      1000 -      1802) |  123 Locations (IDs:      1100 -      3805)
+[root at 2023-02-22 11:57:54,083]:  Super Metroid                  :  24 Items (IDs:     83000 -     83023) |  100 Locations (IDs:     82000 -     82154)
+[root at 2023-02-22 11:57:54,083]:  Super Mario 64                 :  18 Items (IDs:   3626000 -   3626214) |  164 Locations (IDs:   3626000 -   3626243)
+[root at 2023-02-22 11:57:54,083]:  Super Mario World              :  22 Items (IDs:  12320768 -  12320790) |  158 Locations (IDs:  12320768 -  12321281)
+[root at 2023-02-22 11:57:54,083]:  SMZ3                           : 151 Items (IDs:     84000 -     84223) |  316 Locations (IDs:     85000 -     85510)
+[root at 2023-02-22 11:57:54,084]:  Secret of Evermore             : 156 Items (IDs:     64000 -     64904) |  339 Locations (IDs:     64000 -     64385)
+[root at 2023-02-22 11:57:54,084]:  Slay the Spire                 :   4 Items (IDs:      8000 -      8003) |   31 Locations (IDs:     19001 -     22003)
+[root at 2023-02-22 11:57:54,084]:  Stardew Valley                 : 311 Items (IDs:    717000 -    722201) |  378 Locations (IDs:    717001 -    718065)
+[root at 2023-02-22 11:57:54,084]:  Subnautica                     :  87 Items (IDs:     35000 -     35086) |  181 Locations (IDs:     33000 -     34049)
+[root at 2023-02-22 11:57:54,084]:  The Binding of Isaac Repentance: 767 Items (IDs:     78000 -     78777) |  500 Locations (IDs:     78000 -     78499)
+[root at 2023-02-22 11:57:54,084]:  Timespinner                    : 189 Items (IDs:   1337000 -   1337249) |  212 Locations (IDs:   1337000 -   1337249)
+[root at 2023-02-22 11:57:54,084]:  The Legend of Zelda            :  33 Items (IDs:      7100 -      7132) |  155 Locations (IDs:      7000 -      7154)
+[root at 2023-02-22 11:57:54,084]:  Undertale                      :  82 Items (IDs:     77000 -     77999) |  128 Locations (IDs:     79001 -     79920)
+[root at 2023-02-22 11:57:54,084]:  VVVVVV                         :  20 Items (IDs:   2515000 -   2515019) |   20 Locations (IDs:   2515000 -   2515019)
+[root at 2023-02-22 11:57:54,084]:  Wargroove                      :  31 Items (IDs:     52000 -     52030) |   38 Locations (IDs:     53001 -     53038)
+[root at 2023-02-22 11:57:54,084]:  The Witness                    : 187 Items (IDs:    158000 -    159987) |  754 Locations (IDs:    158000 -    159800)
+[root at 2023-02-22 11:57:54,084]:  Zillion                        :  12 Items (IDs:   8675309 -   8675320) | 1555 Locations (IDs:   8675309 -   8676863)
+[root at 2023-02-22 11:57:54,531]: 
+[root at 2023-02-22 11:57:54,531]: Creating World.
+[root at 2023-02-22 11:57:55,507]: Creating Items.
+[root at 2023-02-22 11:57:55,585]: Calculating Access Rules.
+[root at 2023-02-22 11:57:56,748]: Running Item Plando
+[root at 2023-02-22 11:57:56,922]: Running Pre Main Fill.
+[root at 2023-02-22 11:58:01,621]: Filling the world with 6673 items.
+[root at 2023-02-22 12:03:07,991]: Unplaced items(39): [Quicksilver (Player 3), Duck Pond Decor (Player 7), Balloon Cart Decor (Player 7), Progressive Weapons (Player 39), Prawn Suit Grappling Arm Fragment (Player 31), Fixed Dice (Player 9), Mask_Shard (Player 10), Force Armor (Player 9), 50 Rupees (Player 13), Panic C (Player 15), Imperial Blueprints (Player 24), HPMemory (Player 15), Gem Box (Player 9), Dual-Fusion Welders (SCV) (Player 29), Heart Container (Player 13), Unlocker (Player 15), Energize (Player 26), Offering (Player 9), Snake D (Player 15), TM33 Reflect (Player 21), Illumina (Player 9), Apron shield (Player 14), Cryst shield (Player 14), Piece of Heart (Player 19), Compass (Player 31), Command Center Reactor (Player 29), Progressive Armor (Player 39), Minerva (Player 9), Movement Speed Bonus (Player 30), Heart of Saltpeter Blood (Player 3), Saint Bident (Player 5), HP+100 (Yellow) (Player 15), Mask_Shard (Player 10), Piece of Heart (Player 1), Nuclear Reactor Fragment (Player 31), Navi+40 * (Player 15), OrderSys (Player 15), Greatsword (Player 5), Looting III Book (Player 17)] - Unfilled Locations(0): []
+[root at 2023-02-22 12:03:07,997]: Per-Player counts: {'items': Counter({10: 1699, 19: 1271, 21: 797, 18: 708, 12: 677, 5: 410, 26: 340, 25: 316, 3: 305, 1: 266, 15: 260, 13: 225, 20: 211, 8: 186, 38: 185, 6: 181, 30: 175, 32: 164, 35: 156, 22: 155, 29: 153, 24: 153, 37: 152, 42: 147, 31: 135, 11: 131, 17: 117, 9: 111, 16: 109, 33: 108, 34: 105, 2: 100, 28: 94, 39: 71, 36: 70, 7: 70, 23: 42, 41: 39, 27: 35, 14: 32, 4: 25, 40: 20}), 'locations': Counter({10: 1699, 19: 1271, 21: 797, 18: 708, 12: 677, 5: 410, 26: 340, 25: 316, 3: 305, 1: 266, 15: 260, 13: 225, 20: 211, 8: 186, 38: 185, 6: 181, 30: 175, 32: 164, 35: 156, 22: 155, 24: 153, 29: 153, 37: 152, 42: 147, 31: 135, 11: 131, 17: 117, 16: 109, 33: 108, 34: 105, 2: 100, 28: 94, 9: 72, 39: 71, 7: 70, 36: 70, 23: 42, 41: 39, 27: 35, 14: 32, 4: 25, 40: 20})})
+[Shops at 2023-02-22 12:03:09,049]: Filling LttP Shop Slots
+[root at 2023-02-22 12:03:10,126]: Balancing multiworld progression for 42 Players.
+[root at 2023-02-22 12:03:24,051]: Beginning output...
+[root at 2023-02-22 12:03:33,325]: Version   1.2.2
+Generated 2023-02-22 12:03:33
+Input     Final Fantasy III (USA).sfc
+AP Data   AP_00170043855426573396_P9_Player9.applacements
+Output    AP_00170043855426573396_P9_Player9.sfc
+Log       AP_00170043855426573396_P9_Player9.txt
+Seed      dxv8i1mla57r
+Flags     -cg -sl -oa 2.3.3.2.8.8.4.12.12.6.2.2 -ob 3.2.2.2.11.11.4.15.15.6.5.5.8.3.3 -oc 30.8.8.1.1.11.8 -od 59.1.1.11.31 -sc1 setzer -sc2 gau -eu -fst -sel -brl -bel -slr 3 5 -lmprp 75 125 -lel -srr 10 20 -rnl -sdr 1 1 -das -dda -dns -del -sch -scis -com 98989898989898989898989898 -xpm 3 -mpm 3 -gpm 3 -lsc 2 -hmc 2 -xgc 2 -ase 2 -msl 40 -sed -bbs -drloc shuffle -stloc mix -be -dgne -wnz -cmd -ess -ebs -ems -nmmi -mmprp 75 125 -gp 30000 -smc 3 -sws 1 -sfd 5 -sto 1 -iesr 0 -iersr 0 -csb 8 32 -mca -stra -saw -sirt -sprp 75 125 -sdm 5 -npi -sebr -snes -sesb -name Terra.Locke.Cyan.Shadow.Edgar.Sabin.Celes.Strago.Relm.Setzer.Mog.Gau.Gogo.Umaro  -frm -wmhc -cor -crr -crvr 50 250 -crm -ari -nmc -noshoes -fe -fvd -fj -fbs -fedc -fc -move bd -rc
+Hash      Arvis, Impresario, Clyde, Ultros
+[root at 2023-02-22 12:03:48,189]: 
+[root at 2023-02-22 12:03:48,189]: -------------------------------------------------------- Events --------------------------------------------------------
+[root at 2023-02-22 12:03:48,190]: Ancient Castle                 ArchplgoItem
+[root at 2023-02-22 12:03:48,190]: Auction House                  ArchplgoItem (10,000), ArchplgoItem (20,000)
+    Cherub Down    -> Boomerang    (10,000, WOB, multiple)
+    Cure Ring      -> Enhancer     (20,000, WOB, multiple)
+    Hero Ring      -> Economizer   (50,000, WOR, single)
+    Zephyr Cape    -> Light Robe   (10,000, WOR, single)
+[root at 2023-02-22 12:03:48,190]: Baren Falls                    ArchplgoItem
+    Rizopas        -> Nerapa
+[root at 2023-02-22 12:03:48,200]: Burning House                  ArchplgoItem
+    FlameEater     -> AtmaWeapon
+[root at 2023-02-22 12:03:48,200]: Collapsing House               ArchplgoItem
+[root at 2023-02-22 12:03:48,221]: Daryl's Tomb                   ArchplgoItem
+    Dullahan       -> Inferno
+[root at 2023-02-22 12:03:48,231]: Doma WOB                       ArchplgoItem
+    Leader         -> Air Force
+[root at 2023-02-22 12:03:48,236]: Doma WOR                       ArchplgoItem, ArchplgoItem, ArchplgoItem
+    Stooges        -> Whelk
+    Wrexsoul       -> Ultros 1
+[root at 2023-02-22 12:03:48,267]: Doom Gaze                      ArchplgoItem
+    Doom Gaze      -> TunnelArmr
+[root at 2023-02-22 12:03:48,267]: Ebot's Rock                    ArchplgoItem
+    Hidon          -> Number 128
+[root at 2023-02-22 12:03:48,272]: 8 Dragons                      ArchplgoItem, ArchplgoItem, ArchplgoItem, ArchplgoItem, ArchplgoItem, ArchplgoItem, ArchplgoItem, ArchplgoItem
+    Ice Dragon     -> Storm Drgn
+    Storm Drgn     -> Gold Drgn
+    Dirt Drgn      -> White Drgn
+    Gold Drgn      -> Skull Drgn
+    Skull Drgn     -> Blue Drgn
+    Blue Drgn      -> Red Dragon
+    Red Dragon     -> Dirt Drgn
+    White Drgn     -> Ice Dragon
+[root at 2023-02-22 12:03:48,277]: Esper Mountain                 ArchplgoItem
+    Ultros 3       -> Hidon
+[root at 2023-02-22 12:03:48,278]: Fanatic's Tower                ArchplgoItem, ArchplgoItem
+    MagiMaster     -> Kefka (Narshe)
+[root at 2023-02-22 12:03:48,293]: Figaro Castle WOB              ArchplgoItem
+[root at 2023-02-22 12:03:48,329]: Figaro Castle WOR              ArchplgoItem
+    Tentacles      -> Doom Gaze
+[root at 2023-02-22 12:03:48,335]: Floating Continent             ArchplgoItem, ArchplgoItem, ArchplgoItem
+    Ultros/Chupon  -> Ultros/Chupon
+    Air Force      -> Tritoch
+    AtmaWeapon     -> SrBehemoth
+    Nerapa         -> Vargas
+[root at 2023-02-22 12:03:48,340]: Gau Father House               ArchplgoItem
+[root at 2023-02-22 12:03:48,340]: Imperial Camp                  ArchplgoItem
+[root at 2023-02-22 12:03:48,340]: Kefka's Tower                  ArchplgoItem
+    Atma           -> Dullahan
+    Inferno        -> Ultros 3
+    Guardian       -> Ifrit/Shiva
+    Doom           -> FlameEater
+    Goddess        -> Dadaluma
+    Poltrgeist     -> Marshal
+[root at 2023-02-22 12:03:48,356]: Kohlingen                      ArchplgoItem
+[root at 2023-02-22 12:03:48,356]: Lete River                     ArchplgoItem
+    Ultros 1       -> Wrexsoul
+[root at 2023-02-22 12:03:48,361]: Lone Wolf                      ArchplgoItem, ArchplgoItem
+[root at 2023-02-22 12:03:48,371]: Magitek Factory                ArchplgoItem, ArchplgoItem, ArchplgoItem
+    Ifrit/Shiva    -> Poltrgeist
+    Number 024     -> GhostTrain
+    Number 128     -> MagiMaster
+    Cranes         -> Atma
+[root at 2023-02-22 12:03:48,377]: Mobliz WOB                    
+    Tintinabar     -> DragoonBoots
+                   -> 1220, 450, 139, 1250, 722
+[root at 2023-02-22 12:03:48,397]: Mobliz WOR                     ArchplgoItem
+    Phunbaba 4     -> Rizopas
+[root at 2023-02-22 12:03:48,403]: Mt. Kolts                      ArchplgoItem
+    Vargas         -> Ultros 2
+[root at 2023-02-22 12:03:48,418]: Mt. Zozo                       ArchplgoItem
+[root at 2023-02-22 12:03:48,428]: Narshe Battle                  ArchplgoItem
+    Kefka (Narshe) -> Phunbaba 4
+[root at 2023-02-22 12:03:48,439]: Narshe Moogle Defense          ArchplgoItem
+    Marshal        -> Leader
+[root at 2023-02-22 12:03:48,449]: Narshe WOR                     ArchplgoItem, ArchplgoItem
+    Cursed Shield 256 -> 30
+[root at 2023-02-22 12:03:48,465]: Opera House                    ArchplgoItem
+    Ultros 2       -> Tentacles
+[root at 2023-02-22 12:03:48,470]: Owzer Mansion                  ArchplgoItem
+    Chadarnook     -> Stooges
+[root at 2023-02-22 12:03:48,470]: Phantom Train                  ArchplgoItem
+    GhostTrain     -> Chadarnook
+[root at 2023-02-22 12:03:48,481]: Phoenix Cave                   ArchplgoItem
+[root at 2023-02-22 12:03:48,512]: Sealed Gate                    ArchplgoItem
+[root at 2023-02-22 12:03:48,527]: Serpent Trench                 ArchplgoItem
+[root at 2023-02-22 12:03:48,533]: South Figaro                   ArchplgoItem
+[root at 2023-02-22 12:03:48,543]: South Figaro Cave              ArchplgoItem
+    TunnelArmr     -> Goddess
+[root at 2023-02-22 12:03:48,543]: Start                          Setzer, Gau
+[root at 2023-02-22 12:03:48,543]: Tritoch                        ArchplgoItem
+    Tritoch        -> Cranes
+[root at 2023-02-22 12:03:48,543]: Tzen                           ArchplgoItem (41,622 WOB, 16,537 WOR)
+[root at 2023-02-22 12:03:48,543]: Umaro's Cave                   ArchplgoItem
+    Umaro          -> Number 024
+[root at 2023-02-22 12:03:48,543]: Veldt                          ArchplgoItem
+[root at 2023-02-22 12:03:48,543]: Veldt Cave WOR                 ArchplgoItem
+    SrBehemoth     -> Guardian
+[root at 2023-02-22 12:03:48,548]: Whelk                          ArchplgoItem
+    Whelk          -> Umaro
+[root at 2023-02-22 12:03:48,549]: Zone Eater                     ArchplgoItem
+[root at 2023-02-22 12:03:48,554]: Zozo                           ArchplgoItem
+    Dadaluma       -> Doom
+    6:10:50        -> 4:40:30
+[root at 2023-02-22 12:03:51,067]: 
+[root at 2023-02-22 12:03:51,078]: ------------------------------------------------------- Commands -------------------------------------------------------
+[root at 2023-02-22 12:03:51,083]:     Morph                      X Magic
+[root at 2023-02-22 12:03:51,099]:     Steal                      Morph
+[root at 2023-02-22 12:03:51,104]:     SwdTech                    Blitz
+[root at 2023-02-22 12:03:51,109]:     Throw                      Tools
+[root at 2023-02-22 12:03:51,119]:     Tools                      Possess
+[root at 2023-02-22 12:03:51,120]:     Blitz                      Slot
+[root at 2023-02-22 12:03:51,120]:     Runic                      Runic
+[root at 2023-02-22 12:03:51,120]:     Lore                       Health
+[root at 2023-02-22 12:03:51,130]:     Sketch                     GP Rain
+[root at 2023-02-22 12:03:51,140]:     Slot                       Shock
+[root at 2023-02-22 12:03:51,192]:     Dance                      MagiTek
+[root at 2023-02-22 12:03:51,192]:     Rage                       Dance
+[root at 2023-02-22 12:03:51,192]:     Leap                       Lore
+[root at 2023-02-22 12:03:51,193]: 
+[root at 2023-02-22 12:03:51,193]: ---------------------------------------------------- Natural Magic -----------------------------------------------------
+[root at 2023-02-22 12:03:51,193]: 
+[root at 2023-02-22 12:03:51,206]: 
+[root at 2023-02-22 12:03:51,206]: -------------------------------------------------------- Chests --------------------------------------------------------
+[root at 2023-02-22 12:03:51,221]: Narshe School
+[root at 2023-02-22 12:03:51,232]:     Tonic, Sleeping Bag, MIAB, Tincture
+[root at 2023-02-22 12:03:51,252]: 
+[root at 2023-02-22 12:03:51,258]: Narshe Inside WOB
+[root at 2023-02-22 12:03:51,273]:     Elixir, Empty, Hyper Wrist, Sneak Ring, Wall Ring, ThiefKnife, Earrings, 5000 GP, Elixir
+[root at 2023-02-22 12:03:51,273]: 
+[root at 2023-02-22 12:03:51,279]: Narshe Mines WOB
+[root at 2023-02-22 12:03:51,279]:     Fenix Down, Sleeping Bag, Rune Edge
+[root at 2023-02-22 12:03:51,284]: 
+[root at 2023-02-22 12:03:51,315]: Narshe Mines WOR
+[root at 2023-02-22 12:03:51,320]:     Pod Bracelet, Elixir, Ribbon, Moogle Charm
+[root at 2023-02-22 12:03:51,320]: 
+[root at 2023-02-22 12:03:51,325]: Figaro Castle
+[root at 2023-02-22 12:03:51,330]:     Tonic, Antidote, Soft, Fenix Down
+[root at 2023-02-22 12:03:51,336]: 
+[root at 2023-02-22 12:03:51,356]: Figaro Castle Basement
+[root at 2023-02-22 12:03:51,356]:     Ether, X-Potion, Gravity Rod, Crystal Helm, Soul Sabre, Regal Crown
+[root at 2023-02-22 12:03:51,362]: 
+[root at 2023-02-22 12:03:51,362]: South Figaro Cave WOB
+[root at 2023-02-22 12:03:51,362]:     X-Potion, Tincture, Thunder Rod
+[root at 2023-02-22 12:03:51,362]: 
+[root at 2023-02-22 12:03:51,362]: South Figaro Cave WOR
+[root at 2023-02-22 12:03:51,362]:     X-Potion, Ether, Hero Ring
+[root at 2023-02-22 12:03:51,373]: 
+[root at 2023-02-22 12:03:51,378]: South Figaro Outside WOB
+[root at 2023-02-22 12:03:51,384]:     Fenix Down, Tonic, Antidote, Eyedrop, Tonic, Green Cherry, Soft, Warp Stone
+[root at 2023-02-22 12:03:51,394]: 
+[root at 2023-02-22 12:03:51,399]: South Figaro Outside WOR
+[root at 2023-02-22 12:03:51,404]:     Fenix Down, X-Potion, Tent, Remedy, Revivify, Tent, Elixir, Fenix Down
+[root at 2023-02-22 12:03:51,420]: 
+[root at 2023-02-22 12:03:51,420]: South Figaro Inside/Basement
+[root at 2023-02-22 12:03:51,430]:     500 GP, 1500 GP, 1000 GP, Empty, Tonic, Elixir, Iron Armor, Earrings, RegalCutlass, Heavy Shld, Hyper Wrist,
+[root at 2023-02-22 12:03:51,461]:     X-Potion, Ribbon, Ether, RunningShoes
+[root at 2023-02-22 12:03:51,507]: 
+[root at 2023-02-22 12:03:51,512]: Duncan's House WOB
+[root at 2023-02-22 12:03:51,512]:     Tonic
+[root at 2023-02-22 12:03:51,517]: 
+[root at 2023-02-22 12:03:51,523]: Mt. Kolts
+[root at 2023-02-22 12:03:51,528]:     Tent, Guardian, Tent, Guardian, Atlas Armlet, Tent
+[root at 2023-02-22 12:03:51,533]: 
+[root at 2023-02-22 12:03:51,538]: Returner's Hideout
+[root at 2023-02-22 12:03:51,574]:     Green Cherry, Fenix Down, Antidote, Tincture, True Knight, Fenix Down, Air Lancet, Potion, White Cape
+[root at 2023-02-22 12:03:51,579]: 
+[root at 2023-02-22 12:03:51,595]: Imperial Camp
+[root at 2023-02-22 12:03:51,610]:     Star Pendant, Barrier Ring, MithrilGlove, MIAB
+[root at 2023-02-22 12:03:51,611]: 
+[root at 2023-02-22 12:03:51,611]: Doma
+[root at 2023-02-22 12:03:51,611]:     Elixir, Remedy, Fenix Down, Beads, X-Potion, Ether
+[root at 2023-02-22 12:03:51,616]: 
+[root at 2023-02-22 12:03:51,662]: Cyan's Dream Phantom Train
+[root at 2023-02-22 12:03:51,667]:     Genji Glove, Flame Shld, X-Potion, Ice Shld
+[root at 2023-02-22 12:03:51,673]: 
+[root at 2023-02-22 12:03:51,673]: Phantom Train
+[root at 2023-02-22 12:03:51,673]:     Tent, Earrings, Tent, Fairy Ring, Fenix Down, Sniper Sight, Fenix Down, MIAB
+[root at 2023-02-22 12:03:51,683]: 
+[root at 2023-02-22 12:03:51,683]: Mobliz Inside
+[root at 2023-02-22 12:03:51,683]:     Elixir
+[root at 2023-02-22 12:03:51,683]: 
+[root at 2023-02-22 12:03:51,683]: Mobliz Bookshelf Room WOR
+[root at 2023-02-22 12:03:51,683]:     Ether
+[root at 2023-02-22 12:03:51,715]: 
+[root at 2023-02-22 12:03:51,720]: Mobliz Outside WOR
+[root at 2023-02-22 12:03:51,720]:     Fenix Down
+[root at 2023-02-22 12:03:51,726]: 
+[root at 2023-02-22 12:03:51,731]: Serpent Trench
+[root at 2023-02-22 12:03:51,762]:     X-Potion, Green Beret
+[root at 2023-02-22 12:03:51,772]: 
+[root at 2023-02-22 12:03:51,782]: Nikeah
+[root at 2023-02-22 12:03:51,782]:     Elixir
+[root at 2023-02-22 12:03:51,788]: 
+[root at 2023-02-22 12:03:51,798]: Kohlingen
+[root at 2023-02-22 12:03:51,803]:     Green Beret, Elixir
+[root at 2023-02-22 12:03:51,829]: 
+[root at 2023-02-22 12:03:51,829]: Coliseum Owner's House WOB
+[root at 2023-02-22 12:03:51,849]:     Hero Ring
+[root at 2023-02-22 12:03:51,860]: 
+[root at 2023-02-22 12:03:51,891]: Zozo
+[root at 2023-02-22 12:03:51,896]:     Chain Saw, Tincture, Tonic, Thief Glove, Fire Knuckle, Tincture, Potion, RunningShoes, X-Potion
+[root at 2023-02-22 12:03:51,911]: 
+[root at 2023-02-22 12:03:51,957]: Mt. Zozo
+[root at 2023-02-22 12:03:51,957]:     Gold Hairpin, Red Cap, Ice Shld, Aegis Shld, Thunder Shld, Empty
+[root at 2023-02-22 12:03:51,963]: 
+[root at 2023-02-22 12:03:51,988]: Owzer's Mansion
+[root at 2023-02-22 12:03:52,019]:     Tincture
+[root at 2023-02-22 12:03:52,050]: 
+[root at 2023-02-22 12:03:52,090]: Owzer's Basement
+[root at 2023-02-22 12:03:52,101]:     Moogle Suit, Relic Ring
+[root at 2023-02-22 12:03:52,121]: 
+[root at 2023-02-22 12:03:52,142]: Albrook Outside
+[root at 2023-02-22 12:03:52,147]:     Potion
+[root at 2023-02-22 12:03:52,147]: 
+[root at 2023-02-22 12:03:52,147]: Albrook Inside
+[root at 2023-02-22 12:03:52,153]:     Tincture, Empty, Empty, Elixir
+[root at 2023-02-22 12:03:52,158]: 
+[root at 2023-02-22 12:03:52,158]: Albrook Dock
+[root at 2023-02-22 12:03:52,168]:     Warp Stone
+[root at 2023-02-22 12:03:52,199]: 
+[root at 2023-02-22 12:03:52,199]: Maranda
+[root at 2023-02-22 12:03:52,225]:     Remedy, Revivify
+[root at 2023-02-22 12:03:52,230]: 
+[root at 2023-02-22 12:03:52,230]: Tzen Collapsing House
+[root at 2023-02-22 12:03:52,230]:     Heal Rod, Tincture, MIAB, Pearl Rod, Hyper Wrist, Magicite, MIAB, Drainer
+[root at 2023-02-22 12:03:52,231]: 
+[root at 2023-02-22 12:03:52,231]: Magitek Factory
+[root at 2023-02-22 12:03:52,251]:     Flame Sabre, Tincture, X-Potion, Remedy, Gold Shld, ThunderBlade, DragoonBoots, Gold Helmet, Blizzard, Zephyr Cape,
+[root at 2023-02-22 12:03:52,262]:     Tent, Gold Armor, Break Blade
+[root at 2023-02-22 12:03:52,262]: 
+[root at 2023-02-22 12:03:52,262]: Thamasa Outside
+[root at 2023-02-22 12:03:52,262]:     Echo Screen, Green Cherry, Soft, Eyedrop, Fenix Down
+[root at 2023-02-22 12:03:52,262]: 
+[root at 2023-02-22 12:03:52,267]: Thamasa Strago's House
+[root at 2023-02-22 12:03:52,272]:     Memento Ring
+[root at 2023-02-22 12:03:52,283]: 
+[root at 2023-02-22 12:03:52,360]: Thamasa Burning House
+[root at 2023-02-22 12:03:52,385]:     Fire Rod, Ice Rod
+[root at 2023-02-22 12:03:52,406]: 
+[root at 2023-02-22 12:03:52,416]: Esper Mountain
+[root at 2023-02-22 12:03:52,421]:     X-Potion, Tabby Suit, Chocobo Suit, Heal Rod
+[root at 2023-02-22 12:03:52,427]: 
+[root at 2023-02-22 12:03:52,427]: Imperial Base
+[root at 2023-02-22 12:03:52,453]:     X-Potion, Cherub Down, 8000 GP, Ether, Wall Ring, 13000 GP, RunningShoes, Elixir, 20000 GP, Cure Ring, Back Guard,
+[root at 2023-02-22 12:03:52,458]:     Flame Sabre, Elixir
+[root at 2023-02-22 12:03:52,458]: 
+[root at 2023-02-22 12:03:52,458]: Cave To Sealed Gate
+[root at 2023-02-22 12:03:52,468]:     Assassin, Tempest, Ether, Genji Glove, Elixir, Magicite, Ether, Magicite, Ether, Magicite, Atma Weapon, Coin Toss,
+[root at 2023-02-22 12:03:52,479]:     X-Potion, Tent
+[root at 2023-02-22 12:03:52,484]: 
+[root at 2023-02-22 12:03:52,484]: Floating Continent
+[root at 2023-02-22 12:03:52,484]:     Elixir, Murasame, Beret, MIAB
+[root at 2023-02-22 12:03:52,489]: 
+[root at 2023-02-22 12:03:52,495]: Daryl's Tomb
+[root at 2023-02-22 12:03:52,500]:     Genji Helmet, Crystal Mail, Czarina Gown, Exp. Egg, Man Eater, MIAB
+[root at 2023-02-22 12:03:52,505]: 
+[root at 2023-02-22 12:03:52,510]: Veldt Cave WOR
+[root at 2023-02-22 12:03:52,510]:     Rage Ring, MIAB, Striker
+[root at 2023-02-22 12:03:52,510]: 
+[root at 2023-02-22 12:03:52,536]: Ancient Cave
+[root at 2023-02-22 12:03:52,536]:     Ether, Wing Edge, MIAB, Doom Darts, Magicite, X-Potion, Blizzard Orb, Gold Hairpin, MIAB, Punisher, X-Ether
+[root at 2023-02-22 12:03:52,552]: 
+[root at 2023-02-22 12:03:52,552]: Phoenix Cave
+[root at 2023-02-22 12:03:52,557]:     Ribbon, Empty, Empty, Empty, Empty, Wing Edge, Empty, Dragon Horn, Warp Stone
+[root at 2023-02-22 12:03:52,557]: 
+[root at 2023-02-22 12:03:52,573]: Fanatic's Tower
+[root at 2023-02-22 12:03:52,578]:     Safety Bit, ArchplgoItem, Genji Shld, Stunner, Force Armor, Air Anchor
+[root at 2023-02-22 12:03:52,578]: 
+[root at 2023-02-22 12:03:52,630]: Zone Eater
+[root at 2023-02-22 12:03:52,630]:     FakeMustache, Red Jacket, Ether, Magical Brsh, Genji Armor, Thunder Shld, Zephyr Cape, Hero Ring, Tack Star
+[root at 2023-02-22 12:03:52,666]: 
+[root at 2023-02-22 12:03:52,727]: Umaro's Cave
+[root at 2023-02-22 12:03:52,738]:     Gauntlet, X-Ether, MIAB
+[root at 2023-02-22 12:03:52,743]: 
+[root at 2023-02-22 12:03:52,748]: Kefka's Tower
+[root at 2023-02-22 12:03:52,753]:     Ribbon, Nutkin Suit, Gauntlet, Fixed Dice, Coronet, Force Shld, Force Armor, Rainbow Brsh, Tack Star, Red Cap,
+[root at 2023-02-22 12:03:52,754]:     Megalixir, Ribbon, Minerva, Tack Star, Hero Ring, Aegis Shld
+[root at 2023-02-22 12:03:52,814]: 
+[root at 2023-02-22 12:03:52,814]: -------------------------------------------------------- Spells --------------------------------------------------------
+[root at 2023-02-22 12:03:52,814]: Fire      4 MP
+[root at 2023-02-22 12:03:52,814]: Ice       4 MP
+[root at 2023-02-22 12:03:52,835]: Bolt      7 MP
+[root at 2023-02-22 12:03:52,835]: Poison    2 MP
+[root at 2023-02-22 12:03:52,845]: Drain    18 MP
+[root at 2023-02-22 12:03:52,845]: Fire 2   15 MP
+[root at 2023-02-22 12:03:52,845]: Ice 2    21 MP
+[root at 2023-02-22 12:03:52,845]: Bolt 2   17 MP
+[root at 2023-02-22 12:03:52,845]: Bio      25 MP
+[root at 2023-02-22 12:03:52,846]: Fire 3   49 MP
+[root at 2023-02-22 12:03:52,846]: Ice 3    56 MP
+[root at 2023-02-22 12:03:52,846]: Bolt 3   52 MP
+[root at 2023-02-22 12:03:52,846]: Break    25 MP
+[root at 2023-02-22 12:03:52,846]: Doom     42 MP
+[root at 2023-02-22 12:03:52,861]: Pearl    32 MP
+[root at 2023-02-22 12:03:52,897]: Flare    36 MP
+[root at 2023-02-22 12:03:52,913]: Demi     26 MP
+[root at 2023-02-22 12:03:52,923]: Quartr   45 MP
+[root at 2023-02-22 12:03:52,934]: X-Zone   56 MP
+[root at 2023-02-22 12:03:52,939]: Meteor   68 MP
+[root at 2023-02-22 12:03:52,960]: Ultima   98 MP
+[root at 2023-02-22 12:03:52,965]: Quake    57 MP
+[root at 2023-02-22 12:03:52,975]: W Wind   75 MP
+[root at 2023-02-22 12:03:52,996]: Merton   99 MP
+[root at 2023-02-22 12:03:53,001]: Scan      2 MP
+[root at 2023-02-22 12:03:53,027]: Slow      3 MP
+[root at 2023-02-22 12:03:53,047]: Rasp     14 MP
+[root at 2023-02-22 12:03:53,053]: Mute      6 MP
+[root at 2023-02-22 12:03:53,068]: Safe     10 MP
+[root at 2023-02-22 12:03:53,084]: Sleep     4 MP
+[root at 2023-02-22 12:03:53,099]: Muddle    6 MP
+[root at 2023-02-22 12:03:53,104]: Haste    10 MP
+[root at 2023-02-22 12:03:53,115]: Stop      9 MP
+[root at 2023-02-22 12:03:53,115]: Bserk    14 MP
+[root at 2023-02-22 12:03:53,115]: Float    14 MP
+[root at 2023-02-22 12:03:53,115]: Imp      10 MP
+[root at 2023-02-22 12:03:53,115]: Rflect   27 MP
+[root at 2023-02-22 12:03:53,115]: Shell    18 MP
+[root at 2023-02-22 12:03:53,131]: Vanish   18 MP
+[root at 2023-02-22 12:03:53,131]: Haste2   46 MP
+[root at 2023-02-22 12:03:53,141]: Slow 2   29 MP
+[root at 2023-02-22 12:03:53,141]: Osmose    0 MP
+[root at 2023-02-22 12:03:53,162]: Warp     19 MP
+[root at 2023-02-22 12:03:53,162]: Quick   120 MP
+[root at 2023-02-22 12:03:53,162]: Dispel   30 MP
+[root at 2023-02-22 12:03:53,162]: Cure      4 MP
+[root at 2023-02-22 12:03:53,162]: Cure 2   19 MP
+[root at 2023-02-22 12:03:53,162]: Cure 3   43 MP
+[root at 2023-02-22 12:03:53,162]: Life     36 MP
+[root at 2023-02-22 12:03:53,178]: Life 2   56 MP
+[root at 2023-02-22 12:03:53,178]: Antdot    2 MP
+[root at 2023-02-22 12:03:53,178]: Remedy   11 MP
+[root at 2023-02-22 12:03:53,178]: Regen    11 MP
+[root at 2023-02-22 12:03:53,199]: Life 3   43 MP
+[root at 2023-02-22 12:03:53,205]: 
+[root at 2023-02-22 12:03:53,205]: -------------------------------------------------------- Lores ---------------------------------------------------------
+[root at 2023-02-22 12:03:53,205]: *Condemned   16 MP
+[root at 2023-02-22 12:03:53,205]:  Roulette     7 MP
+[root at 2023-02-22 12:03:53,205]: *CleanSweep  36 MP
+[root at 2023-02-22 12:03:53,205]:  Aqua Rake   16 MP
+[root at 2023-02-22 12:03:53,205]:  Aero        38 MP
+[root at 2023-02-22 12:03:53,205]:  Blow Fish   56 MP
+[root at 2023-02-22 12:03:53,205]:  Big Guard   89 MP
+[root at 2023-02-22 12:03:53,205]:  Revenge     31 MP
+[root at 2023-02-22 12:03:53,205]:  Pearl Wind  48 MP
+[root at 2023-02-22 12:03:53,205]:  L.5 Doom    27 MP
+[root at 2023-02-22 12:03:53,205]:  L.4 Flare   43 MP
+[root at 2023-02-22 12:03:53,205]:  L.3 Muddle  23 MP
+[root at 2023-02-22 12:03:53,205]:  Reflect???   0 MP
+[root at 2023-02-22 12:03:53,211]:  L? Pearl    56 MP
+[root at 2023-02-22 12:03:53,211]:  Step Mine    0 MP
+[root at 2023-02-22 12:03:53,241]:  ForceField  26 MP
+[root at 2023-02-22 12:03:53,246]:  Dischord    69 MP
+[root at 2023-02-22 12:03:53,257]:  Sour Mouth  33 MP
+[root at 2023-02-22 12:03:53,277]:  Pep Up       0 MP
+[root at 2023-02-22 12:03:53,283]: *Rippler     75 MP
+[root at 2023-02-22 12:03:53,298]:  Stone       23 MP
+[root at 2023-02-22 12:03:53,330]:  Quasar      50 MP
+[root at 2023-02-22 12:03:53,335]: *GrandTrain  56 MP
+[root at 2023-02-22 12:03:53,340]:  Exploder     0 MP
+[root at 2023-02-22 12:03:53,340]: 
+[root at 2023-02-22 12:03:53,351]: * = Starting Lore
+[root at 2023-02-22 12:03:53,357]: 
+[root at 2023-02-22 12:03:53,357]: ----------------------------------------------------- Start Rages ------------------------------------------------------
+[root at 2023-02-22 12:03:53,357]: Doberman                                                    Vomammoth
+[root at 2023-02-22 12:03:53,357]: Brachosaur                                                  Crawler
+[root at 2023-02-22 12:03:53,357]: Vulture                                                     Sewer Rat
+[root at 2023-02-22 12:03:53,357]: TumbleWeed                                                  Land Worm
+[root at 2023-02-22 12:03:53,357]: Hoover                                                      Muus
+[root at 2023-02-22 12:03:53,357]: Telstar                                                     IronHitman
+[root at 2023-02-22 12:03:53,357]: Luridan
+[root at 2023-02-22 12:03:53,357]: Tomb Thumb
+[root at 2023-02-22 12:03:53,363]: Phase
+[root at 2023-02-22 12:03:53,368]: Wirey Drgn
+[root at 2023-02-22 12:03:53,368]: Psychot
+[root at 2023-02-22 12:03:53,368]: Innoc
+[root at 2023-02-22 12:03:53,373]: Io
+[root at 2023-02-22 12:03:53,379]: 
+[root at 2023-02-22 12:03:53,379]: -------------------------------------------------------- Dances --------------------------------------------------------
+[root at 2023-02-22 12:03:53,379]:  Wind Song                                                   Forest Suite
+[root at 2023-02-22 12:03:53,379]:     Wind Slash                                                  Specter
+[root at 2023-02-22 12:03:53,379]:     Elf Fire                                                    Rage
+[root at 2023-02-22 12:03:53,379]:     Snare                                                       Wind Slash
+[root at 2023-02-22 12:03:53,379]:     El Nino                                                     Snowball
+[root at 2023-02-22 12:03:53,379]: 
+[root at 2023-02-22 12:03:53,400]:  Desert Aria                                                 Love Sonata
+[root at 2023-02-22 12:03:53,400]:     Pois. Frog                                                  Elf Fire
+[root at 2023-02-22 12:03:53,400]:     Specter                                                     Harvester
+[root at 2023-02-22 12:03:53,400]:     Surge                                                       Ice Rabbit
+[root at 2023-02-22 12:03:53,400]:     Elf Fire                                                    Land Slide
+[root at 2023-02-22 12:03:53,416]: 
+[root at 2023-02-22 12:03:53,416]:  Earth Blues                                                 Water Rondo
+[root at 2023-02-22 12:03:53,436]:     Whump                                                       Sun Bath
+[root at 2023-02-22 12:03:53,436]:     Kitty                                                       Sun Bath
+[root at 2023-02-22 12:03:53,436]:     Plasma                                                      Wild Bear
+[root at 2023-02-22 12:03:53,437]:     Wombat                                                      Snare
+[root at 2023-02-22 12:03:53,437]: 
+[root at 2023-02-22 12:03:53,437]:  Dusk Requium                                               *Snowman Jazz
+[root at 2023-02-22 12:03:53,437]:     Sonic Boom                                                  Plasma
+[root at 2023-02-22 12:03:53,437]:     Sand Storm                                                  Antlion
+[root at 2023-02-22 12:03:53,437]:     Cokatrice                                                   Cave In
+[root at 2023-02-22 12:03:53,437]:     Tapir                                                       Snare
+[root at 2023-02-22 12:03:53,437]: 
+[root at 2023-02-22 12:03:53,437]: 
+[root at 2023-02-22 12:03:53,437]: * = Starting Dance
+[root at 2023-02-22 12:03:53,439]: 
+[root at 2023-02-22 12:03:53,439]: -------------------------------------------------------- Espers --------------------------------------------------------
+[root at 2023-02-22 12:03:53,439]: Ramuh      25 MP                                            Kirin      18 MP
+[root at 2023-02-22 12:03:53,439]:     Regen   x3                                                  Cure 3  x2
+[root at 2023-02-22 12:03:53,439]:     Warp    x2                                                  Bolt    x20
+[root at 2023-02-22 12:03:53,439]:     Ice 2   x3                                                  Rasp    x4
+[root at 2023-02-22 12:03:53,439]:     Life 3  x1                                                  Ultima  x1
+[root at 2023-02-22 12:03:53,439]:     X-Zone  x5                                                  Poison  x5
+[root at 2023-02-22 12:03:53,439]: Equipable: All                                              Equipable: All
+[root at 2023-02-22 12:03:53,439]: 
+[root at 2023-02-22 12:03:53,439]: Siren      16 MP                                            Stray      28 MP
+[root at 2023-02-22 12:03:53,439]:     Osmose  x15                                                 Cure 2  x8
+[root at 2023-02-22 12:03:53,439]:     Flare   x2                                              MP +10%
+[root at 2023-02-22 12:03:53,440]:     Imp     x5                                              Equipable: All
+[root at 2023-02-22 12:03:53,440]:     Muddle  x7
+[root at 2023-02-22 12:03:53,450]:     Drain   x1
+[root at 2023-02-22 12:03:53,465]: MAGIC +1
+[root at 2023-02-22 12:03:53,466]: Equipable: All
+[root at 2023-02-22 12:03:53,466]: 
+[root at 2023-02-22 12:03:53,466]: Ifrit      26 MP                                            Shiva      27 MP
+[root at 2023-02-22 12:03:53,476]:     Shell   x5                                                  Quartr  x1
+[root at 2023-02-22 12:03:53,481]:     Remedy  x15                                                 Mute    x8
+[root at 2023-02-22 12:03:53,502]:     Slow    x7                                                  Sleep   x10
+[root at 2023-02-22 12:03:53,528]: MAGIC +2                                                    MP +30%
+[root at 2023-02-22 12:03:53,549]: Equipable: All                                              Equipable: All
+[root at 2023-02-22 12:03:53,549]: 
+[root at 2023-02-22 12:03:53,549]: Unicorn    30 MP                                            Maduin     44 MP
+[root at 2023-02-22 12:03:53,549]:     Cure    x5                                                  Cure 2  x4
+[root at 2023-02-22 12:03:53,554]:     Fire 3  x1                                              Equipable: All
+[root at 2023-02-22 12:03:53,554]:     Pearl   x2
+[root at 2023-02-22 12:03:53,554]: Equipable: All
+[root at 2023-02-22 12:03:53,559]: 
+[root at 2023-02-22 12:03:53,560]: Shoat      45 MP                                            Phantom    38 MP
+[root at 2023-02-22 12:03:53,595]:     Remedy  x20                                                 Cure 2  x5
+[root at 2023-02-22 12:03:53,621]:     Safe    x1                                                  Fire    x6
+[root at 2023-02-22 12:03:53,626]: STAMINA +2                                                      Float   x2
+[root at 2023-02-22 12:03:53,626]: Equipable: All                                                  Ice     x10
+[root at 2023-02-22 12:03:53,626]:                                                                 Demi    x5
+[root at 2023-02-22 12:03:53,626]:                                                             MAGIC +2
+[root at 2023-02-22 12:03:53,626]:                                                             Equipable: All
+[root at 2023-02-22 12:03:53,626]: 
+[root at 2023-02-22 12:03:53,626]: Carbunkl   36 MP                                            Bismark    50 MP
+[root at 2023-02-22 12:03:53,627]:     Cure 2  x16                                                 Haste   x3
+[root at 2023-02-22 12:03:53,683]:     Cure    x20                                                 Dispel  x10
+[root at 2023-02-22 12:03:53,688]:     Bolt 2  x2                                                  Slow    x20
+[root at 2023-02-22 12:03:53,693]:     Bserk   x3                                                  Rflect  x5
+[root at 2023-02-22 12:03:53,693]:     Quake   x3                                                  Quick   x1
+[root at 2023-02-22 12:03:53,698]: Equipable: All                                              STAMINA +2
+[root at 2023-02-22 12:03:53,699]:                                                             Equipable: All
+[root at 2023-02-22 12:03:53,699]: 
+[root at 2023-02-22 12:03:53,699]: Golem      33 MP                                            ZoneSeek   30 MP
+[root at 2023-02-22 12:03:53,704]:     Dispel  x2                                                  Cure 2  x1
+[root at 2023-02-22 12:03:53,719]:     Bolt    x10                                                 Bolt 3  x1
+[root at 2023-02-22 12:03:53,724]:     Slow 2  x2                                                  Ice 3   x1
+[root at 2023-02-22 12:03:53,725]:     Haste2  x2                                              Equipable: All
+[root at 2023-02-22 12:03:53,735]: STRENGTH +2
+[root at 2023-02-22 12:03:53,740]: Equipable: All
+[root at 2023-02-22 12:03:53,740]: 
+[root at 2023-02-22 12:03:53,740]: Sraphim    40 MP                                            Palidor    61 MP
+[root at 2023-02-22 12:03:53,740]:     Cure    x25                                                 Ice 2   x5
+[root at 2023-02-22 12:03:53,740]:     Life    x2                                                  Scan    x5
+[root at 2023-02-22 12:03:53,740]:     Meteor  x10                                                 Break   x5
+[root at 2023-02-22 12:03:53,741]: STRENGTH +2                                                     Bio     x8
+[root at 2023-02-22 12:03:53,761]: Equipable: All                                                  W Wind  x1
+[root at 2023-02-22 12:03:53,761]:                                                             MAGIC +1
+[root at 2023-02-22 12:03:53,766]:                                                             Equipable: All
+[root at 2023-02-22 12:03:53,766]: 
+[root at 2023-02-22 12:03:53,772]: Fenrir     70 MP                                            Tritoch    68 MP
+[root at 2023-02-22 12:03:53,777]:     Remedy  x4                                                  Life    x10
+[root at 2023-02-22 12:03:53,777]:     Cure    x3                                                  Haste   x20
+[root at 2023-02-22 12:03:53,802]:     Stop    x5                                                  Life 2  x2
+[root at 2023-02-22 12:03:53,813]: HP +10%                                                     HP +10%
+[root at 2023-02-22 12:03:53,813]: Equipable: All                                              Equipable: All
+[root at 2023-02-22 12:03:53,828]: 
+[root at 2023-02-22 12:03:53,829]: Terrato    40 MP                                            Starlet    74 MP
+[root at 2023-02-22 12:03:53,844]:     Shell   x2                                                  Fire    x10
+[root at 2023-02-22 12:03:53,860]:     Life    x5                                                  Float   x5
+[root at 2023-02-22 12:03:53,931]:     Fire 3  x3                                                  Fire 2  x3
+[root at 2023-02-22 12:03:53,931]: STAMINA +1                                                  HP +50%
+[root at 2023-02-22 12:03:53,932]: Equipable: All                                              Equipable: All
+[root at 2023-02-22 12:03:53,932]: 
+[root at 2023-02-22 12:03:53,932]: Alexandr   90 MP                                            Phoenix   110 MP
+[root at 2023-02-22 12:03:53,953]:     Safe    x10                                                 Remedy  x3
+[root at 2023-02-22 12:03:53,973]:     Regen   x20                                                 Stop    x3
+[root at 2023-02-22 12:03:53,979]:     Cure 3  x1                                                  Rasp    x20
+[root at 2023-02-22 12:03:53,984]:     Osmose  x4                                                  Meteor  x1
+[root at 2023-02-22 12:03:53,984]:     Vanish  x3                                                  Ice     x20
+[root at 2023-02-22 12:03:53,984]: Equipable: All                                              Equipable: All
+[root at 2023-02-22 12:03:53,984]: 
+[root at 2023-02-22 12:03:54,010]: Odin       70 MP                                            Bahamut    86 MP
+[root at 2023-02-22 12:03:54,051]:     Safe    x5                                                  Shell   x1
+[root at 2023-02-22 12:03:54,051]: Equipable: All                                              STRENGTH +1
+[root at 2023-02-22 12:03:54,061]:                                                             Equipable: All
+[root at 2023-02-22 12:03:54,082]: 
+[root at 2023-02-22 12:03:54,087]: Ragnarok    6 MP                                            Crusader   96 MP
+[root at 2023-02-22 12:03:54,092]:     Shell   x10                                                 Safe    x2
+[root at 2023-02-22 12:03:54,103]:     Fire 2  x5                                                  Bolt 2  x3
+[root at 2023-02-22 12:03:54,113]:     Merton  x1                                                  Doom    x2
+[root at 2023-02-22 12:03:54,119]: HP +30%                                                     MP +50%
+[root at 2023-02-22 12:03:54,129]: Equipable: All                                              Equipable: All
+[root at 2023-02-22 12:03:54,155]: 
+[root at 2023-02-22 12:03:54,175]: Raiden     80 MP
+[root at 2023-02-22 12:03:54,222]:     Regen   x10
+[root at 2023-02-22 12:03:54,227]:     Fire    x20
+[root at 2023-02-22 12:03:54,227]:     Warp    x10
+[root at 2023-02-22 12:03:54,227]:     Antdot  x4
+[root at 2023-02-22 12:03:54,268]: SPEED +1
+[root at 2023-02-22 12:03:54,273]: Equipable: All
+[root at 2023-02-22 12:03:54,273]: 
+[root at 2023-02-22 12:03:54,319]: * = Starting Esper
+[root at 2023-02-22 12:03:54,321]: 
+[root at 2023-02-22 12:03:54,321]: -------------------------------------------------------- Shops ---------------------------------------------------------
+[root at 2023-02-22 12:03:54,321]: South Figaro WOB Weapon                                     South Figaro WOB Armor
+[root at 2023-02-22 12:03:54,321]:     Graedus                    25420                            Tiara                      3330
+[root at 2023-02-22 12:03:54,321]:     Imperial                   480                              Titanium                   12400
+[root at 2023-02-22 12:03:54,321]:     Gold Lance                 14520                            Dark Gear                  10270
+[root at 2023-02-22 12:03:54,321]:     Trump                      10270                            Red Jacket                 38720
+[root at 2023-02-22 12:03:54,321]:                                                                 Crystal Mail               19040
+[root at 2023-02-22 12:03:54,321]: 
+[root at 2023-02-22 12:03:54,321]: South Figaro WOB Relic                                      South Figaro WOB Item
+[root at 2023-02-22 12:03:54,321]:     Hyper Wrist                6080                             Green Cherry               118
+[root at 2023-02-22 12:03:54,321]:     Black Belt                 6200                             Warp Stone                 840
+[root at 2023-02-22 12:03:54,322]:     Muscle Belt                18020                            Fire Skean                 435
+[root at 2023-02-22 12:03:54,327]:     Wall Ring                  7380                             Smoke Bomb                 273
+[root at 2023-02-22 12:03:54,327]:     Peace Ring                 2910                             Revivify                   288
+[root at 2023-02-22 12:03:54,327]:     FakeMustache               5100                             Chain Saw                  2500
+[root at 2023-02-22 12:03:54,332]:     Back Guard                 7700                             NoiseBlaster               475
+[root at 2023-02-22 12:03:54,332]:     Dragon Horn                22599                            Beret                      4270
+[root at 2023-02-22 12:03:54,338]: 
+[root at 2023-02-22 12:03:54,343]: Mobliz WOB Weapon                                           Mobliz WOB Armor
+[root at 2023-02-22 12:03:54,358]:     Rune Edge                  6450                             Gold Helmet                4240
+[root at 2023-02-22 12:03:54,358]:     Ashura                     530                              Force Armor                32250
+[root at 2023-02-22 12:03:54,359]:     Revivify                   288                              Dark Hood                  8475
+[root at 2023-02-22 12:03:54,359]:     MetalKnuckle               615                              Regal Crown                12320
+[root at 2023-02-22 12:03:54,359]:                                                                 Circlet                    5670
+[root at 2023-02-22 12:03:54,364]:                                                                 Thornlet                   18050
+[root at 2023-02-22 12:03:54,380]:                                                                 Titanium                   12400
+[root at 2023-02-22 12:03:54,400]:                                                                 Ninja Gear                 1353
+[root at 2023-02-22 12:03:54,416]: 
+[root at 2023-02-22 12:03:54,441]: Mobliz WOB Relic                                            Mobliz WOB Item
+[root at 2023-02-22 12:03:54,447]:     Amulet                     4300                             Fenix Down                 570
+[root at 2023-02-22 12:03:54,473]:     Cure Ring                  9840                             X-Ether                    11520
+[root at 2023-02-22 12:03:54,473]:     Charm Bangle               11200                            Eyedrop                    61
+[root at 2023-02-22 12:03:54,524]:     Back Guard                 7700                             Green Cherry               118
+[root at 2023-02-22 12:03:54,530]:     White Cape                 4400                             Water Edge                 470
+[root at 2023-02-22 12:03:54,530]:     FakeMustache               5100                             Magicite                   2700
+[root at 2023-02-22 12:03:54,550]:     Ribbon                     24360                            Antidote                   37
+[root at 2023-02-22 12:03:54,550]:     Dragon Horn                22599                            Revivify                   288
+[root at 2023-02-22 12:03:54,550]: 
+[root at 2023-02-22 12:03:54,550]: Nikeah WOB Weapon                                           Nikeah WOB Armor
+[root at 2023-02-22 12:03:54,550]:     Antidote                   37                               DiamondArmor               18450
+[root at 2023-02-22 12:03:54,556]:     Tincture                   1365                             Genji Shld                 28900
+[root at 2023-02-22 12:03:54,571]:     Flame Sabre                5670                             Light Robe                 12760
+[root at 2023-02-22 12:03:54,577]:     Poison Claw                2650                             Tiara                      3330
+[root at 2023-02-22 12:03:54,582]:     Thunder Rod                12120
+[root at 2023-02-22 12:03:54,582]:     Debilitator                5250
+[root at 2023-02-22 12:03:54,582]:     Morning Star               5150
+[root at 2023-02-22 12:03:54,582]:     Mithril Rod                620
+[root at 2023-02-22 12:03:54,582]: 
+[root at 2023-02-22 12:03:54,582]: Nikeah WOB Item                                             Nikeah WOB Relic
+[root at 2023-02-22 12:03:54,587]:     Inviz Edge                 242                              Sneak Ring                 2550
+[root at 2023-02-22 12:03:54,608]:     Tent                       1152                             Amulet                     4300
+[root at 2023-02-22 12:03:54,613]:     Potion                     225                              Muscle Belt                18020
+[root at 2023-02-22 12:03:54,619]:     Green Cherry               118                              Memento Ring               9480
+[root at 2023-02-22 12:03:54,619]:     Antidote                   37                               Gold Hairpin               16740
+[root at 2023-02-22 12:03:54,619]:     Bolt Edge                  590                              True Knight                1240
+[root at 2023-02-22 12:03:54,619]:     Water Edge                 470
+[root at 2023-02-22 12:03:54,619]:     Echo Screen                92
+[root at 2023-02-22 12:03:54,619]: 
+[root at 2023-02-22 12:03:54,619]: Kohlingen WOB Weapon                                        Kohlingen WOB Armor
+[root at 2023-02-22 12:03:54,619]:     Echo Screen                92                               Diamond Vest               14160
+[root at 2023-02-22 12:03:54,619]:     Full Moon                  2800                             Czarina Gown               23920
+[root at 2023-02-22 12:03:54,619]:     Partisan                   12740                            Moogle Suit                11640
+[root at 2023-02-22 12:03:54,619]:     Flail                      1620                             Tabby Suit                 5600
+[root at 2023-02-22 12:03:54,655]:     Shadow Edge                392                              Magus Hat                  612
+[root at 2023-02-22 12:03:54,660]:     Trident                    2108
+[root at 2023-02-22 12:03:54,660]:     Man Eater                  12320
+[root at 2023-02-22 12:03:54,681]:     Crystal                    18300
+[root at 2023-02-22 12:03:54,696]: 
+[root at 2023-02-22 12:03:54,707]: Kohlingen WOB Item                                          Jidoor WOB Weapon
+[root at 2023-02-22 12:03:54,707]:     Smoke Bomb                 273                              Dice                       6000
+[root at 2023-02-22 12:03:54,717]:     Warp Stone                 840                              ThiefKnife                 5160
+[root at 2023-02-22 12:03:54,748]:     Fire Skean                 435                              Morning Star               5150
+[root at 2023-02-22 12:03:54,774]:     Green Cherry               118                              Punisher                   4680
+[root at 2023-02-22 12:03:54,779]:     Inviz Edge                 242                              Stout Spear                7900
+[root at 2023-02-22 12:03:54,784]:                                                                 Assassin                   7500
+[root at 2023-02-22 12:03:54,790]: 
+[root at 2023-02-22 12:03:54,810]: Jidoor WOB Armor                                            Jidoor WOB Item
+[root at 2023-02-22 12:03:54,815]:     Diamond Vest               14160                            Green Cherry               118
+[root at 2023-02-22 12:03:54,821]:     Gold Shld                  2875                             Revivify                   288
+[root at 2023-02-22 12:03:54,831]:     Crystal Mail               19040                            Remedy                     830
+[root at 2023-02-22 12:03:54,852]:     Moogle Suit                11640                            Water Edge                 470
+[root at 2023-02-22 12:03:54,857]:     Crystal Shld               6370                             Tincture                   1365
+[root at 2023-02-22 12:03:54,857]:     Genji Helmet               30720                            Bolt Edge                  590
+[root at 2023-02-22 12:03:54,857]:     Gaia Gear                  4680                             Debilitator                5250
+[root at 2023-02-22 12:03:54,873]:     Tao Robe                   11960                            AutoCrossbow               242
+[root at 2023-02-22 12:03:54,878]: 
+[root at 2023-02-22 12:03:54,883]: Jidoor WOB Relic                                            Albrook WOB Item
+[root at 2023-02-22 12:03:54,884]:     Gold Hairpin               16740                            Bolt Edge                  590
+[root at 2023-02-22 12:03:54,884]:     Atlas Armlet               5450                             Tonic                      59
+[root at 2023-02-22 12:03:54,884]:     MithrilGlove               644                              Green Cherry               118
+[root at 2023-02-22 12:03:54,889]:     Coin Toss                  6375                             X-Ether                    11520
+[root at 2023-02-22 12:03:54,889]:                                                                 Tincture                   1365
+[root at 2023-02-22 12:03:54,889]:                                                                 Fenix Down                 570
+[root at 2023-02-22 12:03:54,895]:                                                                 Water Edge                 470
+[root at 2023-02-22 12:03:54,966]:                                                                 Sleeping Bag               625
+[root at 2023-02-22 12:03:54,972]: 
+[root at 2023-02-22 12:03:54,992]: Albrook WOB Weapon                                          Albrook WOB Armor
+[root at 2023-02-22 12:03:54,998]:     Magus Rod                  23700                            Dark Hood                  8475
+[root at 2023-02-22 12:03:55,003]:     Ninja Star                 575                              White Dress                2112
+[root at 2023-02-22 12:03:55,008]:     Pearl Rod                  14832                            Coronet                    8560
+[root at 2023-02-22 12:03:55,013]:                                                                 Red Cap                    18170
+[root at 2023-02-22 12:03:55,018]:                                                                 Light Robe                 12760
+[root at 2023-02-22 12:03:55,029]: 
+[root at 2023-02-22 12:03:55,055]: Vector Weapon                                               Vector Armor
+[root at 2023-02-22 12:03:55,065]:     Potion                     225                              Gold Helmet                4240
+[root at 2023-02-22 12:03:55,096]:     Tonic                      59                               Moogle Suit                11640
+[root at 2023-02-22 12:03:55,111]:     Doom Darts                 26040                            Tiara                      3330
+[root at 2023-02-22 12:03:55,142]:     Magicite                   2700                             Dark Hood                  8475
+[root at 2023-02-22 12:03:55,163]:     Poison Rod                 5310                             Crystal Shld               6370
+[root at 2023-02-22 12:03:55,163]:                                                                 Thornlet                   18050
+[root at 2023-02-22 12:03:55,163]:                                                                 Imp's Armor                14550
+[root at 2023-02-22 12:03:55,163]: 
+[root at 2023-02-22 12:03:55,163]: Tzen WOB Weapon                                             Tzen WOB Armor
+[root at 2023-02-22 12:03:55,163]:     Revivify                   288                              Titanium                   12400
+[root at 2023-02-22 12:03:55,163]:     Shadow Edge                392                              Force Armor                32250
+[root at 2023-02-22 12:03:55,183]:     Rune Edge                  6450                             Magus Hat                  612
+[root at 2023-02-22 12:03:55,189]:     Imperial                   480                              TortoiseShld               10000
+[root at 2023-02-22 12:03:55,194]:     Trident                    2108                             Gold Armor                 11399
+[root at 2023-02-22 12:03:55,194]:     Murasame                   8640
+[root at 2023-02-22 12:03:55,194]:     Doom Darts                 26040
+[root at 2023-02-22 12:03:55,194]:     Punisher                   4680
+[root at 2023-02-22 12:03:55,194]: 
+[root at 2023-02-22 12:03:55,194]: Tzen WOB Item                                               Tzen WOB Relic
+[root at 2023-02-22 12:03:55,194]:     Inviz Edge                 242                              MithrilGlove               644
+[root at 2023-02-22 12:03:55,194]:     Revivify                   288                              Gold Hairpin               16740
+[root at 2023-02-22 12:03:55,194]:     Fenix Down                 570                              FakeMustache               5100
+[root at 2023-02-22 12:03:55,194]:     Green Cherry               118                              Gauntlet                   4650
+[root at 2023-02-22 12:03:55,194]:     Tent                       1152                             Cherub Down                7623
+[root at 2023-02-22 12:03:55,195]:     Magicite                   2700                             Barrier Ring               460
+[root at 2023-02-22 12:03:55,195]:     Fire Skean                 435                              True Knight                1240
+[root at 2023-02-22 12:03:55,195]:     Warp Stone                 840                              Crystal Orb                6180
+[root at 2023-02-22 12:03:55,195]: 
+[root at 2023-02-22 12:03:55,195]: Thamasa WOB Weapon                                          Thamasa WOB Armor
+[root at 2023-02-22 12:03:55,195]:     Shadow Edge                392                              Crystal Helm               8800
+[root at 2023-02-22 12:03:55,195]:     Mithril Rod                620                              Diamond Vest               14160
+[root at 2023-02-22 12:03:55,205]:     Crystal                    18300                            Hair Band                  156
+[root at 2023-02-22 12:03:55,221]:     Dirk                       154                              DiamondArmor               18450
+[root at 2023-02-22 12:03:55,221]:     Break Blade                11160                            Crystal Mail               19040
+[root at 2023-02-22 12:03:55,226]:     Aura Lance                 44460                            Head Band                  1712
+[root at 2023-02-22 12:03:55,226]:     Ogre Nix                   6640                             Buckler                    242
+[root at 2023-02-22 12:03:55,226]:     Enhancer                   11399
+[root at 2023-02-22 12:03:55,257]: 
+[root at 2023-02-22 12:03:55,257]: Thamasa WOB Item                                            Returner's Hideout Item
+[root at 2023-02-22 12:03:55,268]:     Revivify                   288                              Water Edge                 470
+[root at 2023-02-22 12:03:55,289]:     Tincture                   1365                             Smoke Bomb                 273
+[root at 2023-02-22 12:03:55,304]:     Inviz Edge                 242                              Tonic                      59
+[root at 2023-02-22 12:03:55,304]:     Eyedrop                    61                               Tent                       1152
+[root at 2023-02-22 12:03:55,310]:     Echo Screen                92                               Magicite                   2700
+[root at 2023-02-22 12:03:55,320]:     Poison Rod                 5310                             Fenix Down                 570
+[root at 2023-02-22 12:03:55,325]:     Green Cherry               118                              Bolt Edge                  590
+[root at 2023-02-22 12:03:55,325]:     Potion                     225                              Echo Screen                92
+[root at 2023-02-22 12:03:55,325]: 
+[root at 2023-02-22 12:03:55,325]: Maranda WOB Weapon                                          Maranda WOB Armor
+[root at 2023-02-22 12:03:55,325]:     Partisan                   12740                            Beret                      4270
+[root at 2023-02-22 12:03:55,325]:     Poison Claw                2650                             Magus Hat                  612
+[root at 2023-02-22 12:03:55,325]:     Magical Brsh               6930                             Mystery Veil               5940
+[root at 2023-02-22 12:03:55,325]:     Thunder Rod                12120                            Mithril Helm               1940
+[root at 2023-02-22 12:03:55,326]:     Imp Halberd                11125                            Diamond Shld               3255
+[root at 2023-02-22 12:03:55,341]:     Falchion                   20060                            White Dress                2112
+[root at 2023-02-22 12:03:55,356]: 
+[root at 2023-02-22 12:03:55,362]: Gau Father House Vendor                                     Albrook WOB Relic
+[root at 2023-02-22 12:03:55,367]:     Green Cherry               118                              Atlas Armlet               5450
+[root at 2023-02-22 12:03:55,367]:     Magicite                   2700                             Coin Toss                  6375
+[root at 2023-02-22 12:03:55,382]:     Potion                     225                              MithrilGlove               644
+[root at 2023-02-22 12:03:55,413]:     Ether                      4900                             Gale Hairpin               9280
+[root at 2023-02-22 12:03:55,434]:     Smoke Bomb                 273                              Gold Hairpin               16740
+[root at 2023-02-22 12:03:55,449]:     Remedy                     830                              Blizzard Orb               6675
+[root at 2023-02-22 12:03:55,450]:                                                                 True Knight                1240
+[root at 2023-02-22 12:03:55,450]:                                                                 Safety Bit                 13440
+[root at 2023-02-22 12:03:55,521]: 
+[root at 2023-02-22 12:03:55,531]: Narshe WOB Weapon                                           Narshe WOB Armor
+[root at 2023-02-22 12:03:55,547]:     Flame Sabre                5670                             Mithril Helm               1940
+[root at 2023-02-22 12:03:55,552]:     Sky Render                 33990                            Head Band                  1712
+[root at 2023-02-22 12:03:55,563]:     Bone Club                  7560                             Crystal Helm               8800
+[root at 2023-02-22 12:03:55,563]:                                                                 Titanium                   12400
+[root at 2023-02-22 12:03:55,563]:                                                                 Power Sash                 5350
+[root at 2023-02-22 12:03:55,588]:                                                                 Kung Fu Suit               295
+[root at 2023-02-22 12:03:55,604]: 
+[root at 2023-02-22 12:03:55,604]: Narshe WOB Relic                                            Narshe WOB Item
+[root at 2023-02-22 12:03:55,604]:     Jewel Ring                 1050                             Warp Stone                 840
+[root at 2023-02-22 12:03:55,630]:     Gale Hairpin               9280                             Magicite                   2700
+[root at 2023-02-22 12:03:55,630]:                                                                 Fenix Down                 570
+[root at 2023-02-22 12:03:55,635]:                                                                 Smoke Bomb                 273
+[root at 2023-02-22 12:03:55,640]:                                                                 X-Ether                    11520
+[root at 2023-02-22 12:03:55,651]:                                                                 X-Potion                   4200
+[root at 2023-02-22 12:03:55,651]:                                                                 Potion                     225
+[root at 2023-02-22 12:03:55,651]:                                                                 Tent                       1152
+[root at 2023-02-22 12:03:55,692]: 
+[root at 2023-02-22 12:03:55,697]: Thamasa WOB Relic                                           Blackjack Item
+[root at 2023-02-22 12:03:55,707]:     Gauntlet                   4650                             Fire Skean                 435
+[root at 2023-02-22 12:03:55,713]:     Back Guard                 7700                             Soft                       250
+[root at 2023-02-22 12:03:55,764]:     Guard Ring                 3850                             Revivify                   288
+[root at 2023-02-22 12:03:55,774]:     Wall Ring                  7380                             Tonic                      59
+[root at 2023-02-22 12:03:55,775]:                                                                 Charm Bangle               11200
+[root at 2023-02-22 12:03:55,800]:                                                                 Air Anchor                 9440
+[root at 2023-02-22 12:03:55,811]:                                                                 Inviz Edge                 242
+[root at 2023-02-22 12:03:55,841]:                                                                 Antidote                   37
+[root at 2023-02-22 12:03:55,872]: 
+[root at 2023-02-22 12:03:55,888]: Figaro Castle WOB (Left) Item                               Albrook WOR Item
+[root at 2023-02-22 12:03:55,893]:     Eyedrop                    61                               Green Cherry               118
+[root at 2023-02-22 12:03:55,893]:     Magicite                   2700                             Fire Skean                 435
+[root at 2023-02-22 12:03:55,899]:     Dried Meat                 178                              Soft                       250
+[root at 2023-02-22 12:03:55,899]:     Tincture                   1365                             Ether                      4900
+[root at 2023-02-22 12:03:55,909]:     Antidote                   37                               Potion                     225
+[root at 2023-02-22 12:03:55,924]:     Echo Screen                92                               Bolt Edge                  590
+[root at 2023-02-22 12:03:55,930]:     Revivify                   288                              Revivify                   288
+[root at 2023-02-22 12:03:55,976]:     Soft                       250                              Dried Meat                 178
+[root at 2023-02-22 12:03:55,981]: 
+[root at 2023-02-22 12:03:55,986]: Albrook WOR Weapon                                          Albrook WOR Armor
+[root at 2023-02-22 12:03:55,987]:     Dice                       6000                             Tiara                      3330
+[root at 2023-02-22 12:03:56,002]:     Trident                    2108                             Diamond Vest               14160
+[root at 2023-02-22 12:03:56,007]:     Rainbow Brsh               10530                            Force Shld                 49980
+[root at 2023-02-22 12:03:56,018]:     Atma Weapon                35420                            Red Jacket                 38720
+[root at 2023-02-22 12:03:56,033]:     Ice Rod                    12120                            Gold Armor                 11399
+[root at 2023-02-22 12:03:56,054]:     Soul Sabre                 8000                             Titanium                   12400
+[root at 2023-02-22 12:03:56,066]:     RegalCutlass               816
+[root at 2023-02-22 12:03:56,077]:     Hawk Eye                   6480
+[root at 2023-02-22 12:03:56,133]: 
+[root at 2023-02-22 12:03:56,138]: Albrook WOR Relic                                           Tzen WOR Weapon
+[root at 2023-02-22 12:03:56,159]:     Pod Bracelet               5100                             Potion                     225
+[root at 2023-02-22 12:03:56,185]:     Gold Hairpin               16740                            Wing Edge                  22960
+[root at 2023-02-22 12:03:56,205]:     Wall Ring                  7380                             Assassin                   7500
+[root at 2023-02-22 12:03:56,211]:     Earrings                   4000                             Hawk Eye                   6480
+[root at 2023-02-22 12:03:56,221]:     DragoonBoots               10620
+[root at 2023-02-22 12:03:56,257]:     Beads                      3880
+[root at 2023-02-22 12:03:56,288]:     Blizzard Orb               6675
+[root at 2023-02-22 12:03:56,293]: 
+[root at 2023-02-22 12:03:56,298]: Tzen WOR Armor                                              Tzen WOR Item
+[root at 2023-02-22 12:03:56,309]:     Oath Veil                  9900                             Echo Screen                92
+[root at 2023-02-22 12:03:56,314]:     Mithril Shld               1032                             Warp Stone                 840
+[root at 2023-02-22 12:03:56,335]:     Diamond Helm               8720                             Soft                       250
+[root at 2023-02-22 12:03:56,350]:     Moogle Suit                11640                            Antidote                   37
+[root at 2023-02-22 12:03:56,350]:     Czarina Gown               23920                            Potion                     225
+[root at 2023-02-22 12:03:56,350]:     Coronet                    8560                             Magicite                   2700
+[root at 2023-02-22 12:03:56,350]:     Gold Armor                 11399                            Smoke Bomb                 273
+[root at 2023-02-22 12:03:56,366]:     Hair Band                  156                              Tincture                   1365
+[root at 2023-02-22 12:03:56,402]: 
+[root at 2023-02-22 12:03:56,407]: Tzen WOR Relic                                              Nikeah WOR Weapon
+[root at 2023-02-22 12:03:56,418]:     Relic Ring                 1150                             Stunner                    45000
+[root at 2023-02-22 12:03:56,438]:     Blizzard Orb               6675                             Cards                      1150
+[root at 2023-02-22 12:03:56,494]:     MithrilGlove               644                              Blossom                    3328
+[root at 2023-02-22 12:03:56,499]:     Cherub Down                7623                             Poison Claw                2650
+[root at 2023-02-22 12:03:56,530]:                                                                 Rainbow Brsh               10530
+[root at 2023-02-22 12:03:56,530]:                                                                 DaVinci Brsh               7280
+[root at 2023-02-22 12:03:56,530]: 
+[root at 2023-02-22 12:03:56,546]: Nikeah WOR Armor                                            Nikeah WOR Item
+[root at 2023-02-22 12:03:56,551]:     Gaia Gear                  4680                             Bolt Edge                  590
+[root at 2023-02-22 12:03:56,551]:     Head Band                  1712                             Sleeping Bag               625
+[root at 2023-02-22 12:03:56,551]:     Plumed Hat                 197                              Tincture                   1365
+[root at 2023-02-22 12:03:56,551]:     Coronet                    8560                             Tent                       1152
+[root at 2023-02-22 12:03:56,577]:     Chocobo Suit               9790                             Remedy                     830
+[root at 2023-02-22 12:03:56,582]:                                                                 Inviz Edge                 242
+[root at 2023-02-22 12:03:56,582]:                                                                 Shadow Edge                392
+[root at 2023-02-22 12:03:56,598]:                                                                 Dried Meat                 178
+[root at 2023-02-22 12:03:56,608]: 
+[root at 2023-02-22 12:03:56,613]: Nikeah WOR Relic                                            South Figaro WOR Weapon
+[root at 2023-02-22 12:03:56,624]:     Thief Glove                5350                             Enhancer                   11399
+[root at 2023-02-22 12:03:56,629]:     Tintinabar                 3150                             Aura                       11760
+[root at 2023-02-22 12:03:56,629]:     Charm Bangle               11200                            Partisan                   12740
+[root at 2023-02-22 12:03:56,629]:     Ribbon                     24360                            Morning Star               5150
+[root at 2023-02-22 12:03:56,629]:     Blizzard Orb               6675                             Tempest                    12000
+[root at 2023-02-22 12:03:56,629]:     Hero Ring                  18720                            Blizzard                   5880
+[root at 2023-02-22 12:03:56,640]:                                                                 Magus Rod                  23700
+[root at 2023-02-22 12:03:56,676]:                                                                 Debilitator                5250
+[root at 2023-02-22 12:03:56,681]: 
+[root at 2023-02-22 12:03:56,696]: South Figaro WOR Armor                                      South Figaro WOR Relic
+[root at 2023-02-22 12:03:56,696]:     Crystal Helm               8800                             Pod Bracelet               5100
+[root at 2023-02-22 12:03:56,707]:     Beret                      4270                             Gale Hairpin               9280
+[root at 2023-02-22 12:03:56,738]:     Dark Gear                  10270                            Crystal Orb                6180
+[root at 2023-02-22 12:03:56,753]:     Chocobo Suit               9790                             Hyper Wrist                6080
+[root at 2023-02-22 12:03:56,754]:     Titanium                   12400                            RunningShoes               7350
+[root at 2023-02-22 12:03:56,779]: 
+[root at 2023-02-22 12:03:56,785]: South Figaro WOR Item                                       Figaro Castle WOR (Left) Item
+[root at 2023-02-22 12:03:56,790]:     Sleeping Bag               625                              Tincture                   1365
+[root at 2023-02-22 12:03:56,790]:     Warp Stone                 840                              Bolt Edge                  590
+[root at 2023-02-22 12:03:56,795]:     Ether                      4900                             Tonic                      59
+[root at 2023-02-22 12:03:56,800]:     Magicite                   2700                             Warp Stone                 840
+[root at 2023-02-22 12:03:56,806]:     Tent                       1152                             Echo Screen                92
+[root at 2023-02-22 12:03:56,836]:     Megalixir                  45599                            Fenix Down                 570
+[root at 2023-02-22 12:03:56,842]:     Kotetsu                    864                              Dried Meat                 178
+[root at 2023-02-22 12:03:56,842]:     Flash                      840                              Revivify                   288
+[root at 2023-02-22 12:03:56,842]: 
+[root at 2023-02-22 12:03:56,842]: Kohlingen WOR Weapon                                        Kohlingen WOR Armor
+[root at 2023-02-22 12:03:56,862]:     Green Cherry               118                              Diamond Helm               8720
+[root at 2023-02-22 12:03:56,868]:     Man Eater                  12320                            Coronet                    8560
+[root at 2023-02-22 12:03:56,893]:     ThunderBlade               7840                             Mirage Vest                7650
+[root at 2023-02-22 12:03:56,893]:     Bone Club                  7560                             Diamond Shld               3255
+[root at 2023-02-22 12:03:56,904]:                                                                 Thornlet                   18050
+[root at 2023-02-22 12:03:56,909]:                                                                 Moogle Suit                11640
+[root at 2023-02-22 12:03:56,914]: 
+[root at 2023-02-22 12:03:56,935]: Kohlingen WOR Item                                          Thamasa WOR Weapon
+[root at 2023-02-22 12:03:56,935]:     Eyedrop                    61                               Pearl Lance                25500
+[root at 2023-02-22 12:03:56,966]:     Antidote                   37                               Antidote                   37
+[root at 2023-02-22 12:03:56,966]:     Remedy                     830                              Magicite                   2700
+[root at 2023-02-22 12:03:56,971]:     Magicite                   2700                             Fire Knuckle               12100
+[root at 2023-02-22 12:03:56,987]:     Echo Screen                92                               Thunder Rod                12120
+[root at 2023-02-22 12:03:57,012]:     Potion                     225
+[root at 2023-02-22 12:03:57,023]:     Chain Saw                  2500
+[root at 2023-02-22 12:03:57,028]:     Green Cherry               118
+[root at 2023-02-22 12:03:57,038]: 
+[root at 2023-02-22 12:03:57,038]: Thamasa WOR Armor                                           Thamasa WOR Item
+[root at 2023-02-22 12:03:57,054]:     Plumed Hat                 197                              Inviz Edge                 242
+[root at 2023-02-22 12:03:57,074]:     Imp's Armor                14550                            Sleeping Bag               625
+[root at 2023-02-22 12:03:57,085]:     Heavy Shld                 412                              Potion                     225
+[root at 2023-02-22 12:03:57,090]:     Genji Helmet               30720                            Fire Skean                 435
+[root at 2023-02-22 12:03:57,091]:     Magus Hat                  612                              Warp Stone                 840
+[root at 2023-02-22 12:03:57,091]:     Diamond Shld               3255                             Smoke Bomb                 273
+[root at 2023-02-22 12:03:57,116]:                                                                 Ether                      4900
+[root at 2023-02-22 12:03:57,116]:                                                                 Shadow Edge                392
+[root at 2023-02-22 12:03:57,117]: 
+[root at 2023-02-22 12:03:57,127]: Thamasa WOR Relic                                           Jidoor WOR Weapon
+[root at 2023-02-22 12:03:57,127]:     Beads                      3880                             Epee                       3120
+[root at 2023-02-22 12:03:57,128]:     RunningShoes               7350                             Morning Star               5150
+[root at 2023-02-22 12:03:57,128]:     Barrier Ring               460                              Flame Sabre                5670
+[root at 2023-02-22 12:03:57,128]:     Memento Ring               9480                             Kotetsu                    864
+[root at 2023-02-22 12:03:57,130]:     Rage Ring                  7425                             Poison Rod                 5310
+[root at 2023-02-22 12:03:57,130]: 
+[root at 2023-02-22 12:03:57,130]: Jidoor WOR Armor                                            Jidoor WOR Item
+[root at 2023-02-22 12:03:57,130]:     Light Robe                 12760                            Revivify                   288
+[root at 2023-02-22 12:03:57,131]:     DiamondArmor               18450                            Echo Screen                92
+[root at 2023-02-22 12:03:57,131]:     Dark Hood                  8475                             Ether                      4900
+[root at 2023-02-22 12:03:57,131]:     Tiara                      3330                             Shadow Edge                392
+[root at 2023-02-22 12:03:57,132]:     Genji Helmet               30720                            Tincture                   1365
+[root at 2023-02-22 12:03:57,132]:                                                                 Flash                      840
+[root at 2023-02-22 12:03:57,132]:                                                                 Chain Saw                  2500
+[root at 2023-02-22 12:03:57,132]:                                                                 Rage Ring                  7425
+[root at 2023-02-22 12:03:57,132]: 
+[root at 2023-02-22 12:03:57,132]: Jidoor WOR Relic                                            Maranda WOR Weapon
+[root at 2023-02-22 12:03:57,133]:     Fairy Ring                 1800                             Potion                     225
+[root at 2023-02-22 12:03:57,133]:     Coin Toss                  6375                             Dirk                       154
+[root at 2023-02-22 12:03:57,134]:     Hyper Wrist                6080                             Mithril Claw               911
+[root at 2023-02-22 12:03:57,134]:     White Cape                 4400                             Soul Sabre                 8000
+[root at 2023-02-22 12:03:57,134]:     Black Belt                 6200
+[root at 2023-02-22 12:03:57,134]:     Wall Ring                  7380
+[root at 2023-02-22 12:03:57,134]:     Blizzard Orb               6675
+[root at 2023-02-22 12:03:57,134]:     Gale Hairpin               9280
+[root at 2023-02-22 12:03:57,134]: 
+[root at 2023-02-22 12:03:57,134]: Maranda WOR Armor                                           Figaro Castle WOB (Right) Item
+[root at 2023-02-22 12:03:57,134]:     Magus Hat                  612                              X-Ether                    11520
+[root at 2023-02-22 12:03:57,134]:     Diamond Vest               14160                            Soft                       250
+[root at 2023-02-22 12:03:57,134]:     Gold Helmet                4240                             Water Edge                 470
+[root at 2023-02-22 12:03:57,134]:     Beret                      4270                             Remedy                     830
+[root at 2023-02-22 12:03:57,134]:     Mithril Shld               1032                             Fenix Down                 570
+[root at 2023-02-22 12:03:57,135]:     Light Robe                 12760                            Tonic                      59
+[root at 2023-02-22 12:03:57,135]:     Tiara                      3330                             Warp Stone                 840
+[root at 2023-02-22 12:03:57,135]:                                                                 Air Anchor                 9440
+[root at 2023-02-22 12:03:57,135]: 
+[root at 2023-02-22 12:03:57,135]: Figaro Castle WOR (Right) Item                              Phantom Train Item
+[root at 2023-02-22 12:03:57,135]:     Smoke Bomb                 273                              Elixir                     15400
+[root at 2023-02-22 12:03:57,135]:     Bolt Edge                  590                              Water Edge                 470
+[root at 2023-02-22 12:03:57,135]:     Ether                      4900                             Ether                      4900
+[root at 2023-02-22 12:03:57,135]:     Remedy                     830                              Echo Screen                92
+[root at 2023-02-22 12:03:57,135]:     Green Cherry               118                              Dried Meat                 178
+[root at 2023-02-22 12:03:57,135]:     Soft                       250                              Tent                       1152
+[root at 2023-02-22 12:03:57,135]:     Fire Skean                 435                              Tonic                      59
+[root at 2023-02-22 12:03:57,135]:     Tincture                   1365                             Bolt Edge                  590
+[root at 2023-02-22 12:03:57,137]: 
+[root at 2023-02-22 12:03:57,137]: ------------------------------------------------------- Coliseum -------------------------------------------------------
+[root at 2023-02-22 12:03:57,137]: Dirk                                                   Suriander                                                   Aura*
+[root at 2023-02-22 12:03:57,137]: MithrilKnife-------------------------------------------Anguiform--------------------------------------------Gold Helmet*
+[root at 2023-02-22 12:03:57,137]: Guardian                                                 Guard                                                  X-Ether*
+[root at 2023-02-22 12:03:57,137]: Air Lancet-----------------------------------------------Ursus---------------------------------------------BehemothSuit
+[root at 2023-02-22 12:03:57,137]: ThiefKnife                                             Mag Roader                                               Bandana*
+[root at 2023-02-22 12:03:57,137]: Assassin-----------------------------------------------Trilobiter---------------------------------------------Coin Toss*
+[root at 2023-02-22 12:03:57,137]: Man Eater                                              Abolisher                                           Mithril Helm*
+[root at 2023-02-22 12:03:57,137]: SwordBreaker-------------------------------------------Rhinotaur-------------------------------------------Czarina Ring
+[root at 2023-02-22 12:03:57,137]: Graedus                                                 Sprinter                                              Boomerang*
+[root at 2023-02-22 12:03:57,138]: ValiantKnife--------------------------------------------Rain Man-----------------------------------------------Revivify*
+[root at 2023-02-22 12:03:57,138]: MithrilBlade                                            Retainer                                           Gale Hairpin*
+[root at 2023-02-22 12:03:57,138]: RegalCutlass--------------------------------------------Scorpion------------------------------------------------Graedus*
+[root at 2023-02-22 12:03:57,138]: Rune Edge                                                Osprey                                            Morning Star
+[root at 2023-02-22 12:03:57,138]: Flame Sabre--------------------------------------------Land Worm-------------------------------------------MetalKnuckle*
+[root at 2023-02-22 12:03:57,138]: Blizzard                                               Rhinotaur                                            White Dress
+[root at 2023-02-22 12:03:57,138]: ThunderBlade--------------------------------------------Insecare----------------------------------------------Boomerang*
+[root at 2023-02-22 12:03:57,138]: Epee                                                     Vindr                                               Iron Armor
+[root at 2023-02-22 12:03:57,138]: Break Blade--------------------------------------------Pipsqueak-------------------------------------------MithrilBlade*
+[root at 2023-02-22 12:03:57,138]: Drainer                                                 Punisher                                             Tintinabar
+[root at 2023-02-22 12:03:57,138]: Enhancer-----------------------------------------------HeavyArmor-------------------------------------------------Darts*
+[root at 2023-02-22 12:03:57,139]: Crystal                                                 Outsider                                               Enhancer*
+[root at 2023-02-22 12:03:57,139]: Falchion-----------------------------------------------Vector Pup-------------------------------------------------Drill*
+[root at 2023-02-22 12:03:57,139]: Soul Sabre                                               Rhinox                                             Genji Armor*
+[root at 2023-02-22 12:03:57,139]: Ogre Nix-------------------------------------------------Ursus---------------------------------------------------Sniper*
+[root at 2023-02-22 12:03:57,139]: Excalibur                                              HeavyArmor                                            Poison Rod*
+[root at 2023-02-22 12:03:57,139]: Scimitar--------------------------------------------------Pug----------------------------------------------ThunderBlade*
+[root at 2023-02-22 12:03:57,139]: Illumina                                                 Rider                                                  Stunner
+[root at 2023-02-22 12:03:57,139]: Ragnarok-------------------------------------------------Osprey--------------------------------------------Atlas Armlet*
+[root at 2023-02-22 12:03:57,139]: Atma Weapon                                            Nautiloid                                            Stout Spear
+[root at 2023-02-22 12:03:57,139]: Mithril Pike--------------------------------------------Grenade---------------------------------------------True Knight*
+[root at 2023-02-22 12:03:57,139]: Trident                                                HermitCrab                                          Barrier Ring*
+[root at 2023-02-22 12:03:57,139]: Stout Spear---------------------------------------------Outsider----------------------------------------------Silk Robe
+[root at 2023-02-22 12:03:57,139]: Partisan                                               Mag Roader                                          Sleeping Bag*
+[root at 2023-02-22 12:03:57,140]: Pearl Lance----------------------------------------------Slurm----------------------------------------------------Drill*
+[root at 2023-02-22 12:03:57,140]: Gold Lance                                               Beakor                                              Ninja Star
+[root at 2023-02-22 12:03:57,140]: Aura Lance----------------------------------------------Punisher-----------------------------------------------Illumina
+[root at 2023-02-22 12:03:57,140]: Imp Halberd                                            GreaseMonk                                              Illumina*
+[root at 2023-02-22 12:03:57,140]: Imperial------------------------------------------------Red Wolf------------------------------------------------X-Ether
+[root at 2023-02-22 12:03:57,140]: Kodachi                                                Mag Roader                                          Chocobo Suit*
+[root at 2023-02-22 12:03:57,140]: Blossom-------------------------------------------------Slatter--------------------------------------------------Kaiser
+[root at 2023-02-22 12:03:57,140]: Hardened                                                 Rider                                               Rising Sun
+[root at 2023-02-22 12:03:57,140]: Striker--------------------------------------------------Fidor----------------------------------------------Dragon Claw*
+[root at 2023-02-22 12:03:57,140]: Stunner                                                 Spek Tor                                               Punisher*
+[root at 2023-02-22 12:03:57,140]: Ashura---------------------------------------------------Wizard--------------------------------------------DiamondArmor*
+[root at 2023-02-22 12:03:57,140]: Kotetsu                                                  Crawly                                              Flame Shld
+[root at 2023-02-22 12:03:57,141]: Forged--------------------------------------------------Chitonid--------------------------------------------Atma Weapon
+[root at 2023-02-22 12:03:57,141]: Tempest                                                  Exoray                                                Earrings*
+[root at 2023-02-22 12:03:57,141]: Murasame-----------------------------------------------Chaos Drgn-------------------------------------------Flame Sabre*
+[root at 2023-02-22 12:03:57,141]: Aura                                                    Telstar                                              Light Robe
+[root at 2023-02-22 12:03:57,141]: Strato---------------------------------------------------Beakor--------------------------------------------Mithril Claw*
+[root at 2023-02-22 12:03:57,141]: Sky Render                                                Junk                                                     Aura*
+[root at 2023-02-22 12:03:57,141]: Heal Rod-----------------------------------------------NeckHunter------------------------------------------BehemothSuit*
+[root at 2023-02-22 12:03:57,141]: Mithril Rod                                             Trilium                                            Paladin Shld*
+[root at 2023-02-22 12:03:57,141]: Fire Rod-----------------------------------------------Nohrabbit----------------------------------------------Hero Ring*
+[root at 2023-02-22 12:03:57,141]: Ice Rod                                                 Dueller                                            MithrilKnife*
+[root at 2023-02-22 12:03:57,141]: Thunder Rod--------------------------------------------Harvester-------------------------------------------MithrilGlove*
+[root at 2023-02-22 12:03:57,141]: Poison Rod                                             Vectagoyle                                                Kaiser*
+[root at 2023-02-22 12:03:57,142]: Pearl Rod-----------------------------------------------Trapper---------------------------------------------------Trump*
+[root at 2023-02-22 12:03:57,142]: Gravity Rod                                             Dahling                                              Water Edge*
+[root at 2023-02-22 12:03:57,142]: Punisher------------------------------------------------Chimera----------------------------------------------Jewel Ring*
+[root at 2023-02-22 12:03:57,142]: Magus Rod                                                 Ing                                                 Gold Shld*
+[root at 2023-02-22 12:03:57,142]: Chocobo Brsh--------------------------------------------Ceritops-----------------------------------------------Guardian
+[root at 2023-02-22 12:03:57,142]: DaVinci Brsh                                            Gobbler                                                    Soft*
+[root at 2023-02-22 12:03:57,142]: Magical Brsh-------------------------------------------Vomammoth------------------------------------------------Circlet*
+[root at 2023-02-22 12:03:57,143]: Rainbow Brsh                                           Sewer Rat                                                 Forged*
+[root at 2023-02-22 12:03:57,143]: Shuriken--------------------------------------------------Orog-----------------------------------------------Smoke Bomb*
+[root at 2023-02-22 12:03:57,143]: Ninja Star                                               Madam                                             Rainbow Brsh*
+[root at 2023-02-22 12:03:57,143]: Tack Star----------------------------------------------HadesGigas----------------------------------------------Hardened*
+[root at 2023-02-22 12:03:57,143]: Flail                                                   Areneid                                                 Circlet*
+[root at 2023-02-22 12:03:57,143]: Full Moon----------------------------------------------Commander-------------------------------------------Gold Hairpin*
+[root at 2023-02-22 12:03:57,143]: Morning Star                                           PlutoArmor                                            Aegis Shld
+[root at 2023-02-22 12:03:57,143]: Boomerang-----------------------------------------------Trapper--------------------------------------------Snow Muffler*
+[root at 2023-02-22 12:03:57,143]: Rising Sun                                              Doberman                                           Mithril Pike*
+[root at 2023-02-22 12:03:57,143]: Hawk Eye-----------------------------------------------Brachosaur-------------------------------------------Poison Claw*
+[root at 2023-02-22 12:03:57,143]: Bone Club                                                 Muus                                                 Tincture*
+[root at 2023-02-22 12:03:57,143]: Sniper--------------------------------------------------Geckorex--------------------------------------------Hyper Wrist*
+[root at 2023-02-22 12:03:57,143]: Wing Edge                                               Grenade                                               Tack Star
+[root at 2023-02-22 12:03:57,143]: Cards----------------------------------------------------Dante----------------------------------------------True Knight
+[root at 2023-02-22 12:03:57,146]: Darts                                                  GtBehemoth                                          Charm Bangle*
+[root at 2023-02-22 12:03:57,146]: Doom Darts------------------------------------------------Bogy-----------------------------------------------Fire Skean*
+[root at 2023-02-22 12:03:57,146]: Trump                                                   Apparite                                             Guard Ring
+[root at 2023-02-22 12:03:57,146]: Dice-----------------------------------------------------Leafer---------------------------------------------Thunder Rod
+[root at 2023-02-22 12:03:57,146]: Fixed Dice                                             Reach Frog                                              Thornlet
+[root at 2023-02-22 12:03:57,146]: MetalKnuckle---------------------------------------------Humpty--------------------------------------------Sleeping Bag*
+[root at 2023-02-22 12:03:57,146]: Mithril Claw                                           HeavyArmor                                              Heal Rod
+[root at 2023-02-22 12:03:57,146]: Kaiser--------------------------------------------------Insecare-----------------------------------------------Offering*
+[root at 2023-02-22 12:03:57,146]: Poison Claw                                            Pipsqueak                                             Safety Bit*
+[root at 2023-02-22 12:03:57,146]: Fire Knuckle---------------------------------------------Wizard----------------------------------------------------Dice*
+[root at 2023-02-22 12:03:57,146]: Dragon Claw                                              Chaser                                                Fire Rod
+[root at 2023-02-22 12:03:57,146]: Tiger Fangs----------------------------------------------Goblin----------------------------------------------Poison Rod*
+[root at 2023-02-22 12:03:57,146]: Buckler                                                   Bomb                                             AutoCrossbow*
+[root at 2023-02-22 12:03:57,146]: Heavy Shld----------------------------------------------Peepers----------------------------------------------Power Sash*
+[root at 2023-02-22 12:03:57,146]: Mithril Shld                                              Ogor                                               Sneak Ring
+[root at 2023-02-22 12:03:57,147]: Gold Shld--------------------------------------------------Io------------------------------------------------Genji Shld*
+[root at 2023-02-22 12:03:57,147]: Aegis Shld                                               Bleary                                              Water Edge
+[root at 2023-02-22 12:03:57,147]: Diamond Shld-------------------------------------------Suriander---------------------------------------------Sneak Ring*
+[root at 2023-02-22 12:03:57,148]: Flame Shld                                              Trapper                                             Leather Hat*
+[root at 2023-02-22 12:03:57,148]: Ice Shld------------------------------------------------Parasite-------------------------------------------Mithril Vest*
+[root at 2023-02-22 12:03:57,148]: Thunder Shld                                              Ogor                                             NoiseBlaster
+[root at 2023-02-22 12:03:57,148]: Crystal Shld---------------------------------------------Guard---------------------------------------------Kung Fu Suit
+[root at 2023-02-22 12:03:57,149]: Genji Shld                                              Sand Ray                                               Cat Hood
+[root at 2023-02-22 12:03:57,149]: TortoiseShld---------------------------------------------Barb-e--------------------------------------------Gold Hairpin*
+[root at 2023-02-22 12:03:57,149]: Cursed Shld                                            GloomShell                                                Sniper*
+[root at 2023-02-22 12:03:57,149]: Paladin Shld-------------------------------------------SrBehemoth-------------------------------------------Hyper Wrist*
+[root at 2023-02-22 12:03:57,149]: Force Shld                                             Chaos Drgn                                          DaVinci Brsh*
+[root at 2023-02-22 12:03:57,149]: Leather Hat----------------------------------------------Ghost-----------------------------------------------Guard Ring*
+[root at 2023-02-22 12:03:57,149]: Hair Band                                              Anguiform                                           Magical Brsh*
+[root at 2023-02-22 12:03:57,149]: Plumed Hat-----------------------------------------------Crawly--------------------------------------------Czarina Gown*
+[root at 2023-02-22 12:03:57,149]: Beret                                                  Baskervor                                            Mithril Rod*
+[root at 2023-02-22 12:03:57,149]: Magus Hat-----------------------------------------------Chitonid---------------------------------------------Dried Meat
+[root at 2023-02-22 12:03:57,150]: Bandana                                                PowerDemon                                              Falchion*
+[root at 2023-02-22 12:03:57,150]: Iron Helmet----------------------------------------------Hazer----------------------------------------------White Dress*
+[root at 2023-02-22 12:03:57,150]: Coronet                                                Brachosaur                                            Red Jacket*
+[root at 2023-02-22 12:03:57,150]: Bard's Hat---------------------------------------------Vectagoyle-------------------------------------------------Trump*
+[root at 2023-02-22 12:03:57,150]: Green Beret                                            Lethal Wpn                                            Back Guard*
+[root at 2023-02-22 12:03:57,150]: Head Band----------------------------------------------Boxed Set----------------------------------------------Silk Robe*
+[root at 2023-02-22 12:03:57,150]: Mithril Helm                                            Trooper                                                    Aura*
+[root at 2023-02-22 12:03:57,150]: Tiara----------------------------------------------------Humpty------------------------------------------------Enhancer*
+[root at 2023-02-22 12:03:57,150]: Gold Helmet                                             Sky Base                                           Blizzard Orb*
+[root at 2023-02-22 12:03:57,150]: Tiger Mask-----------------------------------------------Hoover----------------------------------------------Sky Render*
+[root at 2023-02-22 12:03:57,151]: Red Cap                                                   Pug                                                     Flash*
+[root at 2023-02-22 12:03:57,151]: Mystery Veil-------------------------------------------FossilFang------------------------------------------Diamond Helm*
+[root at 2023-02-22 12:03:57,151]: Circlet                                                  Cluck                                              Imp Halberd*
+[root at 2023-02-22 12:03:57,151]: Regal Crown---------------------------------------------Slatter--------------------------------------------DiamondArmor
+[root at 2023-02-22 12:03:57,151]: Diamond Helm                                             Rider                                               Heavy Shld*
+[root at 2023-02-22 12:03:57,151]: Dark Hood------------------------------------------------Borras-----------------------------------------------Silk Robe
+[root at 2023-02-22 12:03:57,151]: Crystal Helm                                            Cephaler                                                Stunner*
+[root at 2023-02-22 12:03:57,151]: Oath Veil-----------------------------------------------Anemone--------------------------------------------------Remedy
+[root at 2023-02-22 12:03:57,151]: Cat Hood                                                Scrapper                                           TortoiseShld
+[root at 2023-02-22 12:03:57,151]: Genji Helmet--------------------------------------------Commando---------------------------------------------Gold Armor*
+[root at 2023-02-22 12:03:57,151]: Thornlet                                               1st Class                                            Break Blade
+[root at 2023-02-22 12:03:57,151]: Titanium------------------------------------------------Luridan----------------------------------------------Fenix Down
+[root at 2023-02-22 12:03:57,151]: LeatherArmor                                            Rhobite                                            Mithril Mail
+[root at 2023-02-22 12:03:57,151]: Cotton Robe---------------------------------------------Repo Man-------------------------------------------Crystal Mail
+[root at 2023-02-22 12:03:57,151]: Kung Fu Suit                                            Brainpan                                            White Dress*
+[root at 2023-02-22 12:03:57,152]: Iron Armor------------------------------------------------Garm----------------------------------------------------Cards*
+[root at 2023-02-22 12:03:57,152]: Silk Robe                                                Hoover                                              Dried Meat
+[root at 2023-02-22 12:03:57,152]: Mithril Vest---------------------------------------------Rider-----------------------------------------------------Dice
+[root at 2023-02-22 12:03:57,152]: Ninja Gear                                               Madam                                             Diamond Shld*
+[root at 2023-02-22 12:03:57,152]: White Dress----------------------------------------------Aquila----------------------------------------------Ninja Star
+[root at 2023-02-22 12:03:57,152]: Mithril Mail                                            Parasite                                              Magus Rod*
+[root at 2023-02-22 12:03:57,152]: Gaia Gear----------------------------------------------Latimeria-----------------------------------------------X-Potion
+[root at 2023-02-22 12:03:57,152]: Mirage Vest                                               Junk                                              True Knight*
+[root at 2023-02-22 12:03:57,152]: Gold Armor---------------------------------------------Gold Bear----------------------------------------------Pearl Rod
+[root at 2023-02-22 12:03:57,152]: Power Sash                                              Spectre                                               Hero Ring*
+[root at 2023-02-22 12:03:57,152]: Light Robe----------------------------------------------Retainer-------------------------------------------MithrilBlade*
+[root at 2023-02-22 12:03:57,152]: Diamond Vest                                             Barb-e                                            Star Pendant*
+[root at 2023-02-22 12:03:57,152]: Red Jacket-----------------------------------------------Hornet-------------------------------------------------Blossom*
+[root at 2023-02-22 12:03:57,152]: Force Armor                                              Wizard                                                Exp. Egg*
+[root at 2023-02-22 12:03:57,152]: DiamondArmor-------------------------------------------Hipocampus---------------------------------------------Bone Club*
+[root at 2023-02-22 12:03:57,152]: Dark Gear                                              NeckHunter                                          MetalKnuckle
+[root at 2023-02-22 12:03:57,152]: Tao Robe------------------------------------------------Figaliz-----------------------------------------------Hair Band*
+[root at 2023-02-22 12:03:57,153]: Crystal Mail                                            Rhobite                                                 Ice Rod*
+[root at 2023-02-22 12:03:57,153]: Czarina Gown--------------------------------------------Allo Ver---------------------------------------------Relic Ring
+[root at 2023-02-22 12:03:57,153]: Genji Armor                                             Retainer                                           Diamond Shld*
+[root at 2023-02-22 12:03:57,153]: Imp's Armor-----------------------------------------------Rinn--------------------------------------------------Graedus
+[root at 2023-02-22 12:03:57,153]: Minerva                                                Doom Drgn                                           DaVinci Brsh
+[root at 2023-02-22 12:03:57,153]: Tabby Suit----------------------------------------------Mantodea---------------------------------------------Aura Lance
+[root at 2023-02-22 12:03:57,153]: Chocobo Suit                                           Steroidite                                          Fire Knuckle*
+[root at 2023-02-22 12:03:57,153]: Moogle Suit----------------------------------------------Woolly---------------------------------------------Zephyr Cape
+[root at 2023-02-22 12:03:57,153]: Nutkin Suit                                             Dueller                                             Zephyr Cape*
+[root at 2023-02-22 12:03:57,153]: BehemothSuit---------------------------------------------Borras------------------------------------------------Illumina
+[root at 2023-02-22 12:03:57,153]: Snow Muffler                                           Tap Dancer                                                Forged*
+[root at 2023-02-22 12:03:57,153]: NoiseBlaster--------------------------------------------Mesosaur----------------------------------------------Chain Saw*
+[root at 2023-02-22 12:03:57,153]: Bio Blaster                                              Dante                                                 Punisher*
+[root at 2023-02-22 12:03:57,153]: Flash---------------------------------------------------Sky Base-------------------------------------------Mithril Pike*
+[root at 2023-02-22 12:03:57,153]: Chain Saw                                              GreaseMonk                                              Punisher*
+[root at 2023-02-22 12:03:57,153]: Debilitator---------------------------------------------Apparite-----------------------------------------------Tincture*
+[root at 2023-02-22 12:03:57,153]: Drill                                                    Hornet                                            Mithril Claw*
+[root at 2023-02-22 12:03:57,154]: Air Anchor-----------------------------------------------Osprey-----------------------------------------------Man Eater
+[root at 2023-02-22 12:03:57,154]: AutoCrossbow                                            Were-Rat                                             Fenix Down*
+[root at 2023-02-22 12:03:57,154]: Fire Skean---------------------------------------------Doom Drgn----------------------------------------------Bone Club*
+[root at 2023-02-22 12:03:57,154]: Water Edge                                             PowerDemon                                          Mithril Pike*
+[root at 2023-02-22 12:03:57,154]: Bolt Edge-----------------------------------------------Slatter----------------------------------------------Flame Shld*
+[root at 2023-02-22 12:03:57,154]: Inviz Edge                                              Rain Man                                             Genji Shld*
+[root at 2023-02-22 12:03:57,154]: Shadow Edge--------------------------------------------Dark Wind-------------------------------------------BehemothSuit
+[root at 2023-02-22 12:03:57,154]: Goggles                                                Gabbldegak                                            Red Jacket
+[root at 2023-02-22 12:03:57,154]: Star Pendant----------------------------------------------Bogy---------------------------------------------Diamond Vest
+[root at 2023-02-22 12:03:57,154]: Peace Ring                                             Bloompire                                           Crystal Shld*
+[root at 2023-02-22 12:03:57,154]: Amulet--------------------------------------------------Slatter--------------------------------------------------Ribbon
+[root at 2023-02-22 12:03:57,154]: White Cape                                              Geckorex                                             ThiefKnife*
+[root at 2023-02-22 12:03:57,155]: Jewel Ring----------------------------------------------Chitonid-------------------------------------------Czarina Gown*
+[root at 2023-02-22 12:03:57,155]: Fairy Ring                                             Anguiform                                           Crystal Helm*
+[root at 2023-02-22 12:03:57,155]: Barrier Ring-------------------------------------------Stray Cat--------------------------------------------Cursed Shld*
+[root at 2023-02-22 12:03:57,155]: MithrilGlove                                             Rhodox                                              Aegis Shld*
+[root at 2023-02-22 12:03:57,155]: Guard Ring----------------------------------------------Chimera-----------------------------------------------Megalixir*
+[root at 2023-02-22 12:03:57,155]: RunningShoes                                           Magic Urn                                             Poison Rod*
+[root at 2023-02-22 12:03:57,155]: Wall Ring-----------------------------------------------Wild Cat----------------------------------------------Excalibur
+[root at 2023-02-22 12:03:57,155]: Cherub Down                                             Dueller                                               Man Eater
+[root at 2023-02-22 12:03:57,155]: Cure Ring-----------------------------------------------Intangir-------------------------------------------Crystal Shld*
+[root at 2023-02-22 12:03:57,155]: True Knight                                              Wyvern                                              ThiefKnife
+[root at 2023-02-22 12:03:57,155]: DragoonBoots-------------------------------------------Osteosaur-----------------------------------------------Enhancer*
+[root at 2023-02-22 12:03:57,155]: Zephyr Cape                                               Enuo                                                   Amulet*
+[root at 2023-02-22 12:03:57,155]: Czarina Ring--------------------------------------------Cirpius--------------------------------------------Crystal Mail
+[root at 2023-02-22 12:03:57,155]: Cursed Ring                                            Adamanchyt                                               Gem Box*
+[root at 2023-02-22 12:03:57,155]: Earrings------------------------------------------------Dahling--------------------------------------------Blizzard Orb*
+[root at 2023-02-22 12:03:57,155]: Atlas Armlet                                            Sky Base                                           Crystal Shld*
+[root at 2023-02-22 12:03:57,155]: Blizzard Orb--------------------------------------------Chitonid--------------------------------------------Stout Spear*
+[root at 2023-02-22 12:03:57,156]: Rage Ring                                              Gabbldegak                                          Snow Muffler
+[root at 2023-02-22 12:03:57,156]: Sneak Ring---------------------------------------------GreaseMonk----------------------------------------------Falchion*
+[root at 2023-02-22 12:03:57,156]: Pod Bracelet                                             Slurm                                               Inviz Edge*
+[root at 2023-02-22 12:03:57,156]: Hero Ring----------------------------------------------EarthGuard------------------------------------------Morning Star*
+[root at 2023-02-22 12:03:57,156]: Ribbon                                                  Grenade                                               Rage Ring
+[root at 2023-02-22 12:03:57,156]: Muscle Belt---------------------------------------------Deep Eye---------------------------------------------Warp Stone
+[root at 2023-02-22 12:03:57,156]: Crystal Orb                                             Whisper                                                  Sniper*
+[root at 2023-02-22 12:03:57,156]: Gold Hairpin-------------------------------------------Nautiloid-------------------------------------------Rainbow Brsh*
+[root at 2023-02-22 12:03:57,156]: Economizer                                             Pm Stalker                                             Dark Gear*
+[root at 2023-02-22 12:03:57,156]: Thief Glove--------------------------------------------Toe Cutter-------------------------------------------Genji Armor
+[root at 2023-02-22 12:03:57,156]: Gauntlet                                                  Drop                                                Magus Rod*
+[root at 2023-02-22 12:03:57,156]: Genji Glove--------------------------------------------Tap Dancer--------------------------------------------Super Ball*
+[root at 2023-02-22 12:03:57,156]: Hyper Wrist                                            SrBehemoth                                             Chain Saw*
+[root at 2023-02-22 12:03:57,156]: Offering-----------------------------------------------Latimeria----------------------------------------------Silk Robe
+[root at 2023-02-22 12:03:57,157]: Beads                                                   Insecare                                           Chocobo Suit
+[root at 2023-02-22 12:03:57,157]: Black Belt---------------------------------------------IronHitman-------------------------------------------Dragon Claw*
+[root at 2023-02-22 12:03:57,157]: Coin Toss                                              Apokryphos                                           Imp Halberd*
+[root at 2023-02-22 12:03:57,157]: FakeMustache--------------------------------------------Cruller---------------------------------------------Cursed Shld
+[root at 2023-02-22 12:03:57,157]: Gem Box                                                Still Life                                          MithrilGlove*
+[root at 2023-02-22 12:03:57,157]: Dragon Horn---------------------------------------------Scullion----------------------------------------------Full Moon
+[root at 2023-02-22 12:03:57,157]: Merit Award                                              Dante                                              Gold Helmet*
+[root at 2023-02-22 12:03:57,157]: Memento Ring-------------------------------------------Tyranosaur--------------------------------------------Genji Shld*
+[root at 2023-02-22 12:03:57,157]: Safety Bit                                              Peepers                                               Rune Edge
+[root at 2023-02-22 12:03:57,157]: Relic Ring---------------------------------------------GloomShell--------------------------------------------Genji Shld*
+[root at 2023-02-22 12:03:57,157]: Moogle Charm                                           Sp Forces                                            Regal Crown*
+[root at 2023-02-22 12:03:57,157]: Charm Bangle--------------------------------------------Wild Rat--------------------------------------------------Tiara*
+[root at 2023-02-22 12:03:57,158]: Marvel Shoes                                            Cephaler                                               Fire Rod*
+[root at 2023-02-22 12:03:57,158]: Back Guard---------------------------------------------Mag Roader------------------------------------------MithrilGlove
+[root at 2023-02-22 12:03:57,158]: Gale Hairpin                                           WeedFeeder                                           Moogle Suit*
+[root at 2023-02-22 12:03:57,158]: Sniper Sight--------------------------------------------Telstar------------------------------------------------Scimitar*
+[root at 2023-02-22 12:03:57,158]: Exp. Egg                                                 Bleary                                            Mystery Veil*
+[root at 2023-02-22 12:03:57,158]: Tintinabar---------------------------------------------ChickenLip-------------------------------------------Genji Armor*
+[root at 2023-02-22 12:03:57,158]: Sprint Shoes                                              Enuo                                             Diamond Vest
+[root at 2023-02-22 12:03:57,158]: ArchplgoItem-------------------------------------------Nautiloid---------------------------------------------Poison Rod
+[root at 2023-02-22 12:03:57,158]: Tonic                                                    Joker                                                     Dirk*
+[root at 2023-02-22 12:03:57,158]: Potion----------------------------------------------------Junk---------------------------------------------Blizzard Orb*
+[root at 2023-02-22 12:03:57,158]: X-Potion                                                Trilium                                            MithrilGlove*
+[root at 2023-02-22 12:03:57,158]: Tincture-------------------------------------------------Mover----------------------------------------------------Tonic*
+[root at 2023-02-22 12:03:57,158]: Ether                                                  1st Class                                             Poison Rod*
+[root at 2023-02-22 12:03:57,159]: X-Ether--------------------------------------------------Misfit---------------------------------------------Zephyr Cape
+[root at 2023-02-22 12:03:57,159]: Elixir                                                 Over-Mind                                             Gold Lance
+[root at 2023-02-22 12:03:57,159]: Megalixir----------------------------------------------Coelecite-------------------------------------------Genji Helmet*
+[root at 2023-02-22 12:03:57,159]: Fenix Down                                              Gigantos                                                  Darts*
+[root at 2023-02-22 12:03:57,159]: Revivify------------------------------------------------Red Fang-------------------------------------------Fire Knuckle*
+[root at 2023-02-22 12:03:57,159]: Antidote                                                  Junk                                             DaVinci Brsh*
+[root at 2023-02-22 12:03:57,159]: Eyedrop-------------------------------------------------Sky Cap---------------------------------------------Imp Halberd*
+[root at 2023-02-22 12:03:57,159]: Soft                                                    Scrapper                                                  Cards*
+[root at 2023-02-22 12:03:57,159]: Remedy--------------------------------------------------Spek Tor---------------------------------------------------Epee*
+[root at 2023-02-22 12:03:57,159]: Sleeping Bag                                           Abolisher                                              Excalibur*
+[root at 2023-02-22 12:03:57,159]: Tent----------------------------------------------------Red Wolf----------------------------------------------Oath Veil
+[root at 2023-02-22 12:03:57,159]: Green Cherry                                           Boxed Set                                           DiamondArmor*
+[root at 2023-02-22 12:03:57,159]: Magicite------------------------------------------------Areneid---------------------------------------------Shadow Edge*
+[root at 2023-02-22 12:03:57,160]: Super Ball                                                Bomb                                              Flame Sabre*
+[root at 2023-02-22 12:03:57,160]: Echo Screen--------------------------------------------Doom Drgn-------------------------------------------Mithril Mail
+[root at 2023-02-22 12:03:57,160]: Smoke Bomb                                              Cruller                                                Heal Rod*
+[root at 2023-02-22 12:03:57,160]: Warp Stone----------------------------------------------Spectre----------------------------------------------Aegis Shld*
+[root at 2023-02-22 12:03:57,160]: Dried Meat                                             Mag Roader                                             Gaia Gear
+[root at 2023-02-22 12:03:57,160]: Empty----------------------------------------------------Tusker----------------------------------------------Red Jacket
+[root at 2023-02-22 12:03:57,160]: 
+[root at 2023-02-22 12:03:57,160]: * = Hidden Reward
+[root at 2023-02-22 12:04:02,473]: Generating output files (10/19).
+[root at 2023-02-22 12:04:02,473]: Generating output files (19/19).
+[root at 2023-02-22 12:04:02,474]: Calculating playthrough.
+[root at 2023-02-22 12:11:46,948]: Creating final archive at /mnt/115b93af-9f3b-43c4-a778-48dcab29caf0/Randomizers/Archipelago Betas/output/AP_00170043855426573396.zip
+[root at 2023-02-22 12:11:48,121]: Done. Enjoy. Total Time: 834.0424466609838

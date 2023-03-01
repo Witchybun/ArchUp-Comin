@@ -1,0 +1,8 @@
+﻿[root at 2023-02-24 15:35:08,745]: Archipelago (0.3.9) logging initialized on Linux-6.1.12-x64v3-xanmod1-x86_64-with-glibc2.35 running Python 3.10.6
+[root at 2023-02-24 15:35:08,749]: Uncaught exception
+Traceback (most recent call last):
+  File "/mnt/115b93af-9f3b-43c4-a778-48dcab29caf0/Randomizers/Archipelago Betas/Generate.py", line 643, in <module>
+    main()
+  File "/mnt/115b93af-9f3b-43c4-a778-48dcab29caf0/Randomizers/Archipelago Betas/Generate.py", line 202, in main
+    raise Exception(f"Names have to be unique. Names: {Counter(name.lower() for name in erargs.name.values())}")
+Exception: Names have to be unique. Names: Counter({'jones_wc': 20})

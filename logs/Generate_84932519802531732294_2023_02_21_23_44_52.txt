@@ -1,0 +1,69 @@
+﻿[root at 2023-02-21 23:44:52,679]: Archipelago (0.3.9) logging initialized on Linux-6.1.12-x64v3-xanmod1-x86_64-with-glibc2.35 running Python 3.10.6
+[root at 2023-02-21 23:44:52,737]: Archipelago Version 0.3.9  -  Seed: 84932519802531732294
+
+[root at 2023-02-21 23:44:52,737]: Found World Types:
+[root at 2023-02-21 23:44:52,738]:  A Link to the Past             : 144 Items (IDs:         2 -       180) |  287 Locations (IDs:     59758 -   4194341)
+[root at 2023-02-21 23:44:52,738]:  Blasphemous                    : 200 Items (IDs:   1909000 -   1909199) |  304 Locations (IDs:   1909000 -   1909303)
+[root at 2023-02-21 23:44:52,738]:  ChecksFinder                   :   3 Items (IDs:     80000 -     80002) |   25 Locations (IDs:     81000 -     81024)
+[root at 2023-02-21 23:44:52,738]:  Castlevania 64                 :  30 Items (IDs:  12992514 -  12992553) |  218 Locations (IDs:  12992513 -  12992731)
+[root at 2023-02-21 23:44:52,738]:  Dark Souls III                 : 400 Items (IDs:    100000 -    100783) |  410 Locations (IDs:    100000 -    101873)
+[root at 2023-02-21 23:44:52,738]:  Donkey Kong Country 3          :   8 Items (IDs:  14430208 -  14430215) |  230 Locations (IDs:  14430208 -  14430618)
+[root at 2023-02-21 23:44:52,738]:  Factorio                       : 222 Items (IDs:    131070 -    131292) |  852 Locations (IDs:    131072 -    131960)
+[root at 2023-02-21 23:44:52,738]:  Final Fantasy                  : 194 Items (IDs:       256 -       500) |  255 Locations (IDs:       257 -       767)
+[root at 2023-02-21 23:44:52,738]:  Final Fantasy 6 Worlds Collide : 297 Items (IDs:      6000 -      6296) |  331 Locations (IDs:      6000 -      6330)
+[root at 2023-02-21 23:44:52,738]:  FFPS                           :  62 Items (IDs:     55500 -     55656) |   70 Locations (IDs:     57500 -     57569)
+[root at 2023-02-21 23:44:52,739]:  Hollow Knight                  : 249 Items (IDs:  16777216 -  16777464) |  740 Locations (IDs:  16777216 -  16777955)
+[root at 2023-02-21 23:44:52,739]:  Hylics 2                       :  70 Items (IDs:    200622 -    200692) |  163 Locations (IDs:    200622 -    200784)
+[root at 2023-02-21 23:44:52,739]:  Kingdom Hearts 2               : 297 Items (IDs:   1245184 -   1245480) |  727 Locations (IDs:   1245184 -   1245915)
+[root at 2023-02-21 23:44:52,739]:  Links Awakening DX             : 117 Items (IDs:  10000000 -  10000164) |  255 Locations (IDs:  10000000 -  10003673)
+[root at 2023-02-21 23:44:52,739]:  Lufia II Ancient Cave          : 405 Items (IDs:  11272193 -  11304994) |   88 Locations (IDs:  11272192 -  11272279)
+[root at 2023-02-21 23:44:52,739]:  Meritous                       :  23 Items (IDs:    593000 -    593022) |  104 Locations (IDs:    593000 -    593103)
+[root at 2023-02-21 23:44:52,739]:  The Messenger                  :  24 Items (IDs:  11390976 -  11390999) |   69 Locations (IDs:  11390976 -  11391044)
+[root at 2023-02-21 23:44:52,739]:  Minecraft                      :  46 Items (IDs:     45000 -     45100) |  114 Locations (IDs:     42000 -     42113)
+[root at 2023-02-21 23:44:52,739]:  MegaMan Battle Network 3       : 221 Items (IDs:  11735040 -  11735262) |  259 Locations (IDs:  11735040 -  11735309)
+[root at 2023-02-21 23:44:52,739]:  Muse Dash                      : 487 Items (IDs:    290000 -    290486) |  972 Locations (IDs:    290000 -    290971)
+[root at 2023-02-21 23:44:52,739]:  Ocarina of Time                : 143 Items (IDs:     66001 -     66211) | 1623 Locations (IDs:     67010 -     68705)
+[root at 2023-02-21 23:44:52,739]:  Overcooked! 2                  :  45 Items (IDs:    213701 -    213745) |   43 Locations (IDs:         1 -        44)
+[root at 2023-02-21 23:44:52,739]:  Pokemon Red and Blue           : 145 Items (IDs: 172000001 - 172000250) |  542 Locations (IDs: 172000000 - 172000541)
+[root at 2023-02-21 23:44:52,739]:  Raft                           : 325 Items (IDs:     47001 -     47325) |  154 Locations (IDs:     48001 -     48155)
+[root at 2023-02-21 23:44:52,739]:  Rogue Legacy                   :  60 Items (IDs:     90000 -     90097) |  584 Locations (IDs:     91000 -     92259)
+[root at 2023-02-21 23:44:52,739]:  Risk of Rain 2                 :  36 Items (IDs:     37001 -     37747) |  910 Locations (IDs:     38000 -     40361)
+[root at 2023-02-21 23:44:52,739]:  Sonic Adventure 2 Battle       :  50 Items (IDs:  16711680 -  16711750) |  499 Locations (IDs:  16711680 -  16713600)
+[root at 2023-02-21 23:44:52,740]:  Starcraft 2 Wings of Liberty   : 111 Items (IDs:      1000 -      1802) |  123 Locations (IDs:      1100 -      3805)
+[root at 2023-02-21 23:44:52,740]:  Super Metroid                  :  24 Items (IDs:     83000 -     83023) |  100 Locations (IDs:     82000 -     82154)
+[root at 2023-02-21 23:44:52,740]:  Super Mario 64                 :  18 Items (IDs:   3626000 -   3626214) |  164 Locations (IDs:   3626000 -   3626243)
+[root at 2023-02-21 23:44:52,740]:  Super Mario World              :  22 Items (IDs:  12320768 -  12320790) |  158 Locations (IDs:  12320768 -  12321281)
+[root at 2023-02-21 23:44:52,740]:  SMZ3                           : 151 Items (IDs:     84000 -     84223) |  316 Locations (IDs:     85000 -     85510)
+[root at 2023-02-21 23:44:52,740]:  Secret of Evermore             : 156 Items (IDs:     64000 -     64904) |  339 Locations (IDs:     64000 -     64385)
+[root at 2023-02-21 23:44:52,740]:  Slay the Spire                 :   4 Items (IDs:      8000 -      8003) |   31 Locations (IDs:     19001 -     22003)
+[root at 2023-02-21 23:44:52,740]:  Stardew Valley                 : 311 Items (IDs:    717000 -    722201) |  378 Locations (IDs:    717001 -    718065)
+[root at 2023-02-21 23:44:52,740]:  Subnautica                     :  87 Items (IDs:     35000 -     35086) |  181 Locations (IDs:     33000 -     34049)
+[root at 2023-02-21 23:44:52,740]:  The Binding of Isaac Repentance: 767 Items (IDs:     78000 -     78777) |  500 Locations (IDs:     78000 -     78499)
+[root at 2023-02-21 23:44:52,740]:  Timespinner                    : 189 Items (IDs:   1337000 -   1337249) |  212 Locations (IDs:   1337000 -   1337249)
+[root at 2023-02-21 23:44:52,740]:  The Legend of Zelda            :  33 Items (IDs:      7100 -      7132) |  155 Locations (IDs:      7000 -      7154)
+[root at 2023-02-21 23:44:52,740]:  Undertale                      :  82 Items (IDs:     77000 -     77999) |  128 Locations (IDs:     79001 -     79920)
+[root at 2023-02-21 23:44:52,740]:  VVVVVV                         :  20 Items (IDs:   2515000 -   2515019) |   20 Locations (IDs:   2515000 -   2515019)
+[root at 2023-02-21 23:44:52,740]:  Wargroove                      :  31 Items (IDs:     52000 -     52030) |   38 Locations (IDs:     53001 -     53038)
+[root at 2023-02-21 23:44:52,740]:  The Witness                    : 187 Items (IDs:    158000 -    159987) |  754 Locations (IDs:    158000 -    159800)
+[root at 2023-02-21 23:44:52,740]:  Zillion                        :  12 Items (IDs:   8675309 -   8675320) | 1555 Locations (IDs:   8675309 -   8676863)
+[root at 2023-02-21 23:44:53,150]: 
+[root at 2023-02-21 23:44:53,151]: Creating World.
+[root at 2023-02-21 23:44:53,216]: Uncaught exception
+Traceback (most recent call last):
+  File "/mnt/115b93af-9f3b-43c4-a778-48dcab29caf0/Randomizers/Archipelago Betas/Generate.py", line 643, in <module>
+    main()
+  File "/mnt/115b93af-9f3b-43c4-a778-48dcab29caf0/Randomizers/Archipelago Betas/Generate.py", line 226, in main
+    callback(erargs, seed)
+  File "/mnt/115b93af-9f3b-43c4-a778-48dcab29caf0/Randomizers/Archipelago Betas/Main.py", line 121, in main
+    AutoWorld.call_all(world, "create_regions")
+  File "/mnt/115b93af-9f3b-43c4-a778-48dcab29caf0/Randomizers/Archipelago Betas/worlds/AutoWorld.py", line 85, in call_all
+    call_single(multiworld, method_name, player, *args)
+  File "/mnt/115b93af-9f3b-43c4-a778-48dcab29caf0/Randomizers/Archipelago Betas/worlds/AutoWorld.py", line 77, in call_single
+    return method(*args)
+  File "/mnt/115b93af-9f3b-43c4-a778-48dcab29caf0/Randomizers/Archipelago Betas/worlds/ffps/__init__.py", line 105, in create_regions
+    self.multiworld.regions += [FFPSRegion(*r) for r in FFPS_regions]
+  File "/mnt/115b93af-9f3b-43c4-a778-48dcab29caf0/Randomizers/Archipelago Betas/worlds/ffps/__init__.py", line 105, in <listcomp>
+    self.multiworld.regions += [FFPSRegion(*r) for r in FFPS_regions]
+  File "/mnt/115b93af-9f3b-43c4-a778-48dcab29caf0/Randomizers/Archipelago Betas/worlds/ffps/__init__.py", line 97, in FFPSRegion
+    ret = Region(region_name, BaseClasses.RegionType.Generic, region_name, self.player, self.multiworld)
+NameError: name 'BaseClasses' is not defined

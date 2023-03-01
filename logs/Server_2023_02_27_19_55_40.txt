@@ -1,0 +1,243 @@
+﻿[root at 2023-02-27 19:55:40,730]: Archipelago (0.3.9) logging initialized on Linux-6.1.12-x64v3-xanmod1-x86_64-with-glibc2.35 running Python 3.10.6
+[root at 2023-02-27 19:55:41,296]: Datapackage is in custom mode. Custom Worlds: [<class 'worlds.cv64.CV64World'>, <class 'worlds.ffps.FFPSWorld'>, <class 'worlds.ladx.LinksAwakeningWorld'>, <class 'worlds.messenger.MessengerWorld'>, <class 'worlds.mmbn3.MMBN3World'>, <class 'worlds.musedash.MuseDashWorld'>, <class 'worlds.ror2.RiskOfRainWorld'>, <class 'worlds.stardew_valley.StardewValleyWorld'>, <class 'worlds.tboir.TheBindingOfIsaacRepentanceWorld'>, <class 'worlds.timespinner.TimespinnerWorld'>, <class 'worlds.undertale.UndertaleWorld'>, <class 'worlds.wargroove.WargrooveWorld'>]
+[root at 2023-02-27 19:55:48,515]: No save data found, starting a new game
+[root at 2023-02-27 19:55:48,827]: Hosting game at 99.91.169.91:38281 (No password)
+[websockets.server at 2023-02-27 19:55:48,830]: server listening on 0.0.0.0:38281
+[websockets.server at 2023-02-27 19:55:48,830]: server listening on [::]:38281
+[websockets.server at 2023-02-27 19:57:02,298]: connection open
+[root at 2023-02-27 19:57:02,312]: Notice (all): Albrekka the Bun (Team #1) playing Sonic Adventure 2 Battle has joined. Client(0.3.7), []).
+[root at 2023-02-27 19:57:02,312]: Notice (Player Albrekka the Bun in team 1): Now that you are connected, you can use !help to list commands to run via the server. If your client supports it, you may have additional local commands you can list with /help.
+[root at 2023-02-27 19:57:30,537]: (Team #1) Albrekka the Bun sent Emblem to Albrekka the Bun (Aquatic Mine - Pipe 1)
+[root at 2023-02-27 19:57:42,636]: (Team #1) Albrekka the Bun sent Emblem to Albrekka the Bun (Aquatic Mine - Chao Key 1)
+[root at 2023-02-27 19:57:54,736]: (Team #1) Albrekka the Bun sent Powder Pouch to Witch Albrekka (Aquatic Mine - Gold Beetle)
+[root at 2023-02-27 19:58:12,886]: (Team #1) Albrekka the Bun sent Ten Rings to Albrekka the Bun (Aquatic Mine - Pipe 2)
+[root at 2023-02-27 19:58:18,936]: (Team #1) Albrekka the Bun sent Twenty Rings to Albrekka the Bun (Aquatic Mine - Pipe 3)
+[root at 2023-02-27 19:58:24,987]: (Team #1) Albrekka the Bun sent Perk (All-Seeing Eye) to Witch Albrekka (Aquatic Mine - Chao Key 3)
+[root at 2023-02-27 19:59:05,321]: (Team #1) Albrekka the Bun sent Emblem to Albrekka the Bun (Aquatic Mine - Upgrade)
+[root at 2023-02-27 19:59:47,672]: (Team #1) Albrekka the Bun sent Emblem to Albrekka the Bun (Aquatic Mine - Chao Key 2)
+[root at 2023-02-27 20:00:55,677]: (Team #1) Albrekka the Bun sent Emblem to Albrekka the Bun (City Escape - Pipe 2)
+[root at 2023-02-27 20:01:19,878]: (Team #1) Albrekka the Bun sent Emblem to Albrekka the Bun (City Escape - Chao Key 1)
+[root at 2023-02-27 20:01:33,994]: (Team #1) Albrekka the Bun sent Refresh to Witch Albrekka (City Escape - Hidden 1)
+[root at 2023-02-27 20:01:46,094]: (Team #1) Albrekka the Bun sent Ten Rings to Albrekka the Bun (City Escape - Pipe 3)
+[root at 2023-02-27 20:02:08,278]: (Team #1) Albrekka the Bun sent Heart to Witch Albrekka (City Escape - Hidden 2)
+[root at 2023-02-27 20:02:12,312]: (Team #1) Albrekka the Bun sent Potion to Witch Albrekka (City Escape - Gold Beetle)
+[root at 2023-02-27 20:02:14,328]: (Team #1) Albrekka the Bun sent Emblem to Albrekka the Bun (City Escape - Chao Key 2)
+[root at 2023-02-27 20:02:38,528]: (Team #1) Albrekka the Bun sent Emblem to Albrekka the Bun (City Escape - Hidden 3)
+[root at 2023-02-27 20:03:17,216]: (Team #1) Albrekka the Bun sent Invincibility to Albrekka the Bun (City Escape - 3)
+[root at 2023-02-27 20:04:20,890]: (Team #1) Albrekka the Bun sent Sadekivi to Witch Albrekka (City Escape - Pipe 1)
+[root at 2023-02-27 20:06:05,759]: (Team #1) Albrekka the Bun sent Emblem to Albrekka the Bun (City Escape - Hidden 4)
+[root at 2023-02-27 20:06:17,859]: (Team #1) Albrekka the Bun sent Emblem to Albrekka the Bun (City Escape - Chao Key 3)
+[root at 2023-02-27 20:06:19,875]: (Team #1) Albrekka the Bun sent Tails - Bazooka to Albrekka the Bun (City Escape - Upgrade)
+[root at 2023-02-27 20:07:51,730]: (Team #1) Albrekka the Bun sent Emblem to Albrekka the Bun (Gate 1 Boss)
+[root at 2023-02-27 20:08:29,223]: (Team #1) Albrekka the Bun sent Ten Rings to Albrekka the Bun (Crazy Gadget - Pipe 1)
+[root at 2023-02-27 20:09:07,541]: (Team #1) Albrekka the Bun sent Emblem to Albrekka the Bun (Crazy Gadget - Pipe 2)
+[root at 2023-02-27 20:10:18,125]: (Team #1) Albrekka the Bun sent Five Rings to Albrekka the Bun (Crazy Gadget - Chao Key 1)
+[root at 2023-02-27 20:10:22,159]: (Team #1) Albrekka the Bun sent Chaos Die to Witch Albrekka (Crazy Gadget - Hidden 1)
+[root at 2023-02-27 20:10:50,393]: (Team #1) Albrekka the Bun sent Sonic - Ancient Light to Albrekka the Bun (Crazy Gadget - Upgrade)
+[root at 2023-02-27 20:11:02,493]: (Team #1) Albrekka the Bun sent Potion to Witch Albrekka (Crazy Gadget - Chao Key 2)
+[root at 2023-02-27 20:11:34,390]: (Team #1) Albrekka the Bun sent Rouge - Pick Nails to Albrekka the Bun (Egg Quarters - Pipe 1)
+[root at 2023-02-27 20:11:48,507]: (Team #1) Albrekka the Bun sent Sadekivi to Witch Albrekka (Egg Quarters - Chao Key 1)
+[root at 2023-02-27 20:11:52,540]: (Team #1) Albrekka the Bun sent Emblem to Albrekka the Bun (Egg Quarters - Hidden 2)
+[root at 2023-02-27 20:11:58,590]: (Team #1) Albrekka the Bun sent Emblem to Albrekka the Bun (Egg Quarters - Gold Beetle)
+[root at 2023-02-27 20:12:32,874]: (Team #1) Albrekka the Bun sent Emblem to Albrekka the Bun (Egg Quarters - Chao Key 2)
+[root at 2023-02-27 20:12:34,891]: (Team #1) Albrekka the Bun sent Heart to Witch Albrekka (Egg Quarters - Upgrade)
+[root at 2023-02-27 20:12:59,091]: (Team #1) Albrekka the Bun sent Emblem to Albrekka the Bun (Egg Quarters - Hidden 1)
+[root at 2023-02-27 20:13:35,393]: (Team #1) Albrekka the Bun sent Knuckles - Mystic Melody to Albrekka the Bun (Egg Quarters - Pipe 2)
+[root at 2023-02-27 20:14:39,352]: (Team #1) Albrekka the Bun sent Emblem to Albrekka the Bun (Aquatic Mine - 3)
+[root at 2023-02-27 20:18:38,724]: (Team #1) Albrekka the Bun sent Emblem to Albrekka the Bun (Security Hall - Gold Beetle)
+[root at 2023-02-27 20:19:13,035]: (Team #1) Albrekka the Bun sent Powder Pouch to Witch Albrekka (Security Hall - 1)
+[root at 2023-02-27 20:19:44,729]: (Team #1) Albrekka the Bun sent Emblem to Albrekka the Bun (Security Hall - Pipe 1)
+[root at 2023-02-27 20:19:50,779]: (Team #1) Albrekka the Bun sent Extra Life to Albrekka the Bun (Security Hall - Chao Key 1)
+[root at 2023-02-27 20:20:12,962]: (Team #1) Albrekka the Bun sent Shield to Albrekka the Bun (Security Hall - Chao Key 2)
+[root at 2023-02-27 20:20:27,079]: (Team #1) Albrekka the Bun sent Emblem to Albrekka the Bun (Security Hall - Hidden 1)
+[root at 2023-02-27 20:20:45,230]: (Team #1) Albrekka the Bun sent Potion to Witch Albrekka (Security Hall - Chao Key 3)
+[root at 2023-02-27 20:22:19,224]: (Team #1) Albrekka the Bun sent Invincibility to Albrekka the Bun (Route 101 - 2)
+[root at 2023-02-27 20:22:59,008]: (Team #1) Albrekka the Bun sent Emblem to Albrekka the Bun (Iron Gate - Chao Key 1)
+[root at 2023-02-27 20:23:07,075]: (Team #1) Albrekka the Bun sent Gold (200) to Witch Albrekka (Iron Gate - Pipe 1)
+[root at 2023-02-27 20:23:39,343]: (Team #1) Albrekka the Bun sent Emblem to Albrekka the Bun (Iron Gate - Gold Beetle)
+[root at 2023-02-27 20:24:37,830]: (Team #1) Albrekka the Bun sent Emblem to Albrekka the Bun (Iron Gate - Chao Key 2)
+[root at 2023-02-27 20:24:45,897]: (Team #1) Albrekka the Bun sent Magnetic Shield to Albrekka the Bun (Iron Gate - Pipe 3)
+[root at 2023-02-27 20:25:28,248]: (Team #1) Albrekka the Bun sent Ten Rings to Albrekka the Bun (Iron Gate - Pipe 4)
+[root at 2023-02-27 20:25:42,366]: (Team #1) Albrekka the Bun sent Potion to Witch Albrekka (Iron Gate - Pipe 5)
+[root at 2023-02-27 20:25:58,499]: (Team #1) Albrekka the Bun sent Shield to Albrekka the Bun (Iron Gate - Chao Key 3)
+[root at 2023-02-27 20:26:08,614]: (Team #1) Albrekka the Bun sent Wand (Tier 1) to Witch Albrekka (Iron Gate - 1)
+[root at 2023-02-27 20:27:08,845]: (Team #1) Albrekka the Bun sent Invincibility to Albrekka the Bun (Pyramid Cave - Chao Key 1)
+[root at 2023-02-27 20:27:33,344]: (Team #1) Albrekka the Bun sent Heart to Witch Albrekka (Pyramid Cave - Upgrade)
+[root at 2023-02-27 20:27:43,454]: (Team #1) Albrekka the Bun sent Invincibility to Albrekka the Bun (Pyramid Cave - Pipe 1)
+[root at 2023-02-27 20:27:47,487]: (Team #1) Albrekka the Bun sent Broken Wand to Witch Albrekka (Pyramid Cave - Pipe 2)
+[root at 2023-02-27 20:27:53,539]: (Team #1) Albrekka the Bun sent Wand (Tier 1) to Witch Albrekka (Pyramid Cave - Pipe 3)
+[root at 2023-02-27 20:28:01,605]: (Team #1) Albrekka the Bun sent Ten Rings to Albrekka the Bun (Pyramid Cave - Pipe 4)
+[root at 2023-02-27 20:28:03,623]: (Team #1) Albrekka the Bun sent Emblem to Albrekka the Bun (Pyramid Cave - Chao Key 2)
+[root at 2023-02-27 20:30:10,741]: (Team #1) Albrekka the Bun sent Potion to Witch Albrekka (Pyramid Cave - Gold Beetle)
+[root at 2023-02-27 20:30:47,336]: (Team #1) Albrekka the Bun sent Extra Life to Albrekka the Bun (Pyramid Cave - Chao Key 3)
+[root at 2023-02-27 20:31:39,796]: (Team #1) Albrekka the Bun sent Tails - Booster to Albrekka the Bun (Pyramid Cave - 1)
+[root at 2023-02-27 20:31:59,406]: (Team #1) Albrekka the Bun sent Emblem to Albrekka the Bun (Mission Street - Hidden 1)
+[root at 2023-02-27 20:32:07,478]: (Team #1) Albrekka the Bun sent Magnetic Shield to Albrekka the Bun (Mission Street - Hidden 2)
+[root at 2023-02-27 20:32:27,645]: (Team #1) Albrekka the Bun sent Potion to Witch Albrekka (Mission Street - Chao Key 1)
+[root at 2023-02-27 20:32:33,695]: (Team #1) Albrekka the Bun sent Emblem to Albrekka the Bun (Mission Street - Upgrade)
+[root at 2023-02-27 20:32:49,858]: (Team #1) Albrekka the Bun sent Emblem to Albrekka the Bun (Mission Street - Pipe 1)
+[root at 2023-02-27 20:33:14,059]: (Team #1) Albrekka the Bun sent Emblem to Albrekka the Bun (Mission Street - Chao Key 2)
+[root at 2023-02-27 20:33:24,144]: (Team #1) Albrekka the Bun sent Extra Life to Albrekka the Bun (Mission Street - Gold Beetle)
+[root at 2023-02-27 20:33:56,449]: (Team #1) Albrekka the Bun sent Emblem to Albrekka the Bun (Mission Street - Pipe 2)
+[root at 2023-02-27 20:34:06,569]: (Team #1) Albrekka the Bun sent Emblem to Albrekka the Bun (Mission Street - Chao Key 3)
+[root at 2023-02-27 20:35:01,020]: (Team #1) Albrekka the Bun sent Emblem to Albrekka the Bun (Mission Street - Pipe 3)
+[root at 2023-02-27 20:35:21,214]: (Team #1) Albrekka the Bun sent Emblem to Albrekka the Bun (Mission Street - Hidden 3)
+[root at 2023-02-27 20:35:37,460]: (Team #1) Albrekka the Bun sent Gold (1000) to Witch Albrekka (Mission Street - Hidden 4)
+[root at 2023-02-27 20:35:57,979]: (Team #1) Albrekka the Bun sent Emblem to Albrekka the Bun (Mission Street - 1)
+[root at 2023-02-27 20:37:10,519]: (Team #1) Albrekka the Bun sent Wand (Tier 2) to Witch Albrekka (Hidden Base - Chao Key 1)
+[root at 2023-02-27 20:37:12,536]: (Team #1) Albrekka the Bun sent Heart to Witch Albrekka (Hidden Base - Pipe 1)
+[root at 2023-02-27 20:37:22,620]: (Team #1) Albrekka the Bun sent Emblem to Albrekka the Bun (Hidden Base - Gold Beetle)
+[root at 2023-02-27 20:38:00,939]: (Team #1) Albrekka the Bun sent Shield to Albrekka the Bun (Hidden Base - Pipe 2)
+[root at 2023-02-27 20:38:06,989]: (Team #1) Albrekka the Bun sent Emblem to Albrekka the Bun (Hidden Base - Pipe 3)
+[root at 2023-02-27 20:38:19,089]: (Team #1) Albrekka the Bun sent Bad to Witch Albrekka (Hidden Base - Chao Key 2)
+[root at 2023-02-27 20:38:37,239]: (Team #1) Albrekka the Bun sent Emblem to Albrekka the Bun (Hidden Base - Upgrade)
+[root at 2023-02-27 20:39:15,557]: (Team #1) Albrekka the Bun sent Twenty Rings to Albrekka the Bun (Hidden Base - Pipe 4)
+[root at 2023-02-27 20:39:37,740]: (Team #1) Albrekka the Bun sent Refresh to Witch Albrekka (Hidden Base - Pipe 5)
+[root at 2023-02-27 20:41:12,067]: (Team #1) Albrekka the Bun sent Gold (200) to Witch Albrekka (Eternal Engine - Pipe 1)
+[root at 2023-02-27 20:41:28,203]: (Team #1) Albrekka the Bun sent Ten Rings to Albrekka the Bun (Eternal Engine - Pipe 2)
+[root at 2023-02-27 20:41:46,355]: (Team #1) Albrekka the Bun sent Sonic - Mystic Melody to Albrekka the Bun (Eternal Engine - Chao Key 1)
+[root at 2023-02-27 20:42:54,924]: (Team #1) Albrekka the Bun sent Sadekivi to Witch Albrekka (Eternal Engine - Chao Key 2)
+[root at 2023-02-27 20:43:53,410]: (Team #1) Albrekka the Bun sent Emblem to Albrekka the Bun (Eternal Engine - Chao Key 3)
+[root at 2023-02-27 20:44:11,563]: (Team #1) Albrekka the Bun sent Wand (Tier 4) to Witch Albrekka (Eternal Engine - Pipe 3)
+[root at 2023-02-27 20:44:57,951]: (Team #1) Albrekka the Bun sent Emblem to Albrekka the Bun (Eternal Engine - Upgrade)
+[root at 2023-02-27 20:45:10,051]: (Team #1) Albrekka the Bun sent Twenty Rings to Albrekka the Bun (Eternal Engine - Pipe 4)
+[root at 2023-02-27 20:45:42,317]: (Team #1) Albrekka the Bun sent Ten Rings to Albrekka the Bun (Eternal Engine - Gold Beetle)
+[root at 2023-02-27 20:46:26,687]: (Team #1) Albrekka the Bun sent Wand (Tier 4) to Witch Albrekka (Eternal Engine - Pipe 5)
+[root at 2023-02-27 20:46:36,797]: (Team #1) Albrekka the Bun sent Twenty Rings to Albrekka the Bun (Eternal Engine - 1)
+[root at 2023-02-27 20:47:12,589]: (Team #1) Albrekka the Bun sent Emblem to Albrekka the Bun (Wild Canyon - Pipe 1)
+[root at 2023-02-27 20:47:20,656]: (Team #1) Albrekka the Bun sent Refresh to Witch Albrekka (Wild Canyon - Chao Key 1)
+[root at 2023-02-27 20:47:32,756]: (Team #1) Albrekka the Bun sent Magnetic Shield to Albrekka the Bun (Wild Canyon - Pipe 2)
+[root at 2023-02-27 20:47:48,890]: (Team #1) Albrekka the Bun sent Emblem to Albrekka the Bun (Wild Canyon - Pipe 3)
+[root at 2023-02-27 20:47:54,940]: (Team #1) Albrekka the Bun sent Ten Rings to Albrekka the Bun (Wild Canyon - Chao Key 2)
+[root at 2023-02-27 20:48:13,090]: (Team #1) Albrekka the Bun sent Refresh to Witch Albrekka (Wild Canyon - Chao Key 3)
+[root at 2023-02-27 20:48:17,124]: (Team #1) Albrekka the Bun sent Potion to Witch Albrekka (Wild Canyon - Gold Beetle)
+[root at 2023-02-27 20:50:13,150]: (Team #1) Albrekka the Bun sent Ten Rings to Albrekka the Bun (Gate 2 Boss)
+[root at 2023-02-27 20:50:38,412]: (Team #1) Albrekka the Bun sent Perk (Extra Life) to Witch Albrekka (Metal Harbor - Pipe 1)
+[root at 2023-02-27 20:50:50,509]: (Team #1) Albrekka the Bun sent Wand (Tier 4) to Witch Albrekka (Metal Harbor - Chao Key 1)
+[root at 2023-02-27 20:51:00,592]: (Team #1) Albrekka the Bun sent Wand (Tier 6) to Witch Albrekka (Metal Harbor - Gold Beetle)
+[root at 2023-02-27 20:51:06,642]: (Team #1) Albrekka the Bun sent Emblem to Albrekka the Bun (Metal Harbor - Upgrade)
+[root at 2023-02-27 20:51:28,826]: (Team #1) Albrekka the Bun sent Wand (Tier 4) to Witch Albrekka (Metal Harbor - Chao Key 2)
+[root at 2023-02-27 20:52:57,077]: (Team #1) Albrekka the Bun sent Emblem to Albrekka the Bun (Meteor Herd - Pipe 1)
+[root at 2023-02-27 20:53:07,160]: (Team #1) Albrekka the Bun sent Shield to Albrekka the Bun (Meteor Herd - Chao Key 1)
+[root at 2023-02-27 20:53:27,327]: (Team #1) Albrekka the Bun sent Wand (Tier 5) to Witch Albrekka (Meteor Herd - Gold Beetle)
+[root at 2023-02-27 20:53:33,378]: (Team #1) Albrekka the Bun sent Chaos Die to Witch Albrekka (Meteor Herd - Pipe 2)
+[root at 2023-02-27 20:54:15,730]: (Team #1) Albrekka the Bun sent Powder Pouch to Witch Albrekka (Meteor Herd - Chao Key 2)
+[root at 2023-02-27 20:54:35,897]: (Team #1) Albrekka the Bun sent Emblem to Albrekka the Bun (Meteor Herd - Pipe 3)
+[root at 2023-02-27 20:54:50,015]: (Team #1) Albrekka the Bun sent Five Rings to Albrekka the Bun (Meteor Herd - Chao Key 3)
+[root at 2023-02-27 20:55:58,609]: (Team #1) Albrekka the Bun sent Potion to Witch Albrekka (Meteor Herd - 3)
+[root at 2023-02-27 20:56:22,194]: (Team #1) Albrekka the Bun sent Extra Life to Albrekka the Bun (Radical Highway - Hidden 1)
+[root at 2023-02-27 20:56:42,363]: (Team #1) Albrekka the Bun sent Emblem to Albrekka the Bun (Radical Highway - Chao Key 1)
+[root at 2023-02-27 20:56:54,462]: (Team #1) Albrekka the Bun sent Gold (200) to Witch Albrekka (Radical Highway - Upgrade)
+[root at 2023-02-27 20:57:38,831]: (Team #1) Albrekka the Bun sent Emblem to Albrekka the Bun (Radical Highway - Chao Key 2)
+[root at 2023-02-27 20:57:40,848]: (Team #1) Albrekka the Bun sent Emblem to Albrekka the Bun (Radical Highway - Pipe 1)
+[root at 2023-02-27 21:00:40,419]: (Team #1) Albrekka the Bun sent Extra Life to Albrekka the Bun (Radical Highway - 3)
+[root at 2023-02-27 21:03:16,147]: (Team #1) Albrekka the Bun sent Emblem to Albrekka the Bun (Radical Highway - Gold Beetle)
+[root at 2023-02-27 21:03:18,164]: (Team #1) Albrekka the Bun sent Emblem to Albrekka the Bun (Radical Highway - Pipe 2)
+[root at 2023-02-27 21:03:32,281]: (Team #1) Albrekka the Bun sent Invincibility to Albrekka the Bun (Radical Highway - Chao Key 3)
+[root at 2023-02-27 21:03:42,364]: (Team #1) Albrekka the Bun sent Emblem to Albrekka the Bun (Radical Highway - Hidden 2)
+[root at 2023-02-27 21:04:06,565]: (Team #1) Albrekka the Bun sent Gold (1000) to Witch Albrekka (Radical Highway - Pipe 3)
+[root at 2023-02-27 21:04:26,732]: (Team #1) Albrekka the Bun sent Wand (Tier 1) to Witch Albrekka (Radical Highway - Hidden 3)
+[root at 2023-02-27 21:04:52,979]: (Team #1) Albrekka the Bun sent Wand (Tier 4) to Witch Albrekka (Radical Highway - 1)
+[root at 2023-02-27 21:05:21,614]: (Team #1) Albrekka the Bun sent Shadow - Air Shoes to Albrekka the Bun (White Jungle - Hidden 1)
+[root at 2023-02-27 21:06:01,949]: (Team #1) Albrekka the Bun sent Heart to Witch Albrekka (White Jungle - Pipe 1)
+[root at 2023-02-27 21:06:12,032]: (Team #1) Albrekka the Bun sent Magnetic Shield to Albrekka the Bun (White Jungle - Chao Key 1)
+[root at 2023-02-27 21:06:30,183]: (Team #1) Albrekka the Bun sent Wand (Tier 3) to Witch Albrekka (White Jungle - Hidden 2)
+[root at 2023-02-27 21:07:04,468]: (Team #1) Albrekka the Bun sent Gold (200) to Witch Albrekka (White Jungle - Pipe 2)
+[root at 2023-02-27 21:07:32,702]: (Team #1) Albrekka the Bun sent Invincibility to Albrekka the Bun (White Jungle - Upgrade)
+[root at 2023-02-27 21:07:58,920]: (Team #1) Albrekka the Bun sent Powder Pouch to Witch Albrekka (White Jungle - Gold Beetle)
+[root at 2023-02-27 21:08:02,953]: (Team #1) Albrekka the Bun sent Emblem to Albrekka the Bun (White Jungle - Pipe 3)
+[root at 2023-02-27 21:08:17,070]: (Team #1) Albrekka the Bun sent Wand (Tier 5) to Witch Albrekka (White Jungle - Chao Key 2)
+[root at 2023-02-27 21:08:23,121]: (Team #1) Albrekka the Bun sent Emblem to Albrekka the Bun (White Jungle - Pipe 4)
+[root at 2023-02-27 21:08:39,254]: (Team #1) Albrekka the Bun sent Potion to Witch Albrekka (White Jungle - Hidden 3)
+[root at 2023-02-27 21:08:43,287]: (Team #1) Albrekka the Bun sent Emblem to Albrekka the Bun (White Jungle - Chao Key 3)
+[root at 2023-02-27 21:08:59,451]: (Team #1) Albrekka the Bun sent Eggman - Jet Engine to Albrekka the Bun (White Jungle - 1)
+[root at 2023-02-27 21:09:33,283]: (Team #1) Albrekka the Bun sent Heart to Witch Albrekka (Sand Ocean - Upgrade)
+[root at 2023-02-27 21:12:16,647]: (Team #1) Albrekka the Bun sent Emblem to Albrekka the Bun (Sand Ocean - Chao Key 1)
+[root at 2023-02-27 21:12:38,832]: (Team #1) Albrekka the Bun sent Emblem to Albrekka the Bun (Sand Ocean - Chao Key 2)
+[root at 2023-02-27 21:12:44,882]: (Team #1) Albrekka the Bun sent Eggman - Large Cannon to Albrekka the Bun (Sand Ocean - Gold Beetle)
+[root at 2023-02-27 21:12:48,915]: (Team #1) Albrekka the Bun sent Emblem to Albrekka the Bun (Sand Ocean - Pipe 1)
+[root at 2023-02-27 21:12:54,966]: (Team #1) Albrekka the Bun sent Twenty Rings to Albrekka the Bun (Sand Ocean - Pipe 2)
+[root at 2023-02-27 21:13:19,167]: (Team #1) Albrekka the Bun sent Wand (Tier 2) to Witch Albrekka (Sand Ocean - Chao Key 3)
+[root at 2023-02-27 21:13:21,183]: (Team #1) Albrekka the Bun sent Emblem to Albrekka the Bun (Sand Ocean - Pipe 3)
+[root at 2023-02-27 21:13:45,385]: (Team #1) Albrekka the Bun sent Twenty Rings to Albrekka the Bun (Sand Ocean - Pipe 4)
+[root at 2023-02-27 21:13:53,451]: (Team #1) Albrekka the Bun sent Potion to Witch Albrekka (Sand Ocean - Pipe 5)
+[root at 2023-02-27 21:14:23,727]: (Team #1) Albrekka the Bun sent Wand (Tier 1) to Witch Albrekka (Sand Ocean - 1)
+[root at 2023-02-27 21:14:52,336]: Notice (all): Albrekka the Bun (Team #1) has left the game
+[websockets.server at 2023-02-27 21:14:52,336]: connection closed
+[websockets.server at 2023-02-27 21:17:15,483]: connection open
+[root at 2023-02-27 21:17:15,489]: Notice (all): Witch Albrekka (Team #1) playing Noita has joined. Client(0.3.4), ['AP', 'WebHost']).
+[root at 2023-02-27 21:17:15,490]: Notice (Player Witch Albrekka in team 1): Now that you are connected, you can use !help to list commands to run via the server. If your client supports it, you may have additional local commands you can list with /help.
+[root at 2023-02-27 21:23:33,252]: (Team #1) Witch Albrekka sent Kammi to Witch Albrekka (Chest1)
+[root at 2023-02-27 21:26:06,769]: Notice (all): Witch Albrekka (Team #1) has left the game
+[websockets.server at 2023-02-27 21:26:06,769]: connection closed
+[websockets.server at 2023-02-27 21:26:09,824]: connection open
+[root at 2023-02-27 21:26:09,832]: Notice (all): Witch Albrekka (Team #1) playing Noita has joined. Client(0.3.4), ['AP', 'WebHost']).
+[root at 2023-02-27 21:26:09,832]: Notice (Player Witch Albrekka in team 1): Now that you are connected, you can use !help to list commands to run via the server. If your client supports it, you may have additional local commands you can list with /help.
+[root at 2023-02-27 21:30:37,025]: (Team #1) Witch Albrekka sent Emblem to Albrekka the Bun (Holy Mountain 1 (To Coal Pits) Spell Refresh)
+[root at 2023-02-27 21:30:40,609]: (Team #1) Witch Albrekka sent Emblem to Albrekka the Bun (Holy Mountain 1 (To Coal Pits) Shop Item 1)
+[root at 2023-02-27 21:32:51,143]: (Team #1) Witch Albrekka sent Emblem to Albrekka the Bun (Holy Mountain 2 (To Snowy Depths) Spell Refresh)
+[root at 2023-02-27 21:33:10,037]: (Team #1) Witch Albrekka sent Emblem to Albrekka the Bun (Holy Mountain 2 (To Snowy Depths) Shop Item 3)
+[root at 2023-02-27 21:33:12,371]: (Team #1) Witch Albrekka sent Emblem to Albrekka the Bun (Holy Mountain 2 (To Snowy Depths) Shop Item 2)
+[root at 2023-02-27 21:34:28,263]: (Team #1) Witch Albrekka sent Extra Life to Albrekka the Bun (Chest2)
+[root at 2023-02-27 21:36:12,241]: (Team #1) Witch Albrekka sent Heart to Witch Albrekka (Chest3)
+[root at 2023-02-27 21:37:47,897]: (Team #1) Witch Albrekka sent Bad to Witch Albrekka (Chest4)
+[root at 2023-02-27 21:38:27,809]: (Team #1) Witch Albrekka sent Emblem to Albrekka the Bun (Holy Mountain 3 (To Hiisi Base) Spell Refresh)
+[root at 2023-02-27 21:43:42,512]: Notice (all): Witch Albrekka (Team #1) has left the game
+[websockets.server at 2023-02-27 21:43:42,513]: connection closed
+[websockets.server at 2023-02-27 21:43:45,610]: connection open
+[root at 2023-02-27 21:43:45,617]: Notice (all): Witch Albrekka (Team #1) playing Noita has joined. Client(0.3.4), ['AP', 'WebHost']).
+[root at 2023-02-27 21:43:45,617]: Notice (Player Witch Albrekka in team 1): Now that you are connected, you can use !help to list commands to run via the server. If your client supports it, you may have additional local commands you can list with /help.
+[root at 2023-02-27 21:45:09,995]: Notice (all): Witch Albrekka (Team #1) has left the game
+[websockets.server at 2023-02-27 21:45:09,996]: connection closed
+[websockets.server at 2023-02-27 21:45:13,052]: connection open
+[root at 2023-02-27 21:45:13,059]: Notice (all): Witch Albrekka (Team #1) playing Noita has joined. Client(0.3.4), ['AP', 'WebHost']).
+[root at 2023-02-27 21:45:13,059]: Notice (Player Witch Albrekka in team 1): Now that you are connected, you can use !help to list commands to run via the server. If your client supports it, you may have additional local commands you can list with /help.
+[root at 2023-02-27 21:48:07,361]: (Team #1) Witch Albrekka sent Powder Pouch to Witch Albrekka (Chest5)
+[root at 2023-02-27 21:49:32,813]: (Team #1) Witch Albrekka sent Shield to Albrekka the Bun (Holy Mountain 1 (To Coal Pits) Shop Item 2)
+[root at 2023-02-27 21:49:33,679]: (Team #1) Witch Albrekka sent Ten Rings to Albrekka the Bun (Holy Mountain 1 (To Coal Pits) Shop Item 3)
+[root at 2023-02-27 21:49:34,528]: (Team #1) Witch Albrekka sent Shield to Albrekka the Bun (Holy Mountain 1 (To Coal Pits) Shop Item 4)
+[root at 2023-02-27 21:49:35,494]: (Team #1) Witch Albrekka sent Invincibility to Albrekka the Bun (Holy Mountain 1 (To Coal Pits) Shop Item 5)
+[root at 2023-02-27 21:54:49,445]: (Team #1) Witch Albrekka sent Invincibility to Albrekka the Bun (Chest6)
+[root at 2023-02-27 21:54:57,891]: Notice (all): Witch Albrekka (Team #1) has left the game
+[websockets.server at 2023-02-27 21:54:57,892]: connection closed
+[websockets.server at 2023-02-27 21:55:00,947]: connection open
+[root at 2023-02-27 21:55:00,953]: Notice (all): Witch Albrekka (Team #1) playing Noita has joined. Client(0.3.4), ['AP', 'WebHost']).
+[root at 2023-02-27 21:55:00,953]: Notice (Player Witch Albrekka in team 1): Now that you are connected, you can use !help to list commands to run via the server. If your client supports it, you may have additional local commands you can list with /help.
+[root at 2023-02-27 22:03:59,143]: (Team #1) Witch Albrekka sent Shield to Albrekka the Bun (Holy Mountain 2 (To Snowy Depths) Shop Item 1)
+[root at 2023-02-27 22:04:00,909]: (Team #1) Witch Albrekka sent Emblem to Albrekka the Bun (Holy Mountain 2 (To Snowy Depths) Shop Item 4)
+[root at 2023-02-27 22:12:02,447]: (Team #1) Witch Albrekka sent Emblem to Albrekka the Bun (Holy Mountain 4 (To Underground Jungle) Spell Refresh)
+[root at 2023-02-27 22:18:17,110]: Notice (all): Witch Albrekka (Team #1) has left the game
+[websockets.server at 2023-02-27 22:18:17,110]: connection closed
+[websockets.server at 2023-02-27 22:18:20,206]: connection open
+[root at 2023-02-27 22:18:20,212]: Notice (all): Witch Albrekka (Team #1) playing Noita has joined. Client(0.3.4), ['AP', 'WebHost']).
+[root at 2023-02-27 22:18:20,212]: Notice (Player Witch Albrekka in team 1): Now that you are connected, you can use !help to list commands to run via the server. If your client supports it, you may have additional local commands you can list with /help.
+[root at 2023-02-27 22:23:40,212]: (Team #1) Witch Albrekka sent Heart to Witch Albrekka (Chest7)
+[root at 2023-02-27 22:26:42,909]: (Team #1) Witch Albrekka sent Invincibility to Albrekka the Bun (Chest8)
+[root at 2023-02-27 22:27:16,053]: (Team #1) Witch Albrekka sent Invincibility to Albrekka the Bun (Chest9)
+[root at 2023-02-27 22:28:22,697]: (Team #1) Witch Albrekka sent Emblem to Albrekka the Bun (Holy Mountain 3 (To Hiisi Base) Shop Item 1)
+[root at 2023-02-27 22:28:26,964]: (Team #1) Witch Albrekka sent Emblem to Albrekka the Bun (Holy Mountain 3 (To Hiisi Base) Shop Item 3)
+[root at 2023-02-27 22:33:23,017]: (Team #1) Witch Albrekka sent Broken Wand to Witch Albrekka (Chest10)
+[root at 2023-02-27 22:35:12,959]: Notice (all): Witch Albrekka (Team #1) has left the game
+[websockets.server at 2023-02-27 22:35:12,960]: connection closed
+[websockets.server at 2023-02-27 22:35:16,041]: connection open
+[root at 2023-02-27 22:35:16,047]: Notice (all): Witch Albrekka (Team #1) playing Noita has joined. Client(0.3.4), ['AP', 'WebHost']).
+[root at 2023-02-27 22:35:16,047]: Notice (Player Witch Albrekka in team 1): Now that you are connected, you can use !help to list commands to run via the server. If your client supports it, you may have additional local commands you can list with /help.
+[root at 2023-02-27 22:40:11,375]: (Team #1) Witch Albrekka sent Magnetic Shield to Albrekka the Bun (Chest11)
+[root at 2023-02-27 22:40:17,934]: Notice (all): Witch Albrekka (Team #1) has left the game
+[websockets.server at 2023-02-27 22:40:17,934]: connection closed
+[websockets.server at 2023-02-27 22:40:20,931]: connection open
+[root at 2023-02-27 22:40:20,941]: Notice (all): Witch Albrekka (Team #1) playing Noita has joined. Client(0.3.4), ['AP', 'WebHost']).
+[root at 2023-02-27 22:40:20,941]: Notice (Player Witch Albrekka in team 1): Now that you are connected, you can use !help to list commands to run via the server. If your client supports it, you may have additional local commands you can list with /help.
+[root at 2023-02-27 22:44:07,533]: Notice (all): Witch Albrekka (Team #1) has left the game
+[websockets.server at 2023-02-27 22:44:07,533]: connection closed
+[websockets.server at 2023-02-27 22:45:00,525]: connection open
+[root at 2023-02-27 22:45:00,531]: Notice (all): Witch Albrekka (Team #1) playing Noita has joined. Client(0.3.4), ['AP', 'WebHost']).
+[root at 2023-02-27 22:45:00,531]: Notice (Player Witch Albrekka in team 1): Now that you are connected, you can use !help to list commands to run via the server. If your client supports it, you may have additional local commands you can list with /help.
+[root at 2023-02-27 22:49:11,942]: (Team #1) Witch Albrekka sent Invincibility to Albrekka the Bun (Chest12)
+[root at 2023-02-27 22:51:49,435]: Notice (all): Witch Albrekka (Team #1) has left the game
+[websockets.server at 2023-02-27 22:51:49,435]: connection closed
+[websockets.server at 2023-02-27 22:51:52,511]: connection open
+[root at 2023-02-27 22:51:52,517]: Notice (all): Witch Albrekka (Team #1) playing Noita has joined. Client(0.3.4), ['AP', 'WebHost']).
+[root at 2023-02-27 22:51:52,517]: Notice (Player Witch Albrekka in team 1): Now that you are connected, you can use !help to list commands to run via the server. If your client supports it, you may have additional local commands you can list with /help.
+[root at 2023-02-27 22:52:04,167]: Notice (all): Witch Albrekka (Team #1) has left the game
+[websockets.server at 2023-02-27 22:52:04,167]: connection closed

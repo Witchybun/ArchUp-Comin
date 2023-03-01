@@ -1,0 +1,96 @@
+﻿[root at 2023-02-22 12:08:16,625]: Archipelago (0.3.9) logging initialized on Linux-6.1.12-x64v3-xanmod1-x86_64-with-glibc2.35 running Python 3.10.6
+[root at 2023-02-22 12:08:17,190]: Datapackage is in custom mode. Custom Worlds: [<class 'worlds.cv64.CV64World'>, <class 'worlds.ladx.LinksAwakeningWorld'>, <class 'worlds.messenger.MessengerWorld'>, <class 'worlds.mmbn3.MMBN3World'>, <class 'worlds.musedash.MuseDashWorld'>, <class 'worlds.stardew_valley.StardewValleyWorld'>]
+[kivy at 2023-02-22 12:08:17,201]: Kivy: v2.1.0
+[kivy at 2023-02-22 12:08:17,201]: Kivy: Installed at "/home/albrekka/.local/lib/python3.10/site-packages/kivy/__init__.py"
+[kivy at 2023-02-22 12:08:17,201]: Python: v3.10.6 (main, Nov 14 2022, 16:10:14) [GCC 11.3.0]
+[kivy at 2023-02-22 12:08:17,201]: Python: Interpreter at "/usr/bin/python3"
+[kivy at 2023-02-22 12:08:17,210]: Factory: 189 symbols loaded
+[kivy at 2023-02-22 12:08:17,296]: Image: Providers: img_tex, img_dds, img_sdl2, img_pil (img_ffpyplayer ignored)
+[kivy at 2023-02-22 12:08:17,310]: Window: Provider: sdl2
+[kivy at 2023-02-22 12:08:17,810]: GL: Using the "OpenGL" graphics system
+[kivy at 2023-02-22 12:08:17,810]: GL: Backend used <sdl2>
+[kivy at 2023-02-22 12:08:17,810]: GL: OpenGL version <b'4.6.0 NVIDIA 525.78.01'>
+[kivy at 2023-02-22 12:08:17,810]: GL: OpenGL vendor <b'NVIDIA Corporation'>
+[kivy at 2023-02-22 12:08:17,810]: GL: OpenGL renderer <b'NVIDIA GeForce GTX 1080/PCIe/SSE2'>
+[kivy at 2023-02-22 12:08:17,811]: GL: OpenGL parsed version: 4, 6
+[kivy at 2023-02-22 12:08:17,811]: GL: Shading version <b'4.60 NVIDIA'>
+[kivy at 2023-02-22 12:08:17,811]: GL: Texture max size <32768>
+[kivy at 2023-02-22 12:08:17,811]: GL: Texture max units <32>
+[kivy at 2023-02-22 12:08:17,875]: Window: auto add sdl2 input provider
+[kivy at 2023-02-22 12:08:17,876]: Window: virtual keyboard not allowed, single mode, not docked
+[kivy at 2023-02-22 12:08:18,002]: Clipboard: Provider: gtk3(['clipboard_xclip', 'clipboard_xsel', 'clipboard_dbusklipper'] ignored)
+[kivy at 2023-02-22 12:08:18,007]: Cutbuffer: Unable to find any valuable Cutbuffer provider. Please enable debug logging (e.g. add -d if running from the command line, or change the log level in the config) and re-run your app to identify potential causes
+xclip - FileNotFoundError: [Errno 2] No such file or directory: 'xclip'
+  File "/home/albrekka/.local/lib/python3.10/site-packages/kivy/core/__init__.py", line 59, in core_select_lib
+    mod = importlib.__import__(name='{2}.{0}.{1}'.format(
+  File "<frozen importlib._bootstrap>", line 1129, in __import__
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/albrekka/.local/lib/python3.10/site-packages/kivy/core/clipboard/clipboard_xclip.py", line 17, in <module>
+    p = subprocess.Popen(['xclip', '-version'], stdout=subprocess.PIPE,
+  File "/usr/lib/python3.10/subprocess.py", line 969, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "/usr/lib/python3.10/subprocess.py", line 1845, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+
+xsel - FileNotFoundError: [Errno 2] No such file or directory: 'xsel'
+  File "/home/albrekka/.local/lib/python3.10/site-packages/kivy/core/__init__.py", line 59, in core_select_lib
+    mod = importlib.__import__(name='{2}.{0}.{1}'.format(
+  File "<frozen importlib._bootstrap>", line 1129, in __import__
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/albrekka/.local/lib/python3.10/site-packages/kivy/core/clipboard/clipboard_xsel.py", line 16, in <module>
+    p = subprocess.Popen(['xsel'], stdout=subprocess.PIPE)
+  File "/usr/lib/python3.10/subprocess.py", line 969, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "/usr/lib/python3.10/subprocess.py", line 1845, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+
+[kivy at 2023-02-22 12:08:18,011]: Text: Provider: sdl2
+[Client at 2023-02-22 12:08:18,029]: Please connect to an Archipelago server.
+[kivy at 2023-02-22 12:08:18,104]: GL: NPOT texture support is available
+[Client at 2023-02-22 12:08:18,120]: /help 
+    Returns the help listing
+/license 
+    Returns the licensing information
+/exit 
+    Close connections and client
+/connect [address] 
+    Connect to a MultiWorld Server
+/disconnect 
+    Disconnect from a MultiWorld Server
+/received 
+    List all received items
+/missing 
+    List all missing location checks, from your local game state
+/items 
+    List all item names for the currently running game.
+/locations 
+    List all location names for the currently running game.
+/ready 
+    Send ready status to server.
+
+[kivy at 2023-02-22 12:08:18,167]: Base: Start application main loop
+[Client at 2023-02-22 12:08:19,383]: Connecting to Archipelago server at ws://archipelago.gg:38281
+[Client at 2023-02-22 12:08:20,189]: Connected
+[Client at 2023-02-22 12:08:20,189]: --------------------------------
+[Client at 2023-02-22 12:08:20,189]: Room Information:
+[Client at 2023-02-22 12:08:20,189]: --------------------------------
+[Client at 2023-02-22 12:08:20,189]: Server protocol version: 0.3.8
+[Client at 2023-02-22 12:08:20,189]: Server protocol tags: AP, WebHost
+[Client at 2023-02-22 12:08:20,190]: Forfeit permission: auto
+[Client at 2023-02-22 12:08:20,190]: Release permission: auto
+[Client at 2023-02-22 12:08:20,190]: Remaining permission: goal
+[Client at 2023-02-22 12:08:20,190]: Collect permission: auto
+[Client at 2023-02-22 12:08:20,190]: A !hint costs 15% of your total location count as points and you get 1 for each location checked. Use !hint for more information.
+[Client at 2023-02-22 12:08:20,190]: Enter slot name:
+[kivy at 2023-02-22 12:09:03,313]: Window: exiting mainloop and closing.
+[Client at 2023-02-22 12:09:03,462]: Disconnected from multiworld server

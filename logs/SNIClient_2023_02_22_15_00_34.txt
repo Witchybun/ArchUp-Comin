@@ -1,0 +1,441 @@
+﻿[root at 2023-02-22 15:00:34,081]: Archipelago (0.3.9) logging initialized on Linux-6.1.12-x64v3-xanmod1-x86_64-with-glibc2.35 running Python 3.10.6
+[kivy at 2023-02-22 15:00:34,099]: Kivy: v2.1.0
+[kivy at 2023-02-22 15:00:34,099]: Kivy: Installed at "/home/albrekka/.local/lib/python3.10/site-packages/kivy/__init__.py"
+[kivy at 2023-02-22 15:00:34,099]: Python: v3.10.6 (main, Nov 14 2022, 16:10:14) [GCC 11.3.0]
+[kivy at 2023-02-22 15:00:34,099]: Python: Interpreter at "/usr/bin/python3"
+[kivy at 2023-02-22 15:00:34,107]: Factory: 189 symbols loaded
+[kivy at 2023-02-22 15:00:34,193]: Image: Providers: img_tex, img_dds, img_sdl2, img_pil (img_ffpyplayer ignored)
+[kivy at 2023-02-22 15:00:34,206]: Window: Provider: sdl2
+[kivy at 2023-02-22 15:00:34,748]: GL: Using the "OpenGL" graphics system
+[kivy at 2023-02-22 15:00:34,749]: GL: Backend used <sdl2>
+[kivy at 2023-02-22 15:00:34,749]: GL: OpenGL version <b'4.6.0 NVIDIA 525.78.01'>
+[kivy at 2023-02-22 15:00:34,749]: GL: OpenGL vendor <b'NVIDIA Corporation'>
+[kivy at 2023-02-22 15:00:34,749]: GL: OpenGL renderer <b'NVIDIA GeForce GTX 1080/PCIe/SSE2'>
+[kivy at 2023-02-22 15:00:34,749]: GL: OpenGL parsed version: 4, 6
+[kivy at 2023-02-22 15:00:34,749]: GL: Shading version <b'4.60 NVIDIA'>
+[kivy at 2023-02-22 15:00:34,749]: GL: Texture max size <32768>
+[kivy at 2023-02-22 15:00:34,749]: GL: Texture max units <32>
+[kivy at 2023-02-22 15:00:34,789]: Window: auto add sdl2 input provider
+[kivy at 2023-02-22 15:00:34,789]: Window: virtual keyboard not allowed, single mode, not docked
+[kivy at 2023-02-22 15:00:34,858]: Clipboard: Provider: gtk3(['clipboard_xclip', 'clipboard_xsel', 'clipboard_dbusklipper'] ignored)
+[kivy at 2023-02-22 15:00:34,860]: Cutbuffer: Unable to find any valuable Cutbuffer provider. Please enable debug logging (e.g. add -d if running from the command line, or change the log level in the config) and re-run your app to identify potential causes
+xclip - FileNotFoundError: [Errno 2] No such file or directory: 'xclip'
+  File "/home/albrekka/.local/lib/python3.10/site-packages/kivy/core/__init__.py", line 59, in core_select_lib
+    mod = importlib.__import__(name='{2}.{0}.{1}'.format(
+  File "<frozen importlib._bootstrap>", line 1129, in __import__
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/albrekka/.local/lib/python3.10/site-packages/kivy/core/clipboard/clipboard_xclip.py", line 17, in <module>
+    p = subprocess.Popen(['xclip', '-version'], stdout=subprocess.PIPE,
+  File "/usr/lib/python3.10/subprocess.py", line 969, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "/usr/lib/python3.10/subprocess.py", line 1845, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+
+xsel - FileNotFoundError: [Errno 2] No such file or directory: 'xsel'
+  File "/home/albrekka/.local/lib/python3.10/site-packages/kivy/core/__init__.py", line 59, in core_select_lib
+    mod = importlib.__import__(name='{2}.{0}.{1}'.format(
+  File "<frozen importlib._bootstrap>", line 1129, in __import__
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/albrekka/.local/lib/python3.10/site-packages/kivy/core/clipboard/clipboard_xsel.py", line 16, in <module>
+    p = subprocess.Popen(['xsel'], stdout=subprocess.PIPE)
+  File "/usr/lib/python3.10/subprocess.py", line 969, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "/usr/lib/python3.10/subprocess.py", line 1845, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+
+[kivy at 2023-02-22 15:00:34,863]: Text: Provider: sdl2
+[Client at 2023-02-22 15:00:34,873]: Please connect to an Archipelago server.
+[kivy at 2023-02-22 15:00:34,940]: GL: NPOT texture support is available
+[Client at 2023-02-22 15:00:34,955]: /help 
+    Returns the help listing
+/license 
+    Returns the licensing information
+/exit 
+    Close connections and client
+/connect [address] 
+    Connect to a MultiWorld Server
+/disconnect 
+    Disconnect from a MultiWorld Server
+/received 
+    List all received items
+/missing 
+    List all missing location checks, from your local game state
+/items 
+    List all item names for the currently running game.
+/locations 
+    List all location names for the currently running game.
+/ready 
+    Send ready status to server.
+/slow_mode [toggle] 
+    Toggle slow mode, which limits how fast you send / receive items.
+/snes [snes_options] 
+    Connect to a snes. Optionally include network address of a snes to connect to,
+        otherwise show available devices; and a SNES device number if more than one SNES is detected.
+        Examples: "/snes", "/snes 1", "/snes localhost:23074 1" 
+/snes_close 
+    Close connection to a currently connected snes
+
+[kivy at 2023-02-22 15:00:35,002]: Base: Start application main loop
+[SNES at 2023-02-22 15:00:35,002]: Connecting to SNI at ws://localhost:23074 ...
+[SNES at 2023-02-22 15:00:35,098]: Error connecting to SNI ([Errno 111] Connect call failed ('127.0.0.1', 23074))
+[SNES at 2023-02-22 15:00:35,098]: Attempting to start SNI/sni
+[SNES at 2023-02-22 15:00:36,201]: Connecting to SNI at ws://localhost:23074 ...
+[SNES at 2023-02-22 15:00:36,204]: No SNES device found. Please connect a SNES device to SNI.
+[SNES at 2023-02-22 15:01:14,365]: Attaching to ra://127.0.0.1:55355
+[SNES at 2023-02-22 15:01:14,365]: Attached to ra://127.0.0.1:55355
+[SNES at 2023-02-22 15:01:14,681]: Lost connection to the snes, type /snes to reconnect
+[SNES at 2023-02-22 15:01:14,682]: ... automatically reconnecting to snes in 5 seconds
+[SNES at 2023-02-22 15:01:19,393]: Error reading 0xe02000, requested 21 bytes, received 0
+[SNES at 2023-02-22 15:01:19,683]: Connecting to SNI at ws://localhost:23074 ...
+[SNES at 2023-02-22 15:01:19,684]: Connecting to SNI at ws://localhost:23074 ...
+[SNES at 2023-02-22 15:01:19,717]: Attaching to ra://127.0.0.1:55355
+[SNES at 2023-02-22 15:01:19,717]: Attached to ra://127.0.0.1:55355
+[SNES at 2023-02-22 15:01:20,097]: Lost connection to the snes, type /snes to reconnect
+[SNES at 2023-02-22 15:01:20,097]: ... automatically reconnecting to snes in 5 seconds
+[SNES at 2023-02-22 15:01:24,771]: Error reading 0xe02000, requested 21 bytes, received 0
+[SNES at 2023-02-22 15:01:25,128]: Connecting to SNI at ws://localhost:23074 ...
+[SNES at 2023-02-22 15:01:25,130]: Connecting to SNI at ws://localhost:23074 ...
+[SNES at 2023-02-22 15:01:25,153]: Attaching to ra://127.0.0.1:55355
+[SNES at 2023-02-22 15:01:25,154]: Attached to ra://127.0.0.1:55355
+[SNES at 2023-02-22 15:01:25,530]: Lost connection to the snes, type /snes to reconnect
+[SNES at 2023-02-22 15:01:25,531]: ... automatically reconnecting to snes in 5 seconds
+[SNES at 2023-02-22 15:01:30,280]: Error reading 0xe02000, requested 21 bytes, received 0
+[SNES at 2023-02-22 15:01:30,548]: Connecting to SNI at ws://localhost:23074 ...
+[SNES at 2023-02-22 15:01:30,549]: Connecting to SNI at ws://localhost:23074 ...
+[SNES at 2023-02-22 15:01:30,581]: Attaching to ra://127.0.0.1:55355
+[SNES at 2023-02-22 15:01:30,581]: Attached to ra://127.0.0.1:55355
+[SNES at 2023-02-22 15:01:30,964]: Lost connection to the snes, type /snes to reconnect
+[SNES at 2023-02-22 15:01:30,964]: ... automatically reconnecting to snes in 5 seconds
+[SNES at 2023-02-22 15:01:35,659]: Error reading 0xe02000, requested 21 bytes, received 0
+[SNES at 2023-02-22 15:01:35,981]: Connecting to SNI at ws://localhost:23074 ...
+[SNES at 2023-02-22 15:01:35,982]: Connecting to SNI at ws://localhost:23074 ...
+[SNES at 2023-02-22 15:01:36,002]: Attaching to ra://127.0.0.1:55355
+[SNES at 2023-02-22 15:01:36,002]: Attached to ra://127.0.0.1:55355
+[SNES at 2023-02-22 15:01:36,380]: Lost connection to the snes, type /snes to reconnect
+[SNES at 2023-02-22 15:01:36,381]: ... automatically reconnecting to snes in 5 seconds
+[SNES at 2023-02-22 15:01:41,037]: Error reading 0xe02000, requested 21 bytes, received 0
+[SNES at 2023-02-22 15:01:41,398]: Connecting to SNI at ws://localhost:23074 ...
+[SNES at 2023-02-22 15:01:41,399]: Connecting to SNI at ws://localhost:23074 ...
+[SNES at 2023-02-22 15:01:41,417]: Attaching to ra://127.0.0.1:55355
+[SNES at 2023-02-22 15:01:41,417]: Attached to ra://127.0.0.1:55355
+[SNES at 2023-02-22 15:01:41,597]: ROM detected but no active multiworld server connection. Connect using command: /connect server:port
+[Client at 2023-02-22 15:01:44,367]: Connecting to Archipelago server at ws://archipelago.gg:38281
+[Client at 2023-02-22 15:01:44,733]: Connected
+[Client at 2023-02-22 15:01:44,734]: --------------------------------
+[Client at 2023-02-22 15:01:44,734]: Room Information:
+[Client at 2023-02-22 15:01:44,734]: --------------------------------
+[Client at 2023-02-22 15:01:44,734]: Server protocol version: 0.3.8
+[Client at 2023-02-22 15:01:44,734]: Server protocol tags: AP, WebHost
+[Client at 2023-02-22 15:01:44,734]: Forfeit permission: auto
+[Client at 2023-02-22 15:01:44,734]: Release permission: auto
+[Client at 2023-02-22 15:01:44,734]: Remaining permission: goal
+[Client at 2023-02-22 15:01:44,734]: Collect permission: auto
+[Client at 2023-02-22 15:01:44,734]: A !hint costs 15% of your total location count as points and you get 1 for each location checked. Use !hint for more information.
+[kivy at 2023-02-22 15:01:51,780]: Received [31;1mRupees (50)[0m from [33mSamitianWitness[0m (Caves First Floor Right) (164/196 in list)
+[SNES at 2023-02-22 15:01:51,831]: New Check: Cave Shop (Dark Death Mountain) Right (1/243)
+[SNES at 2023-02-22 15:01:51,831]: New Check: Red Shield Shop Left (2/243)
+[SNES at 2023-02-22 15:01:51,831]: New Check: Red Shield Shop Center (3/243)
+[SNES at 2023-02-22 15:01:51,831]: New Check: Red Shield Shop Right (4/243)
+[SNES at 2023-02-22 15:01:51,831]: New Check: Dark Lake Hylia Shop Left (5/243)
+[SNES at 2023-02-22 15:01:51,831]: New Check: Dark Lake Hylia Shop Center (6/243)
+[SNES at 2023-02-22 15:01:51,831]: New Check: Dark Lake Hylia Shop Right (7/243)
+[SNES at 2023-02-22 15:01:51,831]: New Check: Dark World Lumberjack Shop Left (8/243)
+[SNES at 2023-02-22 15:01:51,832]: New Check: Dark World Lumberjack Shop Center (9/243)
+[SNES at 2023-02-22 15:01:51,832]: New Check: Dark World Lumberjack Shop Right (10/243)
+[SNES at 2023-02-22 15:01:51,832]: New Check: Village of Outcasts Shop Left (11/243)
+[SNES at 2023-02-22 15:01:51,832]: New Check: Village of Outcasts Shop Center (12/243)
+[SNES at 2023-02-22 15:01:51,832]: New Check: Village of Outcasts Shop Right (13/243)
+[SNES at 2023-02-22 15:01:51,832]: New Check: Dark World Potion Shop Left (14/243)
+[SNES at 2023-02-22 15:01:51,832]: New Check: Dark World Potion Shop Center (15/243)
+[SNES at 2023-02-22 15:01:51,832]: New Check: Dark World Potion Shop Right (16/243)
+[SNES at 2023-02-22 15:01:51,832]: New Check: Light World Death Mountain Shop Left (17/243)
+[SNES at 2023-02-22 15:01:51,832]: New Check: Light World Death Mountain Shop Center (18/243)
+[SNES at 2023-02-22 15:01:51,832]: New Check: Light World Death Mountain Shop Right (19/243)
+[SNES at 2023-02-22 15:01:51,832]: New Check: Kakariko Shop Left (20/243)
+[SNES at 2023-02-22 15:01:51,832]: New Check: Kakariko Shop Center (21/243)
+[SNES at 2023-02-22 15:01:51,832]: New Check: Kakariko Shop Right (22/243)
+[SNES at 2023-02-22 15:01:51,832]: New Check: Cave Shop (Lake Hylia) Left (23/243)
+[SNES at 2023-02-22 15:01:51,832]: New Check: Cave Shop (Lake Hylia) Center (24/243)
+[SNES at 2023-02-22 15:01:51,833]: New Check: Cave Shop (Lake Hylia) Right (25/243)
+[SNES at 2023-02-22 15:01:51,833]: New Check: Potion Shop Left (26/243)
+[SNES at 2023-02-22 15:01:51,833]: New Check: Potion Shop Center (27/243)
+[SNES at 2023-02-22 15:01:51,833]: New Check: Potion Shop Right (28/243)
+[SNES at 2023-02-22 15:01:51,833]: New Check: King's Tomb (29/243)
+[SNES at 2023-02-22 15:01:51,881]: New Check: Blind's Hideout - Top (30/243)
+[SNES at 2023-02-22 15:01:51,881]: New Check: Blind's Hideout - Left (31/243)
+[SNES at 2023-02-22 15:01:51,881]: New Check: Blind's Hideout - Right (32/243)
+[SNES at 2023-02-22 15:01:51,881]: New Check: Blind's Hideout - Far Left (33/243)
+[SNES at 2023-02-22 15:01:51,881]: New Check: Blind's Hideout - Far Right (34/243)
+[SNES at 2023-02-22 15:01:51,881]: New Check: Secret Passage (35/243)
+[SNES at 2023-02-22 15:01:51,881]: New Check: Waterfall Fairy - Left (36/243)
+[SNES at 2023-02-22 15:01:51,881]: New Check: Waterfall Fairy - Right (37/243)
+[SNES at 2023-02-22 15:01:51,881]: New Check: Floodgate Chest (38/243)
+[SNES at 2023-02-22 15:01:51,881]: New Check: Link's House (39/243)
+[SNES at 2023-02-22 15:01:51,881]: New Check: Kakariko Tavern (40/243)
+[SNES at 2023-02-22 15:01:51,881]: New Check: Chicken House (41/243)
+[SNES at 2023-02-22 15:01:51,882]: New Check: Aginah's Cave (42/243)
+[SNES at 2023-02-22 15:01:51,882]: New Check: Sahasrahla's Hut - Left (43/243)
+[SNES at 2023-02-22 15:01:51,882]: New Check: Sahasrahla's Hut - Middle (44/243)
+[SNES at 2023-02-22 15:01:51,882]: New Check: Sahasrahla's Hut - Right (45/243)
+[SNES at 2023-02-22 15:01:51,882]: New Check: Kakariko Well - Top (46/243)
+[SNES at 2023-02-22 15:01:51,882]: New Check: Kakariko Well - Left (47/243)
+[SNES at 2023-02-22 15:01:51,882]: New Check: Kakariko Well - Middle (48/243)
+[SNES at 2023-02-22 15:01:51,882]: New Check: Kakariko Well - Right (49/243)
+[SNES at 2023-02-22 15:01:51,882]: New Check: Kakariko Well - Bottom (50/243)
+[SNES at 2023-02-22 15:01:51,882]: New Check: Lost Woods Hideout (51/243)
+[SNES at 2023-02-22 15:01:51,882]: New Check: Lumberjack Tree (52/243)
+[SNES at 2023-02-22 15:01:51,882]: New Check: Cave 45 (53/243)
+[SNES at 2023-02-22 15:01:51,882]: New Check: Graveyard Cave (54/243)
+[SNES at 2023-02-22 15:01:51,882]: New Check: Mini Moldorm Cave - Far Left (55/243)
+[SNES at 2023-02-22 15:01:51,882]: New Check: Mini Moldorm Cave - Left (56/243)
+[SNES at 2023-02-22 15:01:51,883]: New Check: Mini Moldorm Cave - Right (57/243)
+[SNES at 2023-02-22 15:01:51,883]: New Check: Mini Moldorm Cave - Far Right (58/243)
+[SNES at 2023-02-22 15:01:51,883]: New Check: Mini Moldorm Cave - Generous Guy (59/243)
+[SNES at 2023-02-22 15:01:51,883]: New Check: Ice Rod Cave (60/243)
+[SNES at 2023-02-22 15:01:51,883]: New Check: Bonk Rock Cave (61/243)
+[SNES at 2023-02-22 15:01:51,883]: New Check: Desert Palace - Compass Chest (62/243)
+[SNES at 2023-02-22 15:01:51,883]: New Check: Eastern Palace - Compass Chest (63/243)
+[SNES at 2023-02-22 15:01:51,883]: New Check: Eastern Palace - Dark Square Pot Key (64/243)
+[SNES at 2023-02-22 15:01:51,883]: New Check: Eastern Palace - Cannonball Chest (65/243)
+[SNES at 2023-02-22 15:01:51,883]: New Check: Eastern Palace - Big Key Chest (66/243)
+[SNES at 2023-02-22 15:01:51,883]: New Check: Eastern Palace - Map Chest (67/243)
+[SNES at 2023-02-22 15:01:51,883]: New Check: Hyrule Castle - Boomerang Chest (68/243)
+[SNES at 2023-02-22 15:01:51,883]: New Check: Hyrule Castle - Boomerang Guard Key Drop (69/243)
+[SNES at 2023-02-22 15:01:51,883]: New Check: Hyrule Castle - Map Chest (70/243)
+[SNES at 2023-02-22 15:01:51,883]: New Check: Hyrule Castle - Map Guard Key Drop (71/243)
+[SNES at 2023-02-22 15:01:51,883]: New Check: Hyrule Castle - Zelda's Chest (72/243)
+[SNES at 2023-02-22 15:01:51,884]: New Check: Hyrule Castle - Big Key Drop (73/243)
+[SNES at 2023-02-22 15:01:51,884]: New Check: Sewers - Dark Cross (74/243)
+[SNES at 2023-02-22 15:01:51,884]: New Check: Sewers - Secret Room - Left (75/243)
+[SNES at 2023-02-22 15:01:51,884]: New Check: Sewers - Secret Room - Middle (76/243)
+[SNES at 2023-02-22 15:01:51,884]: New Check: Sewers - Secret Room - Right (77/243)
+[SNES at 2023-02-22 15:01:51,884]: New Check: Sanctuary (78/243)
+[SNES at 2023-02-22 15:01:51,884]: New Check: Castle Tower - Room 03 (79/243)
+[SNES at 2023-02-22 15:01:51,884]: New Check: Castle Tower - Dark Maze (80/243)
+[SNES at 2023-02-22 15:01:51,884]: New Check: Castle Tower - Dark Archer Key Drop (81/243)
+[SNES at 2023-02-22 15:01:51,884]: New Check: Castle Tower - Circle of Pots Key Drop (82/243)
+[SNES at 2023-02-22 15:01:51,884]: New Check: Spectacle Rock Cave (83/243)
+[SNES at 2023-02-22 15:01:51,884]: New Check: Paradox Cave Lower - Far Left (84/243)
+[SNES at 2023-02-22 15:01:51,884]: New Check: Paradox Cave Lower - Left (85/243)
+[SNES at 2023-02-22 15:01:51,884]: New Check: Paradox Cave Lower - Right (86/243)
+[SNES at 2023-02-22 15:01:51,884]: New Check: Paradox Cave Lower - Far Right (87/243)
+[SNES at 2023-02-22 15:01:51,885]: New Check: Paradox Cave Lower - Middle (88/243)
+[SNES at 2023-02-22 15:01:51,885]: New Check: Paradox Cave Upper - Left (89/243)
+[SNES at 2023-02-22 15:01:51,885]: New Check: Paradox Cave Upper - Right (90/243)
+[SNES at 2023-02-22 15:01:51,885]: New Check: Spiral Cave (91/243)
+[SNES at 2023-02-22 15:01:51,885]: New Check: Tower of Hera - Basement Cage (92/243)
+[SNES at 2023-02-22 15:01:51,885]: New Check: Tower of Hera - Map Chest (93/243)
+[SNES at 2023-02-22 15:01:51,885]: New Check: Tower of Hera - Big Key Chest (94/243)
+[SNES at 2023-02-22 15:01:51,885]: New Check: Tower of Hera - Compass Chest (95/243)
+[SNES at 2023-02-22 15:01:51,885]: New Check: Tower of Hera - Big Chest (96/243)
+[SNES at 2023-02-22 15:01:51,885]: New Check: Tower of Hera - Boss (97/243)
+[SNES at 2023-02-22 15:01:51,885]: New Check: Hype Cave - Top (98/243)
+[SNES at 2023-02-22 15:01:51,885]: New Check: Hype Cave - Middle Right (99/243)
+[SNES at 2023-02-22 15:01:51,885]: New Check: Hype Cave - Middle Left (100/243)
+[SNES at 2023-02-22 15:01:51,885]: New Check: Hype Cave - Bottom (101/243)
+[SNES at 2023-02-22 15:01:51,885]: New Check: Hype Cave - Generous Guy (102/243)
+[SNES at 2023-02-22 15:01:51,885]: New Check: Brewery (103/243)
+[SNES at 2023-02-22 15:01:51,886]: New Check: C-Shaped House (104/243)
+[SNES at 2023-02-22 15:01:51,886]: New Check: Chest Game (105/243)
+[SNES at 2023-02-22 15:01:51,886]: New Check: Spike Cave (106/243)
+[SNES at 2023-02-22 15:01:51,886]: New Check: Mimic Cave (107/243)
+[SNES at 2023-02-22 15:01:51,886]: New Check: Swamp Palace - Entrance (108/243)
+[SNES at 2023-02-22 15:01:51,886]: New Check: Swamp Palace - Map Chest (109/243)
+[SNES at 2023-02-22 15:01:51,886]: New Check: Swamp Palace - Pot Row Pot Key (110/243)
+[SNES at 2023-02-22 15:01:51,886]: New Check: Swamp Palace - Trench 1 Pot Key (111/243)
+[SNES at 2023-02-22 15:01:51,886]: New Check: Swamp Palace - Hookshot Pot Key (112/243)
+[SNES at 2023-02-22 15:01:51,886]: New Check: Swamp Palace - Big Chest (113/243)
+[SNES at 2023-02-22 15:01:51,886]: New Check: Swamp Palace - Compass Chest (114/243)
+[SNES at 2023-02-22 15:01:51,886]: New Check: Swamp Palace - Trench 2 Pot Key (115/243)
+[SNES at 2023-02-22 15:01:51,886]: New Check: Swamp Palace - Big Key Chest (116/243)
+[SNES at 2023-02-22 15:01:51,886]: New Check: Swamp Palace - West Chest (117/243)
+[SNES at 2023-02-22 15:01:51,886]: New Check: Swamp Palace - Flooded Room - Left (118/243)
+[SNES at 2023-02-22 15:01:51,887]: New Check: Swamp Palace - Flooded Room - Right (119/243)
+[SNES at 2023-02-22 15:01:51,887]: New Check: Swamp Palace - Waterfall Room (120/243)
+[SNES at 2023-02-22 15:01:51,887]: New Check: Swamp Palace - Waterway Pot Key (121/243)
+[SNES at 2023-02-22 15:01:51,887]: New Check: Swamp Palace - Boss (122/243)
+[SNES at 2023-02-22 15:01:51,887]: New Check: Thieves' Town - Big Key Chest (123/243)
+[SNES at 2023-02-22 15:01:51,887]: New Check: Thieves' Town - Map Chest (124/243)
+[SNES at 2023-02-22 15:01:51,887]: New Check: Thieves' Town - Compass Chest (125/243)
+[SNES at 2023-02-22 15:01:51,887]: New Check: Thieves' Town - Ambush Chest (126/243)
+[SNES at 2023-02-22 15:01:51,887]: New Check: Thieves' Town - Hallway Pot Key (127/243)
+[SNES at 2023-02-22 15:01:51,887]: New Check: Thieves' Town - Spike Switch Pot Key (128/243)
+[SNES at 2023-02-22 15:01:51,887]: New Check: Thieves' Town - Attic (129/243)
+[SNES at 2023-02-22 15:01:51,887]: New Check: Thieves' Town - Big Chest (130/243)
+[SNES at 2023-02-22 15:01:51,888]: New Check: Thieves' Town - Blind's Cell (131/243)
+[SNES at 2023-02-22 15:01:51,888]: New Check: Thieves' Town - Boss (132/243)
+[SNES at 2023-02-22 15:01:51,888]: New Check: Skull Woods - Compass Chest (133/243)
+[SNES at 2023-02-22 15:01:51,888]: New Check: Skull Woods - Map Chest (134/243)
+[SNES at 2023-02-22 15:01:51,888]: New Check: Skull Woods - Big Chest (135/243)
+[SNES at 2023-02-22 15:01:51,888]: New Check: Skull Woods - Pot Prison (136/243)
+[SNES at 2023-02-22 15:01:51,888]: New Check: Skull Woods - Pinball Room (137/243)
+[SNES at 2023-02-22 15:01:51,888]: New Check: Skull Woods - Big Key Chest (138/243)
+[SNES at 2023-02-22 15:01:51,888]: New Check: Skull Woods - West Lobby Pot Key (139/243)
+[SNES at 2023-02-22 15:01:51,888]: New Check: Skull Woods - Bridge Room (140/243)
+[SNES at 2023-02-22 15:01:51,888]: New Check: Skull Woods - Boss (141/243)
+[SNES at 2023-02-22 15:01:51,888]: New Check: Ice Palace - Compass Chest (142/243)
+[SNES at 2023-02-22 15:01:51,888]: New Check: Ice Palace - Iced T Room (143/243)
+[SNES at 2023-02-22 15:01:51,888]: New Check: Ice Palace - Big Key Chest (144/243)
+[SNES at 2023-02-22 15:01:51,889]: New Check: Misery Mire - Big Chest (145/243)
+[SNES at 2023-02-22 15:01:51,889]: New Check: Misery Mire - Compass Chest (146/243)
+[SNES at 2023-02-22 15:01:51,889]: New Check: Turtle Rock - Eye Bridge - Bottom Right (147/243)
+[SNES at 2023-02-22 15:01:51,889]: New Check: Palace of Darkness - Shooter Room (148/243)
+[SNES at 2023-02-22 15:01:51,889]: New Check: Palace of Darkness - The Arena - Bridge (149/243)
+[SNES at 2023-02-22 15:01:51,889]: New Check: Palace of Darkness - Stalfos Basement (150/243)
+[SNES at 2023-02-22 15:01:51,889]: New Check: Palace of Darkness - The Arena - Ledge (151/243)
+[SNES at 2023-02-22 15:01:51,889]: New Check: Palace of Darkness - Map Chest (152/243)
+[SNES at 2023-02-22 15:01:51,889]: New Check: Palace of Darkness - Compass Chest (153/243)
+[SNES at 2023-02-22 15:01:51,889]: New Check: Palace of Darkness - Dark Basement - Left (154/243)
+[SNES at 2023-02-22 15:01:51,889]: New Check: Palace of Darkness - Dark Basement - Right (155/243)
+[SNES at 2023-02-22 15:01:51,889]: New Check: Palace of Darkness - Dark Maze - Top (156/243)
+[SNES at 2023-02-22 15:01:51,889]: New Check: Palace of Darkness - Dark Maze - Bottom (157/243)
+[SNES at 2023-02-22 15:01:51,889]: New Check: Palace of Darkness - Big Chest (158/243)
+[SNES at 2023-02-22 15:01:51,889]: New Check: Palace of Darkness - Harmless Hellway (159/243)
+[SNES at 2023-02-22 15:01:51,890]: New Check: Ganons Tower - DMs Room - Top Left (160/243)
+[SNES at 2023-02-22 15:01:51,890]: New Check: Ganons Tower - DMs Room - Bottom Left (161/243)
+[SNES at 2023-02-22 15:01:51,890]: New Check: Ganons Tower - Randomizer Room - Bottom Left (162/243)
+[SNES at 2023-02-22 15:01:51,890]: New Check: Ganons Tower - Mini Helmasaur Room - Left (163/243)
+[SNES at 2023-02-22 15:01:51,890]: New Check: Ganons Tower - Validation Chest (164/243)
+[SNES at 2023-02-22 15:01:51,936]: New Check: Flute Spot (165/243)
+[SNES at 2023-02-22 15:01:51,936]: New Check: Sunken Treasure (166/243)
+[SNES at 2023-02-22 15:01:51,936]: New Check: Zora's Ledge (167/243)
+[SNES at 2023-02-22 15:01:51,936]: New Check: Lake Hylia Island (168/243)
+[SNES at 2023-02-22 15:01:51,936]: New Check: Maze Race (169/243)
+[SNES at 2023-02-22 15:01:51,936]: New Check: Desert Ledge (170/243)
+[SNES at 2023-02-22 15:01:51,936]: New Check: Spectacle Rock (171/243)
+[SNES at 2023-02-22 15:01:51,936]: New Check: Pyramid (172/243)
+[SNES at 2023-02-22 15:01:51,936]: New Check: Digging Game (173/243)
+[SNES at 2023-02-22 15:01:51,937]: New Check: Bumper Cave Ledge (174/243)
+[SNES at 2023-02-22 15:01:51,947]: New Check: Mushroom (175/243)
+[SNES at 2023-02-22 15:01:51,948]: New Check: King Zora (176/243)
+[SNES at 2023-02-22 15:01:51,948]: New Check: Magic Bat (177/243)
+[SNES at 2023-02-22 15:01:51,948]: New Check: Sick Kid (178/243)
+[SNES at 2023-02-22 15:01:51,948]: New Check: Library (179/243)
+[SNES at 2023-02-22 15:01:51,948]: New Check: Potion Shop (180/243)
+[SNES at 2023-02-22 15:01:51,948]: New Check: Old Man (181/243)
+[SNES at 2023-02-22 15:01:51,948]: New Check: Catfish (182/243)
+[SNES at 2023-02-22 15:01:51,948]: New Check: Stumpy (183/243)
+[SNES at 2023-02-22 15:01:51,971]: New Check: Bottle Merchant (184/243)
+[SNES at 2023-02-22 15:01:51,971]: New Check: Link's Uncle (185/243)
+[SNES at 2023-02-22 15:01:51,971]: New Check: Hobo (186/243)
+[kivy at 2023-02-22 15:01:52,198]: Received [31;1mRupees (50)[0m from [33mPandaSpin[0m (Library: Terminal 1 (Windaria)) (165/196 in list)
+[SNES at 2023-02-22 15:01:52,248]: New Check: Peg Cave (187/243)
+[SNES at 2023-02-22 15:01:52,248]: New Check: Mire Shed - Left (188/243)
+[SNES at 2023-02-22 15:01:52,248]: New Check: Mire Shed - Right (189/243)
+[SNES at 2023-02-22 15:01:52,248]: New Check: Hookshot Cave - Top Left (190/243)
+[SNES at 2023-02-22 15:01:52,248]: New Check: Turtle Rock - Roller Room - Left (191/243)
+[SNES at 2023-02-22 15:01:52,248]: New Check: Turtle Rock - Big Chest (192/243)
+[SNES at 2023-02-22 15:01:52,248]: New Check: Ganons Tower - Hope Room - Left (193/243)
+[SNES at 2023-02-22 15:01:52,248]: New Check: Ganons Tower - Hope Room - Right (194/243)
+[SNES at 2023-02-22 15:01:52,248]: New Check: Ganons Tower - Compass Room - Bottom Left (195/243)
+[SNES at 2023-02-22 15:01:52,248]: New Check: Ganons Tower - Map Chest (196/243)
+[SNES at 2023-02-22 15:01:52,248]: New Check: Ganons Tower - Big Chest (197/243)
+[SNES at 2023-02-22 15:01:52,248]: New Check: Ganons Tower - Big Key Room - Left (198/243)
+[SNES at 2023-02-22 15:01:52,249]: New Check: Ganons Tower - Pre-Moldorm Chest (199/243)
+[kivy at 2023-02-22 15:01:53,831]: Received [31;1mProgressive Bow (Alt)[0m from [33mPyronlilcharOoT2 (Player916)[0m (Ganons Castle Light Trial Third Right Chest) (166/196 in list)
+[kivy at 2023-02-22 15:01:55,347]: Received [31;1mBoss Heart Container[0m from [33mThe T-OoT[0m (Shadow Temple Invisible Blades Recovery Heart 1) (167/196 in list)
+[kivy at 2023-02-22 15:01:57,164]: Received [31;1mPiece of Heart[0m from [33mShadowriderTS[0m (Varndagroth Towers (Right): Memory - Bottom (Faron)) (168/196 in list)
+[kivy at 2023-02-22 15:01:58,681]: Received [31;1mBee[0m from [33mPluttergub[0m (Geo_Rock-Crystal_Peak_Entrance) (169/196 in list)
+[kivy at 2023-02-22 15:02:00,497]: Received [31;1mCompass (Misery Mire)[0m from [33msquidy990 (Player990)[0m (Metal Harbor - Chao Key 3) (170/196 in list)
+[kivy at 2023-02-22 15:02:02,014]: Received [31;1mPiece of Heart[0m from [33mSlipomatic_HK[0m (Whispering_Root-Greenpath) (171/196 in list)
+[kivy at 2023-02-22 15:02:04,814]: Received [31;1mQuake[0m from [33mLeafeonTS[0m (Sealed Caves (Sirens): Water hook) (172/196 in list)
+[kivy at 2023-02-22 15:02:06,631]: Received [31;1mBlue Boomerang[0m from [33mWhizzlefern-DKC3[0m (Floodlit Fish - KONG) (173/196 in list)
+[kivy at 2023-02-22 15:02:08,148]: Received [31;1mBee[0m from [33mBizzoCrossed[0m (Ganons Tower - Mini Helmasaur Room - Left) (174/196 in list)
+[kivy at 2023-02-22 15:02:09,964]: Received [31;1mBee[0m from [33mBadmoonZ_sub[0m (Dunes West Wreck - Databox) (175/196 in list)
+[kivy at 2023-02-22 15:02:11,481]: Received [31;1mRupees (50)[0m from [33mDemorckHK[0m (Vessel_Fragment-Greenpath) (176/196 in list)
+[kivy at 2023-02-22 15:02:13,297]: Received [31;1mBoss Heart Container[0m from [33mBlivenSMZ3 (Ado_SMZ3_1)[0m (Charge Beam) (177/196 in list)
+[kivy at 2023-02-22 15:02:14,814]: Received [31;1mCompass (Swamp Palace)[0m from [33mGibelyouOoT[0m (ToT Light Arrows Cutscene) (178/196 in list)
+[kivy at 2023-02-22 15:02:16,681]: Received [31;1mRupees (50)[0m from [33mJustice (Player892)[0m (Spike Cave) (179/196 in list)
+[kivy at 2023-02-22 15:02:19,397]: Received [31;1mCompass (Ice Palace)[0m from [33mJaylow7LTTP[0m (Ganons Tower - Big Chest) (180/196 in list)
+[kivy at 2023-02-22 15:02:21,214]: Received [31;1mPiece of Heart[0m from [33mShadow_Knight[0m (Sly_(Key)_2) (181/196 in list)
+[kivy at 2023-02-22 15:02:23,931]: Received [31;1mBee[0m from [33mChupa[0m (Bottom of the Well Lens of Truth Chest) (182/196 in list)
+[kivy at 2023-02-22 15:02:25,747]: Received [31;1mMap (Desert Palace)[0m from [33mPizzaOOT[0m (Colossus GS Bean Patch) (183/196 in list)
+[kivy at 2023-02-22 15:02:27,264]: Received [31;1mPiece of Heart[0m from [33mTrainer_Rivers[0m (S.S. Anne 2F - Item 2) (184/196 in list)
+[kivy at 2023-02-22 15:02:30,081]: Received [31;1mSanctuary Heart Container[0m from [33mMathx1[0m (Thieves' Town - Boss) (185/196 in list)
+[kivy at 2023-02-22 15:02:31,897]: Received [31;1mBee[0m from [33mDragusSMW (Phar 4)[0m (Chocolate Island 5 - Normal Exit) (186/196 in list)
+[kivy at 2023-02-22 15:02:33,414]: Received [31;1mSmall Key (Turtle Rock)[0m from [33mPIrateProgramOoT (Phar 2)[0m (Dodongos Cavern GS Side Room Near Lower Lizalfos) (187/196 in list)
+[kivy at 2023-02-22 15:02:35,231]: Received [31;1mCompass (Tower of Hera)[0m from [33mB_D_I_mario_64[0m (THI: Wiggler's Red Coins) (188/196 in list)
+[kivy at 2023-02-22 15:02:37,747]: Received [31;1mPiece of Heart[0m from [33mB_D_I_mario_64[0m (RR: 100 Coins) (189/196 in list)
+[kivy at 2023-02-22 15:02:40,564]: Received [31;1mBee[0m from [33mrft50HK[0m (Grub-Hive_Internal) (190/196 in list)
+[kivy at 2023-02-22 15:02:42,380]: Received [31;1mMap (Swamp Palace)[0m from [33mMathx2[0m (Geo_Rock-Hive_Above_Mask) (191/196 in list)
+[kivy at 2023-02-22 15:02:43,897]: Received [31;1mSmall Key (Palace of Darkness)[0m from [33mLiquid's HK[0m (Boss_Geo-Elegant_Soul_Warrior) (192/196 in list)
+[kivy at 2023-02-22 15:02:46,714]: Received [31;1mBee[0m from [33mMadi (TrainerSonic)[0m (Victory Road 2F - Juggler 2) (193/196 in list)
+[kivy at 2023-02-22 15:02:50,031]: Received [31;1mLamp[0m from [33mEzra3 (Player835)[0m (Lake Serene (Lower): Deep dive) (194/196 in list)
+[kivy at 2023-02-22 15:02:51,547]: Received [31;1mPiece of Heart[0m from [33mLiquid's OoT[0m (Fire Temple Big Lava Room Pot 2) (195/196 in list)
+[kivy at 2023-02-22 15:02:53,364]: Received [31;1mProgressive Glove[0m from [33mChrono-mon[0m (Safari Zone East - Northeast Item) (196/196 in list)
+[SNES at 2023-02-22 15:08:07,013]: New Check: Misery Mire - Spikes Pot Key (200/243)
+[SNES at 2023-02-22 15:10:07,480]: New Check: Misery Mire - Boss (201/243)
+[SNES at 2023-02-22 15:11:10,647]: New Check: Desert Palace - Desert Tiles 1 Pot Key (202/243)
+[SNES at 2023-02-22 15:11:40,180]: New Check: Desert Palace - Beamos Hall Pot Key (203/243)
+[SNES at 2023-02-22 15:11:46,147]: New Check: Desert Palace - Desert Tiles 2 Pot Key (204/243)
+[SNES at 2023-02-22 15:13:08,980]: New Check: Desert Palace - Boss (205/243)
+[SNES at 2023-02-22 15:23:59,613]: New Check: Ganons Tower - Mini Helmasaur Room - Right (206/243)
+[SNES at 2023-02-22 15:23:59,613]: New Check: Ganons Tower - Mini Helmasaur Key Drop (207/243)
+[kivy at 2023-02-22 15:36:26,654]: Received [31;1mBook of Mudora[0m from [33mBlivenSMZ3 (Ado_SMZ3_1)[0m (Pyramid Fairy - Left) (197/243 in list)
+[SNES at 2023-02-22 15:36:27,554]: New Check: Cave Shop (Dark Death Mountain) Left (208/243)
+[SNES at 2023-02-22 15:36:27,554]: New Check: Cave Shop (Dark Death Mountain) Center (209/243)
+[SNES at 2023-02-22 15:36:27,604]: New Check: Checkerboard Cave (210/243)
+[SNES at 2023-02-22 15:36:27,604]: New Check: Desert Palace - Big Chest (211/243)
+[SNES at 2023-02-22 15:36:27,604]: New Check: Desert Palace - Torch (212/243)
+[SNES at 2023-02-22 15:36:27,604]: New Check: Desert Palace - Map Chest (213/243)
+[SNES at 2023-02-22 15:36:27,604]: New Check: Desert Palace - Big Key Chest (214/243)
+[SNES at 2023-02-22 15:36:27,604]: New Check: Eastern Palace - Big Chest (215/243)
+[SNES at 2023-02-22 15:36:27,604]: New Check: Pyramid Fairy - Left (216/243)
+[SNES at 2023-02-22 15:36:27,604]: New Check: Pyramid Fairy - Right (217/243)
+[SNES at 2023-02-22 15:36:27,604]: New Check: Superbunny Cave - Top (218/243)
+[SNES at 2023-02-22 15:36:27,605]: New Check: Superbunny Cave - Bottom (219/243)
+[SNES at 2023-02-22 15:36:27,605]: New Check: Hookshot Cave - Top Right (220/243)
+[SNES at 2023-02-22 15:36:27,605]: New Check: Hookshot Cave - Bottom Right (221/243)
+[SNES at 2023-02-22 15:36:27,605]: New Check: Hookshot Cave - Bottom Left (222/243)
+[SNES at 2023-02-22 15:36:27,605]: New Check: Ice Palace - Freezor Chest (223/243)
+[SNES at 2023-02-22 15:36:27,605]: New Check: Ice Palace - Big Chest (224/243)
+[SNES at 2023-02-22 15:36:27,605]: New Check: Ice Palace - Spike Room (225/243)
+[SNES at 2023-02-22 15:36:27,605]: New Check: Ice Palace - Map Chest (226/243)
+[SNES at 2023-02-22 15:36:27,605]: New Check: Misery Mire - Map Chest (227/243)
+[SNES at 2023-02-22 15:36:27,605]: New Check: Misery Mire - Main Lobby (228/243)
+[SNES at 2023-02-22 15:36:27,605]: New Check: Misery Mire - Bridge Chest (229/243)
+[SNES at 2023-02-22 15:36:27,605]: New Check: Misery Mire - Spike Chest (230/243)
+[SNES at 2023-02-22 15:36:27,606]: New Check: Misery Mire - Big Key Chest (231/243)
+[SNES at 2023-02-22 15:36:27,606]: New Check: Turtle Rock - Compass Chest (232/243)
+[SNES at 2023-02-22 15:36:27,606]: New Check: Turtle Rock - Roller Room - Right (233/243)
+[SNES at 2023-02-22 15:36:27,606]: New Check: Turtle Rock - Chain Chomps (234/243)
+[SNES at 2023-02-22 15:36:27,606]: New Check: Turtle Rock - Big Key Chest (235/243)
+[SNES at 2023-02-22 15:36:27,606]: New Check: Turtle Rock - Crystaroller Room (236/243)
+[SNES at 2023-02-22 15:36:27,606]: New Check: Turtle Rock - Eye Bridge - Bottom Left (237/243)
+[SNES at 2023-02-22 15:36:27,606]: New Check: Turtle Rock - Eye Bridge - Top Left (238/243)
+[SNES at 2023-02-22 15:36:27,606]: New Check: Turtle Rock - Eye Bridge - Top Right (239/243)
+[SNES at 2023-02-22 15:36:27,606]: New Check: Palace of Darkness - Big Key Chest (240/243)
+[SNES at 2023-02-22 15:36:27,606]: New Check: Ganons Tower - Bob's Torch (241/243)
+[SNES at 2023-02-22 15:36:27,606]: New Check: Ganons Tower - Tile Room (242/243)
+[SNES at 2023-02-22 15:36:27,606]: New Check: Ganons Tower - Compass Room - Top Left (243/243)
+[SNES at 2023-02-22 15:36:27,606]: New Check: Ganons Tower - Compass Room - Top Right (244/243)
+[SNES at 2023-02-22 15:36:27,606]: New Check: Ganons Tower - Compass Room - Bottom Right (245/243)
+[SNES at 2023-02-22 15:36:27,607]: New Check: Ganons Tower - DMs Room - Top Right (246/243)
+[SNES at 2023-02-22 15:36:27,607]: New Check: Ganons Tower - DMs Room - Bottom Right (247/243)
+[SNES at 2023-02-22 15:36:27,607]: New Check: Ganons Tower - Firesnake Room (248/243)
+[SNES at 2023-02-22 15:36:27,607]: New Check: Ganons Tower - Randomizer Room - Top Left (249/243)
+[SNES at 2023-02-22 15:36:27,607]: New Check: Ganons Tower - Randomizer Room - Top Right (250/243)
+[SNES at 2023-02-22 15:36:27,607]: New Check: Ganons Tower - Randomizer Room - Bottom Right (251/243)
+[SNES at 2023-02-22 15:36:27,607]: New Check: Ganons Tower - Bob's Chest (252/243)
+[SNES at 2023-02-22 15:36:27,607]: New Check: Ganons Tower - Big Key Room - Right (253/243)
+[SNES at 2023-02-22 15:36:27,607]: New Check: Ganons Tower - Big Key Chest (254/243)
+[SNES at 2023-02-22 15:36:27,670]: New Check: Master Sword Pedestal (255/243)
+[SNES at 2023-02-22 15:36:27,670]: New Check: Floating Island (256/243)
+[SNES at 2023-02-22 15:36:27,700]: New Check: Blacksmith (257/243)
+[SNES at 2023-02-22 15:36:27,700]: New Check: Ether Tablet (258/243)
+[SNES at 2023-02-22 15:36:27,700]: New Check: Bombos Tablet (259/243)
+[SNES at 2023-02-22 15:36:27,704]: New Check: Purple Chest (260/243)
+[kivy at 2023-02-22 15:38:35,984]: Window: exiting mainloop and closing.
+[SNES at 2023-02-22 15:38:38,368]: Lost connection to the snes, type /snes to reconnect
+[SNES at 2023-02-22 15:38:38,368]: Error reading 0xf5f42e, requested 4 bytes, received 0
+[Client at 2023-02-22 15:38:38,572]: Disconnected from multiworld server

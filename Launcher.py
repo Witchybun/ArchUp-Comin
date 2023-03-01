@@ -132,7 +132,7 @@ components: Iterable[Component] = (
     Component('Text Client', 'CommonClient', 'ArchipelagoTextClient'),
     # SNI
     Component('SNI Client', 'SNIClient',
-              file_identifier=SuffixIdentifier('.apz3', '.apm3', '.apsoe', '.aplttp', '.apsm', '.apsmz3', '.apdkc3', '.apsmw', ".apff6wc")),
+              file_identifier=SuffixIdentifier('.apz3', '.apm3', '.apsoe', '.aplttp', '.apsm', '.apsmz3', '.apdkc3', '.apsmw', ".apff6wc", ".apl2ac")),
     Component('LttP Adjuster', 'LttPAdjuster'),
     Component('Links Awakening DX Client', 'LinksAwakeningClient', 
               file_identifier=SuffixIdentifier('.apladx')),
@@ -165,7 +165,7 @@ components: Iterable[Component] = (
     Component('Zillion Client', 'ZillionClient',
               file_identifier=SuffixIdentifier('.apzl')),
     # TLoZ
-    Component('Zelda 1 Client', 'Zelda1Client'),
+    Component('Zelda 1 Client', 'Zelda1Client', file_identifier=SuffixIdentifier('.aptloz')),
     # Functions
     Component('Open host.yaml', func=open_host_yaml),
     Component('Open Patch', func=open_patch),

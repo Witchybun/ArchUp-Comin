@@ -1,0 +1,12 @@
+﻿[root at 2023-02-22 01:39:19,013]: Archipelago (0.3.9) logging initialized on Linux-6.1.12-x64v3-xanmod1-x86_64-with-glibc2.35 running Python 3.10.6
+[Client at 2023-02-22 01:39:19,132]: Uncaught exception
+Traceback (most recent call last):
+  File "/mnt/115b93af-9f3b-43c4-a778-48dcab29caf0/Randomizers/Archipelago Betas/CommonClient.py", line 24, in <module>
+    from worlds import network_data_package, AutoWorldRegister
+  File "/mnt/115b93af-9f3b-43c4-a778-48dcab29caf0/Randomizers/Archipelago Betas/worlds/__init__.py", line 70, in <module>
+    importlib.import_module(f".{world_source.path}", "worlds")
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "/mnt/115b93af-9f3b-43c4-a778-48dcab29caf0/Randomizers/Archipelago Betas/worlds/ff6wc/__init__.py", line 23, in <module>
+    from worlds.ff6wc.WorldsCollide.wc import WC
+ImportError: cannot import name 'WC' from 'worlds.ff6wc.WorldsCollide.wc' (/mnt/115b93af-9f3b-43c4-a778-48dcab29caf0/Randomizers/Archipelago Betas/worlds/ff6wc/WorldsCollide/wc.py)

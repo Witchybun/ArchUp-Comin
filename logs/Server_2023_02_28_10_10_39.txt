@@ -1,0 +1,25 @@
+﻿[root at 2023-02-28 10:10:39,818]: Archipelago (0.3.9) logging initialized on Linux-6.1.12-x64v3-xanmod1-x86_64-with-glibc2.35 running Python 3.10.6
+[root at 2023-02-28 10:10:40,387]: Datapackage is in custom mode. Custom Worlds: [<class 'worlds.cv64.CV64World'>, <class 'worlds.kh2.KH2World'>, <class 'worlds.ladx.LinksAwakeningWorld'>, <class 'worlds.messenger.MessengerWorld'>, <class 'worlds.mmbn3.MMBN3World'>, <class 'worlds.musedash.MuseDashWorld'>, <class 'worlds.ror2.RiskOfRainWorld'>, <class 'worlds.stardew_valley.StardewValleyWorld'>, <class 'worlds.tboir.TheBindingOfIsaacRepentanceWorld'>, <class 'worlds.timespinner.TimespinnerWorld'>, <class 'worlds.undertale.UndertaleWorld'>, <class 'worlds.wargroove.WargrooveWorld'>]
+[root at 2023-02-28 10:10:44,731]: No save data found, starting a new game
+[root at 2023-02-28 10:10:45,005]: Hosting game at 99.91.169.91:38281 (No password)
+[websockets.server at 2023-02-28 10:10:45,006]: server listening on [::]:38281
+[websockets.server at 2023-02-28 10:10:45,006]: server listening on 0.0.0.0:38281
+[websockets.server at 2023-02-28 10:12:32,514]: connection open
+[root at 2023-02-28 10:12:34,517]: Notice (all): Player1 (Team #1) playing Dark Souls III has joined. Client(0.3.6), []).
+[root at 2023-02-28 10:12:34,517]: Notice (Player Player1 in team 1): Now that you are connected, you can use !help to list commands to run via the server. If your client supports it, you may have additional local commands you can list with /help.
+[root at 2023-02-28 10:13:36,819]: (Team #1) Player1 sent Titanite Slab #1 to Player1 (Soul of a Deserted Corpse #1)
+[root at 2023-02-28 10:13:50,889]: (Team #1) Player1 sent Ember #21 to Player1 (Fading Soul #1)
+[root at 2023-02-28 10:14:23,045]: (Team #1) Player1 sent Conjurator Boots to Player1 (Soul of an Unknown Traveler #1)
+[root at 2023-02-28 10:15:09,273]: (Team #1) Player1 sent Dragonrider Bow to Player1 (Titanite Shard #1)
+[root at 2023-02-28 10:15:31,379]: (Team #1) Player1 sent Grass Crest Shield to Player1 (Firebomb #1)
+[root at 2023-02-28 10:17:21,937]: (Team #1) Player1 sent Titanite Slab #2 to Player1 (FS: Broken Straight Sword)
+[root at 2023-02-28 10:18:02,130]: (Team #1) Player1 sent Homeward Bone #6 to Player1 (Ember #1)
+[root at 2023-02-28 10:19:00,420]: (Team #1) Player1 sent Titanite Shard #1 to Player1 (Soul of a Deserted Corpse #2)
+[websockets.server at 2023-02-28 10:19:24,226]: connection open
+[root at 2023-02-28 10:19:27,165]: Notice (all): Player1 (Team #1) playing Dark Souls III has joined. Client(0.3.9), ['TextOnly', 'AP']).
+[root at 2023-02-28 10:19:27,166]: Notice (Player Player1 in team 1): Now that you are connected, you can use !help to list commands to run via the server. If your client supports it, you may have additional local commands you can list with /help.
+[root at 2023-02-28 10:20:50,505]: Notice (all): Player1: !missing
+[root at 2023-02-28 10:21:37,577]: Notice (all): Player1 (Team #1) has left the game
+[websockets.server at 2023-02-28 10:21:37,577]: connection closed
+[root at 2023-02-28 10:21:41,100]: Notice (all): Player1 (Team #1) has left the game
+[websockets.server at 2023-02-28 10:21:41,100]: connection closed

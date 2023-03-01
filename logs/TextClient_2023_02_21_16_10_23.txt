@@ -1,0 +1,1388 @@
+﻿[root at 2023-02-21 16:10:23,058]: Archipelago (0.3.9) logging initialized on Linux-6.1.12-x64v3-xanmod1-x86_64-with-glibc2.35 running Python 3.10.6
+[root at 2023-02-21 16:10:23,610]: Datapackage is in custom mode. Custom Worlds: [<class 'worlds.cv64.CV64World'>, <class 'worlds.ladx.LinksAwakeningWorld'>, <class 'worlds.messenger.MessengerWorld'>, <class 'worlds.mmbn3.MMBN3World'>, <class 'worlds.musedash.MuseDashWorld'>, <class 'worlds.stardew_valley.StardewValleyWorld'>]
+[kivy at 2023-02-21 16:10:23,627]: Kivy: v2.1.0
+[kivy at 2023-02-21 16:10:23,627]: Kivy: Installed at "/home/albrekka/.local/lib/python3.10/site-packages/kivy/__init__.py"
+[kivy at 2023-02-21 16:10:23,627]: Python: v3.10.6 (main, Nov 14 2022, 16:10:14) [GCC 11.3.0]
+[kivy at 2023-02-21 16:10:23,627]: Python: Interpreter at "/usr/bin/python3"
+[kivy at 2023-02-21 16:10:23,641]: Factory: 189 symbols loaded
+[kivy at 2023-02-21 16:10:23,737]: Image: Providers: img_tex, img_dds, img_sdl2, img_pil (img_ffpyplayer ignored)
+[kivy at 2023-02-21 16:10:23,764]: Window: Provider: sdl2
+[kivy at 2023-02-21 16:10:24,850]: GL: Using the "OpenGL" graphics system
+[kivy at 2023-02-21 16:10:24,851]: GL: Backend used <sdl2>
+[kivy at 2023-02-21 16:10:24,851]: GL: OpenGL version <b'4.6.0 NVIDIA 525.78.01'>
+[kivy at 2023-02-21 16:10:24,851]: GL: OpenGL vendor <b'NVIDIA Corporation'>
+[kivy at 2023-02-21 16:10:24,851]: GL: OpenGL renderer <b'NVIDIA GeForce GTX 1080/PCIe/SSE2'>
+[kivy at 2023-02-21 16:10:24,851]: GL: OpenGL parsed version: 4, 6
+[kivy at 2023-02-21 16:10:24,851]: GL: Shading version <b'4.60 NVIDIA'>
+[kivy at 2023-02-21 16:10:24,851]: GL: Texture max size <32768>
+[kivy at 2023-02-21 16:10:24,851]: GL: Texture max units <32>
+[kivy at 2023-02-21 16:10:24,890]: Window: auto add sdl2 input provider
+[kivy at 2023-02-21 16:10:24,891]: Window: virtual keyboard not allowed, single mode, not docked
+[kivy at 2023-02-21 16:10:24,966]: Clipboard: Provider: gtk3(['clipboard_xclip', 'clipboard_xsel', 'clipboard_dbusklipper'] ignored)
+[kivy at 2023-02-21 16:10:24,969]: Cutbuffer: Unable to find any valuable Cutbuffer provider. Please enable debug logging (e.g. add -d if running from the command line, or change the log level in the config) and re-run your app to identify potential causes
+xclip - FileNotFoundError: [Errno 2] No such file or directory: 'xclip'
+  File "/home/albrekka/.local/lib/python3.10/site-packages/kivy/core/__init__.py", line 59, in core_select_lib
+    mod = importlib.__import__(name='{2}.{0}.{1}'.format(
+  File "<frozen importlib._bootstrap>", line 1129, in __import__
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/albrekka/.local/lib/python3.10/site-packages/kivy/core/clipboard/clipboard_xclip.py", line 17, in <module>
+    p = subprocess.Popen(['xclip', '-version'], stdout=subprocess.PIPE,
+  File "/usr/lib/python3.10/subprocess.py", line 969, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "/usr/lib/python3.10/subprocess.py", line 1845, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+
+xsel - FileNotFoundError: [Errno 2] No such file or directory: 'xsel'
+  File "/home/albrekka/.local/lib/python3.10/site-packages/kivy/core/__init__.py", line 59, in core_select_lib
+    mod = importlib.__import__(name='{2}.{0}.{1}'.format(
+  File "<frozen importlib._bootstrap>", line 1129, in __import__
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/albrekka/.local/lib/python3.10/site-packages/kivy/core/clipboard/clipboard_xsel.py", line 16, in <module>
+    p = subprocess.Popen(['xsel'], stdout=subprocess.PIPE)
+  File "/usr/lib/python3.10/subprocess.py", line 969, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "/usr/lib/python3.10/subprocess.py", line 1845, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+
+[kivy at 2023-02-21 16:10:24,972]: Text: Provider: sdl2
+[Client at 2023-02-21 16:10:24,992]: Please connect to an Archipelago server.
+[kivy at 2023-02-21 16:10:25,063]: GL: NPOT texture support is available
+[Client at 2023-02-21 16:10:25,077]: /help 
+    Returns the help listing
+/license 
+    Returns the licensing information
+/exit 
+    Close connections and client
+/connect [address] 
+    Connect to a MultiWorld Server
+/disconnect 
+    Disconnect from a MultiWorld Server
+/received 
+    List all received items
+/missing 
+    List all missing location checks, from your local game state
+/items 
+    List all item names for the currently running game.
+/locations 
+    List all location names for the currently running game.
+/ready 
+    Send ready status to server.
+
+[kivy at 2023-02-21 16:10:25,126]: Base: Start application main loop
+[Client at 2023-02-21 16:10:30,508]: Connecting to Archipelago server at ws://archipelago.gg:38281
+[Client at 2023-02-21 16:10:30,988]: Connected
+[Client at 2023-02-21 16:10:31,005]: --------------------------------
+[Client at 2023-02-21 16:10:31,005]: Room Information:
+[Client at 2023-02-21 16:10:31,006]: --------------------------------
+[Client at 2023-02-21 16:10:31,006]: Server protocol version: 0.3.8
+[Client at 2023-02-21 16:10:31,006]: Server protocol tags: AP, WebHost
+[Client at 2023-02-21 16:10:31,006]: Forfeit permission: auto
+[Client at 2023-02-21 16:10:31,006]: Release permission: auto
+[Client at 2023-02-21 16:10:31,006]: Remaining permission: goal
+[Client at 2023-02-21 16:10:31,006]: Collect permission: auto
+[Client at 2023-02-21 16:10:31,006]: A !hint costs 15% of your total location count as points and you get 1 for each location checked. Use !hint for more information.
+[Client at 2023-02-21 16:10:31,006]: Enter slot name:
+[Client at 2023-02-21 16:10:34,721]: 189 received items:
+[Client at 2023-02-21 16:10:34,722]: Bee from NebulaiLTTP3 (Player965)
+[Client at 2023-02-21 16:10:34,722]: Compass (Turtle Rock) from Radz OoT
+[Client at 2023-02-21 16:10:34,722]: Boss Heart Container from Jane_ALTTP507
+[Client at 2023-02-21 16:10:34,722]: Piece of Heart from CaitSith
+[Client at 2023-02-21 16:10:34,722]: Bee from Felix_DuBoisOoT (Player964)
+[Client at 2023-02-21 16:10:34,722]: Bombs (3) from GibelyouOoT
+[Client at 2023-02-21 16:10:34,722]: Map (Eastern Palace) from Odin-Kaze_TS (Player827)
+[Client at 2023-02-21 16:10:34,722]: Small Key (Swamp Palace) from Praxis_HK
+[Client at 2023-02-21 16:10:34,722]: Boss Heart Container from DioSM64 (Player770)
+[Client at 2023-02-21 16:10:34,722]: Progressive Mail from Bluejello-lttp
+[Client at 2023-02-21 16:10:34,722]: Piece of Heart from KydoMeritous (Player1104)
+[Client at 2023-02-21 16:10:34,722]: Rupees (50) from Nymkad
+[Client at 2023-02-21 16:10:34,722]: Boss Heart Container from PlaneswaterSA2 (Player1089)
+[Client at 2023-02-21 16:10:34,722]: Bombos from Lightcecil (Lightcecil)
+[Client at 2023-02-21 16:10:34,722]: Small Key (Skull Woods) from Naydem (Player1044)
+[Client at 2023-02-21 16:10:34,723]: Bottle (Red Potion) from Arashi-188 (Elias-TS1-188)
+[Client at 2023-02-21 16:10:34,723]: Compass (Desert Palace) from Peahen#9639-TS2 (Peahen5)
+[Client at 2023-02-21 16:10:34,723]: Cape from NebulaiLTTP2 (Elias-LttP2-191)
+[Client at 2023-02-21 16:10:34,723]: Arrows (10) from TrainerIcarus
+[Client at 2023-02-21 16:10:34,723]: Compass (Skull Woods) from Arashi-TS-Inv
+[Client at 2023-02-21 16:10:34,723]: Map (Turtle Rock) from Shadow_Factory
+[Client at 2023-02-21 16:10:34,723]: Small Key (Hyrule Castle) from Peahen#9639-Fact (Peahen6)
+[Client at 2023-02-21 16:10:34,723]: Rupees (50) from Fatman_HK
+[Client at 2023-02-21 16:10:34,723]: Bombs (3) from Player765
+[Client at 2023-02-21 16:10:34,723]: Piece of Heart from PizzaDKC (Player819)
+[Client at 2023-02-21 16:10:34,723]: Boss Heart Container from NilesSebek64 (Player1012)
+[Client at 2023-02-21 16:10:34,723]: Small Key (Palace of Darkness) from GodlFireTS
+[Client at 2023-02-21 16:10:34,723]: Bee Trap from The T-SoE (Player1164)
+[Client at 2023-02-21 16:10:34,723]: Rupees (300) from Shadow_Factory
+[Client at 2023-02-21 16:10:34,723]: Progressive Shield from AdremOoT
+[Client at 2023-02-21 16:10:34,723]: Cane of Byrna from Invintic (Player1050)
+[Client at 2023-02-21 16:10:34,724]: Progressive Shield from divinelegacy (Player1035)
+[Client at 2023-02-21 16:10:34,724]: Big Key (Ganons Tower) from Klonoa_ror2
+[Client at 2023-02-21 16:10:34,724]: Progressive Glove from Player930
+[Client at 2023-02-21 16:10:34,724]: Rupees (20) from Ruber-HK
+[Client at 2023-02-21 16:10:34,724]: Piece of Heart from B_D_I_owg
+[Client at 2023-02-21 16:10:34,724]: Bombs (3) from Maragon (RafeAshes)
+[Client at 2023-02-21 16:10:34,724]: Fire Rod from SiPaRogue
+[Client at 2023-02-21 16:10:34,724]: Big Key (Thieves Town) from Player763
+[Client at 2023-02-21 16:10:34,724]: Hammer from MaveloventRL5
+[Client at 2023-02-21 16:10:34,724]: Bee from Ravanan-SM64 (Player1111)
+[Client at 2023-02-21 16:10:34,724]: Bee from divinelegacy (Player1035)
+[Client at 2023-02-21 16:10:34,724]: Hookshot from Kippi00T
+[Client at 2023-02-21 16:10:34,724]: Bee from Niles-Souls
+[Client at 2023-02-21 16:10:34,724]: Rupees (50) from HollowRivers
+[Client at 2023-02-21 16:10:34,724]: Rupees (50) from PIrateProgramWit (Player1189)
+[Client at 2023-02-21 16:10:34,724]: Ether from Peahen2
+[Client at 2023-02-21 16:10:34,725]: Pegasus Boots from Kiddo Brekk (Player1172)
+[Client at 2023-02-21 16:10:34,725]: Single Arrow from Ravanan-Sonic (Player757)
+[Client at 2023-02-21 16:10:34,725]: Piece of Heart from KikiOOT302
+[Client at 2023-02-21 16:10:34,725]: Piece of Heart from EspeonWitness
+[Client at 2023-02-21 16:10:34,725]: Small Key (Ice Palace) from Chrono-mon
+[Client at 2023-02-21 16:10:34,725]: Progressive Mail from BerserkerSonic
+[Client at 2023-02-21 16:10:34,725]: Small Key (Tower of Hera) from BadmoonZ_SMZ3
+[Client at 2023-02-21 16:10:34,725]: Progressive Sword from EntissSA2 (Player860)
+[Client at 2023-02-21 16:10:34,725]: Rupees (50) from DeamonHunter3 (Player976)
+[Client at 2023-02-21 16:10:34,725]: Bee from ZethnoFactory (Player1059)
+[Client at 2023-02-21 16:10:34,725]: Big Key (Misery Mire) from Praxis_HK
+[Client at 2023-02-21 16:10:34,725]: Moon Pearl from Dr.Awesome4333
+[Client at 2023-02-21 16:10:34,725]: Piece of Heart from ScootySpinner
+[Client at 2023-02-21 16:10:34,725]: Bee from Boris
+[Client at 2023-02-21 16:10:34,725]: Bee from fatal (Player745)
+[Client at 2023-02-21 16:10:34,725]: Small Key (Misery Mire) from slide_oot
+[Client at 2023-02-21 16:10:34,726]: Bee from Whitetail
+[Client at 2023-02-21 16:10:34,726]: Rupees (300) from BatouuSM64
+[Client at 2023-02-21 16:10:34,726]: Red Boomerang from GlaceonSMZ3 (Player879)
+[Client at 2023-02-21 16:10:34,726]: Piece of Heart from Dr.AwesomeSM64
+[Client at 2023-02-21 16:10:34,726]: Big Key (Ice Palace) from DragusTS (Player1078)
+[Client at 2023-02-21 16:10:34,726]: Map (Thieves Town) from Whizzlefern-HK
+[Client at 2023-02-21 16:10:34,726]: Arrows (10) from SilvrisSA2 (Player766)
+[Client at 2023-02-21 16:10:34,726]: Small Key (Palace of Darkness) from Ravanan-Sonic (Player757)
+[Client at 2023-02-21 16:10:34,726]: Bee from sheen_sc2
+[Client at 2023-02-21 16:10:34,726]: Bee from l100SoE
+[Client at 2023-02-21 16:10:34,726]: Big Key (Skull Woods) from Newsupermarcobro (Player1058)
+[Client at 2023-02-21 16:10:34,726]: Big Key (Desert Palace) from ChadtotheCross
+[Client at 2023-02-21 16:10:34,726]: Bee from Coal_SM (Player1187)
+[Client at 2023-02-21 16:10:34,726]: Flippers from Jupiteroot290
+[Client at 2023-02-21 16:10:34,726]: Bee from black_sliver (Player1008)
+[Client at 2023-02-21 16:10:34,726]: Arrows (10) from DragusSMZ3 (Player1137)
+[Client at 2023-02-21 16:10:34,726]: Rupee (1) from GozengattaRL (Player883)
+[Client at 2023-02-21 16:10:34,727]: Magic Powder from J2Hollow
+[Client at 2023-02-21 16:10:34,727]: Bee from KoatlusHK (Player1199)
+[Client at 2023-02-21 16:10:34,727]: Bottle (Red Potion) from Aki665_TS
+[Client at 2023-02-21 16:10:34,727]: Mushroom from Aki665_TS
+[Client at 2023-02-21 16:10:34,727]: Big Key (Turtle Rock) from Aki665_TS
+[Client at 2023-02-21 16:10:34,727]: Piece of Heart from Mathx2
+[Client at 2023-02-21 16:10:34,727]: Bee from KillerWitness (Player988)
+[Client at 2023-02-21 16:10:34,727]: Compass (Palace of Darkness) from J2Hollow
+[Client at 2023-02-21 16:10:34,727]: Progressive Sword from ShadowriderHK (Player767)
+[Client at 2023-02-21 16:10:34,727]: Piece of Heart from VyseGolbezPkmn
+[Client at 2023-02-21 16:10:34,727]: Bee from hb-red (Player806)
+[Client at 2023-02-21 16:10:34,727]: Bee from Liquid's HK
+[Client at 2023-02-21 16:10:34,727]: Small Key (Turtle Rock) from Liquid's HK
+[Client at 2023-02-21 16:10:34,727]: Boss Heart Container from LegacyofEevee (Player1042)
+[Client at 2023-02-21 16:10:34,728]: Bee from Pluttergub
+[Client at 2023-02-21 16:10:34,728]: Rupees (50) from Player931
+[Client at 2023-02-21 16:10:34,728]: Rupees (5) from Bluetail (Player870)
+[Client at 2023-02-21 16:10:34,728]: Compass (Thieves Town) from cubethethird_HK1
+[Client at 2023-02-21 16:10:34,728]: Bee from PrimePentadLttP
+[Client at 2023-02-21 16:10:34,728]: Rupees (50) from KikiOOT303
+[Client at 2023-02-21 16:10:34,728]: Small Key (Agahnims Tower) from ChocoboROR2
+[Client at 2023-02-21 16:10:34,728]: Bee from ChocoboROR2
+[Client at 2023-02-21 16:10:34,728]: Rupees (50) from Fatman_HK
+[Client at 2023-02-21 16:10:34,728]: Bee from Fatman_HK
+[Client at 2023-02-21 16:10:34,728]: Rupees (20) from Hopop-RL
+[Client at 2023-02-21 16:10:34,728]: Bee from Hopop-RL
+[Client at 2023-02-21 16:10:34,728]: Big Key (Palace of Darkness) from Felix_DuBois_DS3 (Player1117)
+[Client at 2023-02-21 16:10:34,728]: Small Key (Ganons Tower) from Tavnazian
+[Client at 2023-02-21 16:10:34,728]: Rupees (50) from Ziktofel_Ground
+[Client at 2023-02-21 16:10:34,728]: Bee from MaveloventRL4
+[Client at 2023-02-21 16:10:34,729]: Rupees (20) from Praxis_DS3 (Player895)
+[Client at 2023-02-21 16:10:34,729]: Arrows (10) from FlameSMZ3
+[Client at 2023-02-21 16:10:34,729]: Small Key (Skull Woods) from PizzaPKMN
+[Client at 2023-02-21 16:10:34,729]: Bee from cubethethird_HK1
+[Client at 2023-02-21 16:10:34,729]: Rupees (50) from Bluejello-LTTP2 (TMK4Inv)
+[Client at 2023-02-21 16:10:34,729]: Shovel from DioPKMN (Player1190)
+[Client at 2023-02-21 16:10:34,729]: Ice Rod from BadmoonZ_hk
+[Client at 2023-02-21 16:10:34,729]: Rupees (50) from B_D_I_owg
+[Client at 2023-02-21 16:10:34,729]: Progressive Sword from PikurWorld
+[Client at 2023-02-21 16:10:34,729]: Magic Upgrade (1/2) from Player1160
+[Client at 2023-02-21 16:10:34,729]: Rupees (50) from RensenOOT
+[Client at 2023-02-21 16:10:34,729]: Bee Trap from ShadowRiderTTP (Player963)
+[Client at 2023-02-21 16:10:34,729]: Rupees (20) from erksubnautica (Player797)
+[Client at 2023-02-21 16:10:34,729]: Small Key (Ganons Tower) from DraikenSMZ
+[Client at 2023-02-21 16:10:34,729]: Rupees (50) from Cyb3R_SM151
+[Client at 2023-02-21 16:10:34,729]: Small Key (Ganons Tower) from Albrekka the Bun
+[Client at 2023-02-21 16:10:34,730]: Bee from Mathx3
+[Client at 2023-02-21 16:10:34,730]: Small Key (Misery Mire) from Mathx2
+[Client at 2023-02-21 16:10:34,730]: Rupees (20) from CodeGorilla_Spin
+[Client at 2023-02-21 16:10:34,730]: Small Key (Palace of Darkness) from Chupa
+[Client at 2023-02-21 16:10:34,730]: Rupees (50) from KikiOOT302
+[Client at 2023-02-21 16:10:34,730]: Bug Catching Net from jf-hollow (Player1153)
+[Client at 2023-02-21 16:10:34,730]: Map (Tower of Hera) from KikiOOT304
+[Client at 2023-02-21 16:10:34,730]: Flute from Player923
+[Client at 2023-02-21 16:10:34,730]: Map (Palace of Darkness) from KenderFF
+[Client at 2023-02-21 16:10:34,730]: Piece of Heart from TriforceDrummer
+[Client at 2023-02-21 16:10:34,730]: Boss Heart Container from slide_sa2
+[Client at 2023-02-21 16:10:34,730]: Compass (Ganons Tower) from PikurOOT
+[Client at 2023-02-21 16:10:34,730]: Bee from ShadowriderOOT
+[Client at 2023-02-21 16:10:34,730]: Rupees (50) from The T-64 (Player833)
+[Client at 2023-02-21 16:10:34,730]: Rupees (50) from The T-64 (Player833)
+[Client at 2023-02-21 16:10:34,730]: Bee from PizzaOOT
+[Client at 2023-02-21 16:10:34,731]: Bee from SneakiHK (Player802)
+[Client at 2023-02-21 16:10:34,731]: Big Key (Swamp Palace) from PlaneswaterSA2 (Player1089)
+[Client at 2023-02-21 16:10:34,731]: Small Key (Agahnims Tower) from l100knights
+[Client at 2023-02-21 16:10:34,731]: Rupees (20) from FigmentSMW (Player1082)
+[Client at 2023-02-21 16:10:34,731]: Small Key (Skull Woods) from Xekoneer
+[Client at 2023-02-21 16:10:34,731]: Piece of Heart from AdremOoT
+[Client at 2023-02-21 16:10:34,731]: Rupees (50) from cubethethird_HK2
+[Client at 2023-02-21 16:10:34,731]: Rupees (50) from BadmoonZ_hk
+[Client at 2023-02-21 16:10:34,731]: Small Key (Thieves Town) from KippiSpinner
+[Client at 2023-02-21 16:10:34,731]: Bottle (Good Bee) from Peahen#9639-TS2 (Peahen5)
+[Client at 2023-02-21 16:10:34,731]: Piece of Heart from ShadowriderHK (Player767)
+[Client at 2023-02-21 16:10:34,731]: Bombs (3) from DeamonHunter1
+[Client at 2023-02-21 16:10:34,731]: Small Key (Ice Palace) from ShadowriderPKMN (Player1167)
+[Client at 2023-02-21 16:10:34,731]: Compass (Eastern Palace) from GGuyOoT
+[Client at 2023-02-21 16:10:34,731]: Magic Mirror from FigmentOOT
+[Client at 2023-02-21 16:10:34,731]: Progressive Bow from RegSM64
+[Client at 2023-02-21 16:10:34,732]: Cane of Somaria from StingX2OOT
+[Client at 2023-02-21 16:10:34,732]: Small Key (Palace of Darkness) from Player1160
+[Client at 2023-02-21 16:10:34,732]: Big Key (Tower of Hera) from CobraSM64
+[Client at 2023-02-21 16:10:34,732]: Bottle (Fairy) from slide_pkmn
+[Client at 2023-02-21 16:10:34,732]: Boss Heart Container from ExpertWitnessM8
+[Client at 2023-02-21 16:10:34,732]: Rupees (50) from SamitianWitness
+[Client at 2023-02-21 16:10:34,732]: Rupees (50) from PandaSpin
+[Client at 2023-02-21 16:10:34,732]: Progressive Bow (Alt) from PyronlilcharOoT2 (Player916)
+[Client at 2023-02-21 16:10:34,732]: Boss Heart Container from The T-OoT
+[Client at 2023-02-21 16:10:34,732]: Piece of Heart from ShadowriderTS
+[Client at 2023-02-21 16:10:34,732]: Bee from Pluttergub
+[Client at 2023-02-21 16:10:34,732]: Compass (Misery Mire) from squidy990 (Player990)
+[Client at 2023-02-21 16:10:34,732]: Piece of Heart from Slipomatic_HK
+[Client at 2023-02-21 16:10:34,732]: Quake from LeafeonTS
+[Client at 2023-02-21 16:10:34,732]: Blue Boomerang from Whizzlefern-DKC3
+[Client at 2023-02-21 16:10:34,732]: Bee from BizzoCrossed
+[Client at 2023-02-21 16:10:34,732]: Bee from BadmoonZ_sub
+[Client at 2023-02-21 16:10:34,733]: Rupees (50) from DemorckHK
+[Client at 2023-02-21 16:10:34,733]: Boss Heart Container from BlivenSMZ3 (Ado_SMZ3_1)
+[Client at 2023-02-21 16:10:34,733]: Compass (Swamp Palace) from GibelyouOoT
+[Client at 2023-02-21 16:10:34,733]: Rupees (50) from Justice (Player892)
+[Client at 2023-02-21 16:10:34,733]: Compass (Ice Palace) from Jaylow7LTTP
+[Client at 2023-02-21 16:10:34,733]: Piece of Heart from Shadow_Knight
+[Client at 2023-02-21 16:10:34,733]: Bee from Chupa
+[Client at 2023-02-21 16:10:34,733]: Map (Desert Palace) from PizzaOOT
+[Client at 2023-02-21 16:10:34,733]: Piece of Heart from Trainer_Rivers
+[Client at 2023-02-21 16:10:34,733]: Sanctuary Heart Container from Mathx1
+[Client at 2023-02-21 16:10:34,733]: Bee from DragusSMW (Phar 4)
+[Client at 2023-02-21 16:10:34,733]: Small Key (Turtle Rock) from PIrateProgramOoT (Phar 2)
+[Client at 2023-02-21 16:10:34,733]: Compass (Tower of Hera) from B_D_I_mario_64
+[Client at 2023-02-21 16:10:34,733]: Piece of Heart from B_D_I_mario_64
+[Client at 2023-02-21 16:10:37,135]: Disconnected from multiworld server, type /connect to reconnect
+[Client at 2023-02-21 16:10:37,638]: Connecting to Archipelago server at ws://archipelago.gg:38281
+[Client at 2023-02-21 16:10:38,087]: Connected
+[Client at 2023-02-21 16:10:38,099]: --------------------------------
+[Client at 2023-02-21 16:10:38,099]: Room Information:
+[Client at 2023-02-21 16:10:38,099]: --------------------------------
+[Client at 2023-02-21 16:10:38,099]: Server protocol version: 0.3.8
+[Client at 2023-02-21 16:10:38,099]: Server protocol tags: AP, WebHost
+[Client at 2023-02-21 16:10:38,099]: Forfeit permission: auto
+[Client at 2023-02-21 16:10:38,099]: Release permission: auto
+[Client at 2023-02-21 16:10:38,099]: Remaining permission: goal
+[Client at 2023-02-21 16:10:38,099]: Collect permission: auto
+[Client at 2023-02-21 16:10:38,099]: A !hint costs 15% of your total location count as points and you get 1 for each location checked. Use !hint for more information.
+[Client at 2023-02-21 16:10:38,100]: Enter slot name:
+[Client at 2023-02-21 16:10:41,571]: 128 received items:
+[Client at 2023-02-21 16:10:41,572]: CAVE KEY from SamitianALTTP
+[Client at 2023-02-21 16:10:41,572]: BANANA from Dr.Awesome4333
+[Client at 2023-02-21 16:10:41,572]: CUPCAKE from HollowRever
+[Client at 2023-02-21 16:10:41,572]: PAPER CUP from RensenRed
+[Client at 2023-02-21 16:10:41,572]: RANCHER PONCHO from Ponygoodbugs
+[Client at 2023-02-21 16:10:41,572]: MUSCLE APPLIQUE from Chrono-mon
+[Client at 2023-02-21 16:10:41,572]: BANANA from Hopop-MC
+[Client at 2023-02-21 16:10:41,572]: BANANA from AGJelly5
+[Client at 2023-02-21 16:10:41,572]: VESSEL ROOM KEY from Radz SM64
+[Client at 2023-02-21 16:10:41,572]: PLEATHER GAGE from GwendexterOC2 (Player1100)
+[Client at 2023-02-21 16:10:41,572]: MULTI-JUICE from EspeonHK
+[Client at 2023-02-21 16:10:41,572]: BANANA from divinesmz3 (Player817)
+[Client at 2023-02-21 16:10:41,572]: BANANA from PoundsOfTime
+[Client at 2023-02-21 16:10:41,572]: TOWER KEY from EntissSA2 (Player860)
+[Client at 2023-02-21 16:10:41,572]: CLOUD GERM from Liquid's OoT
+[Client at 2023-02-21 16:10:41,573]: LONG GLOVES from Bluejello-risk
+[Client at 2023-02-21 16:10:41,573]: 10 Bones from EkyxSMW (Player970)
+[Client at 2023-02-21 16:10:41,573]: MEAT from EeveeOfTime (Player1106)
+[Client at 2023-02-21 16:10:41,573]: TARP from PandaAlttPTri
+[Client at 2023-02-21 16:10:41,573]: 10 Bones from PikurRed
+[Client at 2023-02-21 16:10:41,573]: BURRITO from Player1087
+[Client at 2023-02-21 16:10:41,573]: 100 Bones from BizzoSMZ3
+[Client at 2023-02-21 16:10:41,573]: BURRITO from Albrekka the Bun
+[Client at 2023-02-21 16:10:41,573]: 10 Bones from Levisaxos_FC2
+[Client at 2023-02-21 16:10:41,573]: BURRITO from TheoPoke1
+[Client at 2023-02-21 16:10:41,573]: BRAIN DIGITS from TMK4Cave1
+[Client at 2023-02-21 16:10:41,573]: JAIL KEY from PlaneswaterSoE (Player807)
+[Client at 2023-02-21 16:10:41,573]: PEPTIDE BODKINS from BlusWeltOOT
+[Client at 2023-02-21 16:10:41,573]: 10 Bones from Ado#9805_RL (Player1014)
+[Client at 2023-02-21 16:10:41,573]: 10 Bones from Pikur64
+[Client at 2023-02-21 16:10:41,573]: LOOPED DOME from J2Hollow
+[Client at 2023-02-21 16:10:41,574]: MULTI SOUL SPONGE from EspeonHK
+[Client at 2023-02-21 16:10:41,574]: SOUL SPONGE from LeafeonTS
+[Client at 2023-02-21 16:10:41,574]: MUSCLE APPLIQUE from BadmoonZ_pok
+[Client at 2023-02-21 16:10:41,574]: BANANA from jf-rogue (Player909)
+[Client at 2023-02-21 16:10:41,574]: PAPER CUP from Bunny Kong (Player890)
+[Client at 2023-02-21 16:10:41,574]: Pongorma from J2Souls (Player1013)
+[Client at 2023-02-21 16:10:41,574]: JUICE from Dslyecxia_Factor (Player946)
+[Client at 2023-02-21 16:10:41,574]: 10 Bones from Hedgehog0_RL
+[Client at 2023-02-21 16:10:41,574]: MULTI SOUL SPONGE from Jay_Souls (Player1182)
+[Client at 2023-02-21 16:10:41,574]: POOLWINE from Done (ScootyRL)
+[Client at 2023-02-21 16:10:41,574]: MULTI SOUL SPONGE from SurlyFactory
+[Client at 2023-02-21 16:10:41,574]: 10 Bones from LegacyofEevee (Player1042)
+[Client at 2023-02-21 16:10:41,574]: 10 Bones from Ponygood11cubes
+[Client at 2023-02-21 16:10:41,574]: LINK MOLLUSC from PokeMurgurak (Player886)
+[Client at 2023-02-21 16:10:41,574]: MUSCLE APPLIQUE from Arashi-SA2
+[Client at 2023-02-21 16:10:41,574]: PNEUMATOPHORE from GlaceonSMZ3 (Player879)
+[Client at 2023-02-21 16:10:41,574]: MULTI SOUL SPONGE from MariaLeFey SC2
+[Client at 2023-02-21 16:10:41,575]: JUICE from ShadowriderOOT
+[Client at 2023-02-21 16:10:41,575]: BURRITO from rft50HK
+[Client at 2023-02-21 16:10:41,575]: STEM CELL from Klonoa_ff1
+[Client at 2023-02-21 16:10:41,575]: COOKIE from NicoleLizardPKMN
+[Client at 2023-02-21 16:10:41,575]: BANANA from Kiddo Brekk (Player1172)
+[Client at 2023-02-21 16:10:41,575]: BANANA from ErkMinecraft (Player808)
+[Client at 2023-02-21 16:10:41,575]: 10 Bones from Zunawe
+[Client at 2023-02-21 16:10:41,575]: PADDLE from DapperALTTP (Player994)
+[Client at 2023-02-21 16:10:41,575]: 10 Bones from BizzoCrossed
+[Client at 2023-02-21 16:10:41,575]: JUICE from MCat (Player785)
+[Client at 2023-02-21 16:10:41,575]: MULTI-JUICE from GGuyOoT
+[Client at 2023-02-21 16:10:41,575]: 10 Bones from mrsummer (Player1077)
+[Client at 2023-02-21 16:10:41,575]: COOKIE from Player1039
+[Client at 2023-02-21 16:10:41,575]: FADED PONCHO from SiPaRogue
+[Client at 2023-02-21 16:10:41,575]: TELEDENUDATE from PrimePentadSMZ3 (Player830)
+[Client at 2023-02-21 16:10:41,575]: CLOUD GERM from MrPokemon11HK
+[Client at 2023-02-21 16:10:41,576]: SOUL SPONGE from hb-red (Player806)
+[Client at 2023-02-21 16:10:41,576]: UPPER HOUSE KEY from GibelyouLegacy
+[Client at 2023-02-21 16:10:41,576]: BRIDGE KEY from Liquid's HK
+[Client at 2023-02-21 16:10:41,576]: 10 Bones from PraxisBanana (Player1109)
+[Client at 2023-02-21 16:10:41,576]: SAGE TOKEN from Boris
+[Client at 2023-02-21 16:10:41,576]: 10 Bones from SkyySM (Player779)
+[Client at 2023-02-21 16:10:41,576]: MULTI-JUICE from StingX2OOT
+[Client at 2023-02-21 16:10:41,576]: BANANA from SilverHK (Player1076)
+[Client at 2023-02-21 16:10:41,576]: 10 Bones from Slipomatic_HK
+[Client at 2023-02-21 16:10:41,576]: BURRITO from Player1099
+[Client at 2023-02-21 16:10:41,576]: CURSED GLOVES from MaveloventRL2
+[Client at 2023-02-21 16:10:41,576]: FATE SANDBOX from The T-SA2
+[Client at 2023-02-21 16:10:41,576]: SKULL BOMB from Felix_DuBois_DS3 (Player1117)
+[Client at 2023-02-21 16:10:41,576]: 10 Bones from Hedgehog0_ALTTP
+[Client at 2023-02-21 16:10:41,576]: BOOTS from DapperFact2 (alberto...6)
+[Client at 2023-02-21 16:10:41,576]: MULTI SOUL SPONGE from fatal (Player998)
+[Client at 2023-02-21 16:10:41,577]: Somsnosa from divineoot (Virt_OOT)
+[Client at 2023-02-21 16:10:41,577]: TENDRIL HAND from SamitianSMW
+[Client at 2023-02-21 16:10:41,577]: 10 Bones from slide_pkmn
+[Client at 2023-02-21 16:10:41,577]: CONVERTER WORM from Player1160
+[Client at 2023-02-21 16:10:41,577]: ORGAN FORT from DemorckHK
+[Client at 2023-02-21 16:10:41,577]: LONG GLOVES from SnakeSMW
+[Client at 2023-02-21 16:10:41,577]: Dedusmuln from PrimePentadRed
+[Client at 2023-02-21 16:10:41,577]: TARP from PizzaOOT
+[Client at 2023-02-21 16:10:41,577]: MULTI STEM CELL from Player828
+[Client at 2023-02-21 16:10:41,577]: BANANA from Whizzlefern-Z3
+[Client at 2023-02-21 16:10:41,577]: SOUL SPONGE from KenderSMW
+[Client at 2023-02-21 16:10:41,577]: MULTI-JUICE from SamitianPKMN
+[Client at 2023-02-21 16:10:41,578]: MUSCLE APPLIQUE from eudaimonistic684
+[Client at 2023-02-21 16:10:41,578]: BURRITO from SchezarOoT
+[Client at 2023-02-21 16:10:41,578]: SAGE TOKEN from LingererOOT (LinZoom)
+[Client at 2023-02-21 16:10:41,578]: CUPCAKE from Player1133
+[Client at 2023-02-21 16:10:41,578]: SOUL CRISPER from NebulaiTS (Player861)
+[Client at 2023-02-21 16:10:41,578]: PAPER CUP from Niles-Souls
+[Client at 2023-02-21 16:10:41,578]: DUBIOUS BERRY from l100knights
+[Client at 2023-02-21 16:10:41,578]: 10 Bones from l100knights
+[Client at 2023-02-21 16:10:41,578]: CLOUD GERM from GGuyPoke
+[Client at 2023-02-21 16:10:41,578]: COOKIE from Felix_DuBoisSM (Player942)
+[Client at 2023-02-21 16:10:41,578]: SINGLE GLOVE from Done (Player1183)
+[Client at 2023-02-21 16:10:41,578]: SOUL SPONGE from Ponygoodbugs
+[Client at 2023-02-21 16:10:41,578]: 10 Bones from divineoot (Virt_OOT)
+[Client at 2023-02-21 16:10:41,578]: 10 Bones from Boots (BootsETERNAL)
+[Client at 2023-02-21 16:10:41,578]: 10 Bones from Fatman_SM64
+[Client at 2023-02-21 16:10:41,578]: 10 Bones from SchezarSM64
+[Client at 2023-02-21 16:10:41,578]: 10 Bones from sheen_sa2
+[Client at 2023-02-21 16:10:41,579]: SAGE TOKEN from squidy733
+[Client at 2023-02-21 16:10:41,579]: DOCK KEY from JKL-SM
+[Client at 2023-02-21 16:10:41,579]: BOTTOMLESS JUICE from Firelizard
+[Client at 2023-02-21 16:10:41,579]: JUICE from Player913
+[Client at 2023-02-21 16:10:41,579]: WORM ROOM KEY from HDT (Player1101)
+[Client at 2023-02-21 16:10:41,579]: 10 Bones from EspeonOoT
+[Client at 2023-02-21 16:10:41,579]: 10 Bones from slide_sa2
+[Client at 2023-02-21 16:10:41,579]: DUCTILE HABIT from Deep_One (DeepOne_DS3)
+[Client at 2023-02-21 16:10:41,579]: LONG GLOVES from PikurHollow
+[Client at 2023-02-21 16:10:41,579]: NEMATODE INTERFACE from ShadowriderDK3 (Player1040)
+[Client at 2023-02-21 16:10:41,579]: CUPCAKE from Niles-Souls
+[Client at 2023-02-21 16:10:41,579]: MATERIEL MITTS from SnakeSMW
+[Client at 2023-02-21 16:10:41,579]: LONG GLOVES from GibelyouSMZ3
+[Client at 2023-02-21 16:10:41,579]: 10 Bones from Player763
+[Client at 2023-02-21 16:10:41,579]: SOUL SPONGE from Arashi-SA2
+[Client at 2023-02-21 16:10:41,580]: MEAT from Jane_SM508
+[Client at 2023-02-21 16:10:41,580]: BURRITO from DemorckVVVVVV
+[Client at 2023-02-21 16:10:41,580]: JUICE from Espeon
+[Client at 2023-02-21 16:10:41,580]: 10 Bones from KippiWorld
+[Client at 2023-02-21 16:10:43,059]: Disconnected from multiworld server, type /connect to reconnect
+[Client at 2023-02-21 16:10:44,333]: Connecting to Archipelago server at ws://archipelago.gg:38281
+[Client at 2023-02-21 16:10:44,694]: Connected
+[Client at 2023-02-21 16:10:44,695]: --------------------------------
+[Client at 2023-02-21 16:10:44,695]: Room Information:
+[Client at 2023-02-21 16:10:44,695]: --------------------------------
+[Client at 2023-02-21 16:10:44,695]: Server protocol version: 0.3.8
+[Client at 2023-02-21 16:10:44,695]: Server protocol tags: AP, WebHost
+[Client at 2023-02-21 16:10:44,695]: Forfeit permission: auto
+[Client at 2023-02-21 16:10:44,695]: Release permission: auto
+[Client at 2023-02-21 16:10:44,695]: Remaining permission: goal
+[Client at 2023-02-21 16:10:44,696]: Collect permission: auto
+[Client at 2023-02-21 16:10:44,696]: A !hint costs 15% of your total location count as points and you get 1 for each location checked. Use !hint for more information.
+[Client at 2023-02-21 16:10:44,696]: Enter slot name:
+[Client at 2023-02-21 16:10:48,513]: 164 received items:
+[Client at 2023-02-21 16:10:48,513]: Librarian Hat from CobraSoE
+[Client at 2023-02-21 16:10:48,513]: Merchant Crow from Coal_SA2B
+[Client at 2023-02-21 16:10:48,513]: Antidote from Klonoa_pkmn
+[Client at 2023-02-21 16:10:48,513]: Potion from Espeon
+[Client at 2023-02-21 16:10:48,513]: Colossal Blade from ShadowriderHK (Player767)
+[Client at 2023-02-21 16:10:48,513]: Bleak Ring from DeadEspeOOT (LeafeonOOT)
+[Client at 2023-02-21 16:10:48,513]: Radiant Orb from KenderPK
+[Client at 2023-02-21 16:10:48,513]: Umbra Orb from Dr.AwesomeSM64
+[Client at 2023-02-21 16:10:48,514]: Max Sand from Player1087
+[Client at 2023-02-21 16:10:48,514]: Eye Orb from Witch Albrekka
+[Client at 2023-02-21 16:10:48,514]: Djinn Inferno from Witch Albrekka
+[Client at 2023-02-21 16:10:48,514]: Glass Pumpkin from slide_pkmn
+[Client at 2023-02-21 16:10:48,514]: Librarian Robe from Whizzlefern-HK
+[Client at 2023-02-21 16:10:48,514]: Soul Scanner from RegZ4
+[Client at 2023-02-21 16:10:48,514]: Max Aura from Chrisds3b-SM (Player818)
+[Client at 2023-02-21 16:10:48,514]: Mind Refresh from Player1087
+[Client at 2023-02-21 16:10:48,514]: Galaxy Earrings from KirthOoT (Player980)
+[Client at 2023-02-21 16:10:48,514]: Max Sand from sheen_sm64
+[Client at 2023-02-21 16:10:48,514]: Arm Cannon from AdremOoT
+[Client at 2023-02-21 16:10:48,514]: Old Coat from BizzoCrossed
+[Client at 2023-02-21 16:10:48,514]: Max Aura from Maragon (RafeAshes)
+[Client at 2023-02-21 16:10:48,514]: Berry Pick-Mi-Up from DemorckALTTP
+[Client at 2023-02-21 16:10:48,514]: Hi-Potion from B_D_I_crosskeys
+[Client at 2023-02-21 16:10:48,514]: Hi-Ether from SamitianSA2
+[Client at 2023-02-21 16:10:48,515]: Wyrm Brooch from SamitianZOOTR
+[Client at 2023-02-21 16:10:48,515]: Metal Wristband from TWSMZ3
+[Client at 2023-02-21 16:10:48,515]: Max Aura from Hedgehog0_ALTTP
+[Client at 2023-02-21 16:10:48,515]: Chaos Rose from CobraLttP 2
+[Client at 2023-02-21 16:10:48,515]: Demon from DragusSA2
+[Client at 2023-02-21 16:10:48,515]: Storm Eye from TheMysticalBard (Player881)
+[Client at 2023-02-21 16:10:48,515]: Max Sand from PizzaOOT
+[Client at 2023-02-21 16:10:48,515]: Corruption from PokePrinter
+[Client at 2023-02-21 16:10:48,515]: Royal Ring from KenderPK
+[Client at 2023-02-21 16:10:48,515]: Security Keycard B from Pikur64
+[Client at 2023-02-21 16:10:48,515]: Library Keycard V from SneakiHK (Player802)
+[Client at 2023-02-21 16:10:48,515]: Berry Pick-Mi-Up from GGuyOoT
+[Client at 2023-02-21 16:10:48,515]: Max HP from RegPkmn
+[Client at 2023-02-21 16:10:48,516]: Sand Vial from MayruhiSA2
+[Client at 2023-02-21 16:10:48,516]: Max Sand from MatiFactory
+[Client at 2023-02-21 16:10:48,516]: Spaghetti from Peahen2
+[Client at 2023-02-21 16:10:48,516]: Frozen Spires from RegPkmn
+[Client at 2023-02-21 16:10:48,516]: Max Sand from Locklen (Player1003)
+[Client at 2023-02-21 16:10:48,516]: Empress Robe from KikiOOT302
+[Client at 2023-02-21 16:10:48,516]: Shadow Seal from Gesellschaft (Player1037)
+[Client at 2023-02-21 16:10:48,516]: Sand Bottle from Ruber-HK
+[Client at 2023-02-21 16:10:48,516]: Timespinner Gear 1 from Asmodemus (Player1107)
+[Client at 2023-02-21 16:10:48,516]: Griffin from Jupiterfire1016 (Player1016)
+[Client at 2023-02-21 16:10:48,516]: Bombardment from SurlySpace
+[Client at 2023-02-21 16:10:48,516]: Sand Bottle from EkyxTS (Player1174)
+[Client at 2023-02-21 16:10:48,516]: Dark Flames from NicoleLizardPKMN
+[Client at 2023-02-21 16:10:48,516]: Blood Orb from ArcPoke
+[Client at 2023-02-21 16:10:48,516]: Hi-Potion from Slipomatic_HK
+[Client at 2023-02-21 16:10:48,516]: Max HP from Player781
+[Client at 2023-02-21 16:10:48,516]: Berry Pick-Mi-Up+ from SilverHK (Player1076)
+[Client at 2023-02-21 16:10:48,517]: Lightwall from jupiteralttp287
+[Client at 2023-02-21 16:10:48,517]: Talaria Attachment from Shadow_Knight
+[Client at 2023-02-21 16:10:48,517]: Chaos Rose from Smallgronk HK
+[Client at 2023-02-21 16:10:48,517]: Jerky from BlivenSC2 (Player975)
+[Client at 2023-02-21 16:10:48,517]: Shield Ring from MariaLeFey TS
+[Client at 2023-02-21 16:10:48,517]: Mind Refresh from MCat (Player785)
+[Client at 2023-02-21 16:10:48,517]: Max Aura from KeltikHK (Player811)
+[Client at 2023-02-21 16:10:48,517]: Plasma Geyser from ShadowriderOOT
+[Client at 2023-02-21 16:10:48,517]: Oculus Ring from Levisaxos_ALTTP (Player882)
+[Client at 2023-02-21 16:10:48,517]: Ancient Coin from WaffleTrainer
+[Client at 2023-02-21 16:10:48,517]: Ether from NebulaiCF (KenefactorCF2)
+[Client at 2023-02-21 16:10:48,517]: Sunglasses from AsmodemusCook (Player973)
+[Client at 2023-02-21 16:10:48,517]: Max Sand from SkyyTTP (Player1181)
+[Client at 2023-02-21 16:10:48,517]: Timespinner Gear 2 from MudKippi
+[Client at 2023-02-21 16:10:48,517]: Traveler's Cloak from Player918
+[Client at 2023-02-21 16:10:48,517]: Trendy Jacket from FarrenLP205
+[Client at 2023-02-21 16:10:48,518]: Filigree Tea from J-2S0-metroid (Player1159)
+[Client at 2023-02-21 16:10:48,518]: Fire Orb from Sherokain_RL (Player821)
+[Client at 2023-02-21 16:10:48,518]: Max HP from ScorelessPkmn
+[Client at 2023-02-21 16:10:48,518]: Captain's Cap from Liquid's HK
+[Client at 2023-02-21 16:10:48,518]: Scythe Ring from Kippi00T
+[Client at 2023-02-21 16:10:48,518]: Max Sand from sheen_sm64
+[Client at 2023-02-21 16:10:48,518]: Dusk Ring from l100knights
+[Client at 2023-02-21 16:10:48,518]: Colossal Hammer from Alchav
+[Client at 2023-02-21 16:10:48,518]: Timespinner Wheel from SilverHK (Player1076)
+[Client at 2023-02-21 16:10:48,518]: Mind Refresh from Shadow_Knight
+[Client at 2023-02-21 16:10:48,518]: Max Aura from SpinnerAwesome
+[Client at 2023-02-21 16:10:48,519]: Buckle Hat from MaveloventRL2
+[Client at 2023-02-21 16:10:48,519]: Berry Pick-Mi-Up+ from Player1010
+[Client at 2023-02-21 16:10:48,519]: Chaos Rose from ChocoboROR2
+[Client at 2023-02-21 16:10:48,519]: Antidote from ChocoboROR2
+[Client at 2023-02-21 16:10:48,519]: Eternal Coat from Felix_DuBoisWit (Player953)
+[Client at 2023-02-21 16:10:48,519]: Kobo from Hopop-RL
+[Client at 2023-02-21 16:10:48,519]: Lab Glasses from Artealttp (Player1162)
+[Client at 2023-02-21 16:10:48,519]: Sprite from Ravanan-troid (Player905)
+[Client at 2023-02-21 16:10:48,519]: Potion from ShadowriderOOT
+[Client at 2023-02-21 16:10:48,519]: Plasma Crystal from Player897
+[Client at 2023-02-21 16:10:48,519]: Tablet from Player855
+[Client at 2023-02-21 16:10:48,519]: Hi-Potion from JamaicanCastle (Player1085)
+[Client at 2023-02-21 16:10:48,519]: Hope Ring from SilverRoR2 (alberto...2)
+[Client at 2023-02-21 16:10:48,519]: Shiny Rock from Espeon
+[Client at 2023-02-21 16:10:48,519]: Food Synthesizer from alberto...3
+[Client at 2023-02-21 16:10:48,520]: Crimson Vortex from firelizard688 (squidy688)
+[Client at 2023-02-21 16:10:48,520]: Max Aura from Cad48Pokemon
+[Client at 2023-02-21 16:10:48,520]: Berry Pick-Mi-Up from RensenOOT
+[Client at 2023-02-21 16:10:48,520]: Tailwind Ring from Cyb3R_SM151
+[Client at 2023-02-21 16:10:48,520]: Max HP from DriaboOot1
+[Client at 2023-02-21 16:10:48,520]: Herb from MCLoloweb
+[Client at 2023-02-21 16:10:48,520]: Sand Bottle from Mathx3
+[Client at 2023-02-21 16:10:48,520]: Hi-Ether from Player1178
+[Client at 2023-02-21 16:10:48,520]: Star of Lachiem from EntissHK (Player898)
+[Client at 2023-02-21 16:10:48,520]: Hi-Ether from KikiOOT304
+[Client at 2023-02-21 16:10:48,520]: Icicle Ring from MindezZillion
+[Client at 2023-02-21 16:10:48,520]: Max Aura from J2S0knight (KenefactorHK1)
+[Client at 2023-02-21 16:10:48,520]: Berry Pick-Mi-Up+ from Kippi00T
+[Client at 2023-02-21 16:10:48,520]: Filigree Clasp from Kippi00T
+[Client at 2023-02-21 16:10:48,520]: Pyro Ring from Player923
+[Client at 2023-02-21 16:10:48,520]: Goddess Brooch from Player843
+[Client at 2023-02-21 16:10:48,520]: Max Sand from VenomBukkake_RR2
+[Client at 2023-02-21 16:10:48,521]: Mind Refresh from MaddyB (Peahen1)
+[Client at 2023-02-21 16:10:48,521]: Max HP from Kirth64 (Player887)
+[Client at 2023-02-21 16:10:48,521]: Berry Pick-Mi-Up+ from JKL-MC
+[Client at 2023-02-21 16:10:48,521]: Twin Pyramid Key from Invintic (Invintime)
+[Client at 2023-02-21 16:10:48,521]: Selen's Bangle from Chrono-mon
+[Client at 2023-02-21 16:10:48,521]: Mind Refresh from Sir Phar (Phar 3)
+[Client at 2023-02-21 16:10:48,521]: Max Sand from Sir Phar (Phar 3)
+[Client at 2023-02-21 16:10:48,521]: Blade Orb from Praxis_HK
+[Client at 2023-02-21 16:10:48,521]: Hi-Potion from ColorPrinterLTTP (Player1166)
+[Client at 2023-02-21 16:10:48,521]: Warp Shard from AdremCrossed
+[Client at 2023-02-21 16:10:48,521]: Security Keycard D from Raft_BruZZler
+[Client at 2023-02-21 16:10:48,521]: Max Aura from VyseGolbezOoT
+[Client at 2023-02-21 16:10:48,521]: Ice Orb from Felix_DuBoisSM (Player942)
+[Client at 2023-02-21 16:10:48,521]: Sand Vial from The T-SoE (Player1164)
+[Client at 2023-02-21 16:10:48,521]: Forbidden Tome from somebodywhoSM
+[Client at 2023-02-21 16:10:48,521]: Max Sand from HollowSnow
+[Client at 2023-02-21 16:10:48,522]: Sun Ring from Jarno4
+[Client at 2023-02-21 16:10:48,522]: Sand Vial from KenderSA2B
+[Client at 2023-02-21 16:10:48,522]: Eternal Brooch from CrazyComics
+[Client at 2023-02-21 16:10:48,522]: Ether from Invintic (Invimon)
+[Client at 2023-02-21 16:10:48,522]: Economizer Ring from Bnuuy Albrekka
+[Client at 2023-02-21 16:10:48,522]: Pendulum from PraxisBanana (Player1109)
+[Client at 2023-02-21 16:10:48,522]: Max HP from PrimePentadSMW
+[Client at 2023-02-21 16:10:48,522]: Eternal Crown from MayruhiLTTP
+[Client at 2023-02-21 16:10:48,522]: Chaos Blades from PyronlilcharOoT2 (Player916)
+[Client at 2023-02-21 16:10:48,522]: Pointy Hat from KenderSA2B
+[Client at 2023-02-21 16:10:48,522]: Blue Orb from MagnemaniaSMW
+[Client at 2023-02-21 16:10:48,522]: Nether Orb from UndeadVai (PB)
+[Client at 2023-02-21 16:10:48,522]: Aura Serpent from Eeveeff1
+[Client at 2023-02-21 16:10:48,522]: Elevator Keycard from SiberSpinner
+[Client at 2023-02-21 16:10:48,522]: Celestial Sash from EeveeMerit (Player846)
+[Client at 2023-02-21 16:10:48,522]: Max HP from DemorckHK
+[Client at 2023-02-21 16:10:48,523]: Max HP from The T-SA2
+[Client at 2023-02-21 16:10:48,523]: Timespinner Gear 3 from niles (OcarinaOfNiles)
+[Client at 2023-02-21 16:10:48,523]: Alchemy Tools from AGJelly2
+[Client at 2023-02-21 16:10:48,523]: Potion from Felix_DuBoisZ3_3 (Player1143)
+[Client at 2023-02-21 16:10:48,523]: Potion from Stormi-OoT
+[Client at 2023-02-21 16:10:48,523]: Berry Pick-Mi-Up+ from Felix_DuBoisZ3_3 (Player1143)
+[Client at 2023-02-21 16:10:48,523]: Princess Dress from StingX2OOT
+[Client at 2023-02-21 16:10:48,523]: Viletian Crown from Gesellschaft (Player1152)
+[Client at 2023-02-21 16:10:48,523]: Water Mask from ChocoboWitness (Player1083)
+[Client at 2023-02-21 16:10:48,523]: Berry Pick-Mi-Up+ from ChadralnFF1
+[Client at 2023-02-21 16:10:48,523]: Max HP from RensenAlttp (Player1112)
+[Client at 2023-02-21 16:10:48,523]: Security Keycard C from squidy826 (Player826)
+[Client at 2023-02-21 16:10:48,523]: Max HP from Chupa
+[Client at 2023-02-21 16:10:48,523]: Max Sand from Radz OoT
+[Client at 2023-02-21 16:10:48,524]: Iron Orb from DemorckHK2 (Player1176)
+[Client at 2023-02-21 16:10:48,524]: Gilded Egg from Norg_HK
+[Client at 2023-02-21 16:10:48,524]: Hi-Ether from Radz ALttP
+[Client at 2023-02-21 16:10:48,524]: Hi-Potion from KippiWorld
+[Client at 2023-02-21 16:10:48,524]: Max Aura from Gwenegraft (Player1009)
+[Client at 2023-02-21 16:10:51,095]: Disconnected from multiworld server, type /connect to reconnect
+[Client at 2023-02-21 16:10:51,771]: Connecting to Archipelago server at ws://archipelago.gg:38281
+[Client at 2023-02-21 16:10:53,075]: Connected
+[Client at 2023-02-21 16:10:53,075]: --------------------------------
+[Client at 2023-02-21 16:10:53,075]: Room Information:
+[Client at 2023-02-21 16:10:53,076]: --------------------------------
+[Client at 2023-02-21 16:10:53,076]: Server protocol version: 0.3.8
+[Client at 2023-02-21 16:10:53,076]: Server protocol tags: AP, WebHost
+[Client at 2023-02-21 16:10:53,076]: Forfeit permission: auto
+[Client at 2023-02-21 16:10:53,076]: Release permission: auto
+[Client at 2023-02-21 16:10:53,076]: Remaining permission: goal
+[Client at 2023-02-21 16:10:53,076]: Collect permission: auto
+[Client at 2023-02-21 16:10:53,076]: A !hint costs 15% of your total location count as points and you get 1 for each location checked. Use !hint for more information.
+[Client at 2023-02-21 16:10:53,076]: Enter slot name:
+[Client at 2023-02-21 16:10:56,040]: 311 received items:
+[Client at 2023-02-21 16:10:56,041]: Greatsword from Arashi-TS-Inv
+[Client at 2023-02-21 16:10:56,041]: Painting Guardian Waistcloth from TheRever
+[Client at 2023-02-21 16:10:56,041]: Quelana Pyromancy Tome from FigmentSpinner
+[Client at 2023-02-21 16:10:56,041]: Mortician's Ashes from MayruhiLTTP
+[Client at 2023-02-21 16:10:56,041]: Conjurator Manchettes from Ekyx
+[Client at 2023-02-21 16:10:56,041]: Knight's Ring from Norg_DS3
+[Client at 2023-02-21 16:10:56,041]: Conjurator Hood from Norg_DS3
+[Client at 2023-02-21 16:10:56,041]: Prisoner Chief's Ashes from EspeonWitness
+[Client at 2023-02-21 16:10:56,041]: Blessed Red and White Shield from PizzaOOT
+[Client at 2023-02-21 16:10:56,041]: Dorhys' Gnawing from CaitSith
+[Client at 2023-02-21 16:10:56,041]: Soul of a Champion #4 from Aki665_TS
+[Client at 2023-02-21 16:10:56,041]: Profaned Coal from Chrisds3b-ALTTP (Player1156)
+[Client at 2023-02-21 16:10:56,041]: Soul of a Great Champion #1 from Mav1129 (Player1129)
+[Client at 2023-02-21 16:10:56,042]: Sage's Coal from Albrekka the Bun
+[Client at 2023-02-21 16:10:56,042]: Lightning Blade from Whizzlefern-DKC3
+[Client at 2023-02-21 16:10:56,042]: Outrider Knight Gauntlets from Peahen#9639-SC2 (Peahen3)
+[Client at 2023-02-21 16:10:56,042]: Cleric Blue Robe from EspeonOoT
+[Client at 2023-02-21 16:10:56,042]: Sage's Scroll from RoflCopter6969
+[Client at 2023-02-21 16:10:56,042]: Bellowing Dragoncrest Ring from Marioshi#5991 (Marioshi_fact369)
+[Client at 2023-02-21 16:10:56,042]: Curse Ward Greatshield from Peahen#9639-TS1 (Peahen4)
+[Client at 2023-02-21 16:10:56,042]: Titanite Shard #1 from MariaLeFey pkmn
+[Client at 2023-02-21 16:10:56,042]: Drang Twinspears from EspeonHK
+[Client at 2023-02-21 16:10:56,042]: Wargod Wooden Shield from ScorelessSMZ3
+[Client at 2023-02-21 16:10:56,042]: Archdeacon Skirt from ChadralnLegacy
+[Client at 2023-02-21 16:10:56,042]: Dragonrider Bow from Coal_Pokemon
+[Client at 2023-02-21 16:10:56,042]: Court Sorcerer Gloves from ColorPrinterLTTP (Player1166)
+[Client at 2023-02-21 16:10:56,042]: Dragonslayer Helm from TWRaft
+[Client at 2023-02-21 16:10:56,042]: Fire Clutch Ring from SurlyTrainer
+[Client at 2023-02-21 16:10:56,042]: Fire Keeper Robe from Chrisds3b-SMZ3 (Player1043)
+[Client at 2023-02-21 16:10:56,043]: Titanite Shard #2 from SurlyFactory
+[Client at 2023-02-21 16:10:56,043]: Large Titanite Shard #9 from PizzaDKC (Player819)
+[Client at 2023-02-21 16:10:56,043]: Soul of an Intrepid Hero from SkyyTTP (Player1181)
+[Client at 2023-02-21 16:10:56,043]: Farron Coal  from Coal_Pokemon
+[Client at 2023-02-21 16:10:56,043]: Hunter's Ring from AdremOoT
+[Client at 2023-02-21 16:10:56,043]: Sunlight Straight Sword from PlaneswaterPKMN (Player938)
+[Client at 2023-02-21 16:10:56,043]: Tower Key from BizzoLetsAGo
+[Client at 2023-02-21 16:10:56,043]: Basin of Vows from Player1087
+[Client at 2023-02-21 16:10:56,043]: Knight Slayer's Ring from ShadowriderRL (Player1197)
+[Client at 2023-02-21 16:10:56,043]: Magic Stoneplate Ring from Player828
+[Client at 2023-02-21 16:10:56,043]: Conjurator Robe from Klonoa_ror2
+[Client at 2023-02-21 16:10:56,043]: Estus Shard #2 from Klonoa_ror2
+[Client at 2023-02-21 16:10:56,043]: Dragon Chaser's Ashes from Klonoa_ror2
+[Client at 2023-02-21 16:10:56,043]: Orbeck's Ashes from RensenM64 (Player981)
+[Client at 2023-02-21 16:10:56,043]: Brigand Armor from UndeadVai (DS3)
+[Client at 2023-02-21 16:10:56,043]: Sorcerer Robe from Player1149
+[Client at 2023-02-21 16:10:56,044]: Estus Shard #5 from MagnemaniaSA2
+[Client at 2023-02-21 16:10:56,044]: Cinders of a Lord - Yhorm the Giant from Player1103
+[Client at 2023-02-21 16:10:56,044]: Jailbreaker's Key from Jarno
+[Client at 2023-02-21 16:10:56,044]: Astora's Straight Sword from B_D_I_crosskeys
+[Client at 2023-02-21 16:10:56,044]: Hornet Ring from J2Souls (Player1013)
+[Client at 2023-02-21 16:10:56,044]: Stone Parma from Silver64 (Player865)
+[Client at 2023-02-21 16:10:56,044]: Soul of the Twin Princes from sonikku
+[Client at 2023-02-21 16:10:56,044]: Easterner's Ashes from squidy708
+[Client at 2023-02-21 16:10:56,044]: Fallen Knight Gauntlets from Kippi00T
+[Client at 2023-02-21 16:10:56,044]: Deep Braille Divine Tome from HollowRever
+[Client at 2023-02-21 16:10:56,044]: Excrement-covered Ashes from Cyb3R_SoE148
+[Client at 2023-02-21 16:10:56,044]: Notched Whip from FigmentOOT
+[Client at 2023-02-21 16:10:56,045]: Cinders of a Lord - Abyss Watcher from KenderSA2B
+[Client at 2023-02-21 16:10:56,045]: Fire Keeper Gloves from PizzaLTTP (Player896)
+[Client at 2023-02-21 16:10:56,045]: Brigand Gauntlets from Felix_DuBoisOoT (Player964)
+[Client at 2023-02-21 16:10:56,045]: Dusk Crown Ring from PrimePentadHK
+[Client at 2023-02-21 16:10:56,045]: Maiden Skirt from TimeLink
+[Client at 2023-02-21 16:10:56,045]: Greirat's Ashes from Zunawe
+[Client at 2023-02-21 16:10:56,045]: Soul of a Venerable Old Hand #1 from TWRoR2
+[Client at 2023-02-21 16:10:56,045]: Cursebite Ring from Chrono SM64
+[Client at 2023-02-21 16:10:56,045]: Cleric Gloves from Stormi-OoT
+[Client at 2023-02-21 16:10:56,045]: Large Titanite Shard #5 from ParcosmicDKC3
+[Client at 2023-02-21 16:10:56,045]: Logan's Scroll from l100knights
+[Client at 2023-02-21 16:10:56,045]: Soul of an Intrepid Hero from PlaneswaterDKC3 (Player948)
+[Client at 2023-02-21 16:10:56,045]: Estus Shard #14 from MaddyB
+[Client at 2023-02-21 16:10:56,045]: Soul of a Crestfallen Knight #7 from KikiOOT304
+[Client at 2023-02-21 16:10:56,046]: Soul of a Crestfallen Knight #10 from Gesellschaft (Player1037)
+[Client at 2023-02-21 16:10:56,046]: Soul of an Intrepid Hero from TriforceDrummer
+[Client at 2023-02-21 16:10:56,046]: Soul of Aldrich from PrimePentadRL (Player983)
+[Client at 2023-02-21 16:10:56,046]: Avelyn from Niles-Time
+[Client at 2023-02-21 16:10:56,046]: Soul of Pontiff Sulyvahn from JKL-DKC3
+[Client at 2023-02-21 16:10:56,046]: Storm Curved Sword from JKL-DKC3
+[Client at 2023-02-21 16:10:56,046]: Large Titanite Shard #2 from Slipomatic_HK
+[Client at 2023-02-21 16:10:56,046]: Winged Knight Armor from SilvrisALTTP (Player1079)
+[Client at 2023-02-21 16:10:56,046]: Estus Shard #7 from SilvrisSM64
+[Client at 2023-02-21 16:10:56,046]: Court Sorcerer Robe from Slipomatic_HK
+[Client at 2023-02-21 16:10:56,046]: Cornyx's Ashes from Zunawe
+[Client at 2023-02-21 16:10:56,046]: Great Magic Barrier from MrPokemon11HK
+[Client at 2023-02-21 16:10:56,046]: Pharis's Hat from B_D_I_hollow_kni
+[Client at 2023-02-21 16:10:56,046]: Saint-tree Bellvine from Dr.AwesomeSM64
+[Client at 2023-02-21 16:10:56,046]: Pontiff's Right Eye from MikeyTWolf (Player784)
+[Client at 2023-02-21 16:10:56,047]: Dragon Torso Stone from Hedgehog0_RL
+[Client at 2023-02-21 16:10:56,047]: Titanite Shard #5 from Naydem (Player1044)
+[Client at 2023-02-21 16:10:56,047]: Soul of a Crestfallen Knight #4 from ScorelessPkmn
+[Client at 2023-02-21 16:10:56,047]: Greatshield of Glory from EkyxTS (Player1174)
+[Client at 2023-02-21 16:10:56,047]: Soul of Champion Gundyr from VenomBukkake_SA2
+[Client at 2023-02-21 16:10:56,047]: Dragonslayer Greatbow from EgoFactory
+[Client at 2023-02-21 16:10:56,047]: Lightning Clutch Ring from ChocoboLTTP3 (TMK4Open)
+[Client at 2023-02-21 16:10:56,047]: Black Iron Greatshield from Chocobo64
+[Client at 2023-02-21 16:10:56,047]: Great Swamp Pyromancy Tome from slide_oot
+[Client at 2023-02-21 16:10:56,047]: Eleonora from Player1149
+[Client at 2023-02-21 16:10:56,047]: Paladin's Ashes from Whitetail
+[Client at 2023-02-21 16:10:56,047]: Exile Greatsword from divineroid (Player782)
+[Client at 2023-02-21 16:10:56,047]: Caduceus Round Shield from Done (ScootyRL)
+[Client at 2023-02-21 16:10:56,047]: Reinforced Club from PIrateProgramOoT (Phar 2)
+[Client at 2023-02-21 16:10:56,047]: Greatsword of Judgment from Dragus40k
+[Client at 2023-02-21 16:10:56,048]: Golden Falcon Shield from CodeGorilla_LttP
+[Client at 2023-02-21 16:10:56,048]: Titanite Shard #10 from DragusTS (Player1078)
+[Client at 2023-02-21 16:10:56,048]: Dragonslayer Swordspear from Chrono-mon
+[Client at 2023-02-21 16:10:56,048]: Lucerne from SiPaRogue
+[Client at 2023-02-21 16:10:56,048]: Lloyd's Sword Ring from Ruber-HK
+[Client at 2023-02-21 16:10:56,048]: Caitha's Chime from BatouuPKMN
+[Client at 2023-02-21 16:10:56,048]: Soul of an Intrepid Hero from B_D_I_hollow_kni
+[Client at 2023-02-21 16:10:56,048]: Hollowslayer Greatsword from Ziktofel_Ground
+[Client at 2023-02-21 16:10:56,048]: Antiquated Dress from MikeyTWolf (Player784)
+[Client at 2023-02-21 16:10:56,048]: Small Doll from MikeyTWolf (Player784)
+[Client at 2023-02-21 16:10:56,048]: Pickaxe from SilverMC (Player1161)
+[Client at 2023-02-21 16:10:56,048]: Large Titanite Shard #3 from FigmentDKC3 (Player1091)
+[Client at 2023-02-21 16:10:56,048]: Soul of a Venerable Old Hand #3 from The T-SoE (Player1164)
+[Client at 2023-02-21 16:10:56,049]: Reversal Ring from PizzaHK
+[Client at 2023-02-21 16:10:56,049]: Undead Bone Shard #5 from Player1022
+[Client at 2023-02-21 16:10:56,049]: Crystal Sage's Rapier from BlazeLTTP (Player1170)
+[Client at 2023-02-21 16:10:56,049]: Sacred Flame from Ekyx
+[Client at 2023-02-21 16:10:56,049]: Large Titanite Shard #8 from MikeyTWolf (Player1073)
+[Client at 2023-02-21 16:10:56,049]: Maiden Robe from divineknight (Player805)
+[Client at 2023-02-21 16:10:56,049]: Winged Knight Gauntlets from Peahen2
+[Client at 2023-02-21 16:10:56,049]: Soul of a Crestfallen Knight #3 from GlaceonAlttp (Player1018)
+[Client at 2023-02-21 16:10:56,049]: Profaned Greatsword from Smallgronk RL
+[Client at 2023-02-21 16:10:56,049]: Soul of a Stray Demon from Pory1
+[Client at 2023-02-21 16:10:56,049]: Red Hilted Halberd from MaveloventRL5
+[Client at 2023-02-21 16:10:56,049]: Iron Flesh from Firelizard
+[Client at 2023-02-21 16:10:56,049]: Saint's Talisman from Pinktail
+[Client at 2023-02-21 16:10:56,049]: Outrider Knight Helm from Player962
+[Client at 2023-02-21 16:10:56,049]: Broadsword from ALBREKKA (Player1057)
+[Client at 2023-02-21 16:10:56,049]: Wrath of the Gods from SuperPrinter64
+[Client at 2023-02-21 16:10:56,049]: Grand Archives Key from Dr.Awesome4333
+[Client at 2023-02-21 16:10:56,050]: Soul of a Crestfallen Knight #1 from Jupiteroot290
+[Client at 2023-02-21 16:10:56,050]: Soul of an Intrepid Hero from EverSlide (Player1128)
+[Client at 2023-02-21 16:10:56,050]: Archdeacon Holy Garb from Player985
+[Client at 2023-02-21 16:10:56,050]: Chloranthy Ring from MindezPKRB
+[Client at 2023-02-21 16:10:56,050]: Large Titanite Shard #4 from Raft_BruZZler
+[Client at 2023-02-21 16:10:56,050]: Robe of Prayer from Player891
+[Client at 2023-02-21 16:10:56,050]: Titanite Chunk #2 from BlazeEvermore (Player1067)
+[Client at 2023-02-21 16:10:56,050]: Crest Shield from slide_oot
+[Client at 2023-02-21 16:10:56,050]: Ring of Favor from Marioshi#5991 (Player804)
+[Client at 2023-02-21 16:10:56,050]: Soul of a Champion #3 from NebulaiSoE (Player951)
+[Client at 2023-02-21 16:10:56,050]: Antiquated Gloves from Arashi-SA2
+[Client at 2023-02-21 16:10:56,050]: Great Magic Shield from KenderPK
+[Client at 2023-02-21 16:10:56,050]: Titanite Shard #3 from mrsummer (Player842)
+[Client at 2023-02-21 16:10:56,050]: Carthus Pyromancy Tome from TriforceDrummer
+[Client at 2023-02-21 16:10:56,050]: Winged Knight Leggings from Mathx1
+[Client at 2023-02-21 16:10:56,050]: Titanite Slab #2 from CodeGorilla_SMW
+[Client at 2023-02-21 16:10:56,051]: Soul of the Blood of the Wolf from HollowSnow
+[Client at 2023-02-21 16:10:56,051]: Braille Divine Tome of Lothric from eudaimonistic686
+[Client at 2023-02-21 16:10:56,051]: Old Sage's Blindfold from somebodywhOOT
+[Client at 2023-02-21 16:10:56,051]: Large Titanite Shard #10 from TheoPoke1
+[Client at 2023-02-21 16:10:56,051]: Wolf Knight's Greatsword from Naydem (Player1096)
+[Client at 2023-02-21 16:10:56,051]: Soul of an Intrepid Hero from GibelyouPokemon
+[Client at 2023-02-21 16:10:56,051]: Old Sorcerer Boots from BadmoonZ_SMZ3
+[Client at 2023-02-21 16:10:56,051]: Brass Gauntlets from Liquid's HK
+[Client at 2023-02-21 16:10:56,051]: Soul of a Demon from Murph
+[Client at 2023-02-21 16:10:56,051]: Silver Eagle Kite Shield from webtomato 2
+[Client at 2023-02-21 16:10:56,051]: Herald Trousers from NebulaiSoE (Player951)
+[Client at 2023-02-21 16:10:56,051]: Twin Princes' Greatsword from webtomato 2
+[Client at 2023-02-21 16:10:56,051]: Sacred Bloom Shield from RiversTS (Player903)
+[Client at 2023-02-21 16:10:56,051]: Dark Clutch Ring from KeltikHK (Player811)
+[Client at 2023-02-21 16:10:56,051]: Irina's Ashes from ScorelessPkmn
+[Client at 2023-02-21 16:10:56,051]: Cleric Trousers from ScorelessPkmn
+[Client at 2023-02-21 16:10:56,051]: Northern Helm from RegZ4
+[Client at 2023-02-21 16:10:56,052]: Great Axe from SpaceArty (Player799)
+[Client at 2023-02-21 16:10:56,052]: Aldrich's Sapphire from Whizzlefern-DKC3
+[Client at 2023-02-21 16:10:56,052]: Soul of an Intrepid Hero from Invintic (Invimon)
+[Client at 2023-02-21 16:10:56,052]: Longbow from Player748
+[Client at 2023-02-21 16:10:56,052]: Soul of an Intrepid Hero from sheen_sa2
+[Client at 2023-02-21 16:10:56,052]: Loincloth from LokiAthena_LttP
+[Client at 2023-02-21 16:10:56,052]: Sunlight Talisman from BowlinMon
+[Client at 2023-02-21 16:10:56,052]: Dragonslayer Gauntlets from FactoriCat
+[Client at 2023-02-21 16:10:56,052]: Archdeacon White Crown from VenomBukkake_Tim
+[Client at 2023-02-21 16:10:56,052]: Small Leather Shield from SamitianWitness
+[Client at 2023-02-21 16:10:56,052]: Demon's Greataxe from Radz SA2B
+[Client at 2023-02-21 16:10:56,052]: Cell Key from rft50HK
+[Client at 2023-02-21 16:10:56,052]: Drang Shoes from Slipomatic_HK
+[Client at 2023-02-21 16:10:56,052]: Titanite Slab #3 from Slipomatic_HK
+[Client at 2023-02-21 16:10:56,052]: Hood of Prayer from Felix_DuBois_DS3 (Player1117)
+[Client at 2023-02-21 16:10:56,052]: Soul of High Lord Wolnir from FarrenSC206
+[Client at 2023-02-21 16:10:56,053]: Soul of an Intrepid Hero from Liquid's OoT
+[Client at 2023-02-21 16:10:56,053]: Old Cell Key from NilesLegacy (Player991)
+[Client at 2023-02-21 16:10:56,053]: Butcher Knife from EspeonWitness
+[Client at 2023-02-21 16:10:56,053]: Covetous Silver Serpent Ring from Whitetail
+[Client at 2023-02-21 16:10:56,053]: Black Knight Glaive from MaveloventRL4
+[Client at 2023-02-21 16:10:56,053]: Magic Clutch Ring from Ponygoodsea (Snowbnautica)
+[Client at 2023-02-21 16:10:56,053]: Ring of the Sun's First Born from Aki665_OoT
+[Client at 2023-02-21 16:10:56,053]: Broken Straight Sword from Aki665_PKMN
+[Client at 2023-02-21 16:10:56,053]: Drakeblood Greatsword from Player747
+[Client at 2023-02-21 16:10:56,053]: Moonlight Greatsword from WreckerSMZ3 (Player979)
+[Client at 2023-02-21 16:10:56,053]: Fume Ultra Greatsword from PizzaPKMN
+[Client at 2023-02-21 16:10:56,053]: Grave Warden Pyromancy Tome from Fatman_W (Player1061)
+[Client at 2023-02-21 16:10:56,053]: Deep Ring from Chrisds3b-LTTP2 (Player978)
+[Client at 2023-02-21 16:10:56,053]: Herald Gloves from J2S0knight (KenefactorHK1)
+[Client at 2023-02-21 16:10:56,053]: Soul Stream from Coal_SM64 (Virt_SM64)
+[Client at 2023-02-21 16:10:56,053]: Undead Bone Shard #4 from Zunawe_DS3 (DarkBender)
+[Client at 2023-02-21 16:10:56,053]: Northern Gloves from NebulaiRoR2 (alberto...4)
+[Client at 2023-02-21 16:10:56,054]: Soul of Boreal Valley Vordt from PokePrinter
+[Client at 2023-02-21 16:10:56,054]: Crown of Dusk from EeveeTFH (Player815)
+[Client at 2023-02-21 16:10:56,054]: Painting Guardian Hood from TrainerIcarus
+[Client at 2023-02-21 16:10:56,054]: Yhorm's Great Machete from firelizard688 (squidy688)
+[Client at 2023-02-21 16:10:56,054]: Skirt of Prayer from FlyOoT
+[Client at 2023-02-21 16:10:56,054]: Undead Bone Shard #2 from STAR FIZL
+[Client at 2023-02-21 16:10:56,054]: Soul of a Crystal Sage from BatouuPKMN
+[Client at 2023-02-21 16:10:56,054]: Northern Trousers from RensenOOT
+[Client at 2023-02-21 16:10:56,054]: East-West Shield from RensenOOT
+[Client at 2023-02-21 16:10:56,054]: Sellsword Trousers from VyseGolbezOoT
+[Client at 2023-02-21 16:10:56,054]: Karla's Ashes from HollowRever
+[Client at 2023-02-21 16:10:56,054]: Club from Mathx2
+[Client at 2023-02-21 16:10:56,054]: Dragonslayer Leggings from Rivers
+[Client at 2023-02-21 16:10:56,054]: Sorcerer Gloves from Chupa
+[Client at 2023-02-21 16:10:56,054]: Jailer's Key Ring from Player1178
+[Client at 2023-02-21 16:10:56,054]: Leo Ring from HollowSnow
+[Client at 2023-02-21 16:10:56,055]: Soul of a Crestfallen Knight #6 from FigmentWitness
+[Client at 2023-02-21 16:10:56,055]: Soul of Yhorm the Giant from KikiOOT302
+[Client at 2023-02-21 16:10:56,055]: Lightning Spear from webtomato 2
+[Client at 2023-02-21 16:10:56,055]: Soul of the Deacons of the Deep from MindezZillion
+[Client at 2023-02-21 16:10:56,055]: Golden Wing Crest Shield from Player923
+[Client at 2023-02-21 16:10:56,055]: Power Within from MageMageWitBonus (Player1069)
+[Client at 2023-02-21 16:10:56,055]: Spider Shield from PikurOOT
+[Client at 2023-02-21 16:10:56,055]: Titanite Chunk #4 from slide_sa2
+[Client at 2023-02-21 16:10:56,055]: Great Magic Weapon from Player913
+[Client at 2023-02-21 16:10:56,055]: Farron Greatsword from ShadowriderOOT
+[Client at 2023-02-21 16:10:56,055]: Rapier from NerezzaFood (Player1121)
+[Client at 2023-02-21 16:10:56,055]: Brass Helm from Cyber_RoR2
+[Client at 2023-02-21 16:10:56,055]: Undead Bone Shard #1 from Espeon
+[Client at 2023-02-21 16:10:56,055]: Soul of an Intrepid Hero from Espeon
+[Client at 2023-02-21 16:10:56,055]: Dreamchaser's Ashes from Jupiterfire1016 (Player1016)
+[Client at 2023-02-21 16:10:56,055]: Giant's Coal from PizzaHK
+[Client at 2023-02-21 16:10:56,056]: Onikiri and Ubadachi from HollowCat
+[Client at 2023-02-21 16:10:56,056]: Claymore from Player1133
+[Client at 2023-02-21 16:10:56,056]: Sniper Crossbow from Radz SA2B
+[Client at 2023-02-21 16:10:56,056]: Great Heal from KenderSA2B
+[Client at 2023-02-21 16:10:56,056]: Large Titanite Shard #6 from Bluejello-lttp
+[Client at 2023-02-21 16:10:56,056]: Soul of a Great Champion #2 from Marioshi#5991 (Player804)
+[Client at 2023-02-21 16:10:56,056]: Deserter Trousers from SilvrisSA2 (Player766)
+[Client at 2023-02-21 16:10:56,056]: Painting Guardian Gown from SilvrisRL (Player868)
+[Client at 2023-02-21 16:10:56,056]: Dragon Crest Shield from ChocoboSA2
+[Client at 2023-02-21 16:10:56,056]: Sellsword Armor from l100knights
+[Client at 2023-02-21 16:10:56,056]: Soul of a Crestfallen Knight #5 from Norg_DS3
+[Client at 2023-02-21 16:10:56,056]: Fallen Knight Armor from ErkMinecraft (Player808)
+[Client at 2023-02-21 16:10:56,056]: Herald Armor from BizzoCrossed
+[Client at 2023-02-21 16:10:56,056]: Cinders of a Lord - Lothric Prince from PizzaL2AC
+[Client at 2023-02-21 16:10:56,057]: Titanite Chunk #5 from VyseGolbezOoT
+[Client at 2023-02-21 16:10:56,057]: Shadow Leggings from Felix_DuBoisOoT2 (Player924)
+[Client at 2023-02-21 16:10:56,057]: Drang Gauntlets from Peahen#9639-TS2 (Peahen5)
+[Client at 2023-02-21 16:10:56,057]: Shadow Gauntlets from XekoOfTime
+[Client at 2023-02-21 16:10:56,057]: Atonement from Liquid's ALttP
+[Client at 2023-02-21 16:10:56,057]: Brass Armor from Ravanan-LTTP (Player1192)
+[Client at 2023-02-21 16:10:56,057]: Soul of Consumed Oceiros from AzaLttP2
+[Client at 2023-02-21 16:10:56,057]: Outrider Knight Leggings from Dragion
+[Client at 2023-02-21 16:10:56,057]: Seek Guidance from MaddyB (Pory4)
+[Client at 2023-02-21 16:10:56,057]: Fallen Knight Trousers from SurlyTrainer
+[Client at 2023-02-21 16:10:56,057]: Antiquated Skirt from MikeyTWolf (Player1073)
+[Client at 2023-02-21 16:10:56,057]: Dragonslayer Armor from RafeKnight
+[Client at 2023-02-21 16:10:56,057]: Irithyll Rapier from slide_sa2
+[Client at 2023-02-21 16:10:56,057]: Mail Breaker from HollowRivers
+[Client at 2023-02-21 16:10:56,057]: Demon's Fist from MariaLeFey lttp
+[Client at 2023-02-21 16:10:56,057]: Titanite Chunk #1 from DapperDragonWitn (Player877)
+[Client at 2023-02-21 16:10:56,057]: Court Sorcerer's Staff from Horizon_OoT
+[Client at 2023-02-21 16:10:56,058]: Soul of an Intrepid Hero from BowlinKnight
+[Client at 2023-02-21 16:10:56,058]: Painting Guardian's Curved Sword from Player1142
+[Client at 2023-02-21 16:10:56,058]: Sorcerer Trousers from KenderSA2B
+[Client at 2023-02-21 16:10:56,058]: Estus Shard #6 from Pluttergub
+[Client at 2023-02-21 16:10:56,058]: Brigand Hood from KillerAwesome64
+[Client at 2023-02-21 16:10:56,058]: Soul of a Crestfallen Knight #2 from Zunawe
+[Client at 2023-02-21 16:10:56,058]: Crystal Scroll from NerezzaRaft (Player999)
+[Client at 2023-02-21 16:10:56,058]: Poisonbite Ring from Peahen#9639-TS1 (Peahen4)
+[Client at 2023-02-21 16:10:56,058]: Gundyr's Halberd from PizzaPKMN
+[Client at 2023-02-21 16:10:56,058]: Brass Leggings from JKL-SMW
+[Client at 2023-02-21 16:10:56,058]: Partizan from Odin-Kaze_TS (Player827)
+[Client at 2023-02-21 16:10:56,058]: Claw from PikurHollow
+[Client at 2023-02-21 16:10:56,058]: Blacksmith Hammer from AGJelly2
+[Client at 2023-02-21 16:10:56,058]: Painting Guardian Gloves from Skyy
+[Client at 2023-02-21 16:10:56,058]: Grass Crest Shield from DeadEspeOOT (LeafeonOOT)
+[Client at 2023-02-21 16:10:56,058]: Grave Key from DraikenSpinner
+[Client at 2023-02-21 16:10:56,058]: Titanite Shard #7 from Felix_DuBoisZ3_3 (Player1143)
+[Client at 2023-02-21 16:10:56,059]: Blue Wooden Shield from Levisaxos_TS
+[Client at 2023-02-21 16:10:56,059]: Heretic's Staff from PikurRed
+[Client at 2023-02-21 16:10:56,059]: Profaned Flame from MariaLeFey lttp
+[Client at 2023-02-21 16:10:56,059]: Whip from Invintic (Invintime)
+[Client at 2023-02-21 16:10:56,059]: Lightning Stake from The T-PK
+[Client at 2023-02-21 16:10:56,059]: Estus Shard #4 from ztparkerOOT (Player1141)
+[Client at 2023-02-21 16:10:56,059]: Herald Helm from l100SoE
+[Client at 2023-02-21 16:10:56,059]: Caestus from Norg_DS3
+[Client at 2023-02-21 16:10:56,059]: Estus Shard #9 from SurlyTrainer
+[Client at 2023-02-21 16:10:56,059]: Dragonslayer Spear from WaffleTrainer
+[Client at 2023-02-21 16:10:56,059]: Saint Bident from GibelyouSMZ3
+[Client at 2023-02-21 16:10:56,059]: Soul of a Crestfallen Knight #9 from PokeMurgurak (Player886)
+[Client at 2023-02-21 16:10:56,059]: Soul of the Old Demon King from Ravanan-Sonic (Player757)
+[Client at 2023-02-21 16:10:56,059]: Speckled Stoneplate Ring from Ravanan-Sonic (Player757)
+[Client at 2023-02-21 16:10:56,059]: Conjurator Boots from Arashi-TS
+[Client at 2023-02-21 16:10:56,059]: Golden Ritual Spear from KippiHollow
+[Client at 2023-02-21 16:10:56,059]: Astora Greatsword from ColorPrinterWitn (Player793)
+[Client at 2023-02-21 16:10:56,060]: Irithyll Straight Sword from Liquid's ALttP
+[Client at 2023-02-21 16:10:56,060]: Soul of a Venerable Old Hand #2 from squidy706
+[Client at 2023-02-21 16:10:56,060]: Outrider Knight Armor from squidy706
+[Client at 2023-02-21 16:10:56,060]: Cleric Hat from squidy706
+[Client at 2023-02-21 16:10:56,060]: Soul of a Crestfallen Knight #8 from The T-OoT
+[Client at 2023-02-21 16:10:56,060]: Drang Armor from Chupa
+[Client at 2023-02-21 16:10:56,060]: Estus Shard #8 from Chupa
+[Client at 2023-02-21 16:10:56,060]: Lorian's Greatsword from Coal_SM (Player1187)
+[Client at 2023-02-21 16:10:56,060]: Braille Divine Tome of Carim from Cyber_PKMN
+[Client at 2023-02-21 16:10:56,060]: Maiden Hood from Super Albrekka
+[Client at 2023-02-21 16:10:56,060]: Divine Pillars of Light from Super Albrekka
+[Client at 2023-02-21 16:10:56,060]: Covetous Gold Serpent Ring from Kippi00T
+[Client at 2023-02-21 16:10:56,060]: Shadow Garb from GibelyouFactorio
+[Client at 2023-02-21 16:10:56,060]: Dark Stoneplate Ring from Norg_OOT
+[Client at 2023-02-21 16:10:56,060]: Thunder Stoneplate Ring from Norg_HK
+[Client at 2023-02-21 16:10:56,060]: Aldrich's Ruby from PrimePentadHK
+[Client at 2023-02-21 16:10:56,061]: Firelink Greatsword from J2S0knight (KenefactorHK1)
+[Client at 2023-02-21 16:10:59,810]: Disconnected from multiworld server, type /connect to reconnect
+[Client at 2023-02-21 16:11:00,290]: Connecting to Archipelago server at ws://archipelago.gg:38281
+[Client at 2023-02-21 16:11:00,773]: Connected
+[Client at 2023-02-21 16:11:00,775]: --------------------------------
+[Client at 2023-02-21 16:11:00,775]: Room Information:
+[Client at 2023-02-21 16:11:00,775]: --------------------------------
+[Client at 2023-02-21 16:11:00,775]: Server protocol version: 0.3.8
+[Client at 2023-02-21 16:11:00,775]: Server protocol tags: AP, WebHost
+[Client at 2023-02-21 16:11:00,775]: Forfeit permission: auto
+[Client at 2023-02-21 16:11:00,775]: Release permission: auto
+[Client at 2023-02-21 16:11:00,775]: Remaining permission: goal
+[Client at 2023-02-21 16:11:00,775]: Collect permission: auto
+[Client at 2023-02-21 16:11:00,775]: A !hint costs 15% of your total location count as points and you get 1 for each location checked. Use !hint for more information.
+[Client at 2023-02-21 16:11:00,775]: Enter slot name:
+[Client at 2023-02-21 16:11:05,978]: 164 received items:
+[Client at 2023-02-21 16:11:05,978]: 1-Up Balloon from GwenegadeTS (Player1049)
+[Client at 2023-02-21 16:11:05,978]: DK Coin from MariaLeFey pkmn
+[Client at 2023-02-21 16:11:05,978]: DK Coin from BlivenSMZ3 (Ado_SMZ3_1)
+[Client at 2023-02-21 16:11:05,979]: DK Coin from MagnemaniaSA2
+[Client at 2023-02-21 16:11:05,979]: Bear Coin from GwenegadeLTTP (Player915)
+[Client at 2023-02-21 16:11:05,979]: 1-Up Balloon from FigmentSub
+[Client at 2023-02-21 16:11:05,979]: Bear Coin from MatiCH
+[Client at 2023-02-21 16:11:05,979]: 1-Up Balloon from MageMageWitElev
+[Client at 2023-02-21 16:11:05,979]: DK Coin from MageMageWitMax
+[Client at 2023-02-21 16:11:05,979]: Bear Coin from SuperPrinter64
+[Client at 2023-02-21 16:11:05,979]: Bonus Coin from ReverOfTime
+[Client at 2023-02-21 16:11:05,979]: 1-Up Balloon from DeadEspeOOT (LeafeonOOT)
+[Client at 2023-02-21 16:11:05,979]: Bear Coin from Hopop-BC
+[Client at 2023-02-21 16:11:05,979]: Bear Coin from Espeon
+[Client at 2023-02-21 16:11:05,979]: 1-Up Balloon from FalcRain (Player810)
+[Client at 2023-02-21 16:11:05,979]: DK Coin from Sharrara_TS (Player857)
+[Client at 2023-02-21 16:11:05,979]: Bonus Coin from ChadralnSM
+[Client at 2023-02-21 16:11:05,979]: Bear Coin from EspeonOoT
+[Client at 2023-02-21 16:11:05,979]: DK Coin from Whizzlefern-Z3
+[Client at 2023-02-21 16:11:05,979]: DK Coin from EspeonOoT
+[Client at 2023-02-21 16:11:05,980]: DK Coin from ChadralnDKC3 (Player1132)
+[Client at 2023-02-21 16:11:05,980]: Bear Coin from slide_pkmn
+[Client at 2023-02-21 16:11:05,980]: DK Coin from slide_pkmn
+[Client at 2023-02-21 16:11:05,980]: Bonus Coin from Ravanan-Sonic (Player757)
+[Client at 2023-02-21 16:11:05,980]: Krematoa Cog from Bunny Kong (Player890)
+[Client at 2023-02-21 16:11:05,980]: Krematoa Cog from Bunny Kong (Player890)
+[Client at 2023-02-21 16:11:05,980]: Bonus Coin from divinesmz3 (Player817)
+[Client at 2023-02-21 16:11:05,980]: DK Coin from The T-OoT
+[Client at 2023-02-21 16:11:05,980]: Bonus Coin from ProfFact
+[Client at 2023-02-21 16:11:05,980]: Bear Coin from TWRaft
+[Client at 2023-02-21 16:11:05,980]: Bonus Coin from Radz ALttP
+[Client at 2023-02-21 16:11:05,980]: Bonus Coin from The T-SMW
+[Client at 2023-02-21 16:11:05,980]: Progressive Boat Upgrade from GodlFireTS
+[Client at 2023-02-21 16:11:05,980]: Bonus Coin from PrimePentadFacto
+[Client at 2023-02-21 16:11:05,980]: Krematoa Cog from Bunny Kong (Player890)
+[Client at 2023-02-21 16:11:05,980]: Bonus Coin from SilvrisRB
+[Client at 2023-02-21 16:11:05,981]: 1-Up Balloon from Klonoa_ror2
+[Client at 2023-02-21 16:11:05,981]: DK Coin from Player1149
+[Client at 2023-02-21 16:11:05,981]: 1-Up Balloon from Maragon (RafeAshes)
+[Client at 2023-02-21 16:11:05,981]: Bonus Coin from J2Souls (Player1013)
+[Client at 2023-02-21 16:11:05,981]: 1-Up Balloon from J2Souls (Player1013)
+[Client at 2023-02-21 16:11:05,981]: Bear Coin from ChocoboLTTP4 (Jolteon0163)
+[Client at 2023-02-21 16:11:05,981]: Bonus Coin from RiskOfAwesome2
+[Client at 2023-02-21 16:11:05,981]: Bonus Coin from Jupiteroot290
+[Client at 2023-02-21 16:11:05,981]: Bonus Coin from Player1074
+[Client at 2023-02-21 16:11:05,981]: Bonus Coin from PlaneswaterSoE (Player807)
+[Client at 2023-02-21 16:11:05,981]: Bonus Coin from NebulaiHK (Player1015)
+[Client at 2023-02-21 16:11:05,981]: Bonus Coin from Norg_OOT
+[Client at 2023-02-21 16:11:05,981]: 1-Up Balloon from CaitSith2 (Player1027)
+[Client at 2023-02-21 16:11:05,981]: DK Coin from MatiFactory
+[Client at 2023-02-21 16:11:05,981]: Bonus Coin from Shadow_SMZ3
+[Client at 2023-02-21 16:11:05,981]: 1-Up Balloon from EspeonOoT
+[Client at 2023-02-21 16:11:05,982]: Bonus Coin from TimeRever
+[Client at 2023-02-21 16:11:05,982]: 1-Up Balloon from Chrono-mon
+[Client at 2023-02-21 16:11:05,982]: DK Coin from BizzoSANIC
+[Client at 2023-02-21 16:11:05,982]: Bear Coin from VenomBukkake_RR2
+[Client at 2023-02-21 16:11:05,982]: Bonus Coin from Ninja64
+[Client at 2023-02-21 16:11:05,982]: Krematoa Cog from Bunny Kong (Player890)
+[Client at 2023-02-21 16:11:05,982]: Bonus Coin from ParcosmicMC
+[Client at 2023-02-21 16:11:05,982]: 1-Up Balloon from JKL-DKC3
+[Client at 2023-02-21 16:11:05,982]: Bonus Coin from DioSMW (Player1135)
+[Client at 2023-02-21 16:11:05,982]: DK Coin from Cyber_PKMN
+[Client at 2023-02-21 16:11:05,982]: Bonus Coin from ParTwo#3760 SA2
+[Client at 2023-02-21 16:11:05,982]: Bonus Coin from ParTwo#3760 SA2
+[Client at 2023-02-21 16:11:05,982]: Bear Coin from Coal_Pokemon
+[Client at 2023-02-21 16:11:05,982]: 1-Up Balloon from GwenegadeDKC3 (Player1118)
+[Client at 2023-02-21 16:11:05,982]: Bonus Coin from Bluejello-risk
+[Client at 2023-02-21 16:11:05,982]: 1-Up Balloon from KikiOOT303
+[Client at 2023-02-21 16:11:05,982]: Bear Coin from divineroid (Player782)
+[Client at 2023-02-21 16:11:05,983]: 1-Up Balloon from Naydem (Player1063)
+[Client at 2023-02-21 16:11:05,983]: DK Coin from divinelegacy (Player1035)
+[Client at 2023-02-21 16:11:05,983]: Bonus Coin from LingererOOT (LinZoom)
+[Client at 2023-02-21 16:11:05,983]: Bear Coin from Coal_SM (Player1187)
+[Client at 2023-02-21 16:11:05,983]: Bonus Coin from J2Souls (Player1013)
+[Client at 2023-02-21 16:11:05,983]: Bonus Coin from mlang12SM64
+[Client at 2023-02-21 16:11:05,983]: DK Coin from BlazeLTTP (Player1170)
+[Client at 2023-02-21 16:11:05,983]: Bonus Coin from Madi (Temmie)
+[Client at 2023-02-21 16:11:05,983]: DK Coin from divineknight (Player805)
+[Client at 2023-02-21 16:11:05,983]: Bonus Coin from ShadowriderOOT
+[Client at 2023-02-21 16:11:05,983]: DK Coin from UndeadVai (DS3)
+[Client at 2023-02-21 16:11:05,983]: Bonus Coin from Chupa
+[Client at 2023-02-21 16:11:05,983]: DK Coin from VyseGolbezOoT
+[Client at 2023-02-21 16:11:05,983]: 1-Up Balloon from TimeLink
+[Client at 2023-02-21 16:11:05,983]: 1-Up Balloon from ErkSuperMetroid (Player893)
+[Client at 2023-02-21 16:11:05,983]: Bonus Coin from Player1041
+[Client at 2023-02-21 16:11:05,984]: Bear Coin from EkyxRL (Player778)
+[Client at 2023-02-21 16:11:05,984]: Bonus Coin from Bluejello-minecr (Player859)
+[Client at 2023-02-21 16:11:05,984]: 1-Up Balloon from ArcPoke
+[Client at 2023-02-21 16:11:05,984]: Bonus Coin from UndeadVai (DS3)
+[Client at 2023-02-21 16:11:05,984]: Bonus Coin from ShadowriderHK (Player767)
+[Client at 2023-02-21 16:11:05,984]: Bonus Coin from CodeGorilla_LttP
+[Client at 2023-02-21 16:11:05,984]: Bonus Coin from MaveloventRL3
+[Client at 2023-02-21 16:11:05,984]: Bonus Coin from ShadowriderSC2
+[Client at 2023-02-21 16:11:05,984]: DK Coin from BerserkerLegacy
+[Client at 2023-02-21 16:11:05,984]: Bonus Coin from webtomato 2
+[Client at 2023-02-21 16:11:05,984]: 1-Up Balloon from Kappatechy AD (KP-LttP-AD)
+[Client at 2023-02-21 16:11:05,984]: Bonus Coin from PlaneswaterSA2 (Player1089)
+[Client at 2023-02-21 16:11:05,984]: 1-Up Balloon from The T-SA2
+[Client at 2023-02-21 16:11:05,984]: Bonus Coin from l100OoT
+[Client at 2023-02-21 16:11:05,984]: DK Coin from Player761
+[Client at 2023-02-21 16:11:05,984]: Bear Coin from Player829
+[Client at 2023-02-21 16:11:05,985]: Bonus Coin from Aki665_PKMN
+[Client at 2023-02-21 16:11:05,985]: Bonus Coin from Aki665_PKMN
+[Client at 2023-02-21 16:11:05,985]: Bear Coin from Zunawe_DS3 (DarkBender)
+[Client at 2023-02-21 16:11:05,985]: DK Coin from SnakeSC2
+[Client at 2023-02-21 16:11:05,985]: Bear Coin from PokePrinter
+[Client at 2023-02-21 16:11:05,985]: Bonus Coin from BlusWeltOOT
+[Client at 2023-02-21 16:11:05,985]: Bonus Coin from Albrekka the Bun
+[Client at 2023-02-21 16:11:05,985]: Bonus Coin from Stormi-OoT
+[Client at 2023-02-21 16:11:05,985]: DK Coin from STAR FIZL
+[Client at 2023-02-21 16:11:05,985]: DK Coin from RensenOOT
+[Client at 2023-02-21 16:11:05,985]: Bear Coin from Nymkad
+[Client at 2023-02-21 16:11:05,985]: Bonus Coin from Alchav
+[Client at 2023-02-21 16:11:05,985]: Bear Coin from Alchav
+[Client at 2023-02-21 16:11:05,986]: DK Coin from DragusSMZ3 (Player1137)
+[Client at 2023-02-21 16:11:05,986]: DK Coin from CaitSith2 (Player1027)
+[Client at 2023-02-21 16:11:05,986]: Bonus Coin from Player1074
+[Client at 2023-02-21 16:11:05,986]: Bonus Coin from SamitianPKMN
+[Client at 2023-02-21 16:11:05,986]: Bear Coin from Bluejello-timein
+[Client at 2023-02-21 16:11:05,986]: Bonus Coin from VyseGolbezOoT
+[Client at 2023-02-21 16:11:05,986]: Bonus Coin from Asmodemus (Player1107)
+[Client at 2023-02-21 16:11:05,986]: Bonus Coin from Peahen#9639-SC2 (Peahen3)
+[Client at 2023-02-21 16:11:05,986]: 1-Up Balloon from Marioshi#5991 (Marioshi_fact369)
+[Client at 2023-02-21 16:11:05,986]: 1-Up Balloon from KikiOOT303
+[Client at 2023-02-21 16:11:05,986]: Bonus Coin from MudKippi
+[Client at 2023-02-21 16:11:05,986]: Bonus Coin from AzaLttP2
+[Client at 2023-02-21 16:11:05,986]: Bear Coin from Ninjalttp
+[Client at 2023-02-21 16:11:05,986]: Bonus Coin from MrPokemon11HK
+[Client at 2023-02-21 16:11:05,986]: Bonus Coin from RafeKnight
+[Client at 2023-02-21 16:11:05,987]: Bonus Coin from Fatman_SM64
+[Client at 2023-02-21 16:11:05,987]: DK Coin from Chupa
+[Client at 2023-02-21 16:11:05,987]: Bonus Coin from Horizon_OoT
+[Client at 2023-02-21 16:11:05,987]: 1-Up Balloon from BadmoonZ_sc
+[Client at 2023-02-21 16:11:05,987]: Bonus Coin from divineknight (Player805)
+[Client at 2023-02-21 16:11:05,987]: Bonus Coin from slide_pkmn
+[Client at 2023-02-21 16:11:05,987]: Bonus Coin from slide_pkmn
+[Client at 2023-02-21 16:11:05,987]: Bear Coin from slide_pkmn
+[Client at 2023-02-21 16:11:05,987]: Bear Coin from CobraSM64
+[Client at 2023-02-21 16:11:05,987]: 1-Up Balloon from PizzaPKMN
+[Client at 2023-02-21 16:11:05,987]: Bonus Coin from BizzoTS
+[Client at 2023-02-21 16:11:05,987]: DK Coin from Player765
+[Client at 2023-02-21 16:11:05,987]: Bonus Coin from SurlyFantasy
+[Client at 2023-02-21 16:11:05,987]: 1-Up Balloon from KenderSA2B
+[Client at 2023-02-21 16:11:05,988]: Progressive Boat Upgrade from Pluttergub
+[Client at 2023-02-21 16:11:05,988]: DK Coin from Pluttergub
+[Client at 2023-02-21 16:11:05,988]: 1-Up Balloon from SilvrisSM
+[Client at 2023-02-21 16:11:05,988]: DK Coin from Eeveeff1
+[Client at 2023-02-21 16:11:05,988]: 1-Up Balloon from NerezzaRaft (Player999)
+[Client at 2023-02-21 16:11:05,988]: Bonus Coin from PlaneswaterPKMN (Player938)
+[Client at 2023-02-21 16:11:05,988]: Bonus Coin from Levisaxos_FC2
+[Client at 2023-02-21 16:11:05,988]: 1-Up Balloon from LinkCat (Player1004)
+[Client at 2023-02-21 16:11:05,988]: Bonus Coin from divineoot (Virt_OOT)
+[Client at 2023-02-21 16:11:05,988]: Bear Coin from Chrisds3b-LTTP2 (Player978)
+[Client at 2023-02-21 16:11:05,988]: 1-Up Balloon from Chrono SMW
+[Client at 2023-02-21 16:11:05,988]: Bonus Coin from EspeonHK
+[Client at 2023-02-21 16:11:05,988]: 1-Up Balloon from Coal_Witness
+[Client at 2023-02-21 16:11:05,988]: Bear Coin from WreckerSMW (Player1200)
+[Client at 2023-02-21 16:11:05,989]: Bear Coin from Xetroid
+[Client at 2023-02-21 16:11:05,989]: Bear Coin from Jaylow7LTTP
+[Client at 2023-02-21 16:11:05,989]: Bear Coin from Mathx1
+[Client at 2023-02-21 16:11:05,989]: Bear Coin from DragusSMW (Phar 4)
+[Client at 2023-02-21 16:11:05,989]: 1-Up Balloon from FarrenTS208
+[Client at 2023-02-21 16:11:05,989]: DK Coin from DemorckHK2 (Player1176)
+[Client at 2023-02-21 16:11:05,989]: 1-Up Balloon from Bluejello-ever
+[Client at 2023-02-21 16:11:07,557]: Disconnected from multiworld server, type /connect to reconnect
+[Client at 2023-02-21 16:11:07,975]: Connecting to Archipelago server at ws://archipelago.gg:38281
+[Client at 2023-02-21 16:11:08,488]: Connected
+[Client at 2023-02-21 16:11:08,488]: --------------------------------
+[Client at 2023-02-21 16:11:08,488]: Room Information:
+[Client at 2023-02-21 16:11:08,488]: --------------------------------
+[Client at 2023-02-21 16:11:08,488]: Server protocol version: 0.3.8
+[Client at 2023-02-21 16:11:08,488]: Server protocol tags: AP, WebHost
+[Client at 2023-02-21 16:11:08,489]: Forfeit permission: auto
+[Client at 2023-02-21 16:11:08,489]: Release permission: auto
+[Client at 2023-02-21 16:11:08,489]: Remaining permission: goal
+[Client at 2023-02-21 16:11:08,489]: Collect permission: auto
+[Client at 2023-02-21 16:11:08,489]: A !hint costs 15% of your total location count as points and you get 1 for each location checked. Use !hint for more information.
+[Client at 2023-02-21 16:11:08,489]: Enter slot name:
+[Client at 2023-02-21 16:11:14,796]: 246 received items:
+[Client at 2023-02-21 16:11:14,796]: Petal from divineknight (Player805)
+[Client at 2023-02-21 16:11:14,796]: 15 Moniez from Jay_HK (Player967)
+[Client at 2023-02-21 16:11:14,796]: Water from Odin-Kaze_alttp (Player831)
+[Client at 2023-02-21 16:11:14,796]: 4 Wax from NinjaSC2
+[Client at 2023-02-21 16:11:14,796]: 2 Crystal from KeltikWits (Player845)
+[Client at 2023-02-21 16:11:14,796]: Honey from PokeDusa
+[Client at 2023-02-21 16:11:14,796]: Nectar from Ado#9805_RL (Player1014)
+[Client at 2023-02-21 16:11:14,797]: 100 Moniez from Jupiteroot290
+[Client at 2023-02-21 16:11:14,797]: Ethanol from Slipomatic_RB
+[Client at 2023-02-21 16:11:14,797]: Lance (Weapon) from DeadEspeOOT (LeafeonOOT)
+[Client at 2023-02-21 16:11:14,797]: 6 Water from Player1087
+[Client at 2023-02-21 16:11:14,797]: 4 Water from Player855
+[Client at 2023-02-21 16:11:14,797]: Laser Lance from RensenOOT
+[Client at 2023-02-21 16:11:14,797]: Petal from Albrekka the Bun
+[Client at 2023-02-21 16:11:14,797]: 2 Roots from Scoreless64
+[Client at 2023-02-21 16:11:14,797]: Water from FreyaLegacy (Player1123)
+[Client at 2023-02-21 16:11:14,797]: 4 Water from Everblaze (Player1066)
+[Client at 2023-02-21 16:11:14,797]: Clay from MariaLeFey pkmn
+[Client at 2023-02-21 16:11:14,797]: Crusader Sword from KillerVVVVVV
+[Client at 2023-02-21 16:11:14,797]: Grease from Everblaze (Player1066)
+[Client at 2023-02-21 16:11:14,797]: Biscuit from DeamonHunter2
+[Client at 2023-02-21 16:11:14,798]: Corrosion from ColorPrinterSpir (Player1130)
+[Client at 2023-02-21 16:11:14,798]: 200 Moniez from Untitled Goose
+[Client at 2023-02-21 16:11:14,798]: 4 Brimstone from Murph
+[Client at 2023-02-21 16:11:14,798]: Nectar from GodlFirePKM
+[Client at 2023-02-21 16:11:14,798]: Call Up from AdremFactory
+[Client at 2023-02-21 16:11:14,798]: Roots from Boco
+[Client at 2023-02-21 16:11:14,798]: Progressive helmet from Liquid's OoT
+[Client at 2023-02-21 16:11:14,798]: Force Field from SilvrisRB
+[Client at 2023-02-21 16:11:14,798]: 3 Vinegar from Ruber-HK
+[Client at 2023-02-21 16:11:14,798]: 2 Water from DarkenedAlliance
+[Client at 2023-02-21 16:11:14,798]: Pixie Dust from Invintic (Invintight)
+[Client at 2023-02-21 16:11:14,798]: Bazooka from Levisaxos_TS
+[Client at 2023-02-21 16:11:14,798]: Gauge from Liquid's HK
+[Client at 2023-02-21 16:11:14,798]: 30 Cryo Blast from NicoleLizardPKMN
+[Client at 2023-02-21 16:11:14,799]: Biscuit from GlaceonSMZ3 (Player879)
+[Client at 2023-02-21 16:11:14,799]: Wax from J2Souls (Player1013)
+[Client at 2023-02-21 16:11:14,799]: Water from Boots (BootsETERNAL)
+[Client at 2023-02-21 16:11:14,799]: Energize from MrPokemon11HK
+[Client at 2023-02-21 16:11:14,799]: 2 Acorns from Kappatechy AD (KP-LttP-AD)
+[Client at 2023-02-21 16:11:14,799]: Acid Rain from Radz SA2B
+[Client at 2023-02-21 16:11:14,799]: 4 Clay from Levisaxos_FC2
+[Client at 2023-02-21 16:11:14,799]: 2 Acorns from somebodywhOOT
+[Client at 2023-02-21 16:11:14,799]: Water from Player1103
+[Client at 2023-02-21 16:11:14,799]: Honey from Niles-Souls
+[Client at 2023-02-21 16:11:14,799]: Biscuit from KippiSpinner
+[Client at 2023-02-21 16:11:14,799]: Speed from FigmentOOT
+[Client at 2023-02-21 16:11:14,799]: Wax from LordBobBree (Player769)
+[Client at 2023-02-21 16:11:14,799]: Sting from PizzaOOT
+[Client at 2023-02-21 16:11:14,800]: Water from Zunawe
+[Client at 2023-02-21 16:11:14,800]: Acorns from Qwazzy(F)
+[Client at 2023-02-21 16:11:14,800]: Revealer from Bluejello-ror2 (alberto...1)
+[Client at 2023-02-21 16:11:14,800]: Barrier from Ado#9805_RL (Player1014)
+[Client at 2023-02-21 16:11:14,800]: Super Heal from Mathx2
+[Client at 2023-02-21 16:11:14,800]: Nectar from Ado#9805_RL (Player1014)
+[Client at 2023-02-21 16:11:14,800]: Knight Basher from ShadowriderPKMN (Player1167)
+[Client at 2023-02-21 16:11:14,800]: Call bead from PizzaSM64
+[Client at 2023-02-21 16:11:14,800]: 4 Clay from Smallgronk HK
+[Client at 2023-02-21 16:11:14,800]: Wings from Kiddo Brekk (Player1172)
+[Client at 2023-02-21 16:11:14,800]: Call bead from GozengattaRL (Player883)
+[Client at 2023-02-21 16:11:14,800]: Lightning Storm from ParcosmicFactory
+[Client at 2023-02-21 16:11:14,800]: Water from PikurHollow
+[Client at 2023-02-21 16:11:14,801]: Mushroom from Gaelan (Player947)
+[Client at 2023-02-21 16:11:14,801]: Roots from MrPokemon11HK
+[Client at 2023-02-21 16:11:14,801]: Nitro from Boots (BootsETERNAL)
+[Client at 2023-02-21 16:11:14,801]: Progressive vest from HollowSnow
+[Client at 2023-02-21 16:11:14,801]: Clay from Dr.Awesome4333
+[Client at 2023-02-21 16:11:14,801]: 6 Vinegar from Hedgehog0_PKMN
+[Client at 2023-02-21 16:11:14,801]: 3 Ash from HollowSnow
+[Client at 2023-02-21 16:11:14,801]: 4 Water from Bluejello-ever
+[Client at 2023-02-21 16:11:14,801]: Fireball from ShadowriderRL (Player1197)
+[Client at 2023-02-21 16:11:14,801]: Energy Core from Xekoneer
+[Client at 2023-02-21 16:11:14,801]: Miracle Cure from recklesssubnaut
+[Client at 2023-02-21 16:11:14,801]: Levitate from SchezarSub
+[Client at 2023-02-21 16:11:14,801]: Herbal Essence from PandaMaxOoT
+[Client at 2023-02-21 16:11:14,801]: Water from FarrenFF1
+[Client at 2023-02-21 16:11:14,802]: Water from SilvrisRL (Player868)
+[Client at 2023-02-21 16:11:14,802]: Biscuit from FarrenFact921 (Player921)
+[Client at 2023-02-21 16:11:14,802]: Nectar from PyronlilcharPKMN (Player809)
+[Client at 2023-02-21 16:11:14,802]: 3 Ethanol from Newsupermarcobro (Player1058)
+[Client at 2023-02-21 16:11:14,802]: Clay from TheLynkYT
+[Client at 2023-02-21 16:11:14,802]: Explosion from Arashi-188 (Elias-TS1-188)
+[Client at 2023-02-21 16:11:14,802]: Biscuit from SilverMC (Player1161)
+[Client at 2023-02-21 16:11:14,802]: 7 Roots from BatouuPKMN
+[Client at 2023-02-21 16:11:14,802]: Clay from Ponygoodbugs
+[Client at 2023-02-21 16:11:14,802]: 3 Water from Mathx3
+[Client at 2023-02-21 16:11:14,802]: Wax from Rafellow (Player926)
+[Client at 2023-02-21 16:11:14,802]: Atom Smasher from Rafellow (Player926)
+[Client at 2023-02-21 16:11:14,802]: 2 Wax from BadmoonZ_SMZ3
+[Client at 2023-02-21 16:11:14,802]: Herbal Essence from Sherokain_RL (Player821)
+[Client at 2023-02-21 16:11:14,803]: Call bead from EspeonOoT
+[Client at 2023-02-21 16:11:14,803]: Mud Pepper from shaun1eSpinner (Player1140)
+[Client at 2023-02-21 16:11:14,803]: Water from EverSlide (Player1128)
+[Client at 2023-02-21 16:11:14,803]: Progressive helmet from Fatman_HK
+[Client at 2023-02-21 16:11:14,803]: Progressive vest from LokiAthena_HK_Ra
+[Client at 2023-02-21 16:11:14,803]: Cure from Player829
+[Client at 2023-02-21 16:11:14,803]: Petal from Newsupermarcobro (Player1058)
+[Client at 2023-02-21 16:11:14,803]: 20 Moniez from Raft_BruZZler
+[Client at 2023-02-21 16:11:14,803]: Horn Spear from divineFactory (Player1071)
+[Client at 2023-02-21 16:11:14,803]: Nectar from jupiteralttp287
+[Client at 2023-02-21 16:11:14,803]: Mud Pepper from ChocoboTS
+[Client at 2023-02-21 16:11:14,803]: 4 Brimstone from Bluejello-minecr (Player859)
+[Client at 2023-02-21 16:11:14,803]: 2 Wax from Dslyecxia_OOT (Player1032)
+[Client at 2023-02-21 16:11:14,803]: Clay from MCat (Player785)
+[Client at 2023-02-21 16:11:14,803]: Water from KikiOOT302
+[Client at 2023-02-21 16:11:14,804]: Amulet of Annihilation from SchezarSub
+[Client at 2023-02-21 16:11:14,804]: Spider Claw from Gesellschaft (Player1007)
+[Client at 2023-02-21 16:11:14,804]: Atlas from Klonoa_ff1
+[Client at 2023-02-21 16:11:14,804]: 4 Vinegar from DragusTA
+[Client at 2023-02-21 16:11:14,804]: 3 Ethanol from Felix_DuBoisOoT (Player964)
+[Client at 2023-02-21 16:11:14,804]: Lance from Greentail
+[Client at 2023-02-21 16:11:14,804]: 6 Water from Elias-RL-192
+[Client at 2023-02-21 16:11:14,804]: Progressive helmet from ShadowriderHK (Player767)
+[Client at 2023-02-21 16:11:14,804]: 3 Ash from ShadowriderHK (Player767)
+[Client at 2023-02-21 16:11:14,804]: Wax from VenomBukkake_DS3
+[Client at 2023-02-21 16:11:14,804]: 5 Ash from Player1142
+[Client at 2023-02-21 16:11:14,805]: Stop from Ziktofel_Air
+[Client at 2023-02-21 16:11:14,805]: 3 Water from Dragion
+[Client at 2023-02-21 16:11:14,805]: 2 Honey from Renoko (Player987)
+[Client at 2023-02-21 16:11:14,805]: 2 Limestone from shaun1e (Player771)
+[Client at 2023-02-21 16:11:14,805]: 3 Vinegar from ScorelessPkmn
+[Client at 2023-02-21 16:11:14,805]: 2 Roots from BlazeLTTP (Player1170)
+[Client at 2023-02-21 16:11:14,805]: Mud Pepper from FalcFF
+[Client at 2023-02-21 16:11:14,805]: 4 Feathers from DragusLTTP
+[Client at 2023-02-21 16:11:14,805]: 3 Limestone from Naydem (Player1044)
+[Client at 2023-02-21 16:11:14,805]: Water from NebulaiSoE (Player951)
+[Client at 2023-02-21 16:11:14,805]: Petal from GibelyouOoT
+[Client at 2023-02-21 16:11:14,805]: Regrowth from MrPokemon11HK
+[Client at 2023-02-21 16:11:14,805]: Call bead from Cad48HK
+[Client at 2023-02-21 16:11:14,805]: Hard Ball from slide_sa2
+[Client at 2023-02-21 16:11:14,806]: Honey from VenomBukkake_Tim
+[Client at 2023-02-21 16:11:14,806]: Progressive gloves from KenderLTTP
+[Client at 2023-02-21 16:11:14,806]: Nothing from LycakeZ (Player1028)
+[Client at 2023-02-21 16:11:14,806]: 2 Bone from Slipomatic_ALTTP
+[Client at 2023-02-21 16:11:14,806]: Drain from Dumplechan-Zelda
+[Client at 2023-02-21 16:11:14,806]: Clay from Felix_DuBois_DS3 (Player1117)
+[Client at 2023-02-21 16:11:14,806]: Ash from Artealttp (Player1162)
+[Client at 2023-02-21 16:11:14,806]: 4 Wax from Praxis_DS3 (Player895)
+[Client at 2023-02-21 16:11:14,806]: 6 Ash from MaveloventRL4
+[Client at 2023-02-21 16:11:14,806]: 5 Ash from Player747
+[Client at 2023-02-21 16:11:14,806]: Water from PizzaPKMN
+[Client at 2023-02-21 16:11:14,806]: Petal from Fatman_W (Player1061)
+[Client at 2023-02-21 16:11:14,806]: Water from Jay_RoR (alberto...5)
+[Client at 2023-02-21 16:11:14,807]: Water from Praxis_DS3 (Player895)
+[Client at 2023-02-21 16:11:14,807]: 2 Ash from BOAT FIZL
+[Client at 2023-02-21 16:11:14,807]: Nectar from Kippi00T
+[Client at 2023-02-21 16:11:14,807]: 3 Nectar from Player752 (Player752)
+[Client at 2023-02-21 16:11:14,807]: Diamond Eye from GodlFireSC2
+[Client at 2023-02-21 16:11:14,807]: Revive from slide_alttp
+[Client at 2023-02-21 16:11:14,807]: Nectar from niles (OcarinaOfNiles)
+[Client at 2023-02-21 16:11:14,807]: Bronze Axe from MatiTS
+[Client at 2023-02-21 16:11:14,807]: 3 Honey from DeadEspeonPKMN (Player789)
+[Client at 2023-02-21 16:11:14,807]: Call bead from DragusSA2
+[Client at 2023-02-21 16:11:14,807]: Fire Power from Zunawe_DS3 (DarkBender)
+[Client at 2023-02-21 16:11:14,807]: 3 Brimstone from JadedMarioDone (Player1146)
+[Client at 2023-02-21 16:11:14,807]: 4 Ash from Cyb3R_SM151
+[Client at 2023-02-21 16:11:14,807]: Water from RegZ3
+[Client at 2023-02-21 16:11:14,808]: Roots from UndeadVai (PB)
+[Client at 2023-02-21 16:11:14,808]: Water from ALBREKKA (Player1057)
+[Client at 2023-02-21 16:11:14,808]: Bronze Spear from Felix_DuBoisWit (Player953)
+[Client at 2023-02-21 16:11:14,808]: 3 Mushroom from WaffleTrainer
+[Client at 2023-02-21 16:11:14,808]: Nectar from Alchav
+[Client at 2023-02-21 16:11:14,808]: Nothing from Alchav
+[Client at 2023-02-21 16:11:14,808]: Honey from Alchav
+[Client at 2023-02-21 16:11:14,808]: 2 Acorns from Ravanan-Sonic (Player757)
+[Client at 2023-02-21 16:11:14,808]: 2 Iron from Praxis_HK
+[Client at 2023-02-21 16:11:14,808]: Crystal from Player855
+[Client at 2023-02-21 16:11:14,808]: Wax from Player1178
+[Client at 2023-02-21 16:11:14,808]: Regenerate from rose_lttp_big
+[Client at 2023-02-21 16:11:14,808]: Oil from FINAL FIZL
+[Client at 2023-02-21 16:11:14,809]: Biscuit from AsmodemusCook (Player973)
+[Client at 2023-02-21 16:11:14,809]: 2 Acorns from J2Hollow
+[Client at 2023-02-21 16:11:14,809]: Water from FINAL FIZL
+[Client at 2023-02-21 16:11:14,809]: Amulet of Annihilation from DemorckHK
+[Client at 2023-02-21 16:11:14,809]: Slow Burn from eudaimonistic685
+[Client at 2023-02-21 16:11:14,809]: Amulet of Annihilation from Kippi00T
+[Client at 2023-02-21 16:11:14,809]: 3 Water from Player923
+[Client at 2023-02-21 16:11:14,809]: 3 Brimstone from ShadowriderOOT
+[Client at 2023-02-21 16:11:14,809]: 3 Mushroom from BombsGoPast
+[Client at 2023-02-21 16:11:14,809]: 3 Acorns from BombsGoTroid
+[Client at 2023-02-21 16:11:14,809]: Petal from BlivenSC2 (Player1150)
+[Client at 2023-02-21 16:11:14,809]: 2 Call beads from Cyber_FF
+[Client at 2023-02-21 16:11:14,810]: 2 Call beads from HollowRivers
+[Client at 2023-02-21 16:11:14,810]: Honey from Espeon
+[Client at 2023-02-21 16:11:14,810]: Progressive gloves from Bluejello-witnes
+[Client at 2023-02-21 16:11:14,810]: 2 Limestone from Silver64 (Player865)
+[Client at 2023-02-21 16:11:14,810]: 4 Crystal from Player1133
+[Client at 2023-02-21 16:11:14,810]: Diamond Eye from NebulaiTS (Player861)
+[Client at 2023-02-21 16:11:14,810]: Petal from The T-64 (Player833)
+[Client at 2023-02-21 16:11:14,810]: 6 Ash from Mikus64TS (Player840)
+[Client at 2023-02-21 16:11:14,810]: Atlas Medallion from SneakiHK (Player802)
+[Client at 2023-02-21 16:11:14,810]: Roots from CodeGorilla_Witn
+[Client at 2023-02-21 16:11:14,810]: Wings from l100knights
+[Client at 2023-02-21 16:11:14,811]: 3 Wax from Player985
+[Client at 2023-02-21 16:11:14,811]: Diamond Eye from Renoko (Player987)
+[Client at 2023-02-21 16:11:14,811]: Aura from Chocobo64 2 (Zeddikus3211_S64)
+[Client at 2023-02-21 16:11:14,811]: Oil from Felix_DuBoisSM (Player942)
+[Client at 2023-02-21 16:11:14,811]: Biscuit from Niles-Sanic
+[Client at 2023-02-21 16:11:14,811]: Clay from Player1102
+[Client at 2023-02-21 16:11:14,811]: 2 Wax from EntissSA2 (Player860)
+[Client at 2023-02-21 16:11:14,811]: Call bead from XekoOfTime
+[Client at 2023-02-21 16:11:14,811]: 2 Petal from Boco
+[Client at 2023-02-21 16:11:14,811]: 2 Ethanol from Popoi
+[Client at 2023-02-21 16:11:14,811]: Water from CaitSith
+[Client at 2023-02-21 16:11:14,811]: Escape from Levisaxos_HK (Player1113)
+[Client at 2023-02-21 16:11:14,811]: 5 Ash from TimeLink
+[Client at 2023-02-21 16:11:14,812]: Water from Chupa
+[Client at 2023-02-21 16:11:14,812]: Pixie Dust from Chupa
+[Client at 2023-02-21 16:11:14,812]: One Up from sheen_sa2
+[Client at 2023-02-21 16:11:14,812]: Biscuit from Arashi-SA2
+[Client at 2023-02-21 16:11:14,812]: Herbal Essence from Arashi-SA2
+[Client at 2023-02-21 16:11:14,812]: 3 Bone from BowlinKnight
+[Client at 2023-02-21 16:11:14,812]: 30 Thunderballs from AdremRL (Player1154)
+[Client at 2023-02-21 16:11:14,812]: Gladiator Sword from jf-time (Player1191)
+[Client at 2023-02-21 16:11:14,812]: 6 Water from LingererFFR (LinBroom)
+[Client at 2023-02-21 16:11:14,812]: Wings from LingererFFR (LinBroom)
+[Client at 2023-02-21 16:11:14,812]: 4 Wax from MayruhiSA2
+[Client at 2023-02-21 16:11:14,812]: Honey from PrimePentadSMW
+[Client at 2023-02-21 16:11:14,812]: Ethanol from Player1196
+[Client at 2023-02-21 16:11:14,812]: Oil from Pluttergub
+[Client at 2023-02-21 16:11:14,813]: Roots from Murph
+[Client at 2023-02-21 16:11:14,813]: Clay from Smallgronk RL
+[Client at 2023-02-21 16:11:14,813]: 500 Moniez from Murph
+[Client at 2023-02-21 16:11:14,813]: Oil from TrainerIcarus
+[Client at 2023-02-21 16:11:14,813]: Heal from Jay_MC (Player997)
+[Client at 2023-02-21 16:11:14,813]: 4 Iron from RegZ3
+[Client at 2023-02-21 16:11:14,813]: Petal from EkyxSM64 (Player739)
+[Client at 2023-02-21 16:11:14,813]: Reflect from PlaneswaterPKMN (Player938)
+[Client at 2023-02-21 16:11:14,813]: Clay from MayruhiSA2
+[Client at 2023-02-21 16:11:14,813]: 3 Ethanol from NinjaPKMN
+[Client at 2023-02-21 16:11:14,813]: Roots from JKL-SMW
+[Client at 2023-02-21 16:11:14,813]: 2 Dry Ice from J2Radiant
+[Client at 2023-02-21 16:11:14,813]: 6 Water from MatiSMW
+[Client at 2023-02-21 16:11:14,813]: Progressive vest from The T-PK
+[Client at 2023-02-21 16:11:14,814]: Call bead from Gesellschaft (Player1152)
+[Client at 2023-02-21 16:11:14,814]: 5 Wax from ChadralnSMZ3
+[Client at 2023-02-21 16:11:14,814]: Wax from BowlinMon
+[Client at 2023-02-21 16:11:14,814]: 3 Dry Ice from Madi (Temmie)
+[Client at 2023-02-21 16:11:14,814]: 3 Wax from BadmoonZ_sc
+[Client at 2023-02-21 16:11:14,814]: Water from KikiOOT303
+[Client at 2023-02-21 16:11:14,814]: Call bead from squidy706
+[Client at 2023-02-21 16:11:14,814]: Water from Super Albrekka
+[Client at 2023-02-21 16:11:14,814]: 18 Moniez from Kippi00T
+[Client at 2023-02-21 16:11:14,814]: 5 Iron from Kippi00T
+[Client at 2023-02-21 16:11:14,814]: Brimstone from B_D_I_mario_64
+[Client at 2023-02-21 16:11:14,814]: Progressive gloves from KippiWorld
+[Client at 2023-02-21 16:11:19,580]: Disconnected from multiworld server, type /connect to reconnect
+[Client at 2023-02-21 16:17:04,308]: Connecting to Archipelago server at ws://archipelago.gg:61620
+[Client at 2023-02-21 16:17:04,826]: Connected
+[Client at 2023-02-21 16:17:04,827]: --------------------------------
+[Client at 2023-02-21 16:17:04,827]: Room Information:
+[Client at 2023-02-21 16:17:04,827]: --------------------------------
+[Client at 2023-02-21 16:17:04,827]: Server protocol version: 0.3.8
+[Client at 2023-02-21 16:17:04,827]: Server protocol tags: AP, WebHost
+[Client at 2023-02-21 16:17:04,827]: Forfeit permission: goal
+[Client at 2023-02-21 16:17:04,827]: Release permission: goal
+[Client at 2023-02-21 16:17:04,828]: Remaining permission: disabled
+[Client at 2023-02-21 16:17:04,828]: Collect permission: goal
+[Client at 2023-02-21 16:17:04,828]: A !hint costs 10% of your total location count as points and you get 1 for each location checked. Use !hint for more information.
+[Client at 2023-02-21 16:17:04,828]: Enter slot name:
+[kivy at 2023-02-21 18:25:52,765]: Window: exiting mainloop and closing.
+[Client at 2023-02-21 18:25:52,911]: Disconnected from multiworld server

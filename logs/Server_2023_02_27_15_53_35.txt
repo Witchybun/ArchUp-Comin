@@ -1,0 +1,213 @@
+﻿[root at 2023-02-27 15:53:35,464]: Archipelago (0.3.9) logging initialized on Linux-6.1.12-x64v3-xanmod1-x86_64-with-glibc2.35 running Python 3.10.6
+[root at 2023-02-27 15:53:36,042]: Datapackage is in custom mode. Custom Worlds: [<class 'worlds.cv64.CV64World'>, <class 'worlds.ffps.FFPSWorld'>, <class 'worlds.ladx.LinksAwakeningWorld'>, <class 'worlds.messenger.MessengerWorld'>, <class 'worlds.mmbn3.MMBN3World'>, <class 'worlds.musedash.MuseDashWorld'>, <class 'worlds.ror2.RiskOfRainWorld'>, <class 'worlds.stardew_valley.StardewValleyWorld'>, <class 'worlds.tboir.TheBindingOfIsaacRepentanceWorld'>, <class 'worlds.timespinner.TimespinnerWorld'>, <class 'worlds.undertale.UndertaleWorld'>, <class 'worlds.wargroove.WargrooveWorld'>]
+[root at 2023-02-27 15:53:45,150]: Loading custom datapackage for game Timespinner
+[root at 2023-02-27 15:53:45,154]: No save data found, starting a new game
+[root at 2023-02-27 15:53:45,467]: Hosting game at 99.91.169.91:38281 (No password)
+[websockets.server at 2023-02-27 15:53:45,468]: server listening on 0.0.0.0:38281
+[websockets.server at 2023-02-27 15:53:45,470]: server listening on [::]:38281
+[websockets.server at 2023-02-27 15:55:33,726]: connection open
+[root at 2023-02-27 15:55:33,810]: Notice (all): Albrekka (Team #1) playing Timespinner has joined. Client(0.3.7), []).
+[root at 2023-02-27 15:55:33,810]: Notice (Player Albrekka in team 1): Now that you are connected, you can use !help to list commands to run via the server. If your client supports it, you may have additional local commands you can list with /help.
+[root at 2023-02-27 15:55:42,997]: Notice (all): Albrekka (Team #1) has changed tags from [] to ['DeathLink'].
+[root at 2023-02-27 15:55:49,204]: (Team #1) Albrekka sent Gun Orb to Albrekka (Tutorial: Yo Momma 1)
+[root at 2023-02-27 15:56:00,234]: (Team #1) Albrekka sent Frozen Spires to Albrekka (Tutorial: Yo Momma 2)
+[root at 2023-02-27 15:56:40,591]: (Team #1) Albrekka sent Sand Vial to Albrekka (Lake Desolation: Starter chest 1)
+[root at 2023-02-27 15:57:36,010]: (Team #1) Albrekka sent Potion to Witch Albrekka (Lake Desolation: Starter chest 2)
+[root at 2023-02-27 15:58:34,404]: (Team #1) Albrekka sent Mind Refresh to Albrekka (Lake Desolation: Starter chest 3)
+[root at 2023-02-27 16:00:12,488]: (Team #1) Albrekka sent Meyef to Albrekka (Lake Desolation (Lower): Timespinner Wheel room)
+[root at 2023-02-27 16:02:08,147]: Notice (all): Albrekka (Team #1) has left the game
+[websockets.server at 2023-02-27 16:02:08,147]: connection closed
+[websockets.server at 2023-02-27 16:03:48,844]: connection open
+[root at 2023-02-27 16:03:48,851]: Notice (all): Witch Albrekka (Team #1) playing Noita has joined. Client(0.3.4), ['AP', 'WebHost']).
+[root at 2023-02-27 16:03:48,851]: Notice (Player Witch Albrekka in team 1): Now that you are connected, you can use !help to list commands to run via the server. If your client supports it, you may have additional local commands you can list with /help.
+[root at 2023-02-27 16:14:20,366]: (Team #1) Witch Albrekka sent Bad to Witch Albrekka (Holy Mountain 1 (To Coal Pits) Spell Refresh)
+[root at 2023-02-27 16:14:42,842]: (Team #1) Witch Albrekka sent Talaria Attachment to Albrekka (Holy Mountain 1 (To Coal Pits) Shop Item 3)
+[root at 2023-02-27 16:19:04,652]: (Team #1) Witch Albrekka sent Midnight Cloak to Albrekka (Holy Mountain 2 (To Snowy Depths) Spell Refresh)
+[root at 2023-02-27 16:21:07,686]: Notice (all): Witch Albrekka (Team #1) has left the game
+[websockets.server at 2023-02-27 16:21:07,686]: connection closed
+[websockets.server at 2023-02-27 16:21:10,703]: connection open
+[root at 2023-02-27 16:21:10,711]: Notice (all): Witch Albrekka (Team #1) playing Noita has joined. Client(0.3.4), ['AP', 'WebHost']).
+[root at 2023-02-27 16:21:10,711]: Notice (Player Witch Albrekka in team 1): Now that you are connected, you can use !help to list commands to run via the server. If your client supports it, you may have additional local commands you can list with /help.
+[root at 2023-02-27 16:21:39,429]: (Team #1) Witch Albrekka sent Food Synthesizer to Albrekka (Chest1)
+[root at 2023-02-27 16:23:33,393]: Notice (all): Witch Albrekka (Team #1) has left the game
+[websockets.server at 2023-02-27 16:23:33,393]: connection closed
+[websockets.server at 2023-02-27 16:23:36,404]: connection open
+[root at 2023-02-27 16:23:36,412]: Notice (all): Witch Albrekka (Team #1) playing Noita has joined. Client(0.3.4), ['AP', 'WebHost']).
+[root at 2023-02-27 16:23:36,412]: Notice (Player Witch Albrekka in team 1): Now that you are connected, you can use !help to list commands to run via the server. If your client supports it, you may have additional local commands you can list with /help.
+[root at 2023-02-27 16:26:50,713]: Notice (all): Witch Albrekka (Team #1) has left the game
+[websockets.server at 2023-02-27 16:26:50,713]: connection closed
+[websockets.server at 2023-02-27 16:26:53,801]: connection open
+[root at 2023-02-27 16:26:53,809]: Notice (all): Witch Albrekka (Team #1) playing Noita has joined. Client(0.3.4), ['AP', 'WebHost']).
+[root at 2023-02-27 16:26:53,809]: Notice (Player Witch Albrekka in team 1): Now that you are connected, you can use !help to list commands to run via the server. If your client supports it, you may have additional local commands you can list with /help.
+[root at 2023-02-27 16:39:39,497]: Notice (all): Witch Albrekka (Team #1) has left the game
+[websockets.server at 2023-02-27 16:39:39,498]: connection closed
+[websockets.server at 2023-02-27 16:39:42,514]: connection open
+[root at 2023-02-27 16:39:42,522]: Notice (all): Witch Albrekka (Team #1) playing Noita has joined. Client(0.3.4), ['AP', 'WebHost']).
+[root at 2023-02-27 16:39:42,522]: Notice (Player Witch Albrekka in team 1): Now that you are connected, you can use !help to list commands to run via the server. If your client supports it, you may have additional local commands you can list with /help.
+[root at 2023-02-27 16:42:53,218]: (Team #1) Witch Albrekka sent Heart to Witch Albrekka (Holy Mountain 1 (To Coal Pits) Shop Item 5)
+[root at 2023-02-27 16:45:20,045]: (Team #1) Witch Albrekka sent Max HP to Albrekka (Chest2)
+[root at 2023-02-27 16:49:57,704]: (Team #1) Witch Albrekka sent Kammi to Witch Albrekka (Chest3)
+[root at 2023-02-27 16:51:26,679]: Notice (all): Witch Albrekka (Team #1) has left the game
+[websockets.server at 2023-02-27 16:51:26,679]: connection closed
+[websockets.server at 2023-02-27 16:51:29,715]: connection open
+[root at 2023-02-27 16:51:29,721]: Notice (all): Witch Albrekka (Team #1) playing Noita has joined. Client(0.3.4), ['AP', 'WebHost']).
+[root at 2023-02-27 16:51:29,721]: Notice (Player Witch Albrekka in team 1): Now that you are connected, you can use !help to list commands to run via the server. If your client supports it, you may have additional local commands you can list with /help.
+[root at 2023-02-27 16:57:46,495]: (Team #1) Witch Albrekka sent Nether Orb to Albrekka (Holy Mountain 1 (To Coal Pits) Shop Item 4)
+[root at 2023-02-27 16:58:12,099]: (Team #1) Witch Albrekka sent Ether to Albrekka (Chest4)
+[root at 2023-02-27 17:05:55,358]: (Team #1) Witch Albrekka sent Berry Pick-Mi-Up to Albrekka (Holy Mountain 3 (To Hiisi Base) Spell Refresh)
+[root at 2023-02-27 17:08:04,601]: Notice (all): Witch Albrekka (Team #1) has left the game
+[websockets.server at 2023-02-27 17:08:04,601]: connection closed
+[websockets.server at 2023-02-27 17:08:07,656]: connection open
+[root at 2023-02-27 17:08:07,662]: Notice (all): Witch Albrekka (Team #1) playing Noita has joined. Client(0.3.4), ['AP', 'WebHost']).
+[root at 2023-02-27 17:08:07,662]: Notice (Player Witch Albrekka in team 1): Now that you are connected, you can use !help to list commands to run via the server. If your client supports it, you may have additional local commands you can list with /help.
+[root at 2023-02-27 17:09:46,814]: Notice (all): Witch Albrekka (Team #1) has left the game
+[websockets.server at 2023-02-27 17:09:46,815]: connection closed
+[websockets.server at 2023-02-27 17:09:49,853]: connection open
+[root at 2023-02-27 17:09:49,859]: Notice (all): Witch Albrekka (Team #1) playing Noita has joined. Client(0.3.4), ['AP', 'WebHost']).
+[root at 2023-02-27 17:09:49,859]: Notice (Player Witch Albrekka in team 1): Now that you are connected, you can use !help to list commands to run via the server. If your client supports it, you may have additional local commands you can list with /help.
+[root at 2023-02-27 17:10:59,835]: (Team #1) Witch Albrekka sent Broken Wand to Witch Albrekka (Chest5)
+[root at 2023-02-27 17:12:05,116]: Notice (all): Witch Albrekka (Team #1) has left the game
+[websockets.server at 2023-02-27 17:12:05,117]: connection closed
+[websockets.server at 2023-02-27 17:12:08,086]: connection open
+[root at 2023-02-27 17:12:08,091]: Notice (all): Witch Albrekka (Team #1) playing Noita has joined. Client(0.3.4), ['AP', 'WebHost']).
+[root at 2023-02-27 17:12:08,092]: Notice (Player Witch Albrekka in team 1): Now that you are connected, you can use !help to list commands to run via the server. If your client supports it, you may have additional local commands you can list with /help.
+[root at 2023-02-27 17:16:46,042]: (Team #1) Witch Albrekka sent Filigree Clasp to Albrekka (Holy Mountain 1 (To Coal Pits) Shop Item 1)
+[root at 2023-02-27 17:18:51,160]: Notice (all): Witch Albrekka (Team #1) has left the game
+[websockets.server at 2023-02-27 17:18:51,160]: connection closed
+[websockets.server at 2023-02-27 17:18:54,156]: connection open
+[root at 2023-02-27 17:18:54,163]: Notice (all): Witch Albrekka (Team #1) playing Noita has joined. Client(0.3.4), ['AP', 'WebHost']).
+[root at 2023-02-27 17:18:54,163]: Notice (Player Witch Albrekka in team 1): Now that you are connected, you can use !help to list commands to run via the server. If your client supports it, you may have additional local commands you can list with /help.
+[websockets.server at 2023-02-27 17:19:28,390]: connection open
+[root at 2023-02-27 17:19:28,471]: Notice (all): Albrekka (Team #1) playing Timespinner has joined. Client(0.3.7), []).
+[root at 2023-02-27 17:19:28,471]: Notice (Player Albrekka in team 1): Now that you are connected, you can use !help to list commands to run via the server. If your client supports it, you may have additional local commands you can list with /help.
+[root at 2023-02-27 17:19:29,006]: Notice (all): Albrekka (Team #1) has changed tags from [] to ['DeathLink'].
+[root at 2023-02-27 17:20:25,892]: (Team #1) Albrekka sent Heart to Witch Albrekka (Lake Desolation: Memory - Coyote Jump (Time Messenger))
+[root at 2023-02-27 17:22:30,405]: (Team #1) Albrekka sent Radiant Orb to Albrekka (Lake Desolation: Kitty Boss)
+[root at 2023-02-27 17:23:18,878]: (Team #1) Albrekka sent Chaos Die to Witch Albrekka (Library: Memory - Waterway (A Message))
+[root at 2023-02-27 17:23:54,046]: (Team #1) Albrekka sent Max Sand to Albrekka (Library: Basement)
+[root at 2023-02-27 17:24:02,984]: (Team #1) Albrekka sent Plasma Orb to Albrekka (Library: Librarian)
+[root at 2023-02-27 17:24:19,311]: (Team #1) Albrekka sent Secret Potion to Witch Albrekka (Library: Reading nook chest)
+[root at 2023-02-27 17:24:36,711]: (Team #1) Albrekka sent Wand (Tier 3) to Witch Albrekka (Library: Warp gate)
+[root at 2023-02-27 17:25:13,127]: (Team #1) Albrekka sent Gold (200) to Witch Albrekka (Library: Memory - Library Gap (Lachiemi Sun))
+[root at 2023-02-27 17:25:24,744]: (Team #1) Albrekka sent Crimson Vortex to Albrekka (Library: Backer room chest 1)
+[root at 2023-02-27 17:25:26,894]: (Team #1) Albrekka sent Max Sand to Albrekka (Library: Backer room chest 2)
+[root at 2023-02-27 17:25:27,978]: (Team #1) Albrekka sent Wand (Tier 5) to Witch Albrekka (Library: Backer room chest 3)
+[root at 2023-02-27 17:25:28,911]: (Team #1) Albrekka sent Wand (Tier 1) to Witch Albrekka (Library: Backer room chest 4)
+[root at 2023-02-27 17:25:29,894]: (Team #1) Albrekka sent Infernal Flames to Albrekka (Library: Backer room chest 5)
+[root at 2023-02-27 17:25:51,878]: (Team #1) Albrekka sent Chaos Die to Witch Albrekka (Library: Memory - Mr. Hat Portrait (Moonlit Night))
+[root at 2023-02-27 17:26:08,027]: Notice (all): Witch Albrekka (Team #1) has left the game
+[websockets.server at 2023-02-27 17:26:08,027]: connection closed
+[websockets.server at 2023-02-27 17:26:11,085]: connection open
+[root at 2023-02-27 17:26:11,092]: Notice (all): Witch Albrekka (Team #1) playing Noita has joined. Client(0.3.4), ['AP', 'WebHost']).
+[root at 2023-02-27 17:26:11,092]: Notice (Player Witch Albrekka in team 1): Now that you are connected, you can use !help to list commands to run via the server. If your client supports it, you may have additional local commands you can list with /help.
+[root at 2023-02-27 17:31:00,287]: (Team #1) Witch Albrekka sent Max Sand to Albrekka (Chest6)
+[root at 2023-02-27 17:34:16,542]: (Team #1) Witch Albrekka sent Gold (200) to Witch Albrekka (Chest7)
+[root at 2023-02-27 17:34:51,588]: (Team #1) Witch Albrekka sent Perk (Melee Immunity) to Witch Albrekka (Holy Mountain 2 (To Snowy Depths) Shop Item 2)
+[root at 2023-02-27 17:36:56,894]: Notice (all): Witch Albrekka (Team #1) has left the game
+[websockets.server at 2023-02-27 17:36:56,895]: connection closed
+[websockets.server at 2023-02-27 17:36:59,928]: connection open
+[root at 2023-02-27 17:36:59,933]: Notice (all): Witch Albrekka (Team #1) playing Noita has joined. Client(0.3.4), ['AP', 'WebHost']).
+[root at 2023-02-27 17:36:59,934]: Notice (Player Witch Albrekka in team 1): Now that you are connected, you can use !help to list commands to run via the server. If your client supports it, you may have additional local commands you can list with /help.
+[root at 2023-02-27 17:40:59,003]: (Team #1) Witch Albrekka sent Librarian Hat to Albrekka (Chest8)
+[root at 2023-02-27 17:41:12,897]: Notice (all): Witch Albrekka (Team #1) has left the game
+[websockets.server at 2023-02-27 17:41:12,898]: connection closed
+[websockets.server at 2023-02-27 17:41:15,943]: connection open
+[root at 2023-02-27 17:41:15,959]: Notice (all): Witch Albrekka (Team #1) playing Noita has joined. Client(0.3.4), ['AP', 'WebHost']).
+[root at 2023-02-27 17:41:15,959]: Notice (Player Witch Albrekka in team 1): Now that you are connected, you can use !help to list commands to run via the server. If your client supports it, you may have additional local commands you can list with /help.
+[root at 2023-02-27 17:48:00,672]: (Team #1) Witch Albrekka sent Chaos Blades to Albrekka (Chest9)
+[root at 2023-02-27 17:49:49,576]: Notice (all): Witch Albrekka (Team #1) has left the game
+[websockets.server at 2023-02-27 17:49:49,576]: connection closed
+[websockets.server at 2023-02-27 17:49:52,644]: connection open
+[root at 2023-02-27 17:49:52,650]: Notice (all): Witch Albrekka (Team #1) playing Noita has joined. Client(0.3.4), ['AP', 'WebHost']).
+[root at 2023-02-27 17:49:52,651]: Notice (Player Witch Albrekka in team 1): Now that you are connected, you can use !help to list commands to run via the server. If your client supports it, you may have additional local commands you can list with /help.
+[root at 2023-02-27 17:52:45,210]: (Team #1) Witch Albrekka sent Viletian Crown to Albrekka (Chest10)
+[root at 2023-02-27 17:57:22,335]: (Team #1) Witch Albrekka sent Potion to Witch Albrekka (Chest11)
+[root at 2023-02-27 17:59:32,506]: (Team #1) Witch Albrekka sent Max HP to Albrekka (Chest12)
+[root at 2023-02-27 18:00:26,261]: (Team #1) Witch Albrekka sent Dark Flames to Albrekka (Chest13)
+[root at 2023-02-27 18:03:57,439]: (Team #1) Witch Albrekka sent Chaos Trap to Albrekka (Chest14)
+[root at 2023-02-27 18:04:11,457]: (Team #1) Witch Albrekka sent Gold (200) to Witch Albrekka (Chest15)
+[root at 2023-02-27 18:07:35,287]: Notice (all): Witch Albrekka (Team #1) has left the game
+[websockets.server at 2023-02-27 18:07:35,287]: connection closed
+[websockets.server at 2023-02-27 18:07:38,384]: connection open
+[root at 2023-02-27 18:07:38,390]: Notice (all): Witch Albrekka (Team #1) playing Noita has joined. Client(0.3.4), ['AP', 'WebHost']).
+[root at 2023-02-27 18:07:38,390]: Notice (Player Witch Albrekka in team 1): Now that you are connected, you can use !help to list commands to run via the server. If your client supports it, you may have additional local commands you can list with /help.
+[root at 2023-02-27 18:08:55,793]: (Team #1) Witch Albrekka sent Gold (200) to Witch Albrekka (Chest16)
+[root at 2023-02-27 18:10:50,971]: Notice (all): Witch Albrekka (Team #1) has left the game
+[websockets.server at 2023-02-27 18:10:50,971]: connection closed
+[websockets.server at 2023-02-27 18:10:53,986]: connection open
+[root at 2023-02-27 18:10:53,992]: Notice (all): Witch Albrekka (Team #1) playing Noita has joined. Client(0.3.4), ['AP', 'WebHost']).
+[root at 2023-02-27 18:10:53,992]: Notice (Player Witch Albrekka in team 1): Now that you are connected, you can use !help to list commands to run via the server. If your client supports it, you may have additional local commands you can list with /help.
+[root at 2023-02-27 18:14:25,594]: Notice (all): Witch Albrekka (Team #1) has left the game
+[websockets.server at 2023-02-27 18:14:25,594]: connection closed
+[websockets.server at 2023-02-27 18:14:28,616]: connection open
+[root at 2023-02-27 18:14:28,622]: Notice (all): Witch Albrekka (Team #1) playing Noita has joined. Client(0.3.4), ['AP', 'WebHost']).
+[root at 2023-02-27 18:14:28,623]: Notice (Player Witch Albrekka in team 1): Now that you are connected, you can use !help to list commands to run via the server. If your client supports it, you may have additional local commands you can list with /help.
+[root at 2023-02-27 18:17:44,974]: (Team #1) Witch Albrekka sent Sun Ring to Albrekka (Chest17)
+[root at 2023-02-27 18:26:49,846]: (Team #1) Witch Albrekka sent Max HP to Albrekka (Chest18)
+[root at 2023-02-27 18:27:42,849]: Notice (all): Witch Albrekka (Team #1) has left the game
+[websockets.server at 2023-02-27 18:27:42,849]: connection closed
+[websockets.server at 2023-02-27 18:27:45,918]: connection open
+[root at 2023-02-27 18:27:45,924]: Notice (all): Witch Albrekka (Team #1) playing Noita has joined. Client(0.3.4), ['AP', 'WebHost']).
+[root at 2023-02-27 18:27:45,925]: Notice (Player Witch Albrekka in team 1): Now that you are connected, you can use !help to list commands to run via the server. If your client supports it, you may have additional local commands you can list with /help.
+[root at 2023-02-27 18:31:15,853]: Notice (all): Witch Albrekka (Team #1) has left the game
+[websockets.server at 2023-02-27 18:31:15,853]: connection closed
+[websockets.server at 2023-02-27 18:31:18,856]: connection open
+[root at 2023-02-27 18:31:18,863]: Notice (all): Witch Albrekka (Team #1) playing Noita has joined. Client(0.3.4), ['AP', 'WebHost']).
+[root at 2023-02-27 18:31:18,863]: Notice (Player Witch Albrekka in team 1): Now that you are connected, you can use !help to list commands to run via the server. If your client supports it, you may have additional local commands you can list with /help.
+[root at 2023-02-27 18:34:14,819]: Notice (all): Witch Albrekka (Team #1) has left the game
+[websockets.server at 2023-02-27 18:34:14,819]: connection closed
+[websockets.server at 2023-02-27 18:34:17,817]: connection open
+[root at 2023-02-27 18:34:17,823]: Notice (all): Witch Albrekka (Team #1) playing Noita has joined. Client(0.3.4), ['AP', 'WebHost']).
+[root at 2023-02-27 18:34:17,824]: Notice (Player Witch Albrekka in team 1): Now that you are connected, you can use !help to list commands to run via the server. If your client supports it, you may have additional local commands you can list with /help.
+[root at 2023-02-27 18:36:29,981]: (Team #1) Witch Albrekka sent Ice Orb to Albrekka (Chest19)
+[root at 2023-02-27 18:40:38,841]: (Team #1) Witch Albrekka sent Max Sand to Albrekka (Chest20)
+[root at 2023-02-27 18:41:32,132]: (Team #1) Witch Albrekka sent Heart to Witch Albrekka (Chest21)
+[root at 2023-02-27 18:43:06,808]: Notice (all): Witch Albrekka (Team #1) has left the game
+[websockets.server at 2023-02-27 18:43:06,808]: connection closed
+[websockets.server at 2023-02-27 18:43:09,799]: connection open
+[root at 2023-02-27 18:43:09,805]: Notice (all): Witch Albrekka (Team #1) playing Noita has joined. Client(0.3.4), ['AP', 'WebHost']).
+[root at 2023-02-27 18:43:09,805]: Notice (Player Witch Albrekka in team 1): Now that you are connected, you can use !help to list commands to run via the server. If your client supports it, you may have additional local commands you can list with /help.
+[root at 2023-02-27 18:57:23,859]: Notice (all): Witch Albrekka (Team #1) has left the game
+[websockets.server at 2023-02-27 18:57:23,860]: connection closed
+[websockets.server at 2023-02-27 18:57:26,906]: connection open
+[root at 2023-02-27 18:57:26,913]: Notice (all): Witch Albrekka (Team #1) playing Noita has joined. Client(0.3.4), ['AP', 'WebHost']).
+[root at 2023-02-27 18:57:26,913]: Notice (Player Witch Albrekka in team 1): Now that you are connected, you can use !help to list commands to run via the server. If your client supports it, you may have additional local commands you can list with /help.
+[root at 2023-02-27 19:07:40,969]: Notice (all): Witch Albrekka (Team #1) has left the game
+[websockets.server at 2023-02-27 19:07:40,969]: connection closed
+[websockets.server at 2023-02-27 19:07:44,022]: connection open
+[root at 2023-02-27 19:07:44,029]: Notice (all): Witch Albrekka (Team #1) playing Noita has joined. Client(0.3.4), ['AP', 'WebHost']).
+[root at 2023-02-27 19:07:44,029]: Notice (Player Witch Albrekka in team 1): Now that you are connected, you can use !help to list commands to run via the server. If your client supports it, you may have additional local commands you can list with /help.
+[root at 2023-02-27 19:11:55,212]: Notice (all): Witch Albrekka (Team #1) has left the game
+[websockets.server at 2023-02-27 19:11:55,213]: connection closed
+[websockets.server at 2023-02-27 19:11:58,221]: connection open
+[root at 2023-02-27 19:11:58,227]: Notice (all): Witch Albrekka (Team #1) playing Noita has joined. Client(0.3.4), ['AP', 'WebHost']).
+[root at 2023-02-27 19:11:58,227]: Notice (Player Witch Albrekka in team 1): Now that you are connected, you can use !help to list commands to run via the server. If your client supports it, you may have additional local commands you can list with /help.
+[root at 2023-02-27 19:14:11,080]: Notice (all): Witch Albrekka (Team #1) has left the game
+[websockets.server at 2023-02-27 19:14:11,080]: connection closed
+[websockets.server at 2023-02-27 19:14:14,072]: connection open
+[root at 2023-02-27 19:14:14,078]: Notice (all): Witch Albrekka (Team #1) playing Noita has joined. Client(0.3.4), ['AP', 'WebHost']).
+[root at 2023-02-27 19:14:14,078]: Notice (Player Witch Albrekka in team 1): Now that you are connected, you can use !help to list commands to run via the server. If your client supports it, you may have additional local commands you can list with /help.
+[root at 2023-02-27 19:16:31,064]: (Team #1) Witch Albrekka sent Potion to Witch Albrekka (Chest22)
+[root at 2023-02-27 19:24:42,600]: Notice (all): Witch Albrekka (Team #1) has left the game
+[websockets.server at 2023-02-27 19:24:42,600]: connection closed
+[websockets.server at 2023-02-27 19:24:45,578]: connection open
+[root at 2023-02-27 19:24:45,584]: Notice (all): Witch Albrekka (Team #1) playing Noita has joined. Client(0.3.4), ['AP', 'WebHost']).
+[root at 2023-02-27 19:24:45,584]: Notice (Player Witch Albrekka in team 1): Now that you are connected, you can use !help to list commands to run via the server. If your client supports it, you may have additional local commands you can list with /help.
+[root at 2023-02-27 19:25:53,830]: (Team #1) Witch Albrekka sent Shiny Rock to Albrekka (Chest23)
+[root at 2023-02-27 19:30:14,514]: (Team #1) Witch Albrekka sent Berry Pick-Mi-Up to Albrekka (Chest24)
+[root at 2023-02-27 19:30:21,882]: Notice (all): Witch Albrekka (Team #1) has left the game
+[websockets.server at 2023-02-27 19:30:21,883]: connection closed
+[websockets.server at 2023-02-27 19:30:24,916]: connection open
+[root at 2023-02-27 19:30:24,922]: Notice (all): Witch Albrekka (Team #1) playing Noita has joined. Client(0.3.4), ['AP', 'WebHost']).
+[root at 2023-02-27 19:30:24,922]: Notice (Player Witch Albrekka in team 1): Now that you are connected, you can use !help to list commands to run via the server. If your client supports it, you may have additional local commands you can list with /help.
+[root at 2023-02-27 19:39:48,875]: (Team #1) Witch Albrekka sent Potion to Witch Albrekka (Chest25)
+[root at 2023-02-27 19:40:12,746]: (Team #1) Witch Albrekka sent Heart to Witch Albrekka (Holy Mountain 3 (To Hiisi Base) Shop Item 2)
+[root at 2023-02-27 19:42:45,251]: Notice (all): Witch Albrekka (Team #1) has left the game
+[websockets.server at 2023-02-27 19:42:45,251]: connection closed
+[websockets.server at 2023-02-27 19:42:48,282]: connection open
+[root at 2023-02-27 19:42:48,288]: Notice (all): Witch Albrekka (Team #1) playing Noita has joined. Client(0.3.4), ['AP', 'WebHost']).
+[root at 2023-02-27 19:42:48,289]: Notice (Player Witch Albrekka in team 1): Now that you are connected, you can use !help to list commands to run via the server. If your client supports it, you may have additional local commands you can list with /help.
+[root at 2023-02-27 19:49:56,786]: Notice (all): Witch Albrekka (Team #1) has left the game
+[websockets.server at 2023-02-27 19:49:56,787]: connection closed
+[root at 2023-02-27 19:49:59,070]: Notice (all): Albrekka (Team #1) has left the game
+[websockets.server at 2023-02-27 19:49:59,070]: connection closed

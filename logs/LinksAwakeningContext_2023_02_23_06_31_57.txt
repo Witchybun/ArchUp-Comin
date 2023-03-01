@@ -1,0 +1,133 @@
+﻿[root at 2023-02-23 06:31:57,167]: Archipelago (0.3.9) logging initialized on Linux-6.1.12-x64v3-xanmod1-x86_64-with-glibc2.35 running Python 3.10.6
+[root at 2023-02-23 06:31:57,751]: Datapackage is in custom mode. Custom Worlds: [<class 'worlds.cv64.CV64World'>, <class 'worlds.ladx.LinksAwakeningWorld'>, <class 'worlds.messenger.MessengerWorld'>, <class 'worlds.mmbn3.MMBN3World'>, <class 'worlds.musedash.MuseDashWorld'>, <class 'worlds.stardew_valley.StardewValleyWorld'>]
+[Client at 2023-02-23 06:31:57,754]: Namespace(connect=None, password=None, nogui=False, url=None, diff_file='')
+[kivy at 2023-02-23 06:31:57,764]: Kivy: v2.1.0
+[kivy at 2023-02-23 06:31:57,764]: Kivy: Installed at "/home/albrekka/.local/lib/python3.10/site-packages/kivy/__init__.py"
+[kivy at 2023-02-23 06:31:57,764]: Python: v3.10.6 (main, Nov 14 2022, 16:10:14) [GCC 11.3.0]
+[kivy at 2023-02-23 06:31:57,764]: Python: Interpreter at "/usr/bin/python3"
+[kivy at 2023-02-23 06:31:57,773]: Factory: 189 symbols loaded
+[kivy at 2023-02-23 06:31:57,857]: Image: Providers: img_tex, img_dds, img_sdl2, img_pil (img_ffpyplayer ignored)
+[kivy at 2023-02-23 06:31:57,871]: Window: Provider: sdl2
+[kivy at 2023-02-23 06:31:58,746]: GL: Using the "OpenGL" graphics system
+[kivy at 2023-02-23 06:31:58,747]: GL: Backend used <sdl2>
+[kivy at 2023-02-23 06:31:58,747]: GL: OpenGL version <b'4.6.0 NVIDIA 525.78.01'>
+[kivy at 2023-02-23 06:31:58,747]: GL: OpenGL vendor <b'NVIDIA Corporation'>
+[kivy at 2023-02-23 06:31:58,747]: GL: OpenGL renderer <b'NVIDIA GeForce GTX 1080/PCIe/SSE2'>
+[kivy at 2023-02-23 06:31:58,747]: GL: OpenGL parsed version: 4, 6
+[kivy at 2023-02-23 06:31:58,747]: GL: Shading version <b'4.60 NVIDIA'>
+[kivy at 2023-02-23 06:31:58,747]: GL: Texture max size <32768>
+[kivy at 2023-02-23 06:31:58,748]: GL: Texture max units <32>
+[kivy at 2023-02-23 06:31:58,789]: Window: auto add sdl2 input provider
+[kivy at 2023-02-23 06:31:58,789]: Window: virtual keyboard not allowed, single mode, not docked
+[kivy at 2023-02-23 06:31:58,857]: Clipboard: Provider: gtk3(['clipboard_xclip', 'clipboard_xsel', 'clipboard_dbusklipper'] ignored)
+[kivy at 2023-02-23 06:31:58,861]: Cutbuffer: Unable to find any valuable Cutbuffer provider. Please enable debug logging (e.g. add -d if running from the command line, or change the log level in the config) and re-run your app to identify potential causes
+xclip - FileNotFoundError: [Errno 2] No such file or directory: 'xclip'
+  File "/home/albrekka/.local/lib/python3.10/site-packages/kivy/core/__init__.py", line 59, in core_select_lib
+    mod = importlib.__import__(name='{2}.{0}.{1}'.format(
+  File "<frozen importlib._bootstrap>", line 1129, in __import__
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/albrekka/.local/lib/python3.10/site-packages/kivy/core/clipboard/clipboard_xclip.py", line 17, in <module>
+    p = subprocess.Popen(['xclip', '-version'], stdout=subprocess.PIPE,
+  File "/usr/lib/python3.10/subprocess.py", line 969, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "/usr/lib/python3.10/subprocess.py", line 1845, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+
+xsel - FileNotFoundError: [Errno 2] No such file or directory: 'xsel'
+  File "/home/albrekka/.local/lib/python3.10/site-packages/kivy/core/__init__.py", line 59, in core_select_lib
+    mod = importlib.__import__(name='{2}.{0}.{1}'.format(
+  File "<frozen importlib._bootstrap>", line 1129, in __import__
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/albrekka/.local/lib/python3.10/site-packages/kivy/core/clipboard/clipboard_xsel.py", line 16, in <module>
+    p = subprocess.Popen(['xsel'], stdout=subprocess.PIPE)
+  File "/usr/lib/python3.10/subprocess.py", line 969, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "/usr/lib/python3.10/subprocess.py", line 1845, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+
+[kivy at 2023-02-23 06:31:58,863]: Text: Provider: sdl2
+[Client at 2023-02-23 06:31:58,875]: Please connect to an Archipelago server.
+[kivy at 2023-02-23 06:31:58,944]: GL: NPOT texture support is available
+[Client at 2023-02-23 06:31:58,959]: /help 
+    Returns the help listing
+/license 
+    Returns the licensing information
+/exit 
+    Close connections and client
+/connect [address] 
+    Connect to a MultiWorld Server
+/disconnect 
+    Disconnect from a MultiWorld Server
+/received 
+    List all received items
+/missing 
+    List all missing location checks, from your local game state
+/items 
+    List all item names for the currently running game.
+/locations 
+    List all location names for the currently running game.
+/ready 
+    Send ready status to server.
+
+[kivy at 2023-02-23 06:31:59,041]: Base: Start application main loop
+[Client at 2023-02-23 06:31:59,051]: (Re)Starting game loop
+[Client at 2023-02-23 06:31:59,051]: Waiting on connection to Retroarch...
+[Client at 2023-02-23 06:31:59,081]: Connected to Retroarch b'1.14.0' b'game_boy,AP_43954647178230616879_P2_Literal_Bun_Bun,crc32=4dc1bfbc'
+[Client at 2023-02-23 06:31:59,112]: Waiting on game to be in valid state...
+[Tracker at 2023-02-23 06:31:59,195]: server listening on 0.0.0.0:17026
+[Tracker at 2023-02-23 06:31:59,196]: server listening on [::]:17026
+[Tracker at 2023-02-23 06:32:01,137]: connection open
+[Tracker at 2023-02-23 06:32:01,139]: Connected, supported features: ['items', 'checks', 'entrances', 'spoilers', 'settings', 'gps', 'gfx']
+[Tracker at 2023-02-23 06:32:01,139]: Sending inventory to magpie
+[Client at 2023-02-23 06:32:18,592]: Connecting to Archipelago server at ws://archipelago.gg:58041
+[Client at 2023-02-23 06:32:18,930]: Connected
+[Client at 2023-02-23 06:32:18,931]: --------------------------------
+[Client at 2023-02-23 06:32:18,931]: Room Information:
+[Client at 2023-02-23 06:32:18,931]: --------------------------------
+[Client at 2023-02-23 06:32:18,931]: Server protocol version: 0.3.8
+[Client at 2023-02-23 06:32:18,931]: Server protocol tags: AP, WebHost
+[Client at 2023-02-23 06:32:18,931]: Forfeit permission: goal
+[Client at 2023-02-23 06:32:18,931]: Release permission: goal
+[Client at 2023-02-23 06:32:18,931]: Remaining permission: goal
+[Client at 2023-02-23 06:32:18,931]: Collect permission: goal
+[Client at 2023-02-23 06:32:18,931]: A !hint costs 10% of your total location count as points and you get 1 for each location checked. Use !hint for more information.
+[Client at 2023-02-23 06:32:19,085]: Got new ID/Name DataPackage
+[Client at 2023-02-23 06:32:38,312]: Ready!
+[Tracker at 2023-02-23 06:32:38,746]: Sending inventory to magpie
+[Tracker at 2023-02-23 06:32:38,831]: sending all checks to magpie
+[Tracker at 2023-02-23 06:33:10,702]: connection handler failed
+Traceback (most recent call last):
+  File "/home/albrekka/.local/lib/python3.10/site-packages/websockets/legacy/server.py", line 236, in handler
+    await self.ws_handler(self)
+  File "/mnt/115b93af-9f3b-43c4-a778-48dcab29caf0/Randomizers/Archipelago Betas/worlds/ladx/Tracker.py", line 155, in handler
+    message = json.loads(await websocket.recv())
+  File "/home/albrekka/.local/lib/python3.10/site-packages/websockets/legacy/protocol.py", line 568, in recv
+    await self.ensure_open()
+  File "/home/albrekka/.local/lib/python3.10/site-packages/websockets/legacy/protocol.py", line 953, in ensure_open
+    raise self.connection_closed_exc()
+websockets.exceptions.ConnectionClosedError: received 1005 (no status code [internal]); then sent 1005 (no status code [internal])
+[Tracker at 2023-02-23 06:33:10,705]: connection closed
+[Tracker at 2023-02-23 06:33:13,397]: connection open
+[Tracker at 2023-02-23 06:33:13,399]: Connected, supported features: ['items', 'checks', 'entrances', 'spoilers', 'settings', 'gps', 'gfx']
+[Tracker at 2023-02-23 06:33:13,399]: Sending inventory to magpie
+[Tracker at 2023-02-23 06:33:13,400]: sending all checks to magpie
+[Client at 2023-02-23 10:25:59,334]: invalid emu state
+[Client at 2023-02-23 10:26:00,336]: (Re)Starting game loop
+[Client at 2023-02-23 10:26:00,336]: Waiting on connection to Retroarch...
+[Client at 2023-02-23 10:26:00,368]: Connected to Retroarch b'1.14.0' b'game_boy,AP_43954647178230616879_P2_Literal_Bun_Bun,crc32=4dc1bfbc'
+[Client at 2023-02-23 10:26:00,384]: Waiting on game to be in valid state...
+[kivy at 2023-02-23 10:26:07,451]: Window: exiting mainloop and closing.
+[Client at 2023-02-23 10:26:07,670]: Disconnected from multiworld server
+[Tracker at 2023-02-23 10:26:07,670]: connection closed
+[Tracker at 2023-02-23 10:26:07,670]: server closing
+[Tracker at 2023-02-23 10:26:07,670]: server closed

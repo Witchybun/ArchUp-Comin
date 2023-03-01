@@ -1,0 +1,19 @@
+﻿[root at 2023-02-24 08:25:10,202]: Archipelago (0.3.9) logging initialized on Linux-6.1.12-x64v3-xanmod1-x86_64-with-glibc2.35 running Python 3.10.6
+[root at 2023-02-24 08:25:10,797]: Datapackage is in custom mode. Custom Worlds: [<class 'worlds.cv64.CV64World'>, <class 'worlds.ladx.LinksAwakeningWorld'>, <class 'worlds.messenger.MessengerWorld'>, <class 'worlds.mmbn3.MMBN3World'>, <class 'worlds.musedash.MuseDashWorld'>, <class 'worlds.stardew_valley.StardewValleyWorld'>]
+[root at 2023-02-24 08:25:16,021]: No save data found, starting a new game
+[root at 2023-02-24 08:25:16,344]: Hosting game at 99.91.169.91:38281 (No password)
+[websockets.server at 2023-02-24 08:25:16,345]: server listening on 0.0.0.0:38281
+[websockets.server at 2023-02-24 08:25:16,345]: server listening on [::]:38281
+[websockets.server at 2023-02-24 08:26:15,450]: connection failed (400 Bad Request)
+[websockets.server at 2023-02-24 08:26:15,450]: connection closed
+[websockets.server at 2023-02-24 08:26:15,465]: connection open
+[root at 2023-02-24 08:26:15,513]: Notice (all): Player1 (Team #1) playing Slay the Spire has joined. Client(0.3.7), []).
+[root at 2023-02-24 08:26:15,513]: Notice (Player Player1 in team 1): Now that you are connected, you can use !help to list commands to run via the server. If your client supports it, you may have additional local commands you can list with /help.
+[root at 2023-02-24 08:31:17,240]: (Team #1) Player1 sent Relic to Player1 (Card Draw 1)
+[root at 2023-02-24 08:50:57,785]: (Team #1) Player1 sent Card Draw to Player1 (Card Draw 2)
+[root at 2023-02-24 08:53:22,319]: (Team #1) Player1 sent Card Draw to Player1 (Relic 1)
+[root at 2023-02-24 08:57:30,203]: (Team #1) Player1 sent Card Draw to Player1 (Relic 2)
+[root at 2023-02-24 08:57:30,205]: (Team #1) Player1 sent Card Draw to Player1 (Card Draw 3)
+[root at 2023-02-24 08:58:52,859]: (Team #1) Player1 sent Boss Relic to Player1 (Relic 3)
+[root at 2023-02-24 09:00:30,970]: Notice (all): Player1 (Team #1) has left the game
+[websockets.server at 2023-02-24 09:00:30,971]: connection closed

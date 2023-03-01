@@ -1,0 +1,9 @@
+﻿[root at 2023-02-28 09:46:31,431]: Archipelago (0.3.9) logging initialized on Linux-6.1.12-x64v3-xanmod1-x86_64-with-glibc2.35 running Python 3.10.6
+[root at 2023-02-28 09:46:32,022]: Datapackage is in custom mode. Custom Worlds: [<class 'worlds.cv64.CV64World'>, <class 'worlds.kh2.KH2World'>, <class 'worlds.ladx.LinksAwakeningWorld'>, <class 'worlds.messenger.MessengerWorld'>, <class 'worlds.mmbn3.MMBN3World'>, <class 'worlds.musedash.MuseDashWorld'>, <class 'worlds.ror2.RiskOfRainWorld'>, <class 'worlds.stardew_valley.StardewValleyWorld'>, <class 'worlds.tboir.TheBindingOfIsaacRepentanceWorld'>, <class 'worlds.timespinner.TimespinnerWorld'>, <class 'worlds.undertale.UndertaleWorld'>, <class 'worlds.wargroove.WargrooveWorld'>]
+[root at 2023-02-28 09:46:42,433]: No save data found, starting a new game
+[root at 2023-02-28 09:46:42,843]: Hosting game at 99.91.169.91:38281 (No password)
+[websockets.server at 2023-02-28 09:46:42,844]: server listening on [::]:38281
+[websockets.server at 2023-02-28 09:46:42,844]: server listening on 0.0.0.0:38281
+[websockets.server at 2023-02-28 09:47:49,484]: connection open
+[root at 2023-02-28 09:47:51,489]: A client connection was refused due to: {'IncompatibleVersion'}, the sent connect information was {'cmd': 'Connect', 'game': 'Dark Souls III', 'items_handling': 1, 'name': 'Player1', 'password': '', 'tags': [], 'uuid': '27019d8026f532b003527af716a52454', 'version': Version(major=0, minor=3, build=6)}.
+[websockets.server at 2023-02-28 09:50:36,082]: connection closed

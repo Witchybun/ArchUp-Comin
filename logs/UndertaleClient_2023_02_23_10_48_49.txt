@@ -1,0 +1,122 @@
+﻿[root at 2023-02-23 10:48:49,652]: Archipelago (0.3.9) logging initialized on Linux-6.1.12-x64v3-xanmod1-x86_64-with-glibc2.35 running Python 3.10.6
+[root at 2023-02-23 10:48:50,211]: Datapackage is in custom mode. Custom Worlds: [<class 'worlds.cv64.CV64World'>, <class 'worlds.ladx.LinksAwakeningWorld'>, <class 'worlds.messenger.MessengerWorld'>, <class 'worlds.mmbn3.MMBN3World'>, <class 'worlds.musedash.MuseDashWorld'>, <class 'worlds.stardew_valley.StardewValleyWorld'>]
+[kivy at 2023-02-23 10:48:50,374]: Kivy: v2.1.0
+[kivy at 2023-02-23 10:48:50,374]: Kivy: Installed at "/home/albrekka/.local/lib/python3.10/site-packages/kivy/__init__.py"
+[kivy at 2023-02-23 10:48:50,374]: Python: v3.10.6 (main, Nov 14 2022, 16:10:14) [GCC 11.3.0]
+[kivy at 2023-02-23 10:48:50,374]: Python: Interpreter at "/usr/bin/python3"
+[kivy at 2023-02-23 10:48:50,382]: Factory: 189 symbols loaded
+[kivy at 2023-02-23 10:48:50,470]: Image: Providers: img_tex, img_dds, img_sdl2, img_pil (img_ffpyplayer ignored)
+[kivy at 2023-02-23 10:48:50,484]: Window: Provider: sdl2
+[kivy at 2023-02-23 10:48:50,837]: GL: Using the "OpenGL" graphics system
+[kivy at 2023-02-23 10:48:50,837]: GL: Backend used <sdl2>
+[kivy at 2023-02-23 10:48:50,837]: GL: OpenGL version <b'4.6.0 NVIDIA 525.78.01'>
+[kivy at 2023-02-23 10:48:50,837]: GL: OpenGL vendor <b'NVIDIA Corporation'>
+[kivy at 2023-02-23 10:48:50,837]: GL: OpenGL renderer <b'NVIDIA GeForce GTX 1080/PCIe/SSE2'>
+[kivy at 2023-02-23 10:48:50,837]: GL: OpenGL parsed version: 4, 6
+[kivy at 2023-02-23 10:48:50,837]: GL: Shading version <b'4.60 NVIDIA'>
+[kivy at 2023-02-23 10:48:50,837]: GL: Texture max size <32768>
+[kivy at 2023-02-23 10:48:50,838]: GL: Texture max units <32>
+[kivy at 2023-02-23 10:48:50,877]: Window: auto add sdl2 input provider
+[kivy at 2023-02-23 10:48:50,877]: Window: virtual keyboard not allowed, single mode, not docked
+[kivy at 2023-02-23 10:48:50,944]: Clipboard: Provider: gtk3(['clipboard_xclip', 'clipboard_xsel', 'clipboard_dbusklipper'] ignored)
+[kivy at 2023-02-23 10:48:50,947]: Cutbuffer: Unable to find any valuable Cutbuffer provider. Please enable debug logging (e.g. add -d if running from the command line, or change the log level in the config) and re-run your app to identify potential causes
+xclip - FileNotFoundError: [Errno 2] No such file or directory: 'xclip'
+  File "/home/albrekka/.local/lib/python3.10/site-packages/kivy/core/__init__.py", line 59, in core_select_lib
+    mod = importlib.__import__(name='{2}.{0}.{1}'.format(
+  File "<frozen importlib._bootstrap>", line 1129, in __import__
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/albrekka/.local/lib/python3.10/site-packages/kivy/core/clipboard/clipboard_xclip.py", line 17, in <module>
+    p = subprocess.Popen(['xclip', '-version'], stdout=subprocess.PIPE,
+  File "/usr/lib/python3.10/subprocess.py", line 969, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "/usr/lib/python3.10/subprocess.py", line 1845, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+
+xsel - FileNotFoundError: [Errno 2] No such file or directory: 'xsel'
+  File "/home/albrekka/.local/lib/python3.10/site-packages/kivy/core/__init__.py", line 59, in core_select_lib
+    mod = importlib.__import__(name='{2}.{0}.{1}'.format(
+  File "<frozen importlib._bootstrap>", line 1129, in __import__
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/albrekka/.local/lib/python3.10/site-packages/kivy/core/clipboard/clipboard_xsel.py", line 16, in <module>
+    p = subprocess.Popen(['xsel'], stdout=subprocess.PIPE)
+  File "/usr/lib/python3.10/subprocess.py", line 969, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "/usr/lib/python3.10/subprocess.py", line 1845, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+
+[kivy at 2023-02-23 10:48:50,949]: Text: Provider: sdl2
+[Client at 2023-02-23 10:48:50,959]: Please connect to an Archipelago server.
+[kivy at 2023-02-23 10:48:51,028]: GL: NPOT texture support is available
+[Client at 2023-02-23 10:48:51,041]: /help 
+    Returns the help listing
+/license 
+    Returns the licensing information
+/exit 
+    Close connections and client
+/connect [address] 
+    Connect to a MultiWorld Server
+/disconnect 
+    Disconnect from a MultiWorld Server
+/received 
+    List all received items
+/missing 
+    List all missing location checks, from your local game state
+/items 
+    List all item names for the currently running game.
+/locations 
+    List all location names for the currently running game.
+/ready 
+    Send ready status to server.
+/resync 
+    Manually trigger a resync.
+/patch 
+    Patch the game.
+/auto_patch steaminstall 
+    Patch the game automatically.
+/online 
+    Makes you no longer able to see other Undertale players.
+/deathlink 
+    Toggles deathlink
+
+[kivy at 2023-02-23 10:48:51,084]: Base: Start application main loop
+[Client at 2023-02-23 10:49:51,606]: ERROR: Folder does not exists. Please make sure you put the steam directory in this command. "/auto_patch (Steam directory)".
+[Client at 2023-02-23 10:50:23,525]: ERROR: Folder does not exists. Please make sure you put the steam directory in this command. "/auto_patch (Steam directory)".
+[Client at 2023-02-23 10:50:30,094]: Traceback (most recent call last):
+  File "/mnt/115b93af-9f3b-43c4-a778-48dcab29caf0/Randomizers/Archipelago Betas/MultiServer.py", line 1073, in __call__
+    return method(self, *command[1:])  # pass each word as argument
+  File "/mnt/115b93af-9f3b-43c4-a778-48dcab29caf0/Randomizers/Archipelago Betas/UndertaleClient.py", line 36, in _cmd_patch
+    bsdiff4.file_patch_inplace(os.getcwd() + r"/Undertale/data.win", undertale.data_path("patch.bsdiff"))
+  File "/home/albrekka/.local/lib/python3.10/site-packages/bsdiff4/format.py", line 103, in file_patch_inplace
+    with open(path, 'r+b') as fo:
+FileNotFoundError: [Errno 2] No such file or directory: '/mnt/115b93af-9f3b-43c4-a778-48dcab29caf0/Randomizers/Archipelago Betas/Undertale/data.win'
+
+[Client at 2023-02-23 10:51:24,499]: ERROR: Folder does not exists. Please make sure you put the steam directory in this command. "/auto_patch (Steam directory)".
+[Client at 2023-02-23 10:51:47,091]: ERROR: Folder does not exists. Please make sure you put the steam directory in this command. "/auto_patch (Steam directory)".
+[Client at 2023-02-23 10:52:14,685]: ERROR: Folder does not exists. Please make sure you put the steam directory in this command. "/auto_patch (Steam directory)".
+[Client at 2023-02-23 10:52:23,126]: ERROR: Folder does not exists. Please make sure you put the steam directory in this command. "/auto_patch (Steam directory)".
+[Client at 2023-02-23 10:54:17,380]: Traceback (most recent call last):
+  File "/mnt/115b93af-9f3b-43c4-a778-48dcab29caf0/Randomizers/Archipelago Betas/MultiServer.py", line 1071, in __call__
+    return method(self)  # argument may be optional, try running without args
+TypeError: UndertaleCommandProcessor._cmd_auto_patch() missing 1 required positional argument: 'steaminstall'
+
+[Client at 2023-02-23 10:54:27,055]: ERROR: Folder does not exists. Please make sure you put the steam directory in this command. "/auto_patch (Steam directory)".
+[Client at 2023-02-23 10:54:29,270]: Traceback (most recent call last):
+  File "/mnt/115b93af-9f3b-43c4-a778-48dcab29caf0/Randomizers/Archipelago Betas/MultiServer.py", line 1073, in __call__
+    return method(self, *command[1:])  # pass each word as argument
+  File "/mnt/115b93af-9f3b-43c4-a778-48dcab29caf0/Randomizers/Archipelago Betas/UndertaleClient.py", line 36, in _cmd_patch
+    bsdiff4.file_patch_inplace(os.getcwd() + r"/Undertale/data.win", undertale.data_path("patch.bsdiff"))
+  File "/home/albrekka/.local/lib/python3.10/site-packages/bsdiff4/format.py", line 103, in file_patch_inplace
+    with open(path, 'r+b') as fo:
+FileNotFoundError: [Errno 2] No such file or directory: '/mnt/115b93af-9f3b-43c4-a778-48dcab29caf0/Randomizers/Archipelago Betas/Undertale/data.win'
+
+[kivy at 2023-02-23 11:05:05,960]: Window: exiting mainloop and closing.

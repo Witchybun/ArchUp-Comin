@@ -1,0 +1,38 @@
+﻿[root at 2023-02-22 09:18:19,529]: Archipelago (0.3.9) logging initialized on Linux-6.1.12-x64v3-xanmod1-x86_64-with-glibc2.35 running Python 3.10.6
+[root at 2023-02-22 09:18:19,577]: Uncaught exception
+Traceback (most recent call last):
+  File "/mnt/115b93af-9f3b-43c4-a778-48dcab29caf0/Randomizers/Archipelago Betas/Generate.py", line 417, in handle_option
+    player_option = option.from_any(get_choice(option_key, game_weights))
+  File "/mnt/115b93af-9f3b-43c4-a778-48dcab29caf0/Randomizers/Archipelago Betas/Options.py", line 665, in from_any
+    return cls.from_text(str(data))
+  File "/mnt/115b93af-9f3b-43c4-a778-48dcab29caf0/Randomizers/Archipelago Betas/Options.py", line 689, in from_text
+    return super().from_text(text)
+  File "/mnt/115b93af-9f3b-43c4-a778-48dcab29caf0/Randomizers/Archipelago Betas/Options.py", line 604, in from_text
+    return cls.weighted_range(text)
+  File "/mnt/115b93af-9f3b-43c4-a778-48dcab29caf0/Randomizers/Archipelago Betas/Options.py", line 702, in weighted_range
+    return cls(random.randint(cls.special_range_cutoff, cls.range_end))
+  File "/mnt/115b93af-9f3b-43c4-a778-48dcab29caf0/Randomizers/Archipelago Betas/Options.py", line 595, in __init__
+    raise Exception(f"{value} is lower than minimum {self.range_start} for option {self.__class__.__name__}")
+Exception: 19 is lower than minimum 25 for option ExperienceMultiplier
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/mnt/115b93af-9f3b-43c4-a778-48dcab29caf0/Randomizers/Archipelago Betas/Generate.py", line 178, in main
+    tuple(roll_settings(yaml, args.plando) for yaml in weights_cache[path])
+  File "/mnt/115b93af-9f3b-43c4-a778-48dcab29caf0/Randomizers/Archipelago Betas/Generate.py", line 178, in <genexpr>
+    tuple(roll_settings(yaml, args.plando) for yaml in weights_cache[path])
+  File "/mnt/115b93af-9f3b-43c4-a778-48dcab29caf0/Randomizers/Archipelago Betas/Generate.py", line 468, in roll_settings
+    handle_option(ret, game_weights, option_key, option, plando_options)
+  File "/mnt/115b93af-9f3b-43c4-a778-48dcab29caf0/Randomizers/Archipelago Betas/Generate.py", line 420, in handle_option
+    raise Exception(f"Error generating option {option_key} in {ret.game}") from e
+Exception: Error generating option experience_multiplier in Stardew Valley
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/mnt/115b93af-9f3b-43c4-a778-48dcab29caf0/Randomizers/Archipelago Betas/Generate.py", line 643, in <module>
+    main()
+  File "/mnt/115b93af-9f3b-43c4-a778-48dcab29caf0/Randomizers/Archipelago Betas/Generate.py", line 197, in main
+    raise ValueError(f"File {path} is destroyed. Please fix your yaml.") from e
+ValueError: File Stardew Valley (copy).yaml is destroyed. Please fix your yaml.

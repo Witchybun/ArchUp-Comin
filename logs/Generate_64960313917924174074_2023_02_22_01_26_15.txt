@@ -1,0 +1,59 @@
+﻿[root at 2023-02-22 01:26:15,771]: Archipelago (0.3.9) logging initialized on Linux-6.1.12-x64v3-xanmod1-x86_64-with-glibc2.35 running Python 3.10.6
+[root at 2023-02-22 01:26:15,796]: Archipelago Version 0.3.9  -  Seed: 64960313917924174074
+
+[root at 2023-02-22 01:26:15,796]: Found World Types:
+[root at 2023-02-22 01:26:15,797]:  A Link to the Past             : 144 Items (IDs:         2 -       180) |  287 Locations (IDs:     59758 -   4194341)
+[root at 2023-02-22 01:26:15,797]:  Blasphemous                    : 200 Items (IDs:   1909000 -   1909199) |  304 Locations (IDs:   1909000 -   1909303)
+[root at 2023-02-22 01:26:15,797]:  ChecksFinder                   :   3 Items (IDs:     80000 -     80002) |   25 Locations (IDs:     81000 -     81024)
+[root at 2023-02-22 01:26:15,797]:  Castlevania 64                 :  30 Items (IDs:  12992514 -  12992553) |  218 Locations (IDs:  12992513 -  12992731)
+[root at 2023-02-22 01:26:15,797]:  Dark Souls III                 : 400 Items (IDs:    100000 -    100783) |  410 Locations (IDs:    100000 -    101873)
+[root at 2023-02-22 01:26:15,797]:  Donkey Kong Country 3          :   8 Items (IDs:  14430208 -  14430215) |  230 Locations (IDs:  14430208 -  14430618)
+[root at 2023-02-22 01:26:15,797]:  Factorio                       : 222 Items (IDs:    131070 -    131292) |  852 Locations (IDs:    131072 -    131960)
+[root at 2023-02-22 01:26:15,797]:  Final Fantasy                  : 194 Items (IDs:       256 -       500) |  255 Locations (IDs:       257 -       767)
+[root at 2023-02-22 01:26:15,797]:  Final Fantasy 6 Worlds Collide : 297 Items (IDs:      6000 -      6296) |  331 Locations (IDs:      6000 -      6330)
+[root at 2023-02-22 01:26:15,797]:  FFPS                           :  62 Items (IDs:     55500 -     55656) |   70 Locations (IDs:     57500 -     57569)
+[root at 2023-02-22 01:26:15,797]:  Hollow Knight                  : 249 Items (IDs:  16777216 -  16777464) |  740 Locations (IDs:  16777216 -  16777955)
+[root at 2023-02-22 01:26:15,797]:  Hylics 2                       :  70 Items (IDs:    200622 -    200692) |  163 Locations (IDs:    200622 -    200784)
+[root at 2023-02-22 01:26:15,797]:  Kingdom Hearts 2               : 297 Items (IDs:   1245184 -   1245480) |  727 Locations (IDs:   1245184 -   1245915)
+[root at 2023-02-22 01:26:15,797]:  Links Awakening DX             : 117 Items (IDs:  10000000 -  10000164) |  255 Locations (IDs:  10000000 -  10003673)
+[root at 2023-02-22 01:26:15,797]:  Lufia II Ancient Cave          : 405 Items (IDs:  11272193 -  11304994) |   88 Locations (IDs:  11272192 -  11272279)
+[root at 2023-02-22 01:26:15,797]:  Meritous                       :  23 Items (IDs:    593000 -    593022) |  104 Locations (IDs:    593000 -    593103)
+[root at 2023-02-22 01:26:15,797]:  The Messenger                  :  24 Items (IDs:  11390976 -  11390999) |   69 Locations (IDs:  11390976 -  11391044)
+[root at 2023-02-22 01:26:15,797]:  Minecraft                      :  46 Items (IDs:     45000 -     45100) |  114 Locations (IDs:     42000 -     42113)
+[root at 2023-02-22 01:26:15,798]:  MegaMan Battle Network 3       : 221 Items (IDs:  11735040 -  11735262) |  259 Locations (IDs:  11735040 -  11735309)
+[root at 2023-02-22 01:26:15,798]:  Muse Dash                      : 487 Items (IDs:    290000 -    290486) |  972 Locations (IDs:    290000 -    290971)
+[root at 2023-02-22 01:26:15,798]:  Ocarina of Time                : 143 Items (IDs:     66001 -     66211) | 1623 Locations (IDs:     67010 -     68705)
+[root at 2023-02-22 01:26:15,798]:  Overcooked! 2                  :  45 Items (IDs:    213701 -    213745) |   43 Locations (IDs:         1 -        44)
+[root at 2023-02-22 01:26:15,798]:  Pokemon Red and Blue           : 142 Items (IDs: 172000001 - 172000250) |  525 Locations (IDs: 172000000 - 172000524)
+[root at 2023-02-22 01:26:15,798]:  Raft                           : 325 Items (IDs:     47001 -     47325) |  154 Locations (IDs:     48001 -     48155)
+[root at 2023-02-22 01:26:15,798]:  Rogue Legacy                   :  60 Items (IDs:     90000 -     90097) |  584 Locations (IDs:     91000 -     92259)
+[root at 2023-02-22 01:26:15,798]:  Risk of Rain 2                 :  36 Items (IDs:     37001 -     37747) |  910 Locations (IDs:     38000 -     40361)
+[root at 2023-02-22 01:26:15,798]:  Sonic Adventure 2 Battle       :  50 Items (IDs:  16711680 -  16711750) |  499 Locations (IDs:  16711680 -  16713600)
+[root at 2023-02-22 01:26:15,798]:  Starcraft 2 Wings of Liberty   : 111 Items (IDs:      1000 -      1802) |  123 Locations (IDs:      1100 -      3805)
+[root at 2023-02-22 01:26:15,798]:  Super Metroid                  :  24 Items (IDs:     83000 -     83023) |  100 Locations (IDs:     82000 -     82154)
+[root at 2023-02-22 01:26:15,798]:  Super Mario 64                 :  18 Items (IDs:   3626000 -   3626214) |  164 Locations (IDs:   3626000 -   3626243)
+[root at 2023-02-22 01:26:15,798]:  Super Mario World              :  22 Items (IDs:  12320768 -  12320790) |  158 Locations (IDs:  12320768 -  12321281)
+[root at 2023-02-22 01:26:15,798]:  SMZ3                           : 151 Items (IDs:     84000 -     84223) |  316 Locations (IDs:     85000 -     85510)
+[root at 2023-02-22 01:26:15,798]:  Secret of Evermore             : 156 Items (IDs:     64000 -     64904) |  339 Locations (IDs:     64000 -     64385)
+[root at 2023-02-22 01:26:15,798]:  Slay the Spire                 :   4 Items (IDs:      8000 -      8003) |   31 Locations (IDs:     19001 -     22003)
+[root at 2023-02-22 01:26:15,798]:  Stardew Valley                 : 311 Items (IDs:    717000 -    722201) |  378 Locations (IDs:    717001 -    718065)
+[root at 2023-02-22 01:26:15,799]:  Subnautica                     :  87 Items (IDs:     35000 -     35086) |  181 Locations (IDs:     33000 -     34049)
+[root at 2023-02-22 01:26:15,799]:  The Binding of Isaac Repentance: 767 Items (IDs:     78000 -     78777) |  500 Locations (IDs:     78000 -     78499)
+[root at 2023-02-22 01:26:15,799]:  Timespinner                    : 189 Items (IDs:   1337000 -   1337249) |  212 Locations (IDs:   1337000 -   1337249)
+[root at 2023-02-22 01:26:15,799]:  The Legend of Zelda            :  33 Items (IDs:      7100 -      7132) |  155 Locations (IDs:      7000 -      7154)
+[root at 2023-02-22 01:26:15,799]:  Undertale                      :  82 Items (IDs:     77000 -     77999) |  128 Locations (IDs:     79001 -     79920)
+[root at 2023-02-22 01:26:15,799]:  VVVVVV                         :  20 Items (IDs:   2515000 -   2515019) |   20 Locations (IDs:   2515000 -   2515019)
+[root at 2023-02-22 01:26:15,799]:  Wargroove                      :  31 Items (IDs:     52000 -     52030) |   38 Locations (IDs:     53001 -     53038)
+[root at 2023-02-22 01:26:15,799]:  The Witness                    : 187 Items (IDs:    158000 -    159987) |  754 Locations (IDs:    158000 -    159800)
+[root at 2023-02-22 01:26:15,799]:  Zillion                        :  12 Items (IDs:   8675309 -   8675320) | 1555 Locations (IDs:   8675309 -   8676863)
+[root at 2023-02-22 01:26:16,264]: 
+[root at 2023-02-22 01:26:16,264]: Creating World.
+[root at 2023-02-22 01:26:17,215]: Creating Items.
+[root at 2023-02-22 01:26:17,257]: Calculating Access Rules.
+[root at 2023-02-22 01:26:18,246]: Running Item Plando
+[root at 2023-02-22 01:26:18,430]: Running Pre Main Fill.
+[root at 2023-02-22 01:26:23,656]: Filling the world with 5592 items.
+[root at 2023-02-22 01:27:50,279]: Unplaced items(39): [Piece of Heart (Player 16), Caitha's Chime (Player 3), Equip Up (Player 21), Sanitation Station Decor (Player 5), Water spear (Player 11), Great Axe (Player 3), Mask_Shard (Player 8), Crit Chance Up (Player 21), Unlocker (Player 12), Cat Hood (Player 7), Fireball (Player 23), SOUL CRISPER (Player 9), Bazooka (Player 23), BrkChrg (Player 12), Data Archive Decor (Player 5), Paladin Shld (Player 7), Medical Station Decor (Player 5), Prize King Decor (Player 5), Equip Up (Player 21), Progressive Mail (Player 1), BowlMan V2 B (Player 12), Call bead (Player 23), Panic C (Player 12), Onikiri and Ubadachi (Player 3), TM16 Pay Day (Player 18), Earth jewel (Player 11), Dragonslayer Greatbow (Player 3), DrillMan V2 D (Player 12), Stage Upgrade (Player 5), Cowboy Hat (Player 35), Armor Up (Player 21), Piece of Heart (Player 16), Call bead (Player 23), Progressive helmet (Player 23), Saint-tree Bellvine (Player 3), Gilded Egg (Player 34), Geddon1 * (Player 12), Thermite Filaments (Hellion) (Player 26), Progressive Miners (Player 21)] - Unfilled Locations(0): []
+[root at 2023-02-22 01:27:50,284]: Per-Player counts: {'items': Counter({8: 1699, 16: 1271, 18: 797, 10: 651, 3: 410, 23: 340, 22: 316, 2: 305, 27: 268, 12: 260, 1: 234, 17: 215, 6: 186, 34: 185, 4: 180, 29: 164, 19: 155, 26: 153, 21: 153, 33: 152, 38: 147, 28: 135, 9: 131, 14: 117, 7: 111, 13: 109, 30: 108, 31: 105, 25: 94, 32: 70, 5: 70, 35: 57, 15: 47, 20: 42, 37: 39, 24: 35, 11: 32, 36: 20}), 'locations': Counter({8: 1699, 16: 1271, 18: 797, 10: 651, 3: 410, 23: 340, 22: 316, 2: 305, 27: 268, 12: 260, 1: 234, 17: 215, 6: 186, 34: 185, 4: 180, 29: 164, 19: 155, 21: 153, 26: 153, 33: 152, 38: 147, 28: 135, 9: 131, 14: 117, 13: 109, 30: 108, 31: 105, 25: 94, 7: 72, 5: 70, 32: 70, 35: 57, 15: 47, 20: 42, 37: 39, 24: 35, 11: 32, 36: 20})})
+[root at 2023-02-22 01:27:51,852]: Balancing multiworld progression for 38 Players.
+[root at 2023-02-22 01:28:03,755]: Beginning output...

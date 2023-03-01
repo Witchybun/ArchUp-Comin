@@ -1,0 +1,452 @@
+﻿[root at 2023-02-27 22:55:19,625]: Archipelago (0.3.9) logging initialized on Linux-6.1.12-x64v3-xanmod1-x86_64-with-glibc2.35 running Python 3.10.6
+[root at 2023-02-27 22:55:20,263]: Datapackage is in custom mode. Custom Worlds: [<class 'worlds.cv64.CV64World'>, <class 'worlds.ffps.FFPSWorld'>, <class 'worlds.ladx.LinksAwakeningWorld'>, <class 'worlds.messenger.MessengerWorld'>, <class 'worlds.mmbn3.MMBN3World'>, <class 'worlds.musedash.MuseDashWorld'>, <class 'worlds.ror2.RiskOfRainWorld'>, <class 'worlds.stardew_valley.StardewValleyWorld'>, <class 'worlds.tboir.TheBindingOfIsaacRepentanceWorld'>, <class 'worlds.timespinner.TimespinnerWorld'>, <class 'worlds.undertale.UndertaleWorld'>, <class 'worlds.wargroove.WargrooveWorld'>]
+[kivy at 2023-02-27 22:55:20,276]: Kivy: v2.1.0
+[kivy at 2023-02-27 22:55:20,276]: Kivy: Installed at "/home/albrekka/.local/lib/python3.10/site-packages/kivy/__init__.py"
+[kivy at 2023-02-27 22:55:20,276]: Python: v3.10.6 (main, Nov 14 2022, 16:10:14) [GCC 11.3.0]
+[kivy at 2023-02-27 22:55:20,276]: Python: Interpreter at "/usr/bin/python3"
+[kivy at 2023-02-27 22:55:20,290]: Factory: 189 symbols loaded
+[kivy at 2023-02-27 22:55:20,385]: Image: Providers: img_tex, img_dds, img_sdl2, img_pil (img_ffpyplayer ignored)
+[kivy at 2023-02-27 22:55:20,410]: Window: Provider: sdl2
+[kivy at 2023-02-27 22:55:20,960]: GL: Using the "OpenGL" graphics system
+[kivy at 2023-02-27 22:55:20,961]: GL: Backend used <sdl2>
+[kivy at 2023-02-27 22:55:20,961]: GL: OpenGL version <b'4.6.0 NVIDIA 525.78.01'>
+[kivy at 2023-02-27 22:55:20,961]: GL: OpenGL vendor <b'NVIDIA Corporation'>
+[kivy at 2023-02-27 22:55:20,961]: GL: OpenGL renderer <b'NVIDIA GeForce GTX 1080/PCIe/SSE2'>
+[kivy at 2023-02-27 22:55:20,961]: GL: OpenGL parsed version: 4, 6
+[kivy at 2023-02-27 22:55:20,961]: GL: Shading version <b'4.60 NVIDIA'>
+[kivy at 2023-02-27 22:55:20,961]: GL: Texture max size <32768>
+[kivy at 2023-02-27 22:55:20,961]: GL: Texture max units <32>
+[kivy at 2023-02-27 22:55:21,004]: Window: auto add sdl2 input provider
+[kivy at 2023-02-27 22:55:21,004]: Window: virtual keyboard not allowed, single mode, not docked
+[kivy at 2023-02-27 22:55:21,087]: Clipboard: Provider: gtk3(['clipboard_xclip', 'clipboard_xsel', 'clipboard_dbusklipper'] ignored)
+[kivy at 2023-02-27 22:55:21,091]: Cutbuffer: Unable to find any valuable Cutbuffer provider. Please enable debug logging (e.g. add -d if running from the command line, or change the log level in the config) and re-run your app to identify potential causes
+xclip - FileNotFoundError: [Errno 2] No such file or directory: 'xclip'
+  File "/home/albrekka/.local/lib/python3.10/site-packages/kivy/core/__init__.py", line 59, in core_select_lib
+    mod = importlib.__import__(name='{2}.{0}.{1}'.format(
+  File "<frozen importlib._bootstrap>", line 1129, in __import__
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/albrekka/.local/lib/python3.10/site-packages/kivy/core/clipboard/clipboard_xclip.py", line 17, in <module>
+    p = subprocess.Popen(['xclip', '-version'], stdout=subprocess.PIPE,
+  File "/usr/lib/python3.10/subprocess.py", line 969, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "/usr/lib/python3.10/subprocess.py", line 1845, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+
+xsel - FileNotFoundError: [Errno 2] No such file or directory: 'xsel'
+  File "/home/albrekka/.local/lib/python3.10/site-packages/kivy/core/__init__.py", line 59, in core_select_lib
+    mod = importlib.__import__(name='{2}.{0}.{1}'.format(
+  File "<frozen importlib._bootstrap>", line 1129, in __import__
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/albrekka/.local/lib/python3.10/site-packages/kivy/core/clipboard/clipboard_xsel.py", line 16, in <module>
+    p = subprocess.Popen(['xsel'], stdout=subprocess.PIPE)
+  File "/usr/lib/python3.10/subprocess.py", line 969, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "/usr/lib/python3.10/subprocess.py", line 1845, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+
+[kivy at 2023-02-27 22:55:21,094]: Text: Provider: sdl2
+[Client at 2023-02-27 22:55:21,113]: Please connect to an Archipelago server.
+[kivy at 2023-02-27 22:55:21,181]: GL: NPOT texture support is available
+[Client at 2023-02-27 22:55:21,195]: /help 
+    Returns the help listing
+/license 
+    Returns the licensing information
+/exit 
+    Close connections and client
+/connect [address] 
+    Connect to a MultiWorld Server
+/disconnect 
+    Disconnect from a MultiWorld Server
+/received 
+    List all received items
+/missing 
+    List all missing location checks, from your local game state
+/items 
+    List all item names for the currently running game.
+/locations 
+    List all location names for the currently running game.
+/ready 
+    Send ready status to server.
+
+[kivy at 2023-02-27 22:55:21,242]: Base: Start application main loop
+[Client at 2023-02-27 22:55:26,492]: Connecting to Archipelago server at ws://archipelago.gg:38281
+[Client at 2023-02-27 22:55:27,174]: Connected
+[Client at 2023-02-27 22:55:27,174]: --------------------------------
+[Client at 2023-02-27 22:55:27,174]: Room Information:
+[Client at 2023-02-27 22:55:27,174]: --------------------------------
+[Client at 2023-02-27 22:55:27,174]: Server protocol version: 0.3.8
+[Client at 2023-02-27 22:55:27,174]: Server protocol tags: AP, WebHost
+[Client at 2023-02-27 22:55:27,174]: Forfeit permission: auto
+[Client at 2023-02-27 22:55:27,175]: Release permission: auto
+[Client at 2023-02-27 22:55:27,175]: Remaining permission: goal
+[Client at 2023-02-27 22:55:27,175]: Collect permission: auto
+[Client at 2023-02-27 22:55:27,175]: A !hint costs 15% of your total location count as points and you get 1 for each location checked. Use !hint for more information.
+[Client at 2023-02-27 22:55:27,175]: Enter slot name:
+[Client at 2023-02-27 22:55:30,071]: Got new ID/Name DataPackage
+[Client at 2023-02-27 22:55:31,740]: 143 received items:
+[Client at 2023-02-27 22:55:31,741]: CAVE KEY from SamitianALTTP
+[Client at 2023-02-27 22:55:31,741]: BANANA from Dr.Awesome4333
+[Client at 2023-02-27 22:55:31,741]: CUPCAKE from HollowRever
+[Client at 2023-02-27 22:55:31,741]: PAPER CUP from RensenRed
+[Client at 2023-02-27 22:55:31,741]: RANCHER PONCHO from Ponygoodbugs
+[Client at 2023-02-27 22:55:31,741]: MUSCLE APPLIQUE from Chrono-mon
+[Client at 2023-02-27 22:55:31,741]: BANANA from Hopop-MC
+[Client at 2023-02-27 22:55:31,741]: BANANA from AGJelly5
+[Client at 2023-02-27 22:55:31,742]: VESSEL ROOM KEY from Radz SM64
+[Client at 2023-02-27 22:55:31,742]: PLEATHER GAGE from GwendexterOC2 (Player1100)
+[Client at 2023-02-27 22:55:31,742]: MULTI-JUICE from EspeonHK
+[Client at 2023-02-27 22:55:31,742]: BANANA from divinesmz3 (Player817)
+[Client at 2023-02-27 22:55:31,742]: BANANA from PoundsOfTime
+[Client at 2023-02-27 22:55:31,742]: TOWER KEY from EntissSA2 (Player860)
+[Client at 2023-02-27 22:55:31,742]: CLOUD GERM from Liquid's OoT
+[Client at 2023-02-27 22:55:31,742]: LONG GLOVES from Bluejello-risk
+[Client at 2023-02-27 22:55:31,742]: 10 Bones from EkyxSMW (Player970)
+[Client at 2023-02-27 22:55:31,742]: MEAT from EeveeOfTime (Player1106)
+[Client at 2023-02-27 22:55:31,742]: TARP from PandaAlttPTri
+[Client at 2023-02-27 22:55:31,742]: 10 Bones from PikurRed
+[Client at 2023-02-27 22:55:31,742]: BURRITO from Player1087
+[Client at 2023-02-27 22:55:31,743]: 100 Bones from BizzoSMZ3
+[Client at 2023-02-27 22:55:31,743]: BURRITO from Albrekka the Bun
+[Client at 2023-02-27 22:55:31,743]: 10 Bones from Levisaxos_FC2
+[Client at 2023-02-27 22:55:31,743]: BURRITO from TheoPoke1
+[Client at 2023-02-27 22:55:31,743]: BRAIN DIGITS from TMK4Cave1
+[Client at 2023-02-27 22:55:31,743]: JAIL KEY from PlaneswaterSoE (Player807)
+[Client at 2023-02-27 22:55:31,743]: PEPTIDE BODKINS from BlusWeltOOT
+[Client at 2023-02-27 22:55:31,743]: 10 Bones from Ado#9805_RL (Player1014)
+[Client at 2023-02-27 22:55:31,743]: 10 Bones from Pikur64
+[Client at 2023-02-27 22:55:31,743]: LOOPED DOME from J2Hollow
+[Client at 2023-02-27 22:55:31,743]: MULTI SOUL SPONGE from EspeonHK
+[Client at 2023-02-27 22:55:31,743]: SOUL SPONGE from LeafeonTS
+[Client at 2023-02-27 22:55:31,743]: MUSCLE APPLIQUE from BadmoonZ_pok
+[Client at 2023-02-27 22:55:31,743]: BANANA from jf-rogue (Player909)
+[Client at 2023-02-27 22:55:31,743]: PAPER CUP from Bunny Kong (Player890)
+[Client at 2023-02-27 22:55:31,743]: Pongorma from J2Souls (Player1013)
+[Client at 2023-02-27 22:55:31,743]: JUICE from Dslyecxia_Factor (Player946)
+[Client at 2023-02-27 22:55:31,744]: 10 Bones from Hedgehog0_RL
+[Client at 2023-02-27 22:55:31,744]: MULTI SOUL SPONGE from Jay_Souls (Player1182)
+[Client at 2023-02-27 22:55:31,744]: POOLWINE from Done (ScootyRL)
+[Client at 2023-02-27 22:55:31,744]: MULTI SOUL SPONGE from SurlyFactory
+[Client at 2023-02-27 22:55:31,744]: 10 Bones from LegacyofEevee (Player1042)
+[Client at 2023-02-27 22:55:31,744]: 10 Bones from Ponygood11cubes
+[Client at 2023-02-27 22:55:31,744]: LINK MOLLUSC from PokeMurgurak (Player886)
+[Client at 2023-02-27 22:55:31,744]: MUSCLE APPLIQUE from Arashi-SA2
+[Client at 2023-02-27 22:55:31,744]: PNEUMATOPHORE from GlaceonSMZ3 (Player879)
+[Client at 2023-02-27 22:55:31,744]: MULTI SOUL SPONGE from MariaLeFey SC2
+[Client at 2023-02-27 22:55:31,744]: JUICE from ShadowriderOOT
+[Client at 2023-02-27 22:55:31,744]: BURRITO from rft50HK
+[Client at 2023-02-27 22:55:31,744]: STEM CELL from Klonoa_ff1
+[Client at 2023-02-27 22:55:31,744]: COOKIE from NicoleLizardPKMN
+[Client at 2023-02-27 22:55:31,744]: BANANA from Kiddo Brekk (Player1172)
+[Client at 2023-02-27 22:55:31,745]: BANANA from ErkMinecraft (Player808)
+[Client at 2023-02-27 22:55:31,745]: 10 Bones from Zunawe
+[Client at 2023-02-27 22:55:31,745]: PADDLE from DapperALTTP (Player994)
+[Client at 2023-02-27 22:55:31,745]: 10 Bones from BizzoCrossed
+[Client at 2023-02-27 22:55:31,745]: JUICE from MCat (Player785)
+[Client at 2023-02-27 22:55:31,745]: MULTI-JUICE from GGuyOoT
+[Client at 2023-02-27 22:55:31,745]: 10 Bones from mrsummer (Player1077)
+[Client at 2023-02-27 22:55:31,745]: COOKIE from Player1039
+[Client at 2023-02-27 22:55:31,745]: FADED PONCHO from SiPaRogue
+[Client at 2023-02-27 22:55:31,745]: TELEDENUDATE from PrimePentadSMZ3 (Player830)
+[Client at 2023-02-27 22:55:31,745]: CLOUD GERM from MrPokemon11HK
+[Client at 2023-02-27 22:55:31,745]: SOUL SPONGE from hb-red (Player806)
+[Client at 2023-02-27 22:55:31,745]: UPPER HOUSE KEY from GibelyouLegacy
+[Client at 2023-02-27 22:55:31,745]: BRIDGE KEY from Liquid's HK
+[Client at 2023-02-27 22:55:31,745]: 10 Bones from PraxisBanana (Player1109)
+[Client at 2023-02-27 22:55:31,745]: SAGE TOKEN from Boris
+[Client at 2023-02-27 22:55:31,746]: 10 Bones from SkyySM (Player779)
+[Client at 2023-02-27 22:55:31,746]: MULTI-JUICE from StingX2OOT
+[Client at 2023-02-27 22:55:31,746]: BANANA from SilverHK (Player1076)
+[Client at 2023-02-27 22:55:31,746]: 10 Bones from Slipomatic_HK
+[Client at 2023-02-27 22:55:31,746]: BURRITO from Player1099
+[Client at 2023-02-27 22:55:31,746]: CURSED GLOVES from MaveloventRL2
+[Client at 2023-02-27 22:55:31,746]: FATE SANDBOX from The T-SA2
+[Client at 2023-02-27 22:55:31,746]: SKULL BOMB from Felix_DuBois_DS3 (Player1117)
+[Client at 2023-02-27 22:55:31,746]: 10 Bones from Hedgehog0_ALTTP
+[Client at 2023-02-27 22:55:31,746]: BOOTS from DapperFact2 (alberto...6)
+[Client at 2023-02-27 22:55:31,746]: MULTI SOUL SPONGE from done (Player998)
+[Client at 2023-02-27 22:55:31,746]: Somsnosa from divineoot (Virt_OOT)
+[Client at 2023-02-27 22:55:31,746]: TENDRIL HAND from SamitianSMW
+[Client at 2023-02-27 22:55:31,746]: 10 Bones from slide_pkmn
+[Client at 2023-02-27 22:55:31,746]: CONVERTER WORM from Player1160
+[Client at 2023-02-27 22:55:31,746]: ORGAN FORT from DemorckHK
+[Client at 2023-02-27 22:55:31,747]: LONG GLOVES from SnakeSMW
+[Client at 2023-02-27 22:55:31,747]: Dedusmuln from PrimePentadRed
+[Client at 2023-02-27 22:55:31,747]: TARP from PizzaOOT
+[Client at 2023-02-27 22:55:31,747]: MULTI STEM CELL from DragusSMZ3-2 (Player828)
+[Client at 2023-02-27 22:55:31,747]: BANANA from Whizzlefern-Z3
+[Client at 2023-02-27 22:55:31,747]: SOUL SPONGE from KenderSMW
+[Client at 2023-02-27 22:55:31,747]: MULTI-JUICE from SamitianPKMN
+[Client at 2023-02-27 22:55:31,747]: MUSCLE APPLIQUE from eudaimonistic684
+[Client at 2023-02-27 22:55:31,747]: BURRITO from SchezarOoT
+[Client at 2023-02-27 22:55:31,747]: SAGE TOKEN from LingererOOT (LinZoom)
+[Client at 2023-02-27 22:55:31,747]: CUPCAKE from Player1133
+[Client at 2023-02-27 22:55:31,747]: SOUL CRISPER from NebulaiTS (Player861)
+[Client at 2023-02-27 22:55:31,747]: PAPER CUP from Niles-Souls
+[Client at 2023-02-27 22:55:31,747]: DUBIOUS BERRY from l100knights
+[Client at 2023-02-27 22:55:31,747]: 10 Bones from l100knights
+[Client at 2023-02-27 22:55:31,748]: CLOUD GERM from GGuyPoke
+[Client at 2023-02-27 22:55:31,748]: COOKIE from Felix_DuBoisSM (Player942)
+[Client at 2023-02-27 22:55:31,748]: SINGLE GLOVE from Done (Player1183)
+[Client at 2023-02-27 22:55:31,748]: SOUL SPONGE from Ponygoodbugs
+[Client at 2023-02-27 22:55:31,748]: 10 Bones from divineoot (Virt_OOT)
+[Client at 2023-02-27 22:55:31,748]: 10 Bones from Boots (BootsETERNAL)
+[Client at 2023-02-27 22:55:31,748]: 10 Bones from Fatman_SM64
+[Client at 2023-02-27 22:55:31,748]: 10 Bones from SchezarSM64
+[Client at 2023-02-27 22:55:31,748]: 10 Bones from sheen_sa2
+[Client at 2023-02-27 22:55:31,748]: SAGE TOKEN from squidy733
+[Client at 2023-02-27 22:55:31,748]: DOCK KEY from JKL-SM
+[Client at 2023-02-27 22:55:31,748]: BOTTOMLESS JUICE from Firelizard
+[Client at 2023-02-27 22:55:31,748]: JUICE from Player913
+[Client at 2023-02-27 22:55:31,748]: WORM ROOM KEY from HDT (Player1101)
+[Client at 2023-02-27 22:55:31,748]: 10 Bones from EspeonOoT
+[Client at 2023-02-27 22:55:31,748]: 10 Bones from slide_sa2
+[Client at 2023-02-27 22:55:31,749]: DUCTILE HABIT from Deep_One (DeepOne_DS3)
+[Client at 2023-02-27 22:55:31,749]: LONG GLOVES from PikurHollow
+[Client at 2023-02-27 22:55:31,749]: NEMATODE INTERFACE from ShadowriderDK3 (Player1040)
+[Client at 2023-02-27 22:55:31,749]: CUPCAKE from Niles-Souls
+[Client at 2023-02-27 22:55:31,749]: MATERIEL MITTS from SnakeSMW
+[Client at 2023-02-27 22:55:31,749]: LONG GLOVES from GibelyouSMZ3
+[Client at 2023-02-27 22:55:31,749]: 10 Bones from Player763
+[Client at 2023-02-27 22:55:31,749]: SOUL SPONGE from Arashi-SA2
+[Client at 2023-02-27 22:55:31,749]: MEAT from Jane_SM508
+[Client at 2023-02-27 22:55:31,749]: BURRITO from DemorckVVVVVV
+[Client at 2023-02-27 22:55:31,749]: JUICE from Espeon
+[Client at 2023-02-27 22:55:31,749]: 10 Bones from KippiWorld
+[Client at 2023-02-27 22:55:31,749]: MUSCLE APPLIQUE from LolowebSA2
+[Client at 2023-02-27 22:55:31,749]: BOMBO - GENESIS from FigmentOOT
+[Client at 2023-02-27 22:55:31,749]: MULTI SOUL SPONGE from Madi (TrainerSonic)
+[Client at 2023-02-27 22:55:31,749]: JUMPSUIT from Witch Albrekka
+[Client at 2023-02-27 22:55:31,749]: STEM CELL from MariaLeFey SA2
+[Client at 2023-02-27 22:55:31,750]: CLICKER from ParcosmicMC
+[Client at 2023-02-27 22:55:31,750]: PSYCHIC KNUCKLE from Paradimefac (Player1045)
+[Client at 2023-02-27 22:55:31,750]: LONG GLOVES from SamitianZOOTR
+[Client at 2023-02-27 22:55:31,750]: COFFEE from Odin-Kaze_smz3 (Player917)
+[Client at 2023-02-27 22:55:31,750]: BURRITO from BlivenSMZ3 (Ado_SMZ3_1)
+[Client at 2023-02-27 22:55:31,750]: POROMER BLEB from Stormi-MC
+[Client at 2023-02-27 22:55:31,750]: BURRITO from Fel_ZOOTR3 (OcarinaOfNiles)
+[Client at 2023-02-27 22:55:31,750]: 10 Bones from Radz SM64
+[Client at 2023-02-27 22:55:31,750]: CHARGE UP from SamusCat
+[Client at 2023-02-27 22:55:31,750]: MUSCLE APPLIQUE from ChadralnSMZ3
+[Client at 2023-02-27 22:55:35,129]: Disconnected from multiworld server, type /connect to reconnect
+[Client at 2023-02-27 22:55:35,617]: Connecting to Archipelago server at ws://archipelago.gg:38281
+[Client at 2023-02-27 22:55:36,093]: Connected
+[Client at 2023-02-27 22:55:36,093]: --------------------------------
+[Client at 2023-02-27 22:55:36,093]: Room Information:
+[Client at 2023-02-27 22:55:36,093]: --------------------------------
+[Client at 2023-02-27 22:55:36,094]: Server protocol version: 0.3.8
+[Client at 2023-02-27 22:55:36,094]: Server protocol tags: AP, WebHost
+[Client at 2023-02-27 22:55:36,094]: Forfeit permission: auto
+[Client at 2023-02-27 22:55:36,094]: Release permission: auto
+[Client at 2023-02-27 22:55:36,094]: Remaining permission: goal
+[Client at 2023-02-27 22:55:36,094]: Collect permission: auto
+[Client at 2023-02-27 22:55:36,094]: A !hint costs 15% of your total location count as points and you get 1 for each location checked. Use !hint for more information.
+[Client at 2023-02-27 22:55:36,094]: Enter slot name:
+[Client at 2023-02-27 22:55:42,679]: 196 received items:
+[Client at 2023-02-27 22:55:42,679]: 1-Up Balloon from GwenegadeTS (Player1049)
+[Client at 2023-02-27 22:55:42,679]: DK Coin from MariaLeFey pkmn
+[Client at 2023-02-27 22:55:42,679]: DK Coin from BlivenSMZ3 (Ado_SMZ3_1)
+[Client at 2023-02-27 22:55:42,680]: DK Coin from MagnemaniaSA2
+[Client at 2023-02-27 22:55:42,680]: Bear Coin from GwenegadeLTTP (Player915)
+[Client at 2023-02-27 22:55:42,680]: 1-Up Balloon from FigmentSub
+[Client at 2023-02-27 22:55:42,680]: Bear Coin from MatiCH
+[Client at 2023-02-27 22:55:42,680]: 1-Up Balloon from MageMageWitElev
+[Client at 2023-02-27 22:55:42,680]: DK Coin from MageMageWitMax
+[Client at 2023-02-27 22:55:42,680]: Bear Coin from SuperPrinter64
+[Client at 2023-02-27 22:55:42,680]: Bonus Coin from ReverOfTime
+[Client at 2023-02-27 22:55:42,680]: 1-Up Balloon from KeltikOoT2 (LeafeonOOT)
+[Client at 2023-02-27 22:55:42,680]: Bear Coin from Hopop-BC
+[Client at 2023-02-27 22:55:42,680]: Bear Coin from Espeon
+[Client at 2023-02-27 22:55:42,680]: 1-Up Balloon from FalcRain (Player810)
+[Client at 2023-02-27 22:55:42,680]: DK Coin from Sharrara_TS (Player857)
+[Client at 2023-02-27 22:55:42,680]: Bonus Coin from ChadralnSM
+[Client at 2023-02-27 22:55:42,681]: Bear Coin from EspeonOoT
+[Client at 2023-02-27 22:55:42,681]: DK Coin from Whizzlefern-Z3
+[Client at 2023-02-27 22:55:42,681]: DK Coin from EspeonOoT
+[Client at 2023-02-27 22:55:42,681]: DK Coin from ChadralnDKC3 (Player1132)
+[Client at 2023-02-27 22:55:42,681]: Bear Coin from slide_pkmn
+[Client at 2023-02-27 22:55:42,681]: DK Coin from slide_pkmn
+[Client at 2023-02-27 22:55:42,681]: Bonus Coin from Ravanan-Sonic (Player757)
+[Client at 2023-02-27 22:55:42,681]: Krematoa Cog from Bunny Kong (Player890)
+[Client at 2023-02-27 22:55:42,681]: Krematoa Cog from Bunny Kong (Player890)
+[Client at 2023-02-27 22:55:42,681]: Bonus Coin from divinesmz3 (Player817)
+[Client at 2023-02-27 22:55:42,681]: DK Coin from The T-OoT
+[Client at 2023-02-27 22:55:42,681]: Bonus Coin from ProfFact
+[Client at 2023-02-27 22:55:42,681]: Bear Coin from TWRaft
+[Client at 2023-02-27 22:55:42,681]: Bonus Coin from Radz ALttP
+[Client at 2023-02-27 22:55:42,682]: Bonus Coin from The T-SMW
+[Client at 2023-02-27 22:55:42,682]: Progressive Boat Upgrade from GodlFireTS
+[Client at 2023-02-27 22:55:42,682]: Bonus Coin from PrimePentadFacto
+[Client at 2023-02-27 22:55:42,682]: Krematoa Cog from Bunny Kong (Player890)
+[Client at 2023-02-27 22:55:42,682]: Bonus Coin from SilvrisRB
+[Client at 2023-02-27 22:55:42,682]: 1-Up Balloon from Klonoa_ror2
+[Client at 2023-02-27 22:55:42,682]: DK Coin from Player1149
+[Client at 2023-02-27 22:55:42,682]: 1-Up Balloon from Maragon (RafeAshes)
+[Client at 2023-02-27 22:55:42,682]: Bonus Coin from J2Souls (Player1013)
+[Client at 2023-02-27 22:55:42,682]: 1-Up Balloon from J2Souls (Player1013)
+[Client at 2023-02-27 22:55:42,682]: Bear Coin from ChocoboLTTP4 (Jolteon0163)
+[Client at 2023-02-27 22:55:42,682]: Bonus Coin from RiskOfAwesome2
+[Client at 2023-02-27 22:55:42,682]: Bonus Coin from Jupiteroot290
+[Client at 2023-02-27 22:55:42,683]: Bonus Coin from Player1074
+[Client at 2023-02-27 22:55:42,683]: Bonus Coin from PlaneswaterSoE (Player807)
+[Client at 2023-02-27 22:55:42,683]: Bonus Coin from NebulaiHK (Player1015)
+[Client at 2023-02-27 22:55:42,683]: Bonus Coin from Norg_OOT
+[Client at 2023-02-27 22:55:42,683]: 1-Up Balloon from CaitSith2 (Player1027)
+[Client at 2023-02-27 22:55:42,683]: DK Coin from MatiFactory
+[Client at 2023-02-27 22:55:42,683]: Bonus Coin from Shadow_SMZ3
+[Client at 2023-02-27 22:55:42,683]: 1-Up Balloon from EspeonOoT
+[Client at 2023-02-27 22:55:42,683]: Bonus Coin from TimeRever
+[Client at 2023-02-27 22:55:42,683]: 1-Up Balloon from Chrono-mon
+[Client at 2023-02-27 22:55:42,683]: DK Coin from BizzoSANIC
+[Client at 2023-02-27 22:55:42,683]: Bear Coin from VenomBukkake_RR2
+[Client at 2023-02-27 22:55:42,683]: Bonus Coin from Ninja64
+[Client at 2023-02-27 22:55:42,683]: Krematoa Cog from Bunny Kong (Player890)
+[Client at 2023-02-27 22:55:42,684]: Bonus Coin from ParcosmicMC
+[Client at 2023-02-27 22:55:42,684]: 1-Up Balloon from JKL-DKC3
+[Client at 2023-02-27 22:55:42,684]: Bonus Coin from DioSMW (Player1135)
+[Client at 2023-02-27 22:55:42,684]: DK Coin from Cyber_PKMN
+[Client at 2023-02-27 22:55:42,684]: Bonus Coin from ParTwo#3760 SA2
+[Client at 2023-02-27 22:55:42,684]: Bonus Coin from ParTwo#3760 SA2
+[Client at 2023-02-27 22:55:42,684]: Bear Coin from Coal_Pokemon
+[Client at 2023-02-27 22:55:42,684]: 1-Up Balloon from GwenegadeDKC3 (Player1118)
+[Client at 2023-02-27 22:55:42,684]: Bonus Coin from Bluejello-risk
+[Client at 2023-02-27 22:55:42,684]: 1-Up Balloon from KikiOOT303
+[Client at 2023-02-27 22:55:42,684]: Bear Coin from divineroid (Player782)
+[Client at 2023-02-27 22:55:42,684]: 1-Up Balloon from Naydem (Player1063)
+[Client at 2023-02-27 22:55:42,684]: DK Coin from divinelegacy (Player1035)
+[Client at 2023-02-27 22:55:42,685]: Bonus Coin from LingererOOT (LinZoom)
+[Client at 2023-02-27 22:55:42,685]: Bear Coin from Coal_SM (Player1187)
+[Client at 2023-02-27 22:55:42,685]: Bonus Coin from J2Souls (Player1013)
+[Client at 2023-02-27 22:55:42,685]: Bonus Coin from mlang12SM64
+[Client at 2023-02-27 22:55:42,685]: DK Coin from BlazeLTTP (Player1170)
+[Client at 2023-02-27 22:55:42,685]: Bonus Coin from done (Temmie)
+[Client at 2023-02-27 22:55:42,685]: DK Coin from divineknight (Player805)
+[Client at 2023-02-27 22:55:42,685]: Bonus Coin from ShadowriderOOT
+[Client at 2023-02-27 22:55:42,685]: DK Coin from UndeadVai (DS3)
+[Client at 2023-02-27 22:55:42,685]: Bonus Coin from Chupa
+[Client at 2023-02-27 22:55:42,685]: DK Coin from VyseGolbezOoT
+[Client at 2023-02-27 22:55:42,685]: 1-Up Balloon from TimeLink
+[Client at 2023-02-27 22:55:42,685]: 1-Up Balloon from ErkSuperMetroid (Player893)
+[Client at 2023-02-27 22:55:42,686]: Bonus Coin from Player1041
+[Client at 2023-02-27 22:55:42,686]: Bear Coin from EkyxRL (Player778)
+[Client at 2023-02-27 22:55:42,686]: Bonus Coin from Bluejello-minecr (Player859)
+[Client at 2023-02-27 22:55:42,686]: 1-Up Balloon from ArcPoke
+[Client at 2023-02-27 22:55:42,686]: Bonus Coin from UndeadVai (DS3)
+[Client at 2023-02-27 22:55:42,686]: Bonus Coin from ShadowriderHK (Player767)
+[Client at 2023-02-27 22:55:42,686]: Bonus Coin from CodeGorilla_LttP
+[Client at 2023-02-27 22:55:42,686]: Bonus Coin from MaveloventRL3
+[Client at 2023-02-27 22:55:42,686]: Bonus Coin from ShadowriderSC2
+[Client at 2023-02-27 22:55:42,686]: DK Coin from BerserkerLegacy
+[Client at 2023-02-27 22:55:42,686]: Bonus Coin from webtomato 2
+[Client at 2023-02-27 22:55:42,687]: 1-Up Balloon from Kappatechy AD (KP-LttP-AD)
+[Client at 2023-02-27 22:55:42,687]: Bonus Coin from PlaneswaterSA2 (Player1089)
+[Client at 2023-02-27 22:55:42,687]: 1-Up Balloon from The T-SA2
+[Client at 2023-02-27 22:55:42,687]: Bonus Coin from l100OoT
+[Client at 2023-02-27 22:55:42,687]: DK Coin from Player761
+[Client at 2023-02-27 22:55:42,687]: Bear Coin from Player829
+[Client at 2023-02-27 22:55:42,687]: Bonus Coin from Aki665_PKMN
+[Client at 2023-02-27 22:55:42,687]: Bonus Coin from Aki665_PKMN
+[Client at 2023-02-27 22:55:42,687]: Bear Coin from Zunawe_DS3 (DarkBender)
+[Client at 2023-02-27 22:55:42,687]: DK Coin from SnakeSC2
+[Client at 2023-02-27 22:55:42,687]: Bear Coin from PokePrinter
+[Client at 2023-02-27 22:55:42,687]: Bonus Coin from BlusWeltOOT
+[Client at 2023-02-27 22:55:42,687]: Bonus Coin from Albrekka the Bun
+[Client at 2023-02-27 22:55:42,688]: Bonus Coin from Stormi-OoT
+[Client at 2023-02-27 22:55:42,688]: DK Coin from STAR FIZL
+[Client at 2023-02-27 22:55:42,688]: DK Coin from RensenOOT
+[Client at 2023-02-27 22:55:42,688]: Bear Coin from Nymkad
+[Client at 2023-02-27 22:55:42,688]: Bonus Coin from Alchav
+[Client at 2023-02-27 22:55:42,688]: Bear Coin from Alchav
+[Client at 2023-02-27 22:55:42,688]: DK Coin from DragusSMZ3 (Player1137)
+[Client at 2023-02-27 22:55:42,688]: DK Coin from CaitSith2 (Player1027)
+[Client at 2023-02-27 22:55:42,688]: Bonus Coin from Player1074
+[Client at 2023-02-27 22:55:42,688]: Bonus Coin from SamitianPKMN
+[Client at 2023-02-27 22:55:42,688]: Bear Coin from Bluejello-timein
+[Client at 2023-02-27 22:55:42,688]: Bonus Coin from VyseGolbezOoT
+[Client at 2023-02-27 22:55:42,688]: Bonus Coin from Asmodemus (Player1107)
+[Client at 2023-02-27 22:55:42,688]: Bonus Coin from Peahen#9639-SC2 (Peahen3)
+[Client at 2023-02-27 22:55:42,689]: 1-Up Balloon from Marioshi#5991 (Marioshi_fact369)
+[Client at 2023-02-27 22:55:42,689]: 1-Up Balloon from KikiOOT303
+[Client at 2023-02-27 22:55:42,689]: Bonus Coin from MudKippi
+[Client at 2023-02-27 22:55:42,689]: Bonus Coin from AzaLttP2
+[Client at 2023-02-27 22:55:42,689]: Bear Coin from Ninjalttp
+[Client at 2023-02-27 22:55:42,689]: Bonus Coin from MrPokemon11HK
+[Client at 2023-02-27 22:55:42,689]: Bonus Coin from RafeKnight
+[Client at 2023-02-27 22:55:42,689]: Bonus Coin from Fatman_SM64
+[Client at 2023-02-27 22:55:42,689]: DK Coin from Chupa
+[Client at 2023-02-27 22:55:42,689]: Bonus Coin from Horizon_OoT
+[Client at 2023-02-27 22:55:42,689]: 1-Up Balloon from BadmoonZ_sc
+[Client at 2023-02-27 22:55:42,689]: Bonus Coin from divineknight (Player805)
+[Client at 2023-02-27 22:55:42,689]: Bonus Coin from slide_pkmn
+[Client at 2023-02-27 22:55:42,689]: Bonus Coin from slide_pkmn
+[Client at 2023-02-27 22:55:42,690]: Bear Coin from slide_pkmn
+[Client at 2023-02-27 22:55:42,690]: Bear Coin from CobraSM64
+[Client at 2023-02-27 22:55:42,690]: 1-Up Balloon from PizzaPKMN
+[Client at 2023-02-27 22:55:42,690]: Bonus Coin from BizzoTS
+[Client at 2023-02-27 22:55:42,690]: DK Coin from Player765
+[Client at 2023-02-27 22:55:42,690]: Bonus Coin from SurlyFantasy
+[Client at 2023-02-27 22:55:42,690]: 1-Up Balloon from KenderSA2B
+[Client at 2023-02-27 22:55:42,690]: Progressive Boat Upgrade from Pluttergub
+[Client at 2023-02-27 22:55:42,690]: DK Coin from Pluttergub
+[Client at 2023-02-27 22:55:42,690]: 1-Up Balloon from SilvrisSM
+[Client at 2023-02-27 22:55:42,690]: DK Coin from Eeveeff1
+[Client at 2023-02-27 22:55:42,691]: 1-Up Balloon from NerezzaRaft (Player999)
+[Client at 2023-02-27 22:55:42,691]: Bonus Coin from PlaneswaterPKMN (Player938)
+[Client at 2023-02-27 22:55:42,691]: Bonus Coin from Levisaxos_FC2
+[Client at 2023-02-27 22:55:42,691]: 1-Up Balloon from LinkCat (Player1004)
+[Client at 2023-02-27 22:55:42,691]: Bonus Coin from divineoot (Virt_OOT)
+[Client at 2023-02-27 22:55:42,691]: Bear Coin from Chrisds3b-LTTP2 (Player978)
+[Client at 2023-02-27 22:55:42,691]: 1-Up Balloon from Chrono SMW
+[Client at 2023-02-27 22:55:42,691]: Bonus Coin from EspeonHK
+[Client at 2023-02-27 22:55:42,691]: 1-Up Balloon from Coal_Witness
+[Client at 2023-02-27 22:55:42,691]: Bear Coin from WreckerSMW (Player1200)
+[Client at 2023-02-27 22:55:42,691]: Bear Coin from Xetroid
+[Client at 2023-02-27 22:55:42,691]: Bear Coin from Jaylow7LTTP
+[Client at 2023-02-27 22:55:42,691]: Bear Coin from Mathx1
+[Client at 2023-02-27 22:55:42,691]: Bear Coin from DragusSMW (Phar 4)
+[Client at 2023-02-27 22:55:42,692]: 1-Up Balloon from FarrenTS208
+[Client at 2023-02-27 22:55:42,692]: DK Coin from DemorckHK2 (Player1176)
+[Client at 2023-02-27 22:55:42,692]: 1-Up Balloon from Bluejello-ever
+[Client at 2023-02-27 22:55:42,692]: Bonus Coin from rft50HK
+[Client at 2023-02-27 22:55:42,692]: Bear Coin from DragusSMZ3 (Player1137)
+[Client at 2023-02-27 22:55:42,692]: Bonus Coin from Mathx2
+[Client at 2023-02-27 22:55:42,692]: 1-Up Balloon from Madi (TrainerSonic)
+[Client at 2023-02-27 22:55:42,692]: Bonus Coin from Pory6
+[Client at 2023-02-27 22:55:42,692]: Bonus Coin from TIMEFIZL
+[Client at 2023-02-27 22:55:42,692]: 1-Up Balloon from Witch Albrekka
+[Client at 2023-02-27 22:55:42,692]: Bear Coin from Aki665_DKC3 (Player758)
+[Client at 2023-02-27 22:55:42,692]: Bonus Coin from TimeRever
+[Client at 2023-02-27 22:55:42,692]: DK Coin from Praxis_DS3 (Player895)
+[Client at 2023-02-27 22:55:42,692]: DK Coin from rft50TS
+[Client at 2023-02-27 22:55:42,692]: Bear Coin from Bnuuy Albrekka
+[Client at 2023-02-27 22:55:42,693]: Bonus Coin from divinesmz3 (Player817)
+[Client at 2023-02-27 22:55:42,693]: Bear Coin from Shadow_Mario64
+[Client at 2023-02-27 22:55:42,693]: Bear Coin from Jay_HK (Player967)
+[Client at 2023-02-27 22:55:42,693]: Bear Coin from done (Temmie)
+[Client at 2023-02-27 22:55:42,693]: 1-Up Balloon from Tavnazian
+[Client at 2023-02-27 22:55:42,693]: Bonus Coin from webtomato
+[Client at 2023-02-27 22:55:42,693]: DK Coin from ExpertWitnessM8
+[Client at 2023-02-27 22:55:42,693]: Bonus Coin from ArcPoke
+[Client at 2023-02-27 22:55:42,693]: Bear Coin from Player901
+[Client at 2023-02-27 22:55:42,693]: DK Coin from DraikenSpinner
+[Client at 2023-02-27 22:55:42,693]: 1-Up Balloon from ChadralnSMZ3
+[Client at 2023-02-27 22:55:42,693]: Bonus Coin from Radz OoT
+[Client at 2023-02-27 22:55:42,693]: DK Coin from FlyOoT
+[Client at 2023-02-27 22:55:42,693]: Bear Coin from Fatman_W (Player1061)
+[Client at 2023-02-27 22:55:42,693]: DK Coin from MatiER
+[Client at 2023-02-27 22:55:42,693]: Bonus Coin from squidy733
+[Client at 2023-02-27 22:55:42,694]: Bonus Coin from Player1196
+[Client at 2023-02-27 22:55:42,694]: 1-Up Balloon from bluejello-TS (Elias-TS2-190)
+[Client at 2023-02-27 22:55:42,694]: Bonus Coin from l100OoT
+[Client at 2023-02-27 22:55:42,694]: Bonus Coin from Qwazzy(SC2)
+[kivy at 2023-02-27 23:01:48,735]: Window: exiting mainloop and closing.
+[Client at 2023-02-27 23:01:48,880]: Disconnected from multiworld server

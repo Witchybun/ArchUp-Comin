@@ -1,0 +1,511 @@
+﻿[root at 2023-02-23 16:22:32,572]: Archipelago (0.3.9) logging initialized on Linux-6.1.12-x64v3-xanmod1-x86_64-with-glibc2.35 running Python 3.10.6
+[kivy at 2023-02-23 16:22:32,591]: Kivy: v2.1.0
+[kivy at 2023-02-23 16:22:32,591]: Kivy: Installed at "/home/albrekka/.local/lib/python3.10/site-packages/kivy/__init__.py"
+[kivy at 2023-02-23 16:22:32,591]: Python: v3.10.6 (main, Nov 14 2022, 16:10:14) [GCC 11.3.0]
+[kivy at 2023-02-23 16:22:32,591]: Python: Interpreter at "/usr/bin/python3"
+[kivy at 2023-02-23 16:22:32,599]: Factory: 189 symbols loaded
+[kivy at 2023-02-23 16:22:32,686]: Image: Providers: img_tex, img_dds, img_sdl2, img_pil (img_ffpyplayer ignored)
+[kivy at 2023-02-23 16:22:32,700]: Window: Provider: sdl2
+[kivy at 2023-02-23 16:22:33,460]: GL: Using the "OpenGL" graphics system
+[kivy at 2023-02-23 16:22:33,461]: GL: Backend used <sdl2>
+[kivy at 2023-02-23 16:22:33,461]: GL: OpenGL version <b'4.6.0 NVIDIA 525.78.01'>
+[kivy at 2023-02-23 16:22:33,461]: GL: OpenGL vendor <b'NVIDIA Corporation'>
+[kivy at 2023-02-23 16:22:33,461]: GL: OpenGL renderer <b'NVIDIA GeForce GTX 1080/PCIe/SSE2'>
+[kivy at 2023-02-23 16:22:33,461]: GL: OpenGL parsed version: 4, 6
+[kivy at 2023-02-23 16:22:33,461]: GL: Shading version <b'4.60 NVIDIA'>
+[kivy at 2023-02-23 16:22:33,461]: GL: Texture max size <32768>
+[kivy at 2023-02-23 16:22:33,461]: GL: Texture max units <32>
+[kivy at 2023-02-23 16:22:33,503]: Window: auto add sdl2 input provider
+[kivy at 2023-02-23 16:22:33,503]: Window: virtual keyboard not allowed, single mode, not docked
+[kivy at 2023-02-23 16:22:33,586]: Clipboard: Provider: gtk3(['clipboard_xclip', 'clipboard_xsel', 'clipboard_dbusklipper'] ignored)
+[kivy at 2023-02-23 16:22:33,589]: Cutbuffer: Unable to find any valuable Cutbuffer provider. Please enable debug logging (e.g. add -d if running from the command line, or change the log level in the config) and re-run your app to identify potential causes
+xclip - FileNotFoundError: [Errno 2] No such file or directory: 'xclip'
+  File "/home/albrekka/.local/lib/python3.10/site-packages/kivy/core/__init__.py", line 59, in core_select_lib
+    mod = importlib.__import__(name='{2}.{0}.{1}'.format(
+  File "<frozen importlib._bootstrap>", line 1129, in __import__
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/albrekka/.local/lib/python3.10/site-packages/kivy/core/clipboard/clipboard_xclip.py", line 17, in <module>
+    p = subprocess.Popen(['xclip', '-version'], stdout=subprocess.PIPE,
+  File "/usr/lib/python3.10/subprocess.py", line 969, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "/usr/lib/python3.10/subprocess.py", line 1845, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+
+xsel - FileNotFoundError: [Errno 2] No such file or directory: 'xsel'
+  File "/home/albrekka/.local/lib/python3.10/site-packages/kivy/core/__init__.py", line 59, in core_select_lib
+    mod = importlib.__import__(name='{2}.{0}.{1}'.format(
+  File "<frozen importlib._bootstrap>", line 1129, in __import__
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/albrekka/.local/lib/python3.10/site-packages/kivy/core/clipboard/clipboard_xsel.py", line 16, in <module>
+    p = subprocess.Popen(['xsel'], stdout=subprocess.PIPE)
+  File "/usr/lib/python3.10/subprocess.py", line 969, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "/usr/lib/python3.10/subprocess.py", line 1845, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+
+[kivy at 2023-02-23 16:22:33,592]: Text: Provider: sdl2
+[Client at 2023-02-23 16:22:33,603]: Please connect to an Archipelago server.
+[kivy at 2023-02-23 16:22:33,673]: GL: NPOT texture support is available
+[Client at 2023-02-23 16:22:33,688]: /help 
+    Returns the help listing
+/license 
+    Returns the licensing information
+/exit 
+    Close connections and client
+/connect [address] 
+    Connect to a MultiWorld Server
+/disconnect 
+    Disconnect from a MultiWorld Server
+/received 
+    List all received items
+/missing 
+    List all missing location checks, from your local game state
+/items 
+    List all item names for the currently running game.
+/locations 
+    List all location names for the currently running game.
+/ready 
+    Send ready status to server.
+/slow_mode [toggle] 
+    Toggle slow mode, which limits how fast you send / receive items.
+/snes [snes_options] 
+    Connect to a snes. Optionally include network address of a snes to connect to,
+        otherwise show available devices; and a SNES device number if more than one SNES is detected.
+        Examples: "/snes", "/snes 1", "/snes localhost:23074 1" 
+/snes_close 
+    Close connection to a currently connected snes
+
+[kivy at 2023-02-23 16:22:33,735]: Base: Start application main loop
+[SNES at 2023-02-23 16:22:33,736]: Connecting to SNI at ws://localhost:23074 ...
+[SNES at 2023-02-23 16:22:33,825]: Error connecting to SNI ([Errno 111] Connect call failed ('127.0.0.1', 23074))
+[SNES at 2023-02-23 16:22:33,826]: Attempting to start SNI/sni
+[SNES at 2023-02-23 16:22:34,929]: Connecting to SNI at ws://localhost:23074 ...
+[SNES at 2023-02-23 16:22:34,932]: No SNES device found. Please connect a SNES device to SNI.
+[SNES at 2023-02-23 16:22:40,809]: Attaching to ra://127.0.0.1:55355
+[SNES at 2023-02-23 16:22:40,809]: Attached to ra://127.0.0.1:55355
+[SNES at 2023-02-23 16:22:41,208]: Lost connection to the snes, type /snes to reconnect
+[SNES at 2023-02-23 16:22:41,208]: ... automatically reconnecting to snes in 5 seconds
+[SNES at 2023-02-23 16:22:45,849]: Error reading 0xe02000, requested 21 bytes, received 0
+[SNES at 2023-02-23 16:22:46,236]: Connecting to SNI at ws://localhost:23074 ...
+[SNES at 2023-02-23 16:22:46,237]: Connecting to SNI at ws://localhost:23074 ...
+[SNES at 2023-02-23 16:22:46,272]: Attaching to ra://127.0.0.1:55355
+[SNES at 2023-02-23 16:22:46,272]: Attached to ra://127.0.0.1:55355
+[SNES at 2023-02-23 16:22:46,626]: Lost connection to the snes, type /snes to reconnect
+[SNES at 2023-02-23 16:22:46,626]: ... automatically reconnecting to snes in 5 seconds
+[SNES at 2023-02-23 16:22:51,354]: Error reading 0xe02000, requested 21 bytes, received 0
+[SNES at 2023-02-23 16:22:51,659]: Connecting to SNI at ws://localhost:23074 ...
+[SNES at 2023-02-23 16:22:51,660]: Connecting to SNI at ws://localhost:23074 ...
+[SNES at 2023-02-23 16:22:51,687]: Attaching to ra://127.0.0.1:55355
+[SNES at 2023-02-23 16:22:51,687]: Attached to ra://127.0.0.1:55355
+[SNES at 2023-02-23 16:22:52,058]: Lost connection to the snes, type /snes to reconnect
+[SNES at 2023-02-23 16:22:52,058]: ... automatically reconnecting to snes in 5 seconds
+[SNES at 2023-02-23 16:22:56,733]: Error reading 0xe02000, requested 21 bytes, received 0
+[SNES at 2023-02-23 16:22:57,076]: Connecting to SNI at ws://localhost:23074 ...
+[SNES at 2023-02-23 16:22:57,077]: Connecting to SNI at ws://localhost:23074 ...
+[SNES at 2023-02-23 16:22:57,099]: Attaching to ra://127.0.0.1:55355
+[SNES at 2023-02-23 16:22:57,099]: Attached to ra://127.0.0.1:55355
+[SNES at 2023-02-23 16:22:57,475]: Lost connection to the snes, type /snes to reconnect
+[SNES at 2023-02-23 16:22:57,475]: ... automatically reconnecting to snes in 5 seconds
+[SNES at 2023-02-23 16:23:02,121]: Error reading 0xe02000, requested 21 bytes, received 0
+[SNES at 2023-02-23 16:23:02,492]: Connecting to SNI at ws://localhost:23074 ...
+[SNES at 2023-02-23 16:23:02,494]: Connecting to SNI at ws://localhost:23074 ...
+[SNES at 2023-02-23 16:23:02,526]: Attaching to ra://127.0.0.1:55355
+[SNES at 2023-02-23 16:23:02,526]: Attached to ra://127.0.0.1:55355
+[SNES at 2023-02-23 16:23:02,908]: Lost connection to the snes, type /snes to reconnect
+[SNES at 2023-02-23 16:23:02,908]: ... automatically reconnecting to snes in 5 seconds
+[SNES at 2023-02-23 16:23:07,651]: Error reading 0xe02000, requested 21 bytes, received 0
+[SNES at 2023-02-23 16:23:07,925]: Connecting to SNI at ws://localhost:23074 ...
+[SNES at 2023-02-23 16:23:07,926]: Connecting to SNI at ws://localhost:23074 ...
+[SNES at 2023-02-23 16:23:07,943]: Attaching to ra://127.0.0.1:55355
+[SNES at 2023-02-23 16:23:07,943]: Attached to ra://127.0.0.1:55355
+[SNES at 2023-02-23 16:23:08,242]: Lost connection to the snes, type /snes to reconnect
+[SNES at 2023-02-23 16:23:08,243]: ... automatically reconnecting to snes in 5 seconds
+[Client at 2023-02-23 16:23:12,501]: Connecting to Archipelago server at ws://archipelago.gg:38281
+[Client at 2023-02-23 16:23:12,972]: Connected
+[Client at 2023-02-23 16:23:12,973]: --------------------------------
+[Client at 2023-02-23 16:23:12,973]: Room Information:
+[Client at 2023-02-23 16:23:12,973]: --------------------------------
+[Client at 2023-02-23 16:23:12,973]: Server protocol version: 0.3.8
+[Client at 2023-02-23 16:23:12,973]: Server protocol tags: AP, WebHost
+[Client at 2023-02-23 16:23:12,973]: Forfeit permission: auto
+[Client at 2023-02-23 16:23:12,973]: Release permission: auto
+[Client at 2023-02-23 16:23:12,973]: Remaining permission: goal
+[Client at 2023-02-23 16:23:12,973]: Collect permission: auto
+[Client at 2023-02-23 16:23:12,973]: A !hint costs 15% of your total location count as points and you get 1 for each location checked. Use !hint for more information.
+[SNES at 2023-02-23 16:23:12,973]: No ROM detected, awaiting snes connection to authenticate to the multiworld server (/snes)
+[SNES at 2023-02-23 16:23:13,065]: Error reading 0xe02000, requested 21 bytes, received 0
+[SNES at 2023-02-23 16:23:13,245]: Connecting to SNI at ws://localhost:23074 ...
+[SNES at 2023-02-23 16:23:13,246]: Connecting to SNI at ws://localhost:23074 ...
+[SNES at 2023-02-23 16:23:13,270]: Attaching to ra://127.0.0.1:55355
+[SNES at 2023-02-23 16:23:13,270]: Attached to ra://127.0.0.1:55355
+[Client at 2023-02-23 16:23:20,779]: 180 received items:
+[Client at 2023-02-23 16:23:20,779]: 1-Up Balloon from GwenegadeTS (Player1049)
+[Client at 2023-02-23 16:23:20,779]: DK Coin from MariaLeFey pkmn
+[Client at 2023-02-23 16:23:20,779]: DK Coin from BlivenSMZ3 (Ado_SMZ3_1)
+[Client at 2023-02-23 16:23:20,779]: DK Coin from MagnemaniaSA2
+[Client at 2023-02-23 16:23:20,779]: Bear Coin from GwenegadeLTTP (Player915)
+[Client at 2023-02-23 16:23:20,779]: 1-Up Balloon from FigmentSub
+[Client at 2023-02-23 16:23:20,779]: Bear Coin from MatiCH
+[Client at 2023-02-23 16:23:20,779]: 1-Up Balloon from MageMageWitElev
+[Client at 2023-02-23 16:23:20,779]: DK Coin from MageMageWitMax
+[Client at 2023-02-23 16:23:20,779]: Bear Coin from SuperPrinter64
+[Client at 2023-02-23 16:23:20,780]: Bonus Coin from ReverOfTime
+[Client at 2023-02-23 16:23:20,780]: 1-Up Balloon from DeadEspeOOT (LeafeonOOT)
+[Client at 2023-02-23 16:23:20,780]: Bear Coin from Hopop-BC
+[Client at 2023-02-23 16:23:20,780]: Bear Coin from Espeon
+[Client at 2023-02-23 16:23:20,780]: 1-Up Balloon from FalcRain (Player810)
+[Client at 2023-02-23 16:23:20,780]: DK Coin from Sharrara_TS (Player857)
+[Client at 2023-02-23 16:23:20,780]: Bonus Coin from ChadralnSM
+[Client at 2023-02-23 16:23:20,780]: Bear Coin from EspeonOoT
+[Client at 2023-02-23 16:23:20,780]: DK Coin from Whizzlefern-Z3
+[Client at 2023-02-23 16:23:20,780]: DK Coin from EspeonOoT
+[Client at 2023-02-23 16:23:20,780]: DK Coin from ChadralnDKC3 (Player1132)
+[Client at 2023-02-23 16:23:20,780]: Bear Coin from slide_pkmn
+[Client at 2023-02-23 16:23:20,780]: DK Coin from slide_pkmn
+[Client at 2023-02-23 16:23:20,780]: Bonus Coin from Ravanan-Sonic (Player757)
+[Client at 2023-02-23 16:23:20,780]: Krematoa Cog from Bunny Kong (Player890)
+[Client at 2023-02-23 16:23:20,781]: Krematoa Cog from Bunny Kong (Player890)
+[Client at 2023-02-23 16:23:20,781]: Bonus Coin from divinesmz3 (Player817)
+[Client at 2023-02-23 16:23:20,781]: DK Coin from The T-OoT
+[Client at 2023-02-23 16:23:20,781]: Bonus Coin from ProfFact
+[Client at 2023-02-23 16:23:20,781]: Bear Coin from TWRaft
+[Client at 2023-02-23 16:23:20,781]: Bonus Coin from Radz ALttP
+[Client at 2023-02-23 16:23:20,781]: Bonus Coin from The T-SMW
+[Client at 2023-02-23 16:23:20,781]: Progressive Boat Upgrade from GodlFireTS
+[Client at 2023-02-23 16:23:20,781]: Bonus Coin from PrimePentadFacto
+[Client at 2023-02-23 16:23:20,781]: Krematoa Cog from Bunny Kong (Player890)
+[Client at 2023-02-23 16:23:20,781]: Bonus Coin from SilvrisRB
+[Client at 2023-02-23 16:23:20,781]: 1-Up Balloon from Klonoa_ror2
+[Client at 2023-02-23 16:23:20,781]: DK Coin from Player1149
+[Client at 2023-02-23 16:23:20,781]: 1-Up Balloon from Maragon (RafeAshes)
+[Client at 2023-02-23 16:23:20,781]: Bonus Coin from J2Souls (Player1013)
+[Client at 2023-02-23 16:23:20,781]: 1-Up Balloon from J2Souls (Player1013)
+[Client at 2023-02-23 16:23:20,781]: Bear Coin from ChocoboLTTP4 (Jolteon0163)
+[Client at 2023-02-23 16:23:20,782]: Bonus Coin from RiskOfAwesome2
+[Client at 2023-02-23 16:23:20,782]: Bonus Coin from Jupiteroot290
+[Client at 2023-02-23 16:23:20,782]: Bonus Coin from Player1074
+[Client at 2023-02-23 16:23:20,782]: Bonus Coin from PlaneswaterSoE (Player807)
+[Client at 2023-02-23 16:23:20,782]: Bonus Coin from NebulaiHK (Player1015)
+[Client at 2023-02-23 16:23:20,782]: Bonus Coin from Norg_OOT
+[Client at 2023-02-23 16:23:20,782]: 1-Up Balloon from CaitSith2 (Player1027)
+[Client at 2023-02-23 16:23:20,782]: DK Coin from MatiFactory
+[Client at 2023-02-23 16:23:20,782]: Bonus Coin from Shadow_SMZ3
+[Client at 2023-02-23 16:23:20,782]: 1-Up Balloon from EspeonOoT
+[Client at 2023-02-23 16:23:20,782]: Bonus Coin from TimeRever
+[Client at 2023-02-23 16:23:20,782]: 1-Up Balloon from Chrono-mon
+[Client at 2023-02-23 16:23:20,782]: DK Coin from BizzoSANIC
+[Client at 2023-02-23 16:23:20,782]: Bear Coin from VenomBukkake_RR2
+[Client at 2023-02-23 16:23:20,782]: Bonus Coin from Ninja64
+[Client at 2023-02-23 16:23:20,782]: Krematoa Cog from Bunny Kong (Player890)
+[Client at 2023-02-23 16:23:20,783]: Bonus Coin from ParcosmicMC
+[Client at 2023-02-23 16:23:20,783]: 1-Up Balloon from JKL-DKC3
+[Client at 2023-02-23 16:23:20,783]: Bonus Coin from DioSMW (Player1135)
+[Client at 2023-02-23 16:23:20,783]: DK Coin from Cyber_PKMN
+[Client at 2023-02-23 16:23:20,783]: Bonus Coin from ParTwo#3760 SA2
+[Client at 2023-02-23 16:23:20,783]: Bonus Coin from ParTwo#3760 SA2
+[Client at 2023-02-23 16:23:20,783]: Bear Coin from Coal_Pokemon
+[Client at 2023-02-23 16:23:20,783]: 1-Up Balloon from GwenegadeDKC3 (Player1118)
+[Client at 2023-02-23 16:23:20,783]: Bonus Coin from Bluejello-risk
+[Client at 2023-02-23 16:23:20,783]: 1-Up Balloon from KikiOOT303
+[Client at 2023-02-23 16:23:20,783]: Bear Coin from divineroid (Player782)
+[Client at 2023-02-23 16:23:20,783]: 1-Up Balloon from Naydem (Player1063)
+[Client at 2023-02-23 16:23:20,783]: DK Coin from divinelegacy (Player1035)
+[Client at 2023-02-23 16:23:20,783]: Bonus Coin from LingererOOT (LinZoom)
+[Client at 2023-02-23 16:23:20,783]: Bear Coin from Coal_SM (Player1187)
+[Client at 2023-02-23 16:23:20,783]: Bonus Coin from J2Souls (Player1013)
+[Client at 2023-02-23 16:23:20,783]: Bonus Coin from mlang12SM64
+[Client at 2023-02-23 16:23:20,784]: DK Coin from BlazeLTTP (Player1170)
+[Client at 2023-02-23 16:23:20,784]: Bonus Coin from done (Temmie)
+[Client at 2023-02-23 16:23:20,784]: DK Coin from divineknight (Player805)
+[Client at 2023-02-23 16:23:20,784]: Bonus Coin from ShadowriderOOT
+[Client at 2023-02-23 16:23:20,784]: DK Coin from UndeadVai (DS3)
+[Client at 2023-02-23 16:23:20,784]: Bonus Coin from Chupa
+[Client at 2023-02-23 16:23:20,784]: DK Coin from VyseGolbezOoT
+[Client at 2023-02-23 16:23:20,784]: 1-Up Balloon from TimeLink
+[Client at 2023-02-23 16:23:20,784]: 1-Up Balloon from ErkSuperMetroid (Player893)
+[Client at 2023-02-23 16:23:20,784]: Bonus Coin from Player1041
+[Client at 2023-02-23 16:23:20,784]: Bear Coin from EkyxRL (Player778)
+[Client at 2023-02-23 16:23:20,784]: Bonus Coin from Bluejello-minecr (Player859)
+[Client at 2023-02-23 16:23:20,784]: 1-Up Balloon from ArcPoke
+[Client at 2023-02-23 16:23:20,784]: Bonus Coin from UndeadVai (DS3)
+[Client at 2023-02-23 16:23:20,784]: Bonus Coin from ShadowriderHK (Player767)
+[Client at 2023-02-23 16:23:20,785]: Bonus Coin from CodeGorilla_LttP
+[Client at 2023-02-23 16:23:20,785]: Bonus Coin from MaveloventRL3
+[Client at 2023-02-23 16:23:20,785]: Bonus Coin from ShadowriderSC2
+[Client at 2023-02-23 16:23:20,785]: DK Coin from BerserkerLegacy
+[Client at 2023-02-23 16:23:20,785]: Bonus Coin from webtomato 2
+[Client at 2023-02-23 16:23:20,785]: 1-Up Balloon from Kappatechy AD (KP-LttP-AD)
+[Client at 2023-02-23 16:23:20,785]: Bonus Coin from PlaneswaterSA2 (Player1089)
+[Client at 2023-02-23 16:23:20,785]: 1-Up Balloon from The T-SA2
+[Client at 2023-02-23 16:23:20,785]: Bonus Coin from l100OoT
+[Client at 2023-02-23 16:23:20,785]: DK Coin from Player761
+[Client at 2023-02-23 16:23:20,785]: Bear Coin from Player829
+[Client at 2023-02-23 16:23:20,785]: Bonus Coin from Aki665_PKMN
+[Client at 2023-02-23 16:23:20,785]: Bonus Coin from Aki665_PKMN
+[Client at 2023-02-23 16:23:20,785]: Bear Coin from Zunawe_DS3 (DarkBender)
+[Client at 2023-02-23 16:23:20,785]: DK Coin from SnakeSC2
+[Client at 2023-02-23 16:23:20,785]: Bear Coin from PokePrinter
+[Client at 2023-02-23 16:23:20,785]: Bonus Coin from BlusWeltOOT
+[Client at 2023-02-23 16:23:20,786]: Bonus Coin from Albrekka the Bun
+[Client at 2023-02-23 16:23:20,786]: Bonus Coin from Stormi-OoT
+[Client at 2023-02-23 16:23:20,786]: DK Coin from STAR FIZL
+[Client at 2023-02-23 16:23:20,786]: DK Coin from RensenOOT
+[Client at 2023-02-23 16:23:20,786]: Bear Coin from Nymkad
+[Client at 2023-02-23 16:23:20,786]: Bonus Coin from Alchav
+[Client at 2023-02-23 16:23:20,786]: Bear Coin from Alchav
+[Client at 2023-02-23 16:23:20,786]: DK Coin from DragusSMZ3 (Player1137)
+[Client at 2023-02-23 16:23:20,786]: DK Coin from CaitSith2 (Player1027)
+[Client at 2023-02-23 16:23:20,786]: Bonus Coin from Player1074
+[Client at 2023-02-23 16:23:20,786]: Bonus Coin from SamitianPKMN
+[Client at 2023-02-23 16:23:20,786]: Bear Coin from Bluejello-timein
+[Client at 2023-02-23 16:23:20,786]: Bonus Coin from VyseGolbezOoT
+[Client at 2023-02-23 16:23:20,786]: Bonus Coin from Asmodemus (Player1107)
+[Client at 2023-02-23 16:23:20,786]: Bonus Coin from Peahen#9639-SC2 (Peahen3)
+[Client at 2023-02-23 16:23:20,786]: 1-Up Balloon from Marioshi#5991 (Marioshi_fact369)
+[Client at 2023-02-23 16:23:20,787]: 1-Up Balloon from KikiOOT303
+[Client at 2023-02-23 16:23:20,787]: Bonus Coin from MudKippi
+[Client at 2023-02-23 16:23:20,787]: Bonus Coin from AzaLttP2
+[Client at 2023-02-23 16:23:20,787]: Bear Coin from Ninjalttp
+[Client at 2023-02-23 16:23:20,787]: Bonus Coin from MrPokemon11HK
+[Client at 2023-02-23 16:23:20,787]: Bonus Coin from RafeKnight
+[Client at 2023-02-23 16:23:20,787]: Bonus Coin from Fatman_SM64
+[Client at 2023-02-23 16:23:20,787]: DK Coin from Chupa
+[Client at 2023-02-23 16:23:20,787]: Bonus Coin from Horizon_OoT
+[Client at 2023-02-23 16:23:20,787]: 1-Up Balloon from BadmoonZ_sc
+[Client at 2023-02-23 16:23:20,787]: Bonus Coin from divineknight (Player805)
+[Client at 2023-02-23 16:23:20,787]: Bonus Coin from slide_pkmn
+[Client at 2023-02-23 16:23:20,787]: Bonus Coin from slide_pkmn
+[Client at 2023-02-23 16:23:20,787]: Bear Coin from slide_pkmn
+[Client at 2023-02-23 16:23:20,787]: Bear Coin from CobraSM64
+[Client at 2023-02-23 16:23:20,788]: 1-Up Balloon from PizzaPKMN
+[Client at 2023-02-23 16:23:20,788]: Bonus Coin from BizzoTS
+[Client at 2023-02-23 16:23:20,788]: DK Coin from Player765
+[Client at 2023-02-23 16:23:20,788]: Bonus Coin from SurlyFantasy
+[Client at 2023-02-23 16:23:20,788]: 1-Up Balloon from KenderSA2B
+[Client at 2023-02-23 16:23:20,788]: Progressive Boat Upgrade from Pluttergub
+[Client at 2023-02-23 16:23:20,788]: DK Coin from Pluttergub
+[Client at 2023-02-23 16:23:20,788]: 1-Up Balloon from SilvrisSM
+[Client at 2023-02-23 16:23:20,788]: DK Coin from Eeveeff1
+[Client at 2023-02-23 16:23:20,788]: 1-Up Balloon from NerezzaRaft (Player999)
+[Client at 2023-02-23 16:23:20,788]: Bonus Coin from PlaneswaterPKMN (Player938)
+[Client at 2023-02-23 16:23:20,788]: Bonus Coin from Levisaxos_FC2
+[Client at 2023-02-23 16:23:20,788]: 1-Up Balloon from LinkCat (Player1004)
+[Client at 2023-02-23 16:23:20,788]: Bonus Coin from divineoot (Virt_OOT)
+[Client at 2023-02-23 16:23:20,789]: Bear Coin from Chrisds3b-LTTP2 (Player978)
+[Client at 2023-02-23 16:23:20,789]: 1-Up Balloon from Chrono SMW
+[Client at 2023-02-23 16:23:20,789]: Bonus Coin from EspeonHK
+[Client at 2023-02-23 16:23:20,789]: 1-Up Balloon from Coal_Witness
+[Client at 2023-02-23 16:23:20,789]: Bear Coin from WreckerSMW (Player1200)
+[Client at 2023-02-23 16:23:20,789]: Bear Coin from Xetroid
+[Client at 2023-02-23 16:23:20,789]: Bear Coin from Jaylow7LTTP
+[Client at 2023-02-23 16:23:20,789]: Bear Coin from Mathx1
+[Client at 2023-02-23 16:23:20,789]: Bear Coin from DragusSMW (Phar 4)
+[Client at 2023-02-23 16:23:20,789]: 1-Up Balloon from FarrenTS208
+[Client at 2023-02-23 16:23:20,789]: DK Coin from DemorckHK2 (Player1176)
+[Client at 2023-02-23 16:23:20,789]: 1-Up Balloon from Bluejello-ever
+[Client at 2023-02-23 16:23:20,789]: Bonus Coin from rft50HK
+[Client at 2023-02-23 16:23:20,789]: Bear Coin from DragusSMZ3 (Player1137)
+[Client at 2023-02-23 16:23:20,789]: Bonus Coin from Mathx2
+[Client at 2023-02-23 16:23:20,789]: 1-Up Balloon from Madi (TrainerSonic)
+[Client at 2023-02-23 16:23:20,789]: Bonus Coin from Pory6
+[Client at 2023-02-23 16:23:20,790]: Bonus Coin from TIMEFIZL
+[Client at 2023-02-23 16:23:20,790]: 1-Up Balloon from Witch Albrekka
+[Client at 2023-02-23 16:23:20,790]: Bear Coin from Aki665_DKC3 (Player758)
+[Client at 2023-02-23 16:23:20,790]: Bonus Coin from TimeRever
+[Client at 2023-02-23 16:23:20,790]: DK Coin from Praxis_DS3 (Player895)
+[Client at 2023-02-23 16:23:20,790]: DK Coin from rft50TS
+[Client at 2023-02-23 16:23:20,790]: Bear Coin from Bnuuy Albrekka
+[Client at 2023-02-23 16:23:20,790]: Bonus Coin from divinesmz3 (Player817)
+[Client at 2023-02-23 16:23:20,790]: Bear Coin from Shadow_Mario64
+[Client at 2023-02-23 16:23:20,790]: Bear Coin from Jay_HK (Player967)
+[Client at 2023-02-23 16:23:20,790]: Bear Coin from done (Temmie)
+[SNES at 2023-02-23 16:24:41,992]: New Check: Lakeside Limbo - Flag (1/219)
+[SNES at 2023-02-23 16:24:41,992]: New Check: Lakeside Limbo - Bonus 1 (2/219)
+[SNES at 2023-02-23 16:24:41,992]: New Check: Lakeside Limbo - Bonus 2 (3/219)
+[SNES at 2023-02-23 16:24:41,993]: New Check: Lakeside Limbo - DK Coin (4/219)
+[SNES at 2023-02-23 16:24:41,993]: New Check: Lakeside Limbo - KONG (5/219)
+[SNES at 2023-02-23 16:24:41,993]: New Check: Doorstop Dash - Flag (6/219)
+[SNES at 2023-02-23 16:24:41,993]: New Check: Doorstop Dash - Bonus 1 (7/219)
+[SNES at 2023-02-23 16:24:41,993]: New Check: Doorstop Dash - Bonus 2 (8/219)
+[SNES at 2023-02-23 16:24:41,993]: New Check: Doorstop Dash - DK Coin (9/219)
+[SNES at 2023-02-23 16:24:41,993]: New Check: Doorstop Dash - KONG (10/219)
+[SNES at 2023-02-23 16:24:41,993]: New Check: Tidal Trouble - Flag (11/219)
+[SNES at 2023-02-23 16:24:41,994]: New Check: Tidal Trouble - Bonus 1 (12/219)
+[SNES at 2023-02-23 16:24:41,994]: New Check: Tidal Trouble - Bonus 2 (13/219)
+[SNES at 2023-02-23 16:24:41,994]: New Check: Tidal Trouble - DK Coin (14/219)
+[SNES at 2023-02-23 16:24:41,994]: New Check: Tidal Trouble - KONG (15/219)
+[SNES at 2023-02-23 16:24:41,994]: New Check: Skidda's Row - Flag (16/219)
+[SNES at 2023-02-23 16:24:41,994]: New Check: Skidda's Row - Bonus 1 (17/219)
+[SNES at 2023-02-23 16:24:41,994]: New Check: Skidda's Row - Bonus 2 (18/219)
+[SNES at 2023-02-23 16:24:41,994]: New Check: Skidda's Row - DK Coin (19/219)
+[SNES at 2023-02-23 16:24:41,995]: New Check: Skidda's Row - KONG (20/219)
+[SNES at 2023-02-23 16:24:41,995]: New Check: Murky Mill - Flag (21/219)
+[SNES at 2023-02-23 16:24:41,995]: New Check: Murky Mill - Bonus 1 (22/219)
+[SNES at 2023-02-23 16:24:41,995]: New Check: Murky Mill - Bonus 2 (23/219)
+[SNES at 2023-02-23 16:24:41,995]: New Check: Murky Mill - DK Coin (24/219)
+[SNES at 2023-02-23 16:24:41,995]: New Check: Murky Mill - KONG (25/219)
+[SNES at 2023-02-23 16:24:41,995]: New Check: Barrel Shield Bust-Up - Flag (26/219)
+[SNES at 2023-02-23 16:24:41,995]: New Check: Barrel Shield Bust-Up - Bonus 1 (27/219)
+[SNES at 2023-02-23 16:24:41,996]: New Check: Barrel Shield Bust-Up - Bonus 2 (28/219)
+[SNES at 2023-02-23 16:24:41,996]: New Check: Barrel Shield Bust-Up - DK Coin (29/219)
+[SNES at 2023-02-23 16:24:41,996]: New Check: Barrel Shield Bust-Up - KONG (30/219)
+[SNES at 2023-02-23 16:24:41,996]: New Check: Riverside Race - Flag (31/219)
+[SNES at 2023-02-23 16:24:41,996]: New Check: Riverside Race - Bonus 1 (32/219)
+[SNES at 2023-02-23 16:24:41,996]: New Check: Riverside Race - Bonus 2 (33/219)
+[SNES at 2023-02-23 16:24:41,996]: New Check: Riverside Race - DK Coin (34/219)
+[SNES at 2023-02-23 16:24:41,996]: New Check: Riverside Race - KONG (35/219)
+[SNES at 2023-02-23 16:24:41,996]: New Check: Squeals On Wheels - Flag (36/219)
+[SNES at 2023-02-23 16:24:41,997]: New Check: Squeals On Wheels - Bonus 1 (37/219)
+[SNES at 2023-02-23 16:24:41,997]: New Check: Squeals On Wheels - Bonus 2 (38/219)
+[SNES at 2023-02-23 16:24:41,997]: New Check: Squeals On Wheels - DK Coin (39/219)
+[SNES at 2023-02-23 16:24:41,997]: New Check: Squeals On Wheels - KONG (40/219)
+[SNES at 2023-02-23 16:24:41,997]: New Check: Springin' Spiders - Flag (41/219)
+[SNES at 2023-02-23 16:24:41,997]: New Check: Springin' Spiders - Bonus 1 (42/219)
+[SNES at 2023-02-23 16:24:41,997]: New Check: Springin' Spiders - Bonus 2 (43/219)
+[SNES at 2023-02-23 16:24:41,997]: New Check: Springin' Spiders - DK Coin (44/219)
+[SNES at 2023-02-23 16:24:41,998]: New Check: Springin' Spiders - KONG (45/219)
+[SNES at 2023-02-23 16:24:41,998]: New Check: Bobbing Barrel Brawl - Flag (46/219)
+[SNES at 2023-02-23 16:24:41,998]: New Check: Bobbing Barrel Brawl - Bonus 1 (47/219)
+[SNES at 2023-02-23 16:24:41,998]: New Check: Bobbing Barrel Brawl - Bonus 2 (48/219)
+[SNES at 2023-02-23 16:24:41,998]: New Check: Bobbing Barrel Brawl - DK Coin (49/219)
+[SNES at 2023-02-23 16:24:41,998]: New Check: Bobbing Barrel Brawl - KONG (50/219)
+[SNES at 2023-02-23 16:24:41,998]: New Check: Bazza's Blockade - Flag (51/219)
+[SNES at 2023-02-23 16:24:41,998]: New Check: Bazza's Blockade - Bonus 1 (52/219)
+[SNES at 2023-02-23 16:24:41,999]: New Check: Bazza's Blockade - Bonus 2 (53/219)
+[SNES at 2023-02-23 16:24:41,999]: New Check: Bazza's Blockade - DK Coin (54/219)
+[SNES at 2023-02-23 16:24:41,999]: New Check: Bazza's Blockade - KONG (55/219)
+[SNES at 2023-02-23 16:24:41,999]: New Check: Rocket Barrel Ride - Flag (56/219)
+[SNES at 2023-02-23 16:24:41,999]: New Check: Rocket Barrel Ride - Bonus 1 (57/219)
+[SNES at 2023-02-23 16:24:41,999]: New Check: Rocket Barrel Ride - Bonus 2 (58/219)
+[SNES at 2023-02-23 16:24:42,000]: New Check: Rocket Barrel Ride - DK Coin (59/219)
+[SNES at 2023-02-23 16:24:42,000]: New Check: Rocket Barrel Ride - KONG (60/219)
+[SNES at 2023-02-23 16:24:42,000]: New Check: Kreeping Klasps - Flag (61/219)
+[SNES at 2023-02-23 16:24:42,000]: New Check: Kreeping Klasps - Bonus 1 (62/219)
+[SNES at 2023-02-23 16:24:42,000]: New Check: Kreeping Klasps - Bonus 2 (63/219)
+[SNES at 2023-02-23 16:24:42,000]: New Check: Kreeping Klasps - DK Coin (64/219)
+[SNES at 2023-02-23 16:24:42,001]: New Check: Kreeping Klasps - KONG (65/219)
+[SNES at 2023-02-23 16:24:42,001]: New Check: Tracker Barrel Trek - Flag (66/219)
+[SNES at 2023-02-23 16:24:42,001]: New Check: Tracker Barrel Trek - Bonus 1 (67/219)
+[SNES at 2023-02-23 16:24:42,001]: New Check: Tracker Barrel Trek - Bonus 2 (68/219)
+[SNES at 2023-02-23 16:24:42,001]: New Check: Tracker Barrel Trek - DK Coin (69/219)
+[SNES at 2023-02-23 16:24:42,001]: New Check: Tracker Barrel Trek - KONG (70/219)
+[SNES at 2023-02-23 16:24:42,001]: New Check: Fish Food Frenzy - Flag (71/219)
+[SNES at 2023-02-23 16:24:42,001]: New Check: Fish Food Frenzy - Bonus 1 (72/219)
+[SNES at 2023-02-23 16:24:42,002]: New Check: Fish Food Frenzy - Bonus 2 (73/219)
+[SNES at 2023-02-23 16:24:42,002]: New Check: Fish Food Frenzy - DK Coin (74/219)
+[SNES at 2023-02-23 16:24:42,002]: New Check: Fish Food Frenzy - KONG (75/219)
+[SNES at 2023-02-23 16:24:42,002]: New Check: Fire-Ball Frenzy - Flag (76/219)
+[SNES at 2023-02-23 16:24:42,002]: New Check: Fire-Ball Frenzy - Bonus 1 (77/219)
+[SNES at 2023-02-23 16:24:42,002]: New Check: Fire-Ball Frenzy - Bonus 2 (78/219)
+[SNES at 2023-02-23 16:24:42,003]: New Check: Fire-Ball Frenzy - DK Coin (79/219)
+[SNES at 2023-02-23 16:24:42,003]: New Check: Fire-Ball Frenzy - KONG (80/219)
+[SNES at 2023-02-23 16:24:42,003]: New Check: Demolition Drain-Pipe - Flag (81/219)
+[SNES at 2023-02-23 16:24:42,003]: New Check: Demolition Drain-Pipe - Bonus 1 (82/219)
+[SNES at 2023-02-23 16:24:42,003]: New Check: Demolition Drain-Pipe - Bonus 2 (83/219)
+[SNES at 2023-02-23 16:24:42,004]: New Check: Demolition Drain-Pipe - DK Coin (84/219)
+[SNES at 2023-02-23 16:24:42,004]: New Check: Demolition Drain-Pipe - KONG (85/219)
+[SNES at 2023-02-23 16:24:42,004]: New Check: Ripsaw Rage - Flag (86/219)
+[SNES at 2023-02-23 16:24:42,004]: New Check: Ripsaw Rage - Bonus 1 (87/219)
+[SNES at 2023-02-23 16:24:42,004]: New Check: Ripsaw Rage - Bonus 2 (88/219)
+[SNES at 2023-02-23 16:24:42,004]: New Check: Ripsaw Rage - DK Coin (89/219)
+[SNES at 2023-02-23 16:24:42,005]: New Check: Ripsaw Rage - KONG (90/219)
+[SNES at 2023-02-23 16:24:42,005]: New Check: Blazing Bazukas - Flag (91/219)
+[SNES at 2023-02-23 16:24:42,005]: New Check: Blazing Bazukas - Bonus 1 (92/219)
+[SNES at 2023-02-23 16:24:42,005]: New Check: Blazing Bazukas - Bonus 2 (93/219)
+[SNES at 2023-02-23 16:24:42,005]: New Check: Blazing Bazukas - DK Coin (94/219)
+[SNES at 2023-02-23 16:24:42,005]: New Check: Blazing Bazukas - KONG (95/219)
+[SNES at 2023-02-23 16:24:42,005]: New Check: Low-G Labyrinth - Flag (96/219)
+[SNES at 2023-02-23 16:24:42,006]: New Check: Low-G Labyrinth - Bonus 1 (97/219)
+[SNES at 2023-02-23 16:24:42,006]: New Check: Low-G Labyrinth - Bonus 2 (98/219)
+[SNES at 2023-02-23 16:24:42,006]: New Check: Low-G Labyrinth - DK Coin (99/219)
+[SNES at 2023-02-23 16:24:42,006]: New Check: Low-G Labyrinth - KONG (100/219)
+[SNES at 2023-02-23 16:24:42,006]: New Check: Krevice Kreepers - Flag (101/219)
+[SNES at 2023-02-23 16:24:42,006]: New Check: Barrel Drop Bounce - Flag (102/219)
+[SNES at 2023-02-23 16:24:42,006]: New Check: Barrel Drop Bounce - Bonus 1 (103/219)
+[SNES at 2023-02-23 16:24:42,006]: New Check: Krack-Shot Kroc - Bonus 1 (104/219)
+[SNES at 2023-02-23 16:24:42,007]: New Check: Krack-Shot Kroc - Bonus 2 (105/219)
+[SNES at 2023-02-23 16:24:42,007]: New Check: Krack-Shot Kroc - DK Coin (106/219)
+[SNES at 2023-02-23 16:24:42,007]: New Check: Krack-Shot Kroc - KONG (107/219)
+[SNES at 2023-02-23 16:24:42,007]: New Check: Buzzer Barrage - Bonus 1 (108/219)
+[SNES at 2023-02-23 16:24:42,007]: New Check: Buzzer Barrage - Bonus 2 (109/219)
+[SNES at 2023-02-23 16:24:42,007]: New Check: Kong-Fused Cliffs - Flag (110/219)
+[SNES at 2023-02-23 16:24:42,007]: New Check: Kong-Fused Cliffs - Bonus 1 (111/219)
+[SNES at 2023-02-23 16:24:42,007]: New Check: Kong-Fused Cliffs - DK Coin (112/219)
+[SNES at 2023-02-23 16:24:42,008]: New Check: Floodlit Fish - Flag (113/219)
+[SNES at 2023-02-23 16:24:42,008]: New Check: Floodlit Fish - KONG (114/219)
+[SNES at 2023-02-23 16:24:42,008]: New Check: Pothole Panic - Flag (115/219)
+[SNES at 2023-02-23 16:24:42,008]: New Check: Pothole Panic - Bonus 2 (116/219)
+[SNES at 2023-02-23 16:24:42,008]: New Check: Konveyor Rope Klash - KONG (117/219)
+[SNES at 2023-02-23 16:24:42,008]: New Check: Creepy Caverns - Bonus 2 (118/219)
+[SNES at 2023-02-23 16:24:42,008]: New Check: Creepy Caverns - DK Coin (119/219)
+[SNES at 2023-02-23 16:24:42,009]: New Check: Creepy Caverns - KONG (120/219)
+[SNES at 2023-02-23 16:24:42,009]: New Check: Lightning Lookout - Flag (121/219)
+[SNES at 2023-02-23 16:24:42,009]: New Check: Poisonous Pipeline - Bonus 1 (122/219)
+[SNES at 2023-02-23 16:24:42,009]: New Check: Poisonous Pipeline - KONG (123/219)
+[SNES at 2023-02-23 16:24:42,009]: New Check: Stampede Sprint - Bonus 1 (124/219)
+[SNES at 2023-02-23 16:24:42,009]: New Check: Stampede Sprint - KONG (125/219)
+[SNES at 2023-02-23 16:24:42,009]: New Check: Criss Kross Cliffs - Bonus 1 (126/219)
+[SNES at 2023-02-23 16:24:42,010]: New Check: Criss Kross Cliffs - KONG (127/219)
+[SNES at 2023-02-23 16:24:42,010]: New Check: Belcha's Barn (128/219)
+[SNES at 2023-02-23 16:24:42,010]: New Check: Arich's Ambush (129/219)
+[SNES at 2023-02-23 16:24:42,010]: New Check: Squirt's Showdown (130/219)
+[SNES at 2023-02-23 16:24:42,010]: New Check: KAOS Karnage (131/219)
+[SNES at 2023-02-23 16:24:42,010]: New Check: Belcha's Burrow (132/219)
+[SNES at 2023-02-23 16:24:42,010]: New Check: Kong Cave (133/219)
+[SNES at 2023-02-23 16:24:42,011]: New Check: Bounty Beach (134/219)
+[SNES at 2023-02-23 16:24:42,011]: New Check: Smuggler's Cove (135/219)
+[SNES at 2023-02-23 16:24:42,011]: New Check: Arich's Hoard (136/219)
+[SNES at 2023-02-23 16:24:42,011]: New Check: Bounty Bay (137/219)
+[kivy at 2023-02-23 16:24:42,050]: Received [31;1m1-Up Balloon[0m from [33mNerezzaRaft (Player999)[0m (Metal detector blueprint) (148/180 in list)
+[kivy at 2023-02-23 16:24:43,692]: Received [31;1mBonus Coin[0m from [33mPlaneswaterPKMN (Player938)[0m (Silph Co 5F - Northwest Item (Card Key)) (149/180 in list)
+[kivy at 2023-02-23 16:24:44,042]: Received [31;1mBonus Coin[0m from [33mLevisaxos_FC2[0m (AP-4-3D) (150/180 in list)
+[kivy at 2023-02-23 16:24:44,409]: Received [31;1m1-Up Balloon[0m from [33mLinkCat (Player1004)[0m (Tower of Hera - Big Key Chest) (151/180 in list)
+[kivy at 2023-02-23 16:24:44,776]: Received [31;1mBonus Coin[0m from [33mdivineoot (Virt_OOT)[0m (Shadow Temple After Wind Enemy Chest) (152/180 in list)
+[kivy at 2023-02-23 16:24:45,142]: Received [31;1mBear Coin[0m from [33mChrisds3b-LTTP2 (Player978)[0m (Hookshot Cave - Bottom Left) (153/180 in list)
+[kivy at 2023-02-23 16:24:45,509]: Received [31;1m1-Up Balloon[0m from [33mChrono SMW[0m (Star Road 5 - Secret Exit) (154/180 in list)
+[kivy at 2023-02-23 16:24:45,876]: Received [31;1mBonus Coin[0m from [33mEspeonHK[0m (Geo_Rock-Dark_Deepnest_Above_Grub_2) (155/180 in list)
+[kivy at 2023-02-23 16:24:46,242]: Received [31;1m1-Up Balloon[0m from [33mCoal_Witness[0m (Town RGB Room Right) (156/180 in list)
+[kivy at 2023-02-23 16:24:46,608]: Received [31;1mBear Coin[0m from [33mWreckerSMW (Player1200)[0m (Soda Lake - Normal Exit) (157/180 in list)
+[kivy at 2023-02-23 16:24:46,976]: Received [31;1mBear Coin[0m from [33mXetroid[0m (Missile (Crateria gauntlet left)) (158/180 in list)
+[kivy at 2023-02-23 16:24:47,342]: Received [31;1mBear Coin[0m from [33mJaylow7LTTP[0m (Ganons Tower - Bob's Torch) (159/180 in list)
+[kivy at 2023-02-23 16:24:47,709]: Received [31;1mBear Coin[0m from [33mMathx1[0m (Palace of Darkness - Dark Basement - Left) (160/180 in list)
+[kivy at 2023-02-23 16:24:48,076]: Received [31;1mBear Coin[0m from [33mDragusSMW (Phar 4)[0m (Donut Ghost House - Normal Exit) (161/180 in list)
+[kivy at 2023-02-23 16:24:48,442]: Received [31;1m1-Up Balloon[0m from [33mFarrenTS208[0m (Forest: Green platform secret) (162/180 in list)
+[kivy at 2023-02-23 16:24:48,809]: Received [31;1mDK Coin[0m from [33mDemorckHK2 (Player1176)[0m (Soul_Totem-Pale_Lurker) (163/180 in list)
+[kivy at 2023-02-23 16:24:49,176]: Received [31;1m1-Up Balloon[0m from [33mBluejello-ever[0m (Pipe Maze #91) (164/180 in list)
+[kivy at 2023-02-23 16:24:49,542]: Received [31;1mBonus Coin[0m from [33mrft50HK[0m (Unbreakable_Heart) (165/180 in list)
+[kivy at 2023-02-23 16:24:49,909]: Received [31;1mBear Coin[0m from [33mDragusSMZ3 (Player1137)[0m (Turtle Rock - Eye Bridge - Bottom Left) (166/180 in list)
+[kivy at 2023-02-23 16:24:50,275]: Received [31;1mBonus Coin[0m from [33mMathx2[0m (Geo_Rock-Fog_Canyon_East) (167/180 in list)
+[kivy at 2023-02-23 16:24:50,642]: Received [31;1m1-Up Balloon[0m from [33mMadi (TrainerSonic)[0m (Route 12 - Fisherman 2) (168/180 in list)
+[kivy at 2023-02-23 16:24:51,009]: Received [31;1mBonus Coin[0m from [33mPory6[0m (Crazy Gadget - Gold Beetle) (169/180 in list)
+[kivy at 2023-02-23 16:24:51,375]: Received [31;1mBonus Coin[0m from [33mTIMEFIZL[0m (Lab: Experiment #13) (170/180 in list)
+[kivy at 2023-02-23 16:24:51,742]: Received [31;1m1-Up Balloon[0m from [33mWitch Albrekka[0m (Sealed Caves (Xarion): Xarion) (171/180 in list)
+[kivy at 2023-02-23 16:24:52,109]: Received [31;1mBear Coin[0m from [33mAki665_DKC3 (Player758)[0m (Lemguin Lunge - Bonus 1) (172/180 in list)
+[kivy at 2023-02-23 16:24:52,475]: Received [31;1mBonus Coin[0m from [33mTimeRever[0m (Library: Backer room chest 1) (173/180 in list)
+[kivy at 2023-02-23 16:24:52,842]: Received [31;1mDK Coin[0m from [33mPraxis_DS3 (Player895)[0m (AP: Thunder Stoneplate Ring) (174/180 in list)
+[kivy at 2023-02-23 16:24:53,209]: Received [31;1mDK Coin[0m from [33mrft50TS[0m (Forest: Waterfall chest 1) (175/180 in list)
+[kivy at 2023-02-23 16:24:53,576]: Received [31;1mBear Coin[0m from [33mBnuuy Albrekka[0m (Ice Palace - Freezor Chest) (176/180 in list)
+[kivy at 2023-02-23 16:24:54,293]: Received [31;1mBonus Coin[0m from [33mdivinesmz3 (Player817)[0m (Brewery) (177/180 in list)
+[kivy at 2023-02-23 16:24:54,659]: Received [31;1mBear Coin[0m from [33mShadow_Mario64[0m (BBH: Seek the 8 Red Coins) (178/180 in list)
+[kivy at 2023-02-23 16:24:55,026]: Received [31;1mBear Coin[0m from [33mJay_HK (Player967)[0m (King_Fragment) (179/180 in list)
+[kivy at 2023-02-23 16:24:55,392]: Received [31;1mBear Coin[0m from [33mdone (Temmie)[0m (Cerulean Cave B1F - Center Item) (180/180 in list)
+[SNES at 2023-02-23 16:29:29,351]: Lost connection to the snes, type /snes to reconnect
+[SNES at 2023-02-23 16:29:29,351]: ... automatically reconnecting to snes in 5 seconds
+[Client at 2023-02-23 16:29:31,414]: Disconnected from multiworld server, type /connect to reconnect
+[kivy at 2023-02-23 16:29:32,425]: Window: exiting mainloop and closing.
+[SNES at 2023-02-23 16:29:34,353]: Connecting to SNI at ws://localhost:23074 ...
+[SNES at 2023-02-23 16:29:34,354]: Error reading 0x7fc0, requested 21 bytes, received 0
+[SNES at 2023-02-23 16:29:34,354]: ROM change detected, please reconnect to the multiworld server
+[SNES at 2023-02-23 16:29:34,354]: Connecting to SNI at ws://localhost:23074 ...
+[SNES at 2023-02-23 16:29:34,355]: Connecting to SNI at ws://localhost:23074 ...
+[SNES at 2023-02-23 16:29:34,357]: No SNES device found. Please connect a SNES device to SNI.

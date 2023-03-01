@@ -1,0 +1,137 @@
+﻿[root at 2023-02-26 11:14:31,641]: Archipelago (0.3.9) logging initialized on Linux-6.1.12-x64v3-xanmod1-x86_64-with-glibc2.35 running Python 3.10.6
+[kivy at 2023-02-26 11:14:31,660]: Kivy: v2.1.0
+[kivy at 2023-02-26 11:14:31,660]: Kivy: Installed at "/home/albrekka/.local/lib/python3.10/site-packages/kivy/__init__.py"
+[kivy at 2023-02-26 11:14:31,660]: Python: v3.10.6 (main, Nov 14 2022, 16:10:14) [GCC 11.3.0]
+[kivy at 2023-02-26 11:14:31,660]: Python: Interpreter at "/usr/bin/python3"
+[kivy at 2023-02-26 11:14:31,668]: Factory: 189 symbols loaded
+[kivy at 2023-02-26 11:14:31,754]: Image: Providers: img_tex, img_dds, img_sdl2, img_pil (img_ffpyplayer ignored)
+[kivy at 2023-02-26 11:14:31,767]: Window: Provider: sdl2
+[kivy at 2023-02-26 11:14:32,194]: GL: Using the "OpenGL" graphics system
+[kivy at 2023-02-26 11:14:32,194]: GL: Backend used <sdl2>
+[kivy at 2023-02-26 11:14:32,194]: GL: OpenGL version <b'4.6.0 NVIDIA 525.78.01'>
+[kivy at 2023-02-26 11:14:32,195]: GL: OpenGL vendor <b'NVIDIA Corporation'>
+[kivy at 2023-02-26 11:14:32,195]: GL: OpenGL renderer <b'NVIDIA GeForce GTX 1080/PCIe/SSE2'>
+[kivy at 2023-02-26 11:14:32,195]: GL: OpenGL parsed version: 4, 6
+[kivy at 2023-02-26 11:14:32,195]: GL: Shading version <b'4.60 NVIDIA'>
+[kivy at 2023-02-26 11:14:32,195]: GL: Texture max size <32768>
+[kivy at 2023-02-26 11:14:32,195]: GL: Texture max units <32>
+[kivy at 2023-02-26 11:14:32,237]: Window: auto add sdl2 input provider
+[kivy at 2023-02-26 11:14:32,237]: Window: virtual keyboard not allowed, single mode, not docked
+[kivy at 2023-02-26 11:14:32,310]: Clipboard: Provider: gtk3(['clipboard_xclip', 'clipboard_xsel', 'clipboard_dbusklipper'] ignored)
+[kivy at 2023-02-26 11:14:32,313]: Cutbuffer: Unable to find any valuable Cutbuffer provider. Please enable debug logging (e.g. add -d if running from the command line, or change the log level in the config) and re-run your app to identify potential causes
+xclip - FileNotFoundError: [Errno 2] No such file or directory: 'xclip'
+  File "/home/albrekka/.local/lib/python3.10/site-packages/kivy/core/__init__.py", line 59, in core_select_lib
+    mod = importlib.__import__(name='{2}.{0}.{1}'.format(
+  File "<frozen importlib._bootstrap>", line 1129, in __import__
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/albrekka/.local/lib/python3.10/site-packages/kivy/core/clipboard/clipboard_xclip.py", line 17, in <module>
+    p = subprocess.Popen(['xclip', '-version'], stdout=subprocess.PIPE,
+  File "/usr/lib/python3.10/subprocess.py", line 969, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "/usr/lib/python3.10/subprocess.py", line 1845, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+
+xsel - FileNotFoundError: [Errno 2] No such file or directory: 'xsel'
+  File "/home/albrekka/.local/lib/python3.10/site-packages/kivy/core/__init__.py", line 59, in core_select_lib
+    mod = importlib.__import__(name='{2}.{0}.{1}'.format(
+  File "<frozen importlib._bootstrap>", line 1129, in __import__
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/albrekka/.local/lib/python3.10/site-packages/kivy/core/clipboard/clipboard_xsel.py", line 16, in <module>
+    p = subprocess.Popen(['xsel'], stdout=subprocess.PIPE)
+  File "/usr/lib/python3.10/subprocess.py", line 969, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "/usr/lib/python3.10/subprocess.py", line 1845, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+
+[kivy at 2023-02-26 11:14:32,315]: Text: Provider: sdl2
+[Client at 2023-02-26 11:14:32,327]: Please connect to an Archipelago server.
+[kivy at 2023-02-26 11:14:32,397]: GL: NPOT texture support is available
+[Client at 2023-02-26 11:14:32,414]: /help 
+    Returns the help listing
+/license 
+    Returns the licensing information
+/exit 
+    Close connections and client
+/connect [address] 
+    Connect to a MultiWorld Server
+/disconnect 
+    Disconnect from a MultiWorld Server
+/received 
+    List all received items
+/missing 
+    List all missing location checks, from your local game state
+/items 
+    List all item names for the currently running game.
+/locations 
+    List all location names for the currently running game.
+/ready 
+    Send ready status to server.
+/slow_mode [toggle] 
+    Toggle slow mode, which limits how fast you send / receive items.
+/snes [snes_options] 
+    Connect to a snes. Optionally include network address of a snes to connect to,
+        otherwise show available devices; and a SNES device number if more than one SNES is detected.
+        Examples: "/snes", "/snes 1", "/snes localhost:23074 1" 
+/snes_close 
+    Close connection to a currently connected snes
+
+[kivy at 2023-02-26 11:14:32,457]: Base: Start application main loop
+[SNES at 2023-02-26 11:14:32,458]: Connecting to SNI at ws://localhost:23074 ...
+[SNES at 2023-02-26 11:14:32,549]: Error connecting to SNI ([Errno 111] Connect call failed ('127.0.0.1', 23074))
+[SNES at 2023-02-26 11:14:32,549]: Attempting to start SNI/sni
+[SNES at 2023-02-26 11:14:33,653]: Connecting to SNI at ws://localhost:23074 ...
+[SNES at 2023-02-26 11:14:33,657]: No SNES device found. Please connect a SNES device to SNI.
+[SNES at 2023-02-26 11:14:38,365]: Attaching to ra://127.0.0.1:55355
+[SNES at 2023-02-26 11:14:38,365]: Attached to ra://127.0.0.1:55355
+[SNES at 2023-02-26 11:14:38,666]: Lost connection to the snes, type /snes to reconnect
+[SNES at 2023-02-26 11:14:38,666]: ... automatically reconnecting to snes in 5 seconds
+[SNES at 2023-02-26 11:14:43,427]: Error reading 0xe02000, requested 21 bytes, received 0
+[SNES at 2023-02-26 11:14:43,667]: Connecting to SNI at ws://localhost:23074 ...
+[SNES at 2023-02-26 11:14:43,669]: Connecting to SNI at ws://localhost:23074 ...
+[SNES at 2023-02-26 11:14:43,708]: Attaching to ra://127.0.0.1:55355
+[SNES at 2023-02-26 11:14:43,708]: Attached to ra://127.0.0.1:55355
+[SNES at 2023-02-26 11:14:44,000]: Lost connection to the snes, type /snes to reconnect
+[SNES at 2023-02-26 11:14:44,000]: ... automatically reconnecting to snes in 5 seconds
+[SNES at 2023-02-26 11:14:48,834]: Error reading 0xe02000, requested 21 bytes, received 0
+[SNES at 2023-02-26 11:14:49,000]: Connecting to SNI at ws://localhost:23074 ...
+[SNES at 2023-02-26 11:14:49,002]: Connecting to SNI at ws://localhost:23074 ...
+[SNES at 2023-02-26 11:14:49,033]: Attaching to ra://127.0.0.1:55355
+[SNES at 2023-02-26 11:14:49,033]: Attached to ra://127.0.0.1:55355
+[SNES at 2023-02-26 11:14:49,333]: Lost connection to the snes, type /snes to reconnect
+[SNES at 2023-02-26 11:14:49,333]: ... automatically reconnecting to snes in 5 seconds
+[SNES at 2023-02-26 11:14:54,087]: Error reading 0xe02000, requested 21 bytes, received 0
+[SNES at 2023-02-26 11:14:54,334]: Connecting to SNI at ws://localhost:23074 ...
+[SNES at 2023-02-26 11:14:54,335]: Connecting to SNI at ws://localhost:23074 ...
+[SNES at 2023-02-26 11:14:54,358]: Attaching to ra://127.0.0.1:55355
+[SNES at 2023-02-26 11:14:54,358]: Attached to ra://127.0.0.1:55355
+[Client at 2023-02-26 11:14:57,736]: Connecting to Archipelago server at ws://archipelago.gg:38281
+[Client at 2023-02-26 11:14:58,085]: Connected
+[Client at 2023-02-26 11:14:58,085]: --------------------------------
+[Client at 2023-02-26 11:14:58,085]: Room Information:
+[Client at 2023-02-26 11:14:58,085]: --------------------------------
+[Client at 2023-02-26 11:14:58,086]: Server protocol version: 0.3.8
+[Client at 2023-02-26 11:14:58,086]: Server protocol tags: AP, WebHost
+[Client at 2023-02-26 11:14:58,086]: Forfeit permission: auto
+[Client at 2023-02-26 11:14:58,086]: Release permission: auto
+[Client at 2023-02-26 11:14:58,086]: Remaining permission: goal
+[Client at 2023-02-26 11:14:58,086]: Collect permission: auto
+[Client at 2023-02-26 11:14:58,086]: A !hint costs 15% of your total location count as points and you get 1 for each location checked. Use !hint for more information.
+[SNES at 2023-02-26 11:14:58,086]: No ROM detected, awaiting snes connection to authenticate to the multiworld server (/snes)
+[SNES at 2023-02-26 11:24:19,725]: Lost connection to the snes, type /snes to reconnect
+[SNES at 2023-02-26 11:24:19,725]: ... automatically reconnecting to snes in 5 seconds
+[SNES at 2023-02-26 11:24:24,725]: Error reading 0xe02000, requested 21 bytes, received 0
+[SNES at 2023-02-26 11:24:24,725]: Connecting to SNI at ws://localhost:23074 ...
+[SNES at 2023-02-26 11:24:24,726]: Connecting to SNI at ws://localhost:23074 ...
+[SNES at 2023-02-26 11:24:24,728]: No SNES device found. Please connect a SNES device to SNI.
+[kivy at 2023-02-26 11:24:26,962]: Window: exiting mainloop and closing.
+[Client at 2023-02-26 11:24:27,193]: Disconnected from multiworld server

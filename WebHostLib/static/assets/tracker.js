@@ -18,8 +18,7 @@ window.addEventListener('load', () => {
         info: false,
         dom: "t",
         stateSave: true,
-        stateSaveCallback: function(settings, data) {
-            delete data.search;
+        stateSaveCallback: function(settings,data) {
             localStorage.setItem(`DataTables_${settings.sInstance}_/tracker`, JSON.stringify(data));
         },
         stateLoadCallback: function(settings) {
@@ -71,30 +70,10 @@ window.addEventListener('load', () => {
         // the tbody and render two separate tables.
     });
 
-    const searchBox = document.getElementById("search");
-    searchBox.value = tables.search();
-    searchBox.focus();
-    searchBox.select();
-    const doSearch = () => {
-        tables.search(searchBox.value);
+    document.getElementById('search').addEventListener('keyup', (event) => {
+        tables.search(event.target.value);
+        console.info(tables.search());
         tables.draw();
-    };
-    searchBox.addEventListener("keyup", doSearch);
-    window.addEventListener("keydown", (event) => {
-        if (!event.ctrlKey && !event.altKey && event.key.length === 1 && document.activeElement !== searchBox) {
-            searchBox.focus();
-            searchBox.select();
-        }
-        if (!event.ctrlKey && !event.altKey && !event.shiftKey && event.key === "Escape") {
-            if (searchBox.value !== "") {
-                searchBox.value = "";
-                doSearch();
-            }
-            searchBox.blur();
-            if (!document.getElementById("tables-container"))
-                window.scroll(0, 0);
-            event.preventDefault();
-        }
     });
     const tracker = document.getElementById('tracker-wrapper').getAttribute('data-tracker');
     const target_second = document.getElementById('tracker-wrapper').getAttribute('data-second') + 3;

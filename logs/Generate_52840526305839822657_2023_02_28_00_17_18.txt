@@ -1,0 +1,68 @@
+﻿[root at 2023-02-28 00:17:18,853]: Archipelago (0.3.9) logging initialized on Linux-6.1.12-x64v3-xanmod1-x86_64-with-glibc2.35 running Python 3.10.6
+[root at 2023-02-28 00:17:18,870]: Triggered Suboption "plando_items" of "shuffle_symbols" did not overwrite a root option. This is probably in error.
+[root at 2023-02-28 00:17:18,933]: Archipelago Version 0.3.9  -  Seed: 52840526305839822657
+
+[root at 2023-02-28 00:17:18,933]: Found World Types:
+[root at 2023-02-28 00:17:18,934]:  A Link to the Past             : 144 Items (IDs:         2 -       180) |  287 Locations (IDs:     59758 -   4194341)
+[root at 2023-02-28 00:17:18,934]:  Blasphemous                    : 200 Items (IDs:   1909000 -   1909199) |  304 Locations (IDs:   1909000 -   1909303)
+[root at 2023-02-28 00:17:18,934]:  ChecksFinder                   :   3 Items (IDs:     80000 -     80002) |   25 Locations (IDs:     81000 -     81024)
+[root at 2023-02-28 00:17:18,934]:  Castlevania 64                 :  30 Items (IDs:  12992514 -  12992553) |  218 Locations (IDs:  12992513 -  12992731)
+[root at 2023-02-28 00:17:18,934]:  Dark Souls III                 : 709 Items (IDs:    100000 -    101870) |  713 Locations (IDs:    100000 -    102470)
+[root at 2023-02-28 00:17:18,934]:  Donkey Kong Country 3          :   8 Items (IDs:  14430208 -  14430215) |  230 Locations (IDs:  14430208 -  14430618)
+[root at 2023-02-28 00:17:18,935]:  Factorio                       : 222 Items (IDs:    131070 -    131292) |  852 Locations (IDs:    131072 -    131960)
+[root at 2023-02-28 00:17:18,935]:  Final Fantasy                  : 194 Items (IDs:       256 -       500) |  255 Locations (IDs:       257 -       767)
+[root at 2023-02-28 00:17:18,935]:  Final Fantasy 6 Worlds Collide : 297 Items (IDs:      6000 -      6296) |  371 Locations (IDs:      6000 -      6370)
+[root at 2023-02-28 00:17:18,935]:  FFPS                           :  62 Items (IDs:     55500 -     55656) |   70 Locations (IDs:     57500 -     57569)
+[root at 2023-02-28 00:17:18,935]:  Hollow Knight                  : 249 Items (IDs:  16777216 -  16777464) |  740 Locations (IDs:  16777216 -  16777955)
+[root at 2023-02-28 00:17:18,935]:  Hylics 2                       :  70 Items (IDs:    200622 -    200692) |  163 Locations (IDs:    200622 -    200784)
+[root at 2023-02-28 00:17:18,935]:  Kingdom Hearts 2               : 295 Items (IDs:   1245184 -   1245478) |  727 Locations (IDs:   1245184 -   1245915)
+[root at 2023-02-28 00:17:18,935]:  Links Awakening DX             : 117 Items (IDs:  10000000 -  10000164) |  255 Locations (IDs:  10000000 -  10003673)
+[root at 2023-02-28 00:17:18,935]:  Lufia II Ancient Cave          : 405 Items (IDs:  11272193 -  11304994) |   88 Locations (IDs:  11272192 -  11272279)
+[root at 2023-02-28 00:17:18,935]:  Meritous                       :  23 Items (IDs:    593000 -    593022) |  104 Locations (IDs:    593000 -    593103)
+[root at 2023-02-28 00:17:18,935]:  The Messenger                  :  24 Items (IDs:  11390976 -  11390999) |   69 Locations (IDs:  11390976 -  11391044)
+[root at 2023-02-28 00:17:18,935]:  Minecraft                      :  46 Items (IDs:     45000 -     45100) |  114 Locations (IDs:     42000 -     42113)
+[root at 2023-02-28 00:17:18,936]:  MegaMan Battle Network 3       : 221 Items (IDs:  11735040 -  11735262) |  259 Locations (IDs:  11735040 -  11735309)
+[root at 2023-02-28 00:17:18,936]:  Muse Dash                      : 494 Items (IDs:    290000 -    290493) |  986 Locations (IDs:    290000 -    290985)
+[root at 2023-02-28 00:17:18,936]:  Noita                          :  33 Items (IDs:    110000 -    110032) |  569 Locations (IDs:    110000 -    111045)
+[root at 2023-02-28 00:17:18,936]:  Ocarina of Time                : 143 Items (IDs:     66001 -     66211) | 1623 Locations (IDs:     67010 -     68705)
+[root at 2023-02-28 00:17:18,936]:  Overcooked! 2                  :  45 Items (IDs:    213701 -    213745) |   43 Locations (IDs:         1 -        44)
+[root at 2023-02-28 00:17:18,936]:  Pokemon Red and Blue           : 142 Items (IDs: 172000001 - 172000250) |  525 Locations (IDs: 172000000 - 172000524)
+[root at 2023-02-28 00:17:18,936]:  Raft                           : 325 Items (IDs:     47001 -     47325) |  154 Locations (IDs:     48001 -     48155)
+[root at 2023-02-28 00:17:18,936]:  Rogue Legacy                   :  60 Items (IDs:     90000 -     90097) |  584 Locations (IDs:     91000 -     92259)
+[root at 2023-02-28 00:17:18,936]:  Risk of Rain 2                 :  36 Items (IDs:     37001 -     37747) |  910 Locations (IDs:     38000 -     40361)
+[root at 2023-02-28 00:17:18,937]:  Sonic Adventure 2 Battle       :  50 Items (IDs:  16711680 -  16711750) |  499 Locations (IDs:  16711680 -  16713600)
+[root at 2023-02-28 00:17:18,937]:  Starcraft 2 Wings of Liberty   : 111 Items (IDs:      1000 -      1802) |  123 Locations (IDs:      1100 -      3805)
+[root at 2023-02-28 00:17:18,937]:  Super Metroid                  :  24 Items (IDs:     83000 -     83023) |  100 Locations (IDs:     82000 -     82154)
+[root at 2023-02-28 00:17:18,937]:  Super Mario 64                 :  18 Items (IDs:   3626000 -   3626214) |  164 Locations (IDs:   3626000 -   3626243)
+[root at 2023-02-28 00:17:18,937]:  Super Mario World              :  22 Items (IDs:  12320768 -  12320790) |  158 Locations (IDs:  12320768 -  12321281)
+[root at 2023-02-28 00:17:18,937]:  SMZ3                           : 151 Items (IDs:     84000 -     84223) |  316 Locations (IDs:     85000 -     85510)
+[root at 2023-02-28 00:17:18,937]:  Secret of Evermore             : 156 Items (IDs:     64000 -     64904) |  339 Locations (IDs:     64000 -     64385)
+[root at 2023-02-28 00:17:18,937]:  Slay the Spire                 :   4 Items (IDs:      8000 -      8003) |   31 Locations (IDs:     19001 -     22003)
+[root at 2023-02-28 00:17:18,937]:  Stardew Valley                 : 390 Items (IDs:    717000 -    722201) |  909 Locations (IDs:    717001 -    718728)
+[root at 2023-02-28 00:17:18,937]:  Subnautica                     :  87 Items (IDs:     35000 -     35086) |  181 Locations (IDs:     33000 -     34049)
+[root at 2023-02-28 00:17:18,937]:  The Binding of Isaac Repentance: 767 Items (IDs:     78000 -     78777) |  500 Locations (IDs:     78000 -     78499)
+[root at 2023-02-28 00:17:18,937]:  Timespinner                    : 189 Items (IDs:   1337000 -   1337249) |  212 Locations (IDs:   1337000 -   1337249)
+[root at 2023-02-28 00:17:18,937]:  The Legend of Zelda            :  33 Items (IDs:      7100 -      7132) |  155 Locations (IDs:      7000 -      7154)
+[root at 2023-02-28 00:17:18,937]:  Undertale                      :  82 Items (IDs:     77000 -     77999) |  128 Locations (IDs:     79001 -     79920)
+[root at 2023-02-28 00:17:18,937]:  VVVVVV                         :  20 Items (IDs:   2515000 -   2515019) |   20 Locations (IDs:   2515000 -   2515019)
+[root at 2023-02-28 00:17:18,937]:  Wargroove                      :  31 Items (IDs:     52000 -     52030) |   38 Locations (IDs:     53001 -     53038)
+[root at 2023-02-28 00:17:18,938]:  The Witness                    : 187 Items (IDs:    158000 -    159987) |  754 Locations (IDs:    158000 -    159800)
+[root at 2023-02-28 00:17:18,938]:  Zillion                        :  12 Items (IDs:   8675309 -   8675320) | 1555 Locations (IDs:   8675309 -   8676863)
+[root at 2023-02-28 00:17:19,319]: 
+[root at 2023-02-28 00:17:19,319]: Creating World.
+[Link's Awakening Logger at 2023-02-28 00:17:19,339]: Spritesheet Marin not found. Falling back to default sprite.
+[root at 2023-02-28 00:17:20,030]: Creating Items.
+[root at 2023-02-28 00:17:20,228]: Calculating Access Rules.
+[root at 2023-02-28 00:17:24,899]: Running Item Plando
+[root at 2023-02-28 00:17:25,182]: Running Pre Main Fill.
+[root at 2023-02-28 00:17:29,006]: Filling the world with 20756 items.
+[root at 2023-02-28 00:25:22,837]: Unplaced items(4): [Return Scepter (Player 68), Progressive Ship Weapon (Player 79), Resource Pack: 10 Deluxe Retaining Soil (Player 65), Moss Preserved in Glass (Player 10)] - Unfilled Locations(0): []
+[root at 2023-02-28 00:25:22,850]: Per-Player counts: {'items': Counter({73: 1750, 66: 1730, 50: 1164, 26: 798, 65: 774, 64: 774, 68: 767, 74: 746, 67: 726, 2: 715, 34: 677, 69: 677, 22: 651, 12: 586, 71: 516, 60: 441, 3: 436, 62: 426, 88: 415, 36: 411, 51: 341, 72: 341, 49: 316, 48: 315, 47: 314, 8: 305, 10: 305, 6: 305, 9: 305, 14: 282, 32: 276, 75: 261, 52: 260, 44: 260, 37: 257, 24: 246, 61: 246, 16: 234, 27: 229, 11: 225, 58: 225, 7: 217, 4: 216, 90: 216, 89: 216, 1: 200, 63: 198, 56: 183, 13: 165, 23: 154, 81: 153, 79: 153, 80: 153, 70: 153, 40: 117, 46: 113, 55: 104, 35: 103, 20: 92, 33: 77, 59: 77, 28: 77, 30: 70, 42: 70, 17: 70, 41: 70, 53: 70, 29: 70, 45: 70, 43: 70, 82: 69, 78: 68, 83: 63, 54: 62, 31: 57, 77: 57, 18: 57, 15: 57, 76: 46, 5: 46, 85: 46, 84: 45, 39: 39, 87: 39, 21: 39, 25: 39, 57: 39, 38: 39, 86: 39, 19: 35}), 'locations': Counter({73: 1750, 66: 1730, 50: 1164, 26: 798, 64: 774, 65: 774, 68: 767, 74: 746, 67: 726, 2: 715, 34: 677, 69: 677, 22: 651, 12: 582, 71: 516, 60: 441, 3: 436, 62: 426, 88: 415, 36: 411, 51: 341, 72: 341, 49: 316, 48: 315, 47: 314, 6: 305, 8: 305, 9: 305, 10: 305, 14: 282, 32: 276, 75: 261, 44: 260, 52: 260, 37: 257, 24: 246, 61: 246, 16: 234, 27: 229, 11: 225, 58: 225, 7: 217, 4: 216, 89: 216, 90: 216, 1: 200, 63: 198, 56: 183, 13: 165, 23: 154, 70: 153, 79: 153, 80: 153, 81: 153, 40: 117, 46: 113, 55: 104, 35: 103, 20: 92, 28: 77, 33: 77, 59: 77, 17: 70, 29: 70, 30: 70, 41: 70, 42: 70, 43: 70, 45: 70, 53: 70, 82: 69, 78: 68, 83: 63, 54: 62, 15: 57, 18: 57, 31: 57, 77: 57, 5: 46, 76: 46, 85: 46, 84: 45, 21: 39, 25: 39, 38: 39, 39: 39, 57: 39, 86: 39, 87: 39, 19: 35})})
+[Shops at 2023-02-28 00:25:22,852]: Filling LttP Shop Slots
+[root at 2023-02-28 00:25:25,360]: Balancing multiworld progression for 75 Players.
+[root at 2023-02-28 00:26:39,010]: Beginning output...
+[root at 2023-02-28 00:26:46,511]: Generating output files (10/15).
+[root at 2023-02-28 00:26:46,511]: Generating output files (15/15).
+[root at 2023-02-28 00:26:46,512]: Calculating playthrough.
+[root at 2023-02-28 00:54:49,834]: Creating final archive at /mnt/115b93af-9f3b-43c4-a778-48dcab29caf0/Randomizers/Archipelago Betas/output/AP_07504804518414621999.zip
+[root at 2023-02-28 00:54:49,995]: Done. Enjoy. Total Time: 2251.0659152639564
