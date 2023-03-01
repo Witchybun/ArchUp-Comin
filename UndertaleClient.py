@@ -6,6 +6,7 @@ import urllib.parse
 import sys
 import typing
 import bsdiff4
+import zipimport
 
 import Utils
 
@@ -18,7 +19,6 @@ from MultiServer import mark_raw
 from CommonClient import CommonContext, server_loop, \
     gui_enabled, ClientCommandProcessor, get_base_parser
 from Utils import async_start
-
 
 class UndertaleCommandProcessor(ClientCommandProcessor):
     def __init__(self, ctx):
@@ -33,8 +33,8 @@ class UndertaleCommandProcessor(ClientCommandProcessor):
     def _cmd_patch(self):
         """Patch the game."""
         if isinstance(self.ctx, UndertaleContext):
-            bsdiff4.file_patch_inplace(os.getcwd() + r"/Undertale/data.win", undertale.data_path("patch.bsdiff"))
-            self.output(f"Patched.")
+            self.ctx.patch_game()
+            self.output("Patched.")
 
     @mark_raw
     def _cmd_auto_patch(self, steaminstall: str):
@@ -52,14 +52,14 @@ class UndertaleCommandProcessor(ClientCommandProcessor):
                     if file_name != "steam_api.dll":
                         copier(steaminstall+"\\steamapps\\common\\Undertale\\"+file_name,
                                os.getcwd() + "\\Undertale\\" + file_name)
-                bsdiff4.file_patch_inplace(os.getcwd() + r"/Undertale/data.win", undertale.data_path("patch.bsdiff"))
+                self.ctx.patch_game()
                 os.makedirs(name=os.getcwd() + "\\Undertale\\" + "Custom Sprites", exist_ok=True)
                 with open(os.path.expandvars(os.getcwd() + "\\Undertale\\" + "Custom Sprites\\" +
                                              "Which Character.txt"), "w") as f:
                     f.writelines(["// Put the folder name of the sprites you want to play as, make sure it is the only "
                                   "line other than this one.\n", "frisk"])
                     f.close()
-                self.output(f"Patching successful!")
+                self.output("Patching successful!")
 
     def _cmd_online(self):
         """Makes you no longer able to see other Undertale players."""
@@ -101,6 +101,12 @@ class UndertaleContext(CommonContext):
         self.completed_count = 0
         self.completed_routes = {"pacifist": 0, "genocide": 0, "neutral": 0}
 
+    def patch_game(self):
+        with open(os.getcwd() + "/Undertale/data.win", "rb") as f:
+            patchedFile = bsdiff4.patch(f.read(), undertale.data_path("patch.bsdiff"))
+        with open(os.getcwd() + "/Undertale/data.win", "wb") as f:
+            f.write(patchedFile)
+
     async def server_auth(self, password_requested: bool = False):
         if password_requested and not self.password:
             await super().server_auth(password_requested)
@@ -136,6 +142,16 @@ class UndertaleContext(CommonContext):
                     os.remove(root+"/"+file)
                 elif file.find(".hint") > -1:
                     os.remove(root+"/"+file)
+                elif file.find(".spot") > -1:
+                    os.remove(root+"/"+file)
+
+    async def connect(self, address: typing.Optional[str] = None):
+        self.clear_undertale_files()
+        await super().connect(address)
+
+    async def disconnect(self, allow_autoreconnect: bool = False):
+        self.clear_undertale_files()
+        await super().disconnect(allow_autoreconnect)
 
     async def connection_closed(self):
         self.clear_undertale_files()
